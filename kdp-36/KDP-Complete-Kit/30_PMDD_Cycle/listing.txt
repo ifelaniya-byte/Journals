@@ -37,12 +37,12 @@ HEALTH & FITNESS / Women's Health  (HEA028000)
 
 SEVEN BACKEND KEYWORDS
   1. pmdd tracker journal
-  2. cycle mood chart
-  3. luteal phase diary
-  4. pmdd symptom log
-  5. hormone mood notebook
-  6. undated cycle tracker
-  7. premenstrual journal
+  2. luteal phase mood chart
+  3. 6 cycle daily mood log
+  4. premenstrual irritability diary
+  5. hormone mood notebook undated
+  6. pmdd symptom severity log
+  7. flag day cycle journal
 
 SUGGESTED PRICE (US)
 $9.99
@@ -52,6 +52,8 @@ DESCRIPTION (plain)
 PMDD & Cycle Mood Chart
 6-Cycle Daily Mood, Irritability & Luteal Flag Tracker (Not a Diagnosis)
 
+Six undated cycles, 28 daily pages each. Mood, irritability, luteal flags. 188 pages. Bring two cycles.
+
 A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
@@ -59,6 +61,10 @@ INSIDE
   • 0–5 mood / rage / hopeless / bloat
   • Flag days you would not make a life decision
   • Two cycles is a climate hint — bring them
+
+ALSO IN THIS CATALOG
+  • 14 Hot-flash tally chart
+  • 31 Glucose
 
 Trim: 6 × 9 in
 Pages: 188
@@ -71,8 +77,11 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>PMDD & Cycle Mood Chart</b> — 6-Cycle Daily Mood, Irritability & Luteal Flag Tracker (Not a Diagnosis)</p>
+<p>Six undated cycles, 28 daily pages each. Mood, irritability, luteal flags. 188 pages. Bring two cycles.</p>
 <p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>28 daily pages × 6 cycles</li><li>0–5 mood / rage / hopeless / bloat</li><li>Flag days you would not make a life decision</li><li>Two cycles is a climate hint — bring them</li></ul>
-<p>Trim 6 × 9 in · 188 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
-<p><i>Personal tracking / management tool only. Not medical advice.</i></p>
+<p><b>Also in this catalog</b></p>
+<ul><li>14 Hot-flash tally chart</li><li>31 Glucose</li></ul>
+<p>Trim 6 × 9 in · 188 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

@@ -36,13 +36,13 @@ HEALTH & FITNESS / Women's Health  (HEA028000)
 HEALTH & FITNESS / Menopause  (HEA024000)
 
 SEVEN BACKEND KEYWORDS
-  1. perimenopause tracker
-  2. hot flash journal
-  3. menopause symptom diary
-  4. cycle mood chart
-  5. night sweat log book
-  6. undated peri journal
-  7. women's health notebook
+  1. hot flash tracker journal
+  2. sleep wheel peri chart
+  3. night sweat log book
+  4. cycle timeline notebook
+  5. peri symptom tally journal
+  6. undated hot flash diary
+  7. clinic questions peri log
 
 SUGGESTED PRICE (US)
 $9.99
@@ -52,6 +52,8 @@ DESCRIPTION (plain)
 Perimenopause Symptom & Mood Chart
 90-Day Hot Flash, Sleep Wheel & Cycle Timeline Tracker
 
+Tally marks for flashes and night sweats, a 1–5 sleep wheel, a chaotic-cycle timeline.
+
 A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
@@ -59,6 +61,10 @@ INSIDE
   • Sleep-quality wheel 1–5
   • Chaotic-cycle timeline (blank is data)
   • Questions for the next visit
+
+ALSO IN THIS CATALOG
+  • 30 PMDD 6-cycle (deeper)
+  • 29 Sleep Window — this is tallies + sleep wheel, not a peri memoir
 
 Trim: 6 × 9 in
 Pages: 107
@@ -71,8 +77,11 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>Perimenopause Symptom & Mood Chart</b> — 90-Day Hot Flash, Sleep Wheel & Cycle Timeline Tracker</p>
+<p>Tally marks for flashes and night sweats, a 1–5 sleep wheel, a chaotic-cycle timeline.</p>
 <p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>Tally marks for flashes and night sweats</li><li>Sleep-quality wheel 1–5</li><li>Chaotic-cycle timeline (blank is data)</li><li>Questions for the next visit</li></ul>
-<p>Trim 6 × 9 in · 107 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
-<p><i>Personal tracking / management tool only. Not medical advice.</i></p>
+<p><b>Also in this catalog</b></p>
+<ul><li>30 PMDD 6-cycle (deeper)</li><li>29 Sleep Window — this is tallies + sleep wheel, not a peri memoir</li></ul>
+<p>Trim 6 × 9 in · 107 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

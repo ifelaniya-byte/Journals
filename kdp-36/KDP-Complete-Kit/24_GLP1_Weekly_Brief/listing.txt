@@ -36,13 +36,13 @@ HEALTH & FITNESS / Reference  (HEA020000)
 HEALTH & FITNESS / Diseases / General  (HEA039000)
 
 SEVEN BACKEND KEYWORDS
-  1. clinic visit journal
-  2. weekly health review
-  3. doctor appointment notes
-  4. glp-1 weekly log
-  5. patient brief notebook
-  6. 52 week health diary
-  7. undated medical journal
+  1. clinic visit journal 52 week
+  2. one page doctor brief
+  3. weekly health review notebook
+  4. patient appointment notes
+  5. glp-1 weekly log book
+  6. undated medical visit journal
+  7. clinician handoff notebook
 
 SUGGESTED PRICE (US)
 $9.99
@@ -52,6 +52,8 @@ DESCRIPTION (plain)
 GLP-1 Weekly Review & Clinic Brief Binder
 52 Weeks of Review Spreads + One-Page Clinician Briefs
 
+52 weeks: signals on the left, a 90-second clinician brief on the right. Hand it over.
+
 A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
@@ -59,6 +61,11 @@ INSIDE
   • Right: a 90-second clinician brief
   • Flag box for loud weeks
   • Four quarterly letters
+
+ALSO IN THIS CATALOG
+  • 02 Side effects
+  • 01 Meal
+  • 09 Calendar
 
 Trim: 6 × 9 in
 Pages: 115
@@ -71,8 +78,11 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>GLP-1 Weekly Review & Clinic Brief Binder</b> — 52 Weeks of Review Spreads + One-Page Clinician Briefs</p>
+<p>52 weeks: signals on the left, a 90-second clinician brief on the right. Hand it over.</p>
 <p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>Left: the week in signals</li><li>Right: a 90-second clinician brief</li><li>Flag box for loud weeks</li><li>Four quarterly letters</li></ul>
-<p>Trim 6 × 9 in · 115 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
-<p><i>Personal tracking / management tool only. Not medical advice.</i></p>
+<p><b>Also in this catalog</b></p>
+<ul><li>02 Side effects</li><li>01 Meal</li><li>09 Calendar</li></ul>
+<p>Trim 6 × 9 in · 115 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

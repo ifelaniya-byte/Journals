@@ -36,13 +36,13 @@ HEALTH & FITNESS / Sleep  (HEA043000)
 SELF-HELP / Self-Management / General  (SEL032000)
 
 SEVEN BACKEND KEYWORDS
-  1. sleep diary journal
-  2. insomnia tracker
-  3. WASO sleep log
-  4. wind down notebook
-  5. 12 week sleep diary
-  6. latency sleep journal
-  7. undated sleep log
+  1. waso sleep diary journal
+  2. clinical sleep log 12 week
+  3. sleep latency tracker
+  4. wind down checkbox diary
+  5. insomnia tracking notebook
+  6. rise time sleep journal
+  7. undated sleep window log
 
 SUGGESTED PRICE (US)
 $9.99
@@ -52,6 +52,8 @@ DESCRIPTION (plain)
 Sleep Window & Wind-Down Diary
 12-Week Sleep Diary: Latency, WASO, Rise Time & Wind-Down (Tracking Only)
 
+Classic clinician fields: bed, latency, WASO, rise, wind-down. 12 weeks. Tracking only.
+
 A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
@@ -59,6 +61,10 @@ INSIDE
   • Wind-down checkboxes
   • Weekly pattern page
   • Not a restriction protocol
+
+ALSO IN THIS CATALOG
+  • 22 Sleep / Bowel / Water
+  • 12 Migraine — this is WASO fields, not a 3 a.m. prompt journal
 
 Trim: 6 × 9 in
 Pages: 104
@@ -71,8 +77,11 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>Sleep Window & Wind-Down Diary</b> — 12-Week Sleep Diary: Latency, WASO, Rise Time & Wind-Down (Tracking Only)</p>
+<p>Classic clinician fields: bed, latency, WASO, rise, wind-down. 12 weeks. Tracking only.</p>
 <p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>Classic sleep-diary fields clinicians recognize</li><li>Wind-down checkboxes</li><li>Weekly pattern page</li><li>Not a restriction protocol</li></ul>
-<p>Trim 6 × 9 in · 104 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
-<p><i>Personal tracking / management tool only. Not medical advice.</i></p>
+<p><b>Also in this catalog</b></p>
+<ul><li>22 Sleep / Bowel / Water</li><li>12 Migraine — this is WASO fields, not a 3 a.m. prompt journal</li></ul>
+<p>Trim 6 × 9 in · 104 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

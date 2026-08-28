@@ -36,13 +36,13 @@ HEALTH & FITNESS / Diseases / Gastrointestinal  (HEA039010)
 HEALTH & FITNESS / Diet & Nutrition / Nutrition  (HEA019000)
 
 SEVEN BACKEND KEYWORDS
-  1. fodmap journal
-  2. ibs food diary
-  3. gut symptom tracker
-  4. bristol stool log
-  5. elimination diet notebook
-  6. low fodmap diary
-  7. reintroduction food log
+  1. low fodmap food diary
+  2. ibs symptom tracker journal
+  3. bristol stool log book
+  4. elimination diet notebook
+  5. gut latency food journal
+  6. reintroduction food cards
+  7. undated fodmap diary
 
 SUGGESTED PRICE (US)
 $9.99
@@ -52,6 +52,8 @@ DESCRIPTION (plain)
 Low FODMAP Food & Symptom Diary
 8-Week Gut Tracker with Bristol Chart & Reintroduction Cards
 
+Eight weeks of meals, latency, Bristol 1–7, and 12 reintroduction cards you fill from your plan.
+
 A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
@@ -59,6 +61,10 @@ INSIDE
   • Latency in minutes + severity 1–5
   • Bristol 1–7 tracking shorthand
   • 12 reintroduction cards (your plan, not ours)
+
+ALSO IN THIS CATALOG
+  • 22 Sleep / Bowel / Water
+  • 31 Glucose
 
 Trim: 6 × 9 in
 Pages: 88
@@ -71,8 +77,11 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>Low FODMAP Food & Symptom Diary</b> — 8-Week Gut Tracker with Bristol Chart & Reintroduction Cards</p>
+<p>Eight weeks of meals, latency, Bristol 1–7, and 12 reintroduction cards you fill from your plan.</p>
 <p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>Breakfast / lunch / dinner / extras</li><li>Latency in minutes + severity 1–5</li><li>Bristol 1–7 tracking shorthand</li><li>12 reintroduction cards (your plan, not ours)</li></ul>
-<p>Trim 6 × 9 in · 88 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
-<p><i>Personal tracking / management tool only. Not medical advice.</i></p>
+<p><b>Also in this catalog</b></p>
+<ul><li>22 Sleep / Bowel / Water</li><li>31 Glucose</li></ul>
+<p>Trim 6 × 9 in · 88 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

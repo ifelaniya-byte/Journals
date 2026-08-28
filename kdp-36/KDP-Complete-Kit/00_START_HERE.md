@@ -4,6 +4,7 @@ Vol 1 (01–18) + Vol 2 (19–36). Everything for all 36 titles, in one place.
 
 **List price for every title: $9.99 US** (KDP 60% paperback royalty floor).
 
+Read `CASHFLOW.md` first — waves, also-bought, what not to bid against Quiet Mind.
 Read `SELLING_AND_VALUATION.md` for royalties, marketplaces, and the exact files to upload.
 Read `PROOF_REPORT.md` for the verification that every listing is $9.99.
 
@@ -12,6 +13,7 @@ Read `PROOF_REPORT.md` for the verification that every listing is $9.99.
 ```
 KDP-Complete-Kit/
   00_START_HERE.md          ← you are here
+  CASHFLOW.md               ← rank loop, waves, also-bought, ads
   SELLING_AND_VALUATION.md  ← prices, royalties, where to sell, upload files
   PROOF_REPORT.md           ← verification of files, trims, pages, $9.99
   METADATA.csv              ← titles, trims, spines, keywords, prices

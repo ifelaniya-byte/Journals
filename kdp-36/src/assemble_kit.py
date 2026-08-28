@@ -17,30 +17,44 @@ from reportlab.pdfgen import canvas
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
 
+from lib import algorithm as A  # noqa: E402
 from lib.covers import generate_all_covers, make_front, make_wrap  # noqa: E402
 from lib.kit import OUTPUT, register_fonts  # noqa: E402
 from lib.titles import TITLES, spine_in, wrap_size  # noqa: E402
 from lib.titles_vol2 import TITLES_VOL2  # noqa: E402
 
 ALL_TITLES = TITLES + TITLES_VOL2
+A.assert_unique()
+for _t in ALL_TITLES:
+    _t["keywords"] = A.KEYWORDS[_t["n"]]
+    _t["hook"] = A.HOOKS[_t["n"]]
+    _t["also"] = A.ALSO[_t["n"]]
 
 KIT = Path("/home/user/KDP-Complete-Kit")
 
 
 def html_desc(t: dict) -> str:
     bullets = "".join(f"<li>{b}</li>" for b in t["bullets"])
+    also = "".join(f"<li>{x}</li>" for x in t.get("also") or [])
+    hook = t.get("hook") or "A discreet, giftable, undated tracking journal."
     return f"""<p><b>{t["kdp_title"]}</b> — {t["kdp_subtitle"]}</p>
+<p>{hook}</p>
 <p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul>{bullets}</ul>
-<p>Trim {t["trim"][0]:g} × {t["trim"][1]:g} in · {t["pages"]} pages · black-and-white interior · white paper recommended · bleed OFF.</p>
-<p><i>Personal tracking / management tool only. Not medical advice.</i></p>"""
+<p><b>Also in this catalog</b></p>
+<ul>{also}</ul>
+<p>Trim {t["trim"][0]:g} × {t["trim"][1]:g} in · {t["pages"]} pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>"""
 
 
 def plain_desc(t: dict) -> str:
+    hook = t.get("hook") or "A discreet, giftable, undated tracking journal."
     lines = [
         f"{t['kdp_title']}",
         t["kdp_subtitle"],
+        "",
+        hook,
         "",
         "A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.",
         "",
@@ -48,6 +62,11 @@ def plain_desc(t: dict) -> str:
     ]
     for b in t["bullets"]:
         lines.append(f"  • {b}")
+    also = t.get("also") or []
+    if also:
+        lines += ["", "ALSO IN THIS CATALOG"]
+        for x in also:
+            lines.append(f"  • {x}")
     lines += [
         "",
         f"Trim: {t['trim'][0]:g} × {t['trim'][1]:g} in",
@@ -296,6 +315,7 @@ Vol 1 (01–18) + Vol 2 (19–36). Everything for all 36 titles, in one place.
 
 **List price for every title: $9.99 US** (KDP 60% paperback royalty floor).
 
+Read `CASHFLOW.md` first — waves, also-bought, what not to bid against Quiet Mind.
 Read `SELLING_AND_VALUATION.md` for royalties, marketplaces, and the exact files to upload.
 Read `PROOF_REPORT.md` for the verification that every listing is $9.99.
 
@@ -304,6 +324,7 @@ Read `PROOF_REPORT.md` for the verification that every listing is $9.99.
 ```
 KDP-Complete-Kit/
   00_START_HERE.md          ← you are here
+  CASHFLOW.md               ← rank loop, waves, also-bought, ads
   SELLING_AND_VALUATION.md  ← prices, royalties, where to sell, upload files
   PROOF_REPORT.md           ← verification of files, trims, pages, $9.99
   METADATA.csv              ← titles, trims, spines, keywords, prices
@@ -375,6 +396,9 @@ def copy_into_kit():
         (folder / "listing.txt").write_text(listing_txt(t, ww, hh, sp), encoding="utf-8")
     shutil.copy2(OUTPUT / "LOOKBOOK.pdf", KIT / "LOOKBOOK.pdf")
     shutil.copy2(ROOT / "README.md", KIT / "INTERIORS_README.md")
+    cf = ROOT / "CASHFLOW.md"
+    if cf.exists():
+        shutil.copy2(cf, KIT / "CASHFLOW.md")
 
 
 def zip_kit():

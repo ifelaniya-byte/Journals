@@ -38,11 +38,11 @@ SELF-HELP / Eating Disorders & Body Image  (SEL014000)
 SEVEN BACKEND KEYWORDS
   1. craving tracker journal
   2. glp-1 hunger log
-  3. mood food diary
-  4. emotional eating journal
-  5. habit instead tracker
-  6. 90 day undated log
-  7. appetite awareness notebook
+  3. emotional eating diary undated
+  4. what i did instead notebook
+  5. appetite awareness journal
+  6. 90 day craving log
+  7. mood food tracker
 
 SUGGESTED PRICE (US)
 $9.99
@@ -52,6 +52,8 @@ DESCRIPTION (plain)
 GLP-1 Hunger & Craving Mood Log
 90-Day Four-Quadrant Tracker for Mood, Intensity & What I Did Instead
 
+Ninety four-quadrant days: mood, craving intensity, what I did instead, a small reward.
+
 A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
@@ -59,6 +61,11 @@ INSIDE
   • Peak craving 1–10 + what I craved
   • What I did instead + sticker space
   • Weekly pattern harvest
+
+ALSO IN THIS CATALOG
+  • 01 Meal & Satiety
+  • 23 Body Image
+  • 08 NSV
 
 Trim: 6 × 9 in
 Pages: 113
@@ -71,8 +78,11 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>GLP-1 Hunger & Craving Mood Log</b> — 90-Day Four-Quadrant Tracker for Mood, Intensity & What I Did Instead</p>
+<p>Ninety four-quadrant days: mood, craving intensity, what I did instead, a small reward.</p>
 <p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>90 four-quadrant daily pages</li><li>Peak craving 1–10 + what I craved</li><li>What I did instead + sticker space</li><li>Weekly pattern harvest</li></ul>
-<p>Trim 6 × 9 in · 113 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
-<p><i>Personal tracking / management tool only. Not medical advice.</i></p>
+<p><b>Also in this catalog</b></p>
+<ul><li>01 Meal & Satiety</li><li>23 Body Image</li><li>08 NSV</li></ul>
+<p>Trim 6 × 9 in · 113 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

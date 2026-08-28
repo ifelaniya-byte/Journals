@@ -36,13 +36,13 @@ SELF-HELP / Self-Management / Stress Management  (SEL024000)
 BUSINESS & ECONOMICS / Time Management  (BUS088000)
 
 SEVEN BACKEND KEYWORDS
-  1. burnout journal
+  1. burnout journal knowledge work
   2. energy budget notebook
-  3. resentment tracker
-  4. knowledge worker diary
-  5. meeting fatigue log
-  6. 12 week burnout
-  7. undated recovery journal
+  3. meeting cost tracker
+  4. resentment signal diary
+  5. 12 week burnout log
+  6. decline delegate journal
+  7. undated recovery from hustle
 
 SUGGESTED PRICE (US)
 $9.99
@@ -52,6 +52,8 @@ DESCRIPTION (plain)
 Burnout & Energy Budget Journal
 12-Week Meeting Cost, Recovery & Resentment Log (Not a Hustle Planner)
 
+12 weeks for knowledge-work humans: meeting cost, recovery, resentment, the decline page.
+
 A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
@@ -59,6 +61,11 @@ INSIDE
   • Meetings that cost extra
   • Resentment as a signal
   • Weekly decline / delegate page
+
+ALSO IN THIS CATALOG
+  • 34 Habit OS
+  • 16 Digital Detox
+  • 28 Anxiety
 
 Trim: 6 × 9 in
 Pages: 104
@@ -71,8 +78,11 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>Burnout & Energy Budget Journal</b> — 12-Week Meeting Cost, Recovery & Resentment Log (Not a Hustle Planner)</p>
+<p>12 weeks for knowledge-work humans: meeting cost, recovery, resentment, the decline page.</p>
 <p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>Energy at start and close</li><li>Meetings that cost extra</li><li>Resentment as a signal</li><li>Weekly decline / delegate page</li></ul>
-<p>Trim 6 × 9 in · 104 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
-<p><i>Personal tracking / management tool only. Not medical advice.</i></p>
+<p><b>Also in this catalog</b></p>
+<ul><li>34 Habit OS</li><li>16 Digital Detox</li><li>28 Anxiety</li></ul>
+<p>Trim 6 × 9 in · 104 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

@@ -36,13 +36,13 @@ HEALTH & FITNESS / Diet & Nutrition / Nutrition  (HEA019000)
 TRAVEL / Special Interest / General  (TRV026000)
 
 SEVEN BACKEND KEYWORDS
-  1. restaurant food diary
-  2. travel meal log
-  3. eating out journal
-  4. glp-1 social survival
-  5. trip packing health
-  6. usual order cards
-  7. undated dining log
+  1. restaurant food diary undated
+  2. eating out journal glp-1
+  3. travel meal log book
+  4. usual order cards notebook
+  5. social event food tracker
+  6. trip kit health journal
+  7. dining out fullness log
 
 SUGGESTED PRICE (US)
 $9.99
@@ -52,6 +52,8 @@ DESCRIPTION (plain)
 GLP-1 Restaurant, Travel & Social Event Log
 60 Eating-Out Pages, 12 Trip Kits & Usual-Order Cards
 
+Usual-order cards, 60 eating-out pages, 12 trip kits. How it sat — not a restaurant ranking.
+
 A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
@@ -59,6 +61,10 @@ INSIDE
   • 60 event pages: order, fullness, repeat
   • 12 trip kits: refill, time zone, bag backups
   • Not a restaurant ranking
+
+ALSO IN THIS CATALOG
+  • 01 Meal & Satiety
+  • 19 Grocery & Prep
 
 Trim: 6 × 9 in
 Pages: 85
@@ -71,8 +77,11 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>GLP-1 Restaurant, Travel & Social Event Log</b> — 60 Eating-Out Pages, 12 Trip Kits & Usual-Order Cards</p>
+<p>Usual-order cards, 60 eating-out pages, 12 trip kits. How it sat — not a restaurant ranking.</p>
 <p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>My-usual-order cards you fill once</li><li>60 event pages: order, fullness, repeat</li><li>12 trip kits: refill, time zone, bag backups</li><li>Not a restaurant ranking</li></ul>
-<p>Trim 6 × 9 in · 85 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
-<p><i>Personal tracking / management tool only. Not medical advice.</i></p>
+<p><b>Also in this catalog</b></p>
+<ul><li>01 Meal & Satiety</li><li>19 Grocery & Prep</li></ul>
+<p>Trim 6 × 9 in · 85 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

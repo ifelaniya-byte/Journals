@@ -36,13 +36,13 @@ HEALTH & FITNESS / Diseases / Gastrointestinal  (HEA039010)
 HEALTH & FITNESS / Sleep  (HEA043000)
 
 SEVEN BACKEND KEYWORDS
-  1. constipation tracker journal
-  2. bristol stool diary
-  3. hydration log book
-  4. sleep bowel journal
-  5. glp-1 side companion
-  6. water intake tracker
-  7. undated bathroom diary
+  1. bristol stool diary glp-1
+  2. constipation tracker journal
+  3. hydration log book undated
+  4. sleep bowel water companion
+  5. 90 day bathroom diary
+  6. semaglutide gi companion
+  7. water intake tally journal
 
 SUGGESTED PRICE (US)
 $9.99
@@ -52,6 +52,8 @@ DESCRIPTION (plain)
 GLP-1 Sleep, Bowel & Hydration Companion
 90-Day Bristol Chart, Sleep Quality & Water Tally (Undated)
 
+90 days of the unglamorous trio — sleep, Bristol, water — that decides if a week feels human.
+
 A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
@@ -59,6 +61,10 @@ INSIDE
   • Bristol 1–7 tracking shorthand + ease
   • Water tally
   • Weekly pattern + clinic brief
+
+ALSO IN THIS CATALOG
+  • 02 Side-Effect Diary
+  • 01 Meal & Satiety
 
 Trim: 6 × 9 in
 Pages: 110
@@ -71,8 +77,11 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>GLP-1 Sleep, Bowel & Hydration Companion</b> — 90-Day Bristol Chart, Sleep Quality & Water Tally (Undated)</p>
+<p>90 days of the unglamorous trio — sleep, Bristol, water — that decides if a week feels human.</p>
 <p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>Sleep hours + quality scale</li><li>Bristol 1–7 tracking shorthand + ease</li><li>Water tally</li><li>Weekly pattern + clinic brief</li></ul>
-<p>Trim 6 × 9 in · 110 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
-<p><i>Personal tracking / management tool only. Not medical advice.</i></p>
+<p><b>Also in this catalog</b></p>
+<ul><li>02 Side-Effect Diary</li><li>01 Meal & Satiety</li></ul>
+<p>Trim 6 × 9 in · 110 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

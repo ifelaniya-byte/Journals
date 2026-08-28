@@ -37,12 +37,12 @@ HEALTH & FITNESS / Women's Health  (HEA028000)
 
 SEVEN BACKEND KEYWORDS
   1. postpartum recovery journal
-  2. pelvic floor tracker
-  3. new mom planner
-  4. c-section recovery log
-  5. pt homework notebook
-  6. 12 week postpartum
-  7. undated baby journal
+  2. pelvic floor pt homework log
+  3. c section recovery tracker
+  4. 12 week new mom planner
+  5. assigned homework notebook
+  6. undated postpartum log
+  7. stitches incision care diary
 
 SUGGESTED PRICE (US)
 $9.99
@@ -52,6 +52,8 @@ DESCRIPTION (plain)
 Postpartum Recovery Planner
 12-Week Pelvic Floor PT Homework Tracker (Not an Exercise Program)
 
+Track the pelvic-floor homework your PT assigned — nothing extra, no QR workouts.
+
 A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
@@ -59,6 +61,10 @@ INSIDE
   • Stitches / incision care as you were taught
   • Mood, energy, partner support prompt
   • Red-flag reminder on every early page
+
+ALSO IN THIS CATALOG
+  • 36 Bladder / pelvic diary
+  • 14 Hot-flash chart
 
 Trim: 6 × 9 in
 Pages: 102
@@ -71,8 +77,11 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>Postpartum Recovery Planner</b> — 12-Week Pelvic Floor PT Homework Tracker (Not an Exercise Program)</p>
+<p>Track the pelvic-floor homework your PT assigned — nothing extra, no QR workouts.</p>
 <p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>Track the homework your PT assigned — nothing extra</li><li>Stitches / incision care as you were taught</li><li>Mood, energy, partner support prompt</li><li>Red-flag reminder on every early page</li></ul>
-<p>Trim 6 × 9 in · 102 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
-<p><i>Personal tracking / management tool only. Not medical advice.</i></p>
+<p><b>Also in this catalog</b></p>
+<ul><li>36 Bladder / pelvic diary</li><li>14 Hot-flash chart</li></ul>
+<p>Trim 6 × 9 in · 102 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

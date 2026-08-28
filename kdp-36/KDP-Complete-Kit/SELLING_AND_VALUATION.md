@@ -224,6 +224,6 @@ Barcode: white 2.05 × 1.25 in reserved on the back, lower-right near the spine.
 1. Order one proof of title 01 (6×9), 07 (5×8), and 09 (8.5×11) — those three trims cover the catalog.
 2. If the proof is clean, publish the rest without waiting on 36 physical proofs.
 3. A+ / from-the-author HTML is optional; the listing description is enough to start.
-4. Ads: start on 01, 09, 10, 13, 28, 30 — search demand is highest. Do not ads-blast all 36 on day one.
+4. Ads: Wave 1 only — 01 Meal, 09 Calendar, 05 Craving, 30 PMDD, 10 Sober, 12 Migraine. Do not ads-blast all 36 on day one. Do not bid Quiet Mind queries (see CASHFLOW.md).
 
 Re-generate kit from source: `python3 /home/user/kdp-journals/assemble_kit.py`

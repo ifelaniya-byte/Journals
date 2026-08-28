@@ -36,13 +36,13 @@ SELF-HELP / Self-Management / Time Management  (SEL027000)
 SELF-HELP / Personal Growth / Happiness  (SEL016000)
 
 SEVEN BACKEND KEYWORDS
-  1. habit tracker 12 week
-  2. habit contract journal
-  3. identity habits notebook
-  4. minimum viable habit
-  5. undated habit system
-  6. weekly review planner
-  7. behavior change log
+  1. habit contract journal 12 week
+  2. minimum viable habit tracker
+  3. identity habit notebook
+  4. bad day minimum log
+  5. undated habit operating system
+  6. weekly behavior contract
+  7. environment design journal
 
 SUGGESTED PRICE (US)
 $9.99
@@ -52,6 +52,8 @@ DESCRIPTION (plain)
 12-Week Habit Operating System
 Weekly Contracts, Bad-Day Minimums & Environment Design (Undated)
 
+At most three habits. A minimum version for loud days. Weekly contracts. Not a 75-day clone.
+
 A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
@@ -59,6 +61,10 @@ INSIDE
   • Minimum version for loud days
   • Weekly contract + repair after two misses
   • Daily tick + one line — no moral essay
+
+ALSO IN THIS CATALOG
+  • 03 Plateau-Breaker
+  • 16 Digital Detox
 
 Trim: 6 × 9 in
 Pages: 117
@@ -71,8 +77,11 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>12-Week Habit Operating System</b> — Weekly Contracts, Bad-Day Minimums & Environment Design (Undated)</p>
+<p>At most three habits. A minimum version for loud days. Weekly contracts. Not a 75-day clone.</p>
 <p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>At most three habits</li><li>Minimum version for loud days</li><li>Weekly contract + repair after two misses</li><li>Daily tick + one line — no moral essay</li></ul>
-<p>Trim 6 × 9 in · 117 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
-<p><i>Personal tracking / management tool only. Not medical advice.</i></p>
+<p><b>Also in this catalog</b></p>
+<ul><li>03 Plateau-Breaker</li><li>16 Digital Detox</li></ul>
+<p>Trim 6 × 9 in · 117 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>
