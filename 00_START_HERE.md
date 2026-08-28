@@ -8,6 +8,7 @@ This is a Git-ready 18-SKU KDP scout catalog with two companion deluxe-hero pack
 3. Read `RELEASE_POLICY.md` and `PORTFOLIO.md`. For each **Wave 1** scout only, open its `release/[ID]-[slug]/metadata.txt`; copy the **AMAZON TITLE**, not merely the cover word.
 4. Use `UPLOAD_CHECKLIST.md` and KDP Print Previewer. Order a proof before enabling ads.
 5. Run `python validate_catalog.py` after any rebuild. A green validation result is structural QC, not legal/clinical clearance.
+6. For the two-read Oct 31 / Nov 28 Gate 1 calculations, use `/home/user/ritual-library-launch-kit/gate-1-validation-scorecard.xlsx` and its adjacent `SCORECARD_READ1_READ2_SPEC.md`.
 
 ## Two collections
 | Collection | IDs | Customer promise |

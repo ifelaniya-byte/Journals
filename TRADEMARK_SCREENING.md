@@ -23,13 +23,17 @@
 Ask qualified trademark counsel to search and assess, at minimum:
 
 - **Stillwork Studio**, **Stillwork**, and confusingly similar spellings/sounds for publishing, books, stationery, journals, retail, wellness, online content, and related classes.
-- **The Ritual Library**, **Pace & Progress**, **Stillwork Editions**, and each Wave 1 product title, including design/logo use if adopted.
+- **The Ritual Library**, **Pace & Progress**, **Stillwork Editions**, and each Wave 1 product title, including design/logo use if adopted. Counsel should separately assess the internal root overlap between **Stillwork Studio** and **Stillwork Editions**; the shared root is coherent brand architecture, but it expands the blast radius of a negative opinion.
 - Common-law, state, domain, social-handle, retail-marketplace, and ISBN/imprint uses—not just federal exact-word marks.
-- The proposed consumer-facing domain, redirect subdomain, social accounts, KDP author/publisher display, and wholesale packaging use.
+- The proposed consumer-facing domain, redirect subdomain, social accounts, KDP author/publisher display, and wholesale packaging use. Also screen the backup names and collection-decoupling paths in `BACKUP_IMPRINT_SHORTLIST.md`.
+
+## The actual commitment point
+
+A private git tag, metadata entry, local MP3, or locally generated landing page is reversible configuration—not a public brand commitment. The meaningful switching-cost threshold is the **first physical proof carrying a QR that resolves to the branded domain**. By that point, the public identity, domain, route, audio, interior, and proof order are connected. Do not cross that threshold until the name/domain opinion, claims review, QR/audio sign-off, live-route verification, and proof plan are clear.
 
 ## Until written clearance
 
 - Treat the name as a reversible build candidate only.
 - Do not create a KDP public listing, publisher identity, social profile, paid campaign, business card, QR code, or product proof that relies on this name.
-- Do not register a domain merely because it is technically available; the domain decision must follow the name review.
+- If counsel considers a low-cost defensive registration reasonable during review, keep it private and reversible: do not deploy the public landing site, operate the branded `go.` host, start a long registration term, publish an account identity, stamp a QR, or create marketplace use until clearance.
 - If counsel rejects it, change `brand_config.json`, rebuild, regenerate QR route configuration, and create a new reviewed tag before any upload.

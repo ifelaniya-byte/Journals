@@ -383,6 +383,7 @@ This is a Git-ready 18-SKU KDP scout catalog with two companion deluxe-hero pack
 3. Read `RELEASE_POLICY.md` and `PORTFOLIO.md`. For each **Wave 1** scout only, open its `release/[ID]-[slug]/metadata.txt`; copy the **AMAZON TITLE**, not merely the cover word.
 4. Use `UPLOAD_CHECKLIST.md` and KDP Print Previewer. Order a proof before enabling ads.
 5. Run `python validate_catalog.py` after any rebuild. A green validation result is structural QC, not legal/clinical clearance.
+6. For the two-read Oct 31 / Nov 28 Gate 1 calculations, use `/home/user/ritual-library-launch-kit/gate-1-validation-scorecard.xlsx` and its adjacent `SCORECARD_READ1_READ2_SPEC.md`.
 
 ## Two collections
 | Collection | IDs | Customer promise |
@@ -419,7 +420,7 @@ A complete, repository-grade production system for an 18-product wellness-statio
 ## Deliverables at a glance
 - **18 KDP paperback packages** in `release/`, each with 10 publication/listing files.
 - **2 deluxe hero packages** in `deluxe-heroes/`: *Dose & Breathe* and *Pocket of Calm*.
-- **Commercial operating docs:** `CATALOG.csv`, `RELEASE_POLICY.md`, `PORTFOLIO.md`, `WAVE1_HUMAN_QA.md`, `KDP_ACCOUNT_OPERATIONS.md`, `LEGAL_AND_CLAIMS.md`, `MARKETING.md`, `UPLOAD_CHECKLIST.md`, `ART_DIRECTION.md`, `DELUXE_HEROES.md`, `POLISH_NOTES.md`, `HISTORY.md`, `LOOKBOOK.pdf`, `00_START_HERE.md`, `PREPUBLICATION_SEQUENCE.md`, `QR_AND_AUDIO.md`, `QR_AUDIO_REVIEW.md`, `TRADEMARK_SCREENING.md`, and `DECISIONS.md`.
+- **Commercial operating docs:** `CATALOG.csv`, `RELEASE_POLICY.md`, `PORTFOLIO.md`, `WAVE1_HUMAN_QA.md`, `KDP_ACCOUNT_OPERATIONS.md`, `LEGAL_AND_CLAIMS.md`, `MARKETING.md`, `UPLOAD_CHECKLIST.md`, `ART_DIRECTION.md`, `DELUXE_HEROES.md`, `POLISH_NOTES.md`, `HISTORY.md`, `LOOKBOOK.pdf`, `00_START_HERE.md`, `PREPUBLICATION_SEQUENCE.md`, `SCORECARD_READ1_READ2_SPEC.md` (in the launch kit), `QR_AND_AUDIO.md`, `QR_AUDIO_REVIEW.md`, `TRADEMARK_SCREENING.md`, `BACKUP_IMPRINT_SHORTLIST.md`, `COUNSEL_ENGAGEMENT_MEMO.md`, and `DECISIONS.md`.
 - **Build/QC tools:** `build_catalog.py`, `polish_catalog.py`, `validate_catalog.py`, `configure_wave1_qr.py`, `make_zips.py`, and `requirements.txt`.
 
 ## Product truthfulness

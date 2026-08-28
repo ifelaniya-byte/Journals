@@ -28,8 +28,15 @@ The QR must resolve to a brand-owned redirect host, not a raw website-builder UR
 1. Register the exact domain in the business owner’s account, with renewal, registrar login, DNS, and recovery email documented outside this repository.
 2. Use `go.<domain>` for the short printed redirect and `www.<domain>/listen/<route>/` (or another first-party origin) for the destination.
 3. Put the redirect map in a buyer-controlled configuration. `qr-routing/worker.js` is a Cloudflare Worker reference implementation; it may be adapted to another managed redirect service only if the public short host remains buyer controlled.
-4. Host the six mobile-first landing pages and their audio at the first-party origin. The supplied generator creates plain static pages with no tracker, lead form, or third-party embed by default.
+4. Host the six mobile-first landing pages and their audio at the first-party origin. The supplied generator renders the transcript **on the page**, below the native audio player, so every scan has a no-audio/deaf-or-hard-of-hearing fallback.
 5. Preserve every route indefinitely. If a host, analytics system, or audio provider changes, update the redirect target—not the printed QR image.
+
+## Accessibility and privacy posture
+
+- The transcript is visible on every generated landing page—not hidden behind a link—and must exactly match the approved recording. The audio player is optional; the page still delivers its reflection prompt if audio cannot load or cannot be played.
+- The static page contains **no third-party advertising pixel, retargeting tag, embedded player, lead form, or health-data field**. Do not add one without reopening legal/privacy review and documenting the change.
+- If measurement is enabled, use only aggregate, non-identifying route counts. Do not retain or export scan-level identifiers, build audience segments from scans, fingerprint a device, or combine route logs with health, email, purchase, or ad-platform profiles.
+- The landing pages include a one-line plain-language privacy notice. The redirect-worker reference is intentionally request-minimal and sets a no-referrer response policy. Hosting/CDN configuration must be reviewed to ensure its logs and analytics match this posture.
 
 ## Non-negotiable completion checklist
 
@@ -37,7 +44,7 @@ The QR must resolve to a brand-owned redirect host, not a raw website-builder UR
 - [ ] Trademark/name reviewer clears the working imprint and relevant product/series names.
 - [ ] A healthcare/claims reviewer clears A01 audio and any other claims-sensitive script; all six scripts have editorial sign-off.
 - [ ] The six draft MP3s in `qr-routing/site/audio/` have passed editorial/claims review in `QR_AUDIO_REVIEW.md`, are marked final, and play on mobile with the screen locked/unlocked as intended.
-- [ ] Each HTTPS `go.<domain>/<route>` redirects to its expected first-party landing page without an account login, age gate, forced download, tracker, or broken certificate.
+- [ ] Each HTTPS `go.<domain>/<route>` redirects to its expected first-party landing page without an account login, age gate, forced download, third-party tracker, embedded player, lead form, or broken certificate.
 - [ ] `python configure_wave1_qr.py --domain <domain> --apply --verify-live` completes successfully after a clean `python build_catalog.py`.
 - [ ] QR is at least 1.1 in. square, black on white, surrounded by clear space, and its printed short address appears below it for accessibility.
 - [ ] For **each** Wave 1 proof: scan the actual printed page under warm indoor light using an older phone and a current phone; confirm correct route, audio, title, and no unsafe claim.
@@ -62,4 +69,4 @@ python validate_catalog.py
 python audit_metadata_claims.py
 ```
 
-The final stamp operation regenerates only Wave 1 interior PDFs and their actual-page listing samples. It deliberately leaves Wave 2 and Vault paperbacks untouched.
+The final stamp operation regenerates only Wave 1 interior PDFs and their actual-page listing samples. It deliberately leaves Wave 2 and Vault paperbacks untouched. **Do not run `build_catalog.py` after a successful QR stamp:** a rebuild restores the pre-stamp base PDFs. The safe order is build → deploy/verify → QR stamp → validator/audit → physical proof.

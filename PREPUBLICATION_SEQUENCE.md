@@ -42,6 +42,14 @@ Do not document claims about Amazon “velocity scoring” as a known rule unles
 - A failure despite Q4 tailwinds is a high-confidence kill/retire review.
 - A September 15 live date reaches only 47 calendar days by October 31 (48 inclusive), not 60 clean pre-November days. Any full 60-day test begun in mid-September necessarily contains November/Q4 observations. Preserve the pre-November subset rather than claiming an impossible 60-day clean window.
 
+## Gate 1: two reads, not a shortened 60-day verdict
+
+**Read 1 — October 31 interim:** The Scorecard’s date-bounded fields make this a clean-season kill / iterate / continue meeting. A KDP trajectory passes when weekly organic units are non-decreasing from weeks 3–6 with week 6 above week 3, **or** the final 14 fully logged KDP days average at least two organic units per day. With adequate pre-cutoff ad volume, weak CTR/attention triggers a cover/concept retire review; strong CTR plus weak paid conversion triggers at most one 30-day listing/price iteration. Read 1 never authorizes deluxe funding, inventory, or a shortened substitute for the 60-day threshold.
+
+**Read 2 — November 28 final:** Reconcile the existing full-period and pre-November Gate 1 calculations, plus the observed Oct 15–Nov 15 gifting-potential comparison. A measured period lift is not automatically causal; the Founder must mark the manual gift-thesis review `CONFIRMED` only with actual buyer language/qualitative evidence. A KDP adjusted advance requires the original full/pre-Nov computation, a Read 1 trajectory pass, and the documented Read 2 review. Q4-only results remain `Hold: Q4 Retest`.
+
+The formulas, thresholds, and pre-created Gate Log rows live in `/home/user/ritual-library-launch-kit/gate-1-validation-scorecard.xlsx` and are documented in `SCORECARD_READ1_READ2_SPEC.md` beside the workbook.
+
 ## Paid social / creator boundary
 
 Collection A paid creative and targeting remain an open policy-verification item in `LEGAL_AND_CLAIMS.md`. Do not target, imply, solicit, or profile a person’s medical condition or prescription use; do not use prescription-drug brand names, weight-loss outcomes, before/after imagery, body shaming, or restricted prescription-drug content. Until a reviewer verifies the platform and account-specific approach, use no paid Meta/TikTok campaign for A01. Collection-neutral creator seeding is not a substitute for platform policy review.

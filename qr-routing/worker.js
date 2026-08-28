@@ -4,7 +4,8 @@
  * Deploy this only after the business owns the domain. Bind the Worker to
  * go.<your-domain>/* and set LANDING_ORIGIN (e.g. https://www.example.com).
  * Keep the external printed URL on the owned go subdomain even if the
- * destination hosting provider changes.
+ * destination hosting provider changes. This code stores no scan data and loads no analytics.
+ * If host-level measurement is enabled, maintain only aggregate, non-identifying route counts.
  */
 const ROUTES = {
   '/arrive':  '/listen/arrive/',
@@ -24,6 +25,6 @@ export default {
     if (!/^https:\/\//.test(origin)) {
       return new Response('Redirect is not configured.', { status: 503 });
     }
-    return Response.redirect(origin + destination, 302);
+    return new Response(null, { status: 302, headers: { 'Location': origin + destination, 'Cache-Control': 'no-store', 'Referrer-Policy': 'no-referrer' } });
   }
 };
