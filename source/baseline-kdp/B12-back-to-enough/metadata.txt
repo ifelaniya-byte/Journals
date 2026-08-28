@@ -1,0 +1,22 @@
+AMAZON TITLE: Back to Enough: A Compassionate Productivity Rescue Workbook
+COVER TITLE: Back to Enough
+SUBTITLE: Make the plan smaller until it becomes possible
+AUTHOR: [Author / Imprint]
+SERIES: Stillwork Editions
+FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
+TRIM: 6 × 8 in.
+PAGES: 160
+SPINE: 0.3603 in. (white-paper formula; validate in KDP Cover Calculator)
+COVER WRAP: 12.6103 × 8.2500 in.
+PRICE: $15.99
+CATEGORIES: Self-Help / Journaling|Self-Help / Stress Management
+KEYWORDS: burnout workbook, compassionate productivity planner, task triage planner, overwhelm journal, recovery planning, self care workbook, low capacity planner
+
+DESCRIPTION:
+A compassionate productivity rescue workbook for low-capacity days, featuring task triage, capacity checks, mini-break planning, and weekly resets.
+
+CLAIMS / RELEASE BOUNDARY:
+Planning/reflection support only; not a diagnosis or treatment for burnout, anxiety, depression, or workplace harm.
+
+UPLOAD NOTE:
+Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.

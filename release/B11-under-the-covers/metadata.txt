@@ -1,0 +1,22 @@
+AMAZON TITLE: Under the Covers: A Weighted-Blanket Sleep & Stress Diary
+COVER TITLE: Under the Covers
+SUBTITLE: A cozy, specific bedside reflection practice
+AUTHOR: [Author / Imprint]
+SERIES: Stillwork Editions
+FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
+TRIM: 7 × 9 in.
+PAGES: 120
+SPINE: 0.2702 in. (white-paper formula; validate in KDP Cover Calculator)
+COVER WRAP: 14.5202 × 9.2500 in.
+PRICE: $14.99
+CATEGORIES: Self-Help / Journaling|Self-Help / Stress Management
+KEYWORDS: weighted blanket journal, sleep diary, bedtime comfort journal, stress reflection, cozy sleep planner, sleep environment log, night routine journal
+
+DESCRIPTION:
+A bedside diary for recording personal comfort, room feel, settling rituals, and morning impressions around a weighted-blanket routine.
+
+CLAIMS / RELEASE BOUNDARY:
+Do not recommend blanket weights or claim treatment for anxiety/insomnia. Include a final weighted-blanket safety note.
+
+UPLOAD NOTE:
+Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.

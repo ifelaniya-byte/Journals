@@ -1,0 +1,22 @@
+AMAZON TITLE: Rest & Regulate: A 90-Day Breath-Paced Planner
+COVER TITLE: Rest & Regulate
+SUBTITLE: Small returns to the present, without performance metrics
+AUTHOR: [Author / Imprint]
+SERIES: Stillwork Editions
+FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
+TRIM: 6 × 8 in.
+PAGES: 144
+SPINE: 0.3243 in. (white-paper formula; validate in KDP Cover Calculator)
+COVER WRAP: 12.5743 × 8.2500 in.
+PRICE: $14.99
+CATEGORIES: Self-Help / Journaling|Self-Help / Stress Management
+KEYWORDS: breathwork journal, grounding practice planner, 90 day mindfulness journal, stress relief journal, nervous system journal, daily reflection, calming planner
+
+DESCRIPTION:
+A ninety-day reflection planner built around optional grounding and paced-breathing practices, with room to notice what supports you.
+
+CLAIMS / RELEASE BOUNDARY:
+Do not claim vagus stimulation, anxiety treatment, HRV improvement, or physiological outcomes.
+
+UPLOAD NOTE:
+Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.

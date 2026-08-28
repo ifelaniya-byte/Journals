@@ -1,0 +1,22 @@
+AMAZON TITLE: Pocket of Calm: A Guided Journaling Companion
+COVER TITLE: Pocket of Calm
+SUBTITLE: Fifty-four small prompts for the moments a blank page is too much
+AUTHOR: [Author / Imprint]
+SERIES: Pace & Progress
+FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
+TRIM: 6 × 8 in.
+PAGES: 120
+SPINE: 0.2702 in. (white-paper formula; validate in KDP Cover Calculator)
+COVER WRAP: 12.5202 × 8.2500 in.
+PRICE: $14.99
+CATEGORIES: Self-Help / Journaling|Self-Help / Personal Growth
+KEYWORDS: journaling prompts, mindfulness journal, self reflection book, calming gift, stress relief journal, prompt journal, gentle wellness
+
+DESCRIPTION:
+A stand-alone companion with 54 gentle prompts organized into arrive, soften, nourish, reach, continue, and reset.
+
+CLAIMS / RELEASE BOUNDARY:
+Current scout is collection-neutral. Do not label GLP-1-specific unless copy and claims receive a separate review.
+
+UPLOAD NOTE:
+Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.

@@ -1,0 +1,23 @@
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+ID   PRODUCT                            PG       TRIM INT WRAP META IMG
+A01  Dose & Breathe                    128    6x8     OK   OK   OK  OK
+A02  Color Your Way Forward            100  8.5x11    OK   OK   OK  OK
+A03  The Scent of a Steady Year        120  8.5x11    OK   OK   OK  OK
+A04  Softer Words                      128    6x8     OK   OK   OK  OK
+A05  Night Harbor                      168    6x8     OK   OK   OK  OK
+A06  Stillness & Stretch               128    8x10    OK   OK   OK  OK
+A07  Steady Signal                     120    6x8     OK   OK   OK  OK
+A08  The Unhurried Year                160    7x9     OK   OK   OK  OK
+A09  Pocket of Calm                    120    6x8     OK   OK   OK  OK
+B10  Rest & Regulate                   144    6x8     OK   OK   OK  OK
+B11  Under the Covers                  120    7x9     OK   OK   OK  OK
+B12  Back to Enough                    160    6x8     OK   OK   OK  OK
+B13  Breathwork Integration            128 8.27x11.69  OK   OK   OK  OK
+B14  Among the Trees                   128    8x8     OK   OK   OK  OK
+B15  Color & Check In                  120  8.5x11    OK   OK   OK  OK
+B16  Us, In Balance                    160    7x9     OK   OK   OK  OK
+B17  One Minute at My Desk             120    5x7     OK   OK   OK  OK
+B18  Enough Money, Enough Calm         168    6x8     OK   OK   OK  OK
+
+Checks passed: 25/25
+ALL 18 PRODUCTS: STRUCTURALLY COMPLETE — INTERIORS, WRAPS, LISTING ASSETS, METADATA, CHECKLIST, LOOKBOOK

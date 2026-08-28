@@ -1,0 +1,23 @@
+ID   PRODUCT                        STATUS
+A01  Dose & Breathe                 REVIEW — routine-context: Dose, medication; GLP-1: verify healthcare-marketing review
+A02  Color Your Way Forward         REVIEW — GLP-1: verify healthcare-marketing review
+A03  The Scent of a Steady Year     REVIEW — GLP-1: verify healthcare-marketing review
+A04  Softer Words                   CLEAR OF AUTOMATED FLAGS
+A05  Night Harbor                   CLEAR OF AUTOMATED FLAGS
+A06  Stillness & Stretch            CLEAR OF AUTOMATED FLAGS
+A07  Steady Signal                  CLEAR OF AUTOMATED FLAGS
+A08  The Unhurried Year             CLEAR OF AUTOMATED FLAGS
+A09  Pocket of Calm                 CLEAR OF AUTOMATED FLAGS
+B10  Rest & Regulate                CLEAR OF AUTOMATED FLAGS
+B11  Under the Covers               CLEAR OF AUTOMATED FLAGS
+B12  Back to Enough                 CLEAR OF AUTOMATED FLAGS
+B13  Breathwork Integration         CLEAR OF AUTOMATED FLAGS
+B14  Among the Trees                CLEAR OF AUTOMATED FLAGS
+B15  Color & Check In               CLEAR OF AUTOMATED FLAGS
+B16  Us, In Balance                 CLEAR OF AUTOMATED FLAGS
+B17  One Minute at My Desk          CLEAR OF AUTOMATED FLAGS
+B18  Enough Money, Enough Calm      CLEAR OF AUTOMATED FLAGS
+
+RESULT
+3 SKU(s) require human review. This is expected for health-adjacent products; it does not authorize release.
+No hard-stop string flags. Complete documented human/legal review before release.

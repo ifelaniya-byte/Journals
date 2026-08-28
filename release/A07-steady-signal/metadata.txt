@@ -1,0 +1,22 @@
+AMAZON TITLE: Steady Signal: A Calm-Check & Optional Pulse Observation Journal
+COVER TITLE: Steady Signal
+SUBTITLE: Notice signals without turning them into a verdict
+AUTHOR: [Author / Imprint]
+SERIES: Pace & Progress
+FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
+TRIM: 6 × 8 in.
+PAGES: 120
+SPINE: 0.2702 in. (white-paper formula; validate in KDP Cover Calculator)
+COVER WRAP: 12.5202 × 8.2500 in.
+PRICE: $14.99
+CATEGORIES: Self-Help / Journaling|Self-Help / Stress Management
+KEYWORDS: calm check journal, anxiety reflection journal, body signal tracker, grounding journal, wellness observation, pulse notes journal, self care tracker
+
+DESCRIPTION:
+A personal observation journal for noticing sensations, optional resting-pulse notes, grounding attempts, and questions to raise with a care professional.
+
+CLAIMS / RELEASE BOUNDARY:
+Not a medical device or diagnostic tool. Do not claim that pulse readings detect anxiety; include urgent-care language in final review.
+
+UPLOAD NOTE:
+Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.
