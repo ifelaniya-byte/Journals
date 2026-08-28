@@ -12,15 +12,16 @@ Public API/repository pages showed:
 | Exposure item | Public observation | Risk |
 |---|---|---|
 | Visibility | Public; forkable; not archived; no tags. | Anyone can view, clone, or preserve the content while it remains public. |
-| Branches | `main`, `ADHD-Journals`, `Range-Band`; all unprotected. | Multiple unrelated product catalogs are exposed outside this repository’s controls. |
-| `main` | A pointer README identifies the two product branches. | Makes the sensitive branches easy to find. |
-| `Range-Band` | Public README describes 36 undated GLP-1/wellness trackers, every KDP title at `$9.99`; a later commit describes `$14.99` B&N print and `$9.99` PDFs. | Directly conflicts with the controlled catalog’s six-scout, claims-review, premium-price, and no-autonomous-release rules. |
-| `ADHD-Journals` | Public branch describes 18 prompt journals/coloring books under a separate imprint, with `$9.99` price enforcement. | Unreviewed claims/positioning and unwanted product association may be publicly visible. |
+| Branches | `main`, `ADHD-Journals`, `Range-Band`, `Market-Files`; all publicly reported as unprotected. | Multiple unrelated product/market-asset workstreams are exposed outside this repository’s controls. |
+| `main` | A pointer README identifies the two product branches but does not document `Market-Files`. | Makes some sensitive branches easy to find while potentially obscuring other public assets. |
+| `Range-Band` | Public README describes 36 undated GLP-1/wellness trackers, every KDP title at `$9.99`; public market material describes B&N print and digital price paths. | Directly conflicts with the controlled catalog’s six-scout, claims-review, premium-price, and no-autonomous-release rules. |
+| `ADHD-Journals` | Public branch describes 18 prompt journals/coloring books under a separate imprint, a retailer playbook, and translated storefront-copy paths while keeping interiors English. | Unreviewed claims/positioning, multilingual-copy, pricing, and unwanted product association may be publicly visible. |
+| `Market-Files` | Public README describes B&N cover panels, 17 printable PDFs, and two lead magnets. | Potential commercial assets must not be assumed owned, copied, or deployed from this catalog. |
 | Recent activity | Commits were public and actively updating at the time of inspection. | Do not assume a static historical ZIP; exposure may still be changing. |
 
 ## Public evidence snapshot and ownership question
 
-At the latest unauthenticated public-API check on August 28, 2026, GitHub reported the repository as public, non-archived, forkable, with `forks_count: 0` and `network_count: 0`; its three public branches were `main`, `ADHD-Journals`, and `Range-Band`. This is a dated public-observation record, not proof that no one has cloned or copied content elsewhere. The account/controller relationship cannot be determined from public data.
+At the latest unauthenticated, read-only public-API check on August 28, 2026, GitHub reported the repository as public, non-archived, forkable, with `forks_count: 0` and `network_count: 0`; its four public branches were `main`, `ADHD-Journals`, `Range-Band`, and `Market-Files`. This is a dated public-observation record, not proof that no one has cloned or copied content elsewhere. The account/controller relationship cannot be determined from public data.
 
 **Before any merge, separation, or commercial use decision, the founder must identify which statement is true and record the answer in `DECISIONS.md`:**
 
@@ -33,14 +34,16 @@ At the latest unauthenticated public-API check on August 28, 2026, GitHub report
 
 For a human screenshot, the account owner should capture the repository landing page, branches page, fork/network count, each exposed README, and recent commit history **before** changing visibility. Save the images privately with date/time and URLs; do not post them as a public issue or “cleanup” commit.
 
-## Required containment (account owner only)
+## Required evidence-first containment (account owner only)
 
-1. **Immediately make `ifelaniya-byte/Journals` private** in GitHub repository Settings → General → Danger Zone → Change visibility, or delete it if it has no required evidence value. Do not first “clean it up” with public commits; those commits add more public history.
-2. On the same account, review and remove/lock down all three branches: `main`, `Range-Band`, and `ADHD-Journals`. For an unwanted project, delete the repository rather than merely deleting a branch.
-3. If retention is needed, make the repository private first, export an evidence archive, then create a new private, access-controlled repository only after counsel and product review.
-4. Disable forking on any retained private repository; review repository collaborators, deploy keys, personal access tokens, GitHub Apps, Actions secrets, webhooks, Pages, releases/packages, wiki, issues, discussions, and any external deployment links.
-5. Search connected KDP, B&N, Gumroad, Payhip, Google Play, social, ad, domain, and email accounts for the exposed titles/imprints. Remove drafts/listings/campaigns or preserve evidence for counsel; do not publish corrective content that repeats sensitive claims.
-6. Ask counsel whether the public exposure affects the search/common-law, claim-review, takedown, or brand-rollout path. Preserve screenshots/commit URLs privately if needed.
+1. **Before changing public visibility or branches, privately preserve evidence:** capture dated screenshots of the repository landing page, every branches page, fork/network state, each exposed README, recent commit history, releases/packages, Pages, wiki, issues, and actions artifacts. Save exact URLs and time zone. Do not create a public “cleanup” issue or commit.
+2. In the authenticated account, check the live fork/network graph and determine who controls `ifelaniya-byte` (founder, collaborator, unrelated third party, or unknown). Record the relationship and the chosen merge-under-governance vs firewall/separation path in `DECISIONS.md`.
+3. **After that evidence/relationship step,** make `ifelaniya-byte/Journals` private or delete it if it has no required evidence value, as the authenticated owner and counsel direct. Do not assume zero public API forks means no historical clone/copy exists.
+4. Review and remove/lock down all four branches: `main`, `Range-Band`, `ADHD-Journals`, and `Market-Files`. For an unwanted project, delete the repository rather than merely deleting a branch.
+5. If retention is needed, make the repository private first, export an evidence archive, then create a new private, access-controlled repository only after counsel and product review.
+6. Disable forking on any retained private repository; review repository collaborators, deploy keys, personal access tokens, GitHub Apps, Actions secrets, webhooks, Pages, releases/packages, wiki, issues, discussions, and any external deployment links.
+7. Search connected KDP, B&N, Gumroad, Payhip, Google Play, social, ad, domain, and email accounts for the exposed titles/imprints. Remove drafts/listings/campaigns or preserve evidence for counsel; do not publish corrective content that repeats sensitive claims.
+8. Ask counsel whether the public exposure affects the search/common-law, claim-review, takedown, or brand-rollout path. Preserve screenshots/commit URLs privately if needed.
 
 ## What this local repository can and cannot do
 

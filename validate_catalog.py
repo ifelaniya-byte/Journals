@@ -4,8 +4,9 @@
 The catalog has six Wave 1 KDP upload candidates, 9 held book-form options, and two private book-form
 reference assets, and one non-KDP calendar (A03). This validator confirms
 that generated book artifacts agree with CATALOG.csv, that A03 remains
-non-KDP, and that the Wave 1 pricing guard passes. It is structural QC only;
-it does not replace KDP Previewer, physical proofing, or legal review.
+non-KDP, and that the Wave 1 pricing and multichannel-model guards pass. It is
+structural QC only; it does not replace KDP Previewer, physical proofing, or
+legal review.
 """
 from pathlib import Path
 import csv
@@ -136,7 +137,9 @@ check(all((R / name).exists() for name in [
     "PORTFOLIO.md", "WAVE1_HUMAN_QA.md", "KDP_ACCOUNT_OPERATIONS.md", "POLISH_NOTES.md",
     "PREPUBLICATION_SEQUENCE.md", "QR_AND_AUDIO.md", "QR_AUDIO_REVIEW.md", "TRADEMARK_SCREENING.md",
     "DECISIONS.md", "verify_pricing.py", "verify_canonical.py", "AUTOMATION_POLICY.md", "COUNSEL_ENGAGEMENT_EMAIL.md", "GITHUB_PUBLIC_EXPOSURE_AUDIT.md",
-]), "operating, price-control, and exposure-control docs present")
+    "MULTILINGUAL_MULTICHANNEL_MODEL.md", "BILINGUAL_LANGUAGE_REGISTER.csv", "MULTICHANNEL_PRICING_MODEL.csv",
+    "build_multichannel_pricing.py", "verify_multichannel_pricing.py",
+]), "operating, price-control, multilingual, and exposure-control docs present")
 check((R / "configure_wave1_qr.py").is_file() and (R / "qr-routing" / "worker.js").is_file(), "QR routing/stamp tooling present")
 if DOMAIN:
     route_file = R / "qr-routing" / "routes.json"
@@ -163,7 +166,14 @@ if canonical_check.stderr:
     print(canonical_check.stderr.rstrip())
 check(canonical_check.returncode == 0, "all decision-bound catalog fields match PORTFOLIO.md")
 
-print(f"\nChecks passed: {passed}/34")
+market_model_check = subprocess.run([sys.executable, str(R / "verify_multichannel_pricing.py")], cwd=R, text=True, capture_output=True)
+print("\n--- Multichannel pricing-model guard ---")
+print(market_model_check.stdout.rstrip())
+if market_model_check.stderr:
+    print(market_model_check.stderr.rstrip())
+check(market_model_check.returncode == 0, "multichannel model retains canonical Wave 1 anchors and non-live bilingual scope")
+
+print(f"\nChecks passed: {passed}/35")
 if fails:
     print("FAILURES:", "; ".join(fails))
     raise SystemExit(1)

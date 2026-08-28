@@ -27,7 +27,8 @@ A Wave 1 label, a passing validator, a ZIP package, an API credential, a domain 
 - Stamp a QR code, order a physical proof, start production, create inventory, or change a product’s release state.
 - Send an engagement letter, retain counsel, accept legal terms, make a trademark filing, or represent any name as cleared.
 - Store, transmit, enrich, infer, or profile personal, health, prescription, financial, or sensitive data.
-- Import, merge, copy, price from, or operationalize the separate public `ifelaniya-byte/Journals` repository.
+- Import, merge, copy, translate from, price from, or operationalize the separate public `ifelaniya-byte/Journals` repository.
+- Generate, represent as final, upload, or release machine-translated or bilingual customer-facing text without the edition-specific qualified translator, independent proofreader, claims, file, and human release approvals.
 - Bypass an approval by splitting it among agents, using a batch, treating an existing credential as consent, or using a “draft” API endpoint that can have public/commercial effect.
 
 ## Required human approvals before any execution

@@ -1,0 +1,7 @@
+target_language,language_code,script,bilingual_pair,required_qualified_review,current_state
+Spanish,es,Latin,English + Spanish,Qualified Spanish literary/editorial translator plus in-market proofreader,No live text yet
+French,fr,Latin,English + French,Qualified French literary/editorial translator plus in-market proofreader,No live text yet
+Hindi,hi,Devanagari,English + Hindi,"Qualified Hindi translator, Devanagari typesetter, and in-market proofreader",No live text yet
+Simplified Chinese,zh-Hans,Simplified Han,English + Simplified Chinese,"Qualified Simplified-Chinese translator, CJK typesetter, and in-market proofreader",No live text yet
+Hausa,ha,Latin,English + Hausa,Qualified Hausa translator and in-market proofreader,No live text yet
+Yorùbá,yo,Latin with tonal diacritics,English + Yorùbá,Qualified Yorùbá translator and proofreader who checks all tonal diacritics,No live text yet

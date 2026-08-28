@@ -415,8 +415,9 @@ This is a Git-ready 18-concept product catalog with 15 conditional KDP book opti
 2. Open `CATALOG.csv` to see every product’s format/status and only the conditional KDP listing rows.
 3. Read `RELEASE_POLICY.md` and `PORTFOLIO.md`. For each **Wave 1** scout only, open its `release/[ID]-[slug]/metadata.txt`; copy the **AMAZON TITLE**, not merely the cover word.
 4. Use `UPLOAD_CHECKLIST.md` and KDP Print Previewer. Order a proof before enabling ads.
-5. Run `python validate_catalog.py` after any rebuild. A green validation result is structural QC, not legal/clinical clearance.
-6. For the two-read Oct 31 / Nov 28 Gate 1 calculations, use `/home/user/ritual-library-launch-kit/gate-1-validation-scorecard.xlsx` and its adjacent `SCORECARD_READ1_READ2_SPEC.md`.
+5. Read `MULTILINGUAL_MULTICHANNEL_MODEL.md` before creating any edition, store price, translation, or distribution plan. Its `MULTICHANNEL_PRICING_MODEL.csv` is planning-only; it is not a price or publishing authorization.
+6. Run `python validate_catalog.py` after any rebuild. A green validation result is structural QC, not legal/clinical clearance.
+7. For the two-read Oct 31 / Nov 28 Gate 1 calculations, use `/home/user/ritual-library-launch-kit/gate-1-validation-scorecard.xlsx` and its adjacent `SCORECARD_READ1_READ2_SPEC.md`.
 
 ## Two collections
 | Collection | IDs | Customer promise |
@@ -441,7 +442,9 @@ pip install -r requirements.txt
 python build_catalog.py        # regenerates the full release package
 python verify_canonical.py   # PORTFOLIO.md decision baseline vs source/artifacts
 python verify_pricing.py     # Wave 1 price source/artifact agreement
-python validate_catalog.py     # structural QC + canonical guards; exits non-zero on a failure
+python build_multichannel_pricing.py  # writes planning-only channel/edition grid
+python verify_multichannel_pricing.py # confirms it retains canonical Wave 1 anchors
+python validate_catalog.py     # structural QC + canonical/price-model guards; exits non-zero on a failure
 python make_zips.py            # creates only the six Wave 1 candidate bundles
 python make_zips.py --all-vault # explicit internal archive only; never an upload plan\n# Only after a real domain and deployment: python configure_wave1_qr.py --domain <domain> --apply --verify-live
 ```
@@ -455,8 +458,8 @@ A complete, repository-grade production system for an 18-product wellness-statio
 ## Deliverables at a glance
 - **15 conditional KDP book options** plus two private book-form reference artifacts in `release/`; A03 is a non-KDP calendar brief in `non-kdp/`.
 - **2 deluxe hero packages** in `deluxe-heroes/`: *Dose & Breathe* and *Pocket of Calm*.
-- **Commercial operating docs:** `CATALOG.csv`, `RELEASE_POLICY.md`, `PORTFOLIO.md`, `WAVE1_HUMAN_QA.md`, `KDP_ACCOUNT_OPERATIONS.md`, `LEGAL_AND_CLAIMS.md`, `MARKETING.md`, `UPLOAD_CHECKLIST.md`, `ART_DIRECTION.md`, `DELUXE_HEROES.md`, `POLISH_NOTES.md`, `HISTORY.md`, `LOOKBOOK.pdf`, `00_START_HERE.md`, `PREPUBLICATION_SEQUENCE.md`, `SCORECARD_READ1_READ2_SPEC.md` (in the launch kit), `QR_AND_AUDIO.md`, `QR_AUDIO_REVIEW.md`, `TRADEMARK_SCREENING.md`, `BACKUP_IMPRINT_SHORTLIST.md`, `COUNSEL_ENGAGEMENT_MEMO.md`, `COUNSEL_ENGAGEMENT_EMAIL.md`, `AUTOMATION_POLICY.md`, `verify_canonical.py`, `verify_pricing.py`, and `DECISIONS.md`.
-- **Build/QC tools:** `build_catalog.py`, `polish_catalog.py`, `validate_catalog.py`, `configure_wave1_qr.py`, `make_zips.py`, and `requirements.txt`.
+- **Commercial operating docs:** `CATALOG.csv`, `RELEASE_POLICY.md`, `PORTFOLIO.md`, `WAVE1_HUMAN_QA.md`, `KDP_ACCOUNT_OPERATIONS.md`, `LEGAL_AND_CLAIMS.md`, `MARKETING.md`, `UPLOAD_CHECKLIST.md`, `ART_DIRECTION.md`, `DELUXE_HEROES.md`, `POLISH_NOTES.md`, `HISTORY.md`, `LOOKBOOK.pdf`, `00_START_HERE.md`, `PREPUBLICATION_SEQUENCE.md`, `SCORECARD_READ1_READ2_SPEC.md` (in the launch kit), `QR_AND_AUDIO.md`, `QR_AUDIO_REVIEW.md`, `TRADEMARK_SCREENING.md`, `BACKUP_IMPRINT_SHORTLIST.md`, `COUNSEL_ENGAGEMENT_MEMO.md`, `COUNSEL_ENGAGEMENT_EMAIL.md`, `AUTOMATION_POLICY.md`, `MULTILINGUAL_MULTICHANNEL_MODEL.md`, `BILINGUAL_LANGUAGE_REGISTER.csv`, `MULTICHANNEL_PRICING_MODEL.csv`, `verify_canonical.py`, `verify_pricing.py`, `verify_multichannel_pricing.py`, and `DECISIONS.md`.
+- **Build/QC tools:** `build_catalog.py`, `polish_catalog.py`, `build_multichannel_pricing.py`, `validate_catalog.py`, `verify_multichannel_pricing.py`, `configure_wave1_qr.py`, `make_zips.py`, and `requirements.txt`.
 
 ## Product truthfulness
 The KDP editions are purposeful scout products: complete paperback experiences with honest paperback materials. Deluxe materials—foil, ribbons, velvet, coils, card decks, rigid boxes, pockets, scent treatments, and kitting—are not represented as part of a KDP paperback. The two deluxe hero directories are vendor-ready content/art packages that still require final printer dielines and physical proofs.
