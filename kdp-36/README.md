@@ -2,9 +2,13 @@
 
 Print-ready interiors, wrap covers, listing copy, and lookbook.
 
+**Every title lists at $9.99 US** (KDP 60% paperback royalty floor).
+
 | Path | What |
 |---|---|
 | `KDP-Complete-Kit/` | Upload pack: 36 titles × interior + wrap + front + listing |
+| `KDP-Complete-Kit/SELLING_AND_VALUATION.md` | Products, royalties, marketplaces, files to upload |
+| `KDP-Complete-Kit/PROOF_REPORT.md` | Verification that all 36 prices are $9.99 and PDFs match |
 | `KDP-Complete-Kit/LOOKBOOK.pdf` | All covers + upload recipe |
 | `KDP-Complete-Kit/METADATA.csv` | Titles, trims, spines, keywords, prices |
 | `src/` | Python generators (`python3 generate_all.py` then `python3 assemble_kit.py`) |

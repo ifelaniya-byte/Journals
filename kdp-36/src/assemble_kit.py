@@ -201,13 +201,13 @@ def lookbook(dest: Path, front_pngs: list[tuple[dict, Path]]):
         "4.  Upload the COVER WRAP PDF (not the front-only file). KDP will place the barcode",
         "    in the reserved white box on the back.",
         "5.  Paste title, subtitle, HTML description, and 7 keywords from listing.txt.",
-        "6.  Pick two BISAC categories. Set price. Order a proof before opening ads.",
+        "6.  Pick two BISAC categories. Set US price to $9.99. Order a proof before ads.",
         "7.  Replace [Your name or imprint] — covers intentionally have no fake publisher.",
         "",
         "Do not merge cover + interior. KDP wants two files.",
         "Do not put Ozempic in your title unless you accept Amazon's brand-name filter;",
         "GLP-1 is the safer stem. Keep claims to tracking / management.",
-        "07 Titration is 5×8 (KDP has no 4×6). 09 Calendar is 8.5×11.",
+        "07 Titration and 25 Shot-Day are 5×8 (KDP has no 4×6). 09 Calendar is 8.5×11.",
         "Spine text is omitted under 79 pages (KDP rule) — title 07.",
     ]
     y = 9.5 * inch
@@ -290,20 +290,27 @@ def lookbook(dest: Path, front_pngs: list[tuple[dict, Path]]):
     c.save()
 
 
-START_HERE = """# KDP Complete Kit — 18 tracking journals
+START_HERE = """# KDP Complete Kit — 36 tracking journals
 
-Everything for all 18 titles, in one place. Nothing left out.
+Vol 1 (01–18) + Vol 2 (19–36). Everything for all 36 titles, in one place.
+
+**List price for every title: $9.99 US** (KDP 60% paperback royalty floor).
+
+Read `SELLING_AND_VALUATION.md` for royalties, marketplaces, and the exact files to upload.
+Read `PROOF_REPORT.md` for the verification that every listing is $9.99.
 
 ## Folder map
 
 ```
 KDP-Complete-Kit/
   00_START_HERE.md          ← you are here
+  SELLING_AND_VALUATION.md  ← prices, royalties, where to sell, upload files
+  PROOF_REPORT.md           ← verification of files, trims, pages, $9.99
   METADATA.csv              ← titles, trims, spines, keywords, prices
-  LOOKBOOK.pdf              ← all 18 covers + upload specs
+  LOOKBOOK.pdf              ← all 36 covers + upload specs
   _covers/                  ← every wrap + front PDF
   _interiors/               ← every interior PDF
-  01_…/ through 18_…/       ← per-title pack (interior + wrap + listing)
+  01_…/ through 36_…/       ← per-title pack (interior + wrap + listing)
 ```
 
 Each numbered folder contains:
@@ -318,17 +325,17 @@ Each numbered folder contains:
 ## Upload recipe (every title)
 
 1. Paperback · **Bleed OFF** · Interior **black & white** · Paper **white**
-2. Trim = the listing sheet (almost all **6 × 9**; **07 is 5 × 8**; **09 is 8.5 × 11**)
+2. Trim = the listing sheet (almost all **6 × 9**; **07 and 25 are 5 × 8**; **09 is 8.5 × 11**)
 3. Interior PDF, then wrap cover PDF
-4. Paste listing copy. Set price. Proof.
+4. Paste listing copy. Set **$9.99**. Order a proof.
 
 ## What was deliberately not invented
 
-- No fake publisher name on the cover (put yours in KDP’s author field)
+- No fake publisher name on the cover (put yours in KDP's author field)
 - No live QR URLs — dashed QR boxes are on titles 03, 09, 17 so you can paste your own
 - No Ozempic-as-brand in titles (GLP-1 is the stem)
 - No exercise videos, dosing schedules, or treatment claims
-- 4 × 6 pocket is not a KDP trim; 07 ships as **5 × 8**
+- 4 × 6 pocket is not a KDP trim; 07 and 25 ship as **5 × 8**
 
 ## Spine math
 
@@ -391,12 +398,13 @@ def main():
     png_dir = OUTPUT / "_cover_png"
     png_dir.mkdir(exist_ok=True)
     pairs = []
-    for t in TITLES:
+    for t in ALL_TITLES:
         front = OUTPUT / f"{t['stem']}_COVER_FRONT.pdf"
         doc = pymupdf.open(front)
         pix = doc[0].get_pixmap(matrix=pymupdf.Matrix(1.6, 1.6), alpha=False)
         png = png_dir / f"{t['n']}.png"
         pix.save(str(png))
+        doc.close()
         pairs.append((t, png))
 
     print("3/4  Lookbook…")

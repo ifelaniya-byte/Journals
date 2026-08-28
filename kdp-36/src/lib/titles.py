@@ -45,7 +45,7 @@ TITLES = [
         ],
         bisac=["HEA019000", "HEA006000"],  # Diet & Nutrition / Weight Loss-ish — see listings
         bisac_names=["HEALTH & FITNESS / Diet & Nutrition / Nutrition", "HEALTH & FITNESS / Weight Loss"],
-        price=12.99,
+        price=9.99,
         qr=None,
     ),
     dict(
@@ -85,7 +85,7 @@ TITLES = [
         ],
         bisac=["HEA039000", "HEA028000"],
         bisac_names=["HEALTH & FITNESS / Diseases / General", "HEALTH & FITNESS / Women's Health"],
-        price=11.99,
+        price=9.99,
         qr=None,
     ),
     dict(
@@ -125,7 +125,7 @@ TITLES = [
         ],
         bisac=["HEA019000", "SEL020000"],
         bisac_names=["HEALTH & FITNESS / Diet & Nutrition / Nutrition", "SELF-HELP / Motivational & Inspirational"],
-        price=12.99,
+        price=9.99,
         qr="pep",
     ),
     dict(
@@ -165,7 +165,7 @@ TITLES = [
         ],
         bisac=["HEA019000", "HEA028000"],
         bisac_names=["HEALTH & FITNESS / Diet & Nutrition / Nutrition", "HEALTH & FITNESS / Women's Health"],
-        price=11.99,
+        price=9.99,
         qr=None,
     ),
     dict(
@@ -205,7 +205,7 @@ TITLES = [
         ],
         bisac=["HEA019000", "SEL014000"],
         bisac_names=["HEALTH & FITNESS / Diet & Nutrition / Nutrition", "SELF-HELP / Eating Disorders & Body Image"],
-        price=12.99,
+        price=9.99,
         qr=None,
     ),
     dict(
@@ -245,7 +245,7 @@ TITLES = [
         ],
         bisac=["HEA007000", "HEA019000"],
         bisac_names=["HEALTH & FITNESS / Exercise / General", "HEALTH & FITNESS / Diet & Nutrition / Nutrition"],
-        price=11.99,
+        price=9.99,
         qr=None,
     ),
     dict(
@@ -325,7 +325,7 @@ TITLES = [
         ],
         bisac=["SEL016000", "HEA019000"],
         bisac_names=["SELF-HELP / Personal Growth / Happiness", "HEALTH & FITNESS / Diet & Nutrition / Nutrition"],
-        price=12.99,
+        price=9.99,
         qr=None,
     ),
     dict(
@@ -365,7 +365,7 @@ TITLES = [
         ],
         bisac=["HEA039000", "NON000000"],
         bisac_names=["HEALTH & FITNESS / Diseases / General", "NON-CLASSIFIABLE"],
-        price=14.99,
+        price=9.99,
         qr="coupon",
     ),
     dict(
@@ -405,7 +405,7 @@ TITLES = [
         ],
         bisac=["SEL026000", "SEL006000"],
         bisac_names=["SELF-HELP / Substance Abuse & Addictions / Alcohol", "SELF-HELP / Affirmations"],
-        price=12.99,
+        price=9.99,
         qr=None,
     ),
     dict(
@@ -445,7 +445,7 @@ TITLES = [
         ],
         bisac=["HEA019000", "HEA006000"],
         bisac_names=["HEALTH & FITNESS / Diet & Nutrition / Nutrition", "HEALTH & FITNESS / Weight Loss"],
-        price=12.99,
+        price=9.99,
         qr=None,
     ),
     dict(
@@ -485,7 +485,7 @@ TITLES = [
         ],
         bisac=["HEA039050", "HEA009000"],
         bisac_names=["HEALTH & FITNESS / Diseases / Nervous System (incl. Brain)", "HEALTH & FITNESS / Pain Management"],
-        price=12.99,
+        price=9.99,
         qr=None,
     ),
     dict(
@@ -525,7 +525,7 @@ TITLES = [
         ],
         bisac=["HEA039110", "SEL014000"],
         bisac_names=["HEALTH & FITNESS / Diseases / Nervous System", "SELF-HELP / Personal Growth / Success"],
-        price=12.99,
+        price=9.99,
         qr=None,
     ),
     dict(
@@ -565,7 +565,7 @@ TITLES = [
         ],
         bisac=["HEA028000", "HEA024000"],
         bisac_names=["HEALTH & FITNESS / Women's Health", "HEALTH & FITNESS / Menopause"],
-        price=12.99,
+        price=9.99,
         qr=None,
     ),
     dict(
@@ -605,7 +605,7 @@ TITLES = [
         ],
         bisac=["HEA039010", "HEA019000"],
         bisac_names=["HEALTH & FITNESS / Diseases / Gastrointestinal", "HEALTH & FITNESS / Diet & Nutrition / Nutrition"],
-        price=11.99,
+        price=9.99,
         qr=None,
     ),
     dict(
@@ -645,7 +645,7 @@ TITLES = [
         ],
         bisac=["SEL027000", "SEL043000"],
         bisac_names=["SELF-HELP / Self-Management / Time Management", "SELF-HELP / Green Lifestyle"],
-        price=11.99,
+        price=9.99,
         qr=None,
     ),
     dict(
@@ -685,7 +685,7 @@ TITLES = [
         ],
         bisac=["HEA044000", "HEA028000"],
         bisac_names=["HEALTH & FITNESS / Pregnancy & Childbirth", "HEALTH & FITNESS / Women's Health"],
-        price=12.99,
+        price=9.99,
         qr="pt",
     ),
     dict(
@@ -725,7 +725,7 @@ TITLES = [
         ],
         bisac=["HEA039000", "HEA039020"],
         bisac_names=["HEALTH & FITNESS / Diseases / General", "HEALTH & FITNESS / Diseases / Immune System"],
-        price=12.99,
+        price=9.99,
         qr=None,
     ),
 ]
