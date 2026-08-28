@@ -1,0 +1,78 @@
+KDP LISTING — 06
+================================
+TITLE (≤200 chars)
+GLP-1 Fitness & Step Companion
+
+SUBTITLE
+32-Week Strength, Cardio & Recovery Log (Undated)
+
+AUTHOR / IMPRINT
+[Your name or imprint]
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+85
+
+COVER FILE
+06_GLP1_Fitness_COVER_WRAP.pdf
+  Full wrap size: 12.441" × 9.250"
+  Spine: 0.1914"  (white paper B&W, 85 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+06_GLP1_Fitness_and_Step_Companion_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Exercise / General  (HEA007000)
+HEALTH & FITNESS / Diet & Nutrition / Nutrition  (HEA019000)
+
+SEVEN BACKEND KEYWORDS
+  1. glp-1 workout log
+  2. step tracker journal
+  3. strength cardio planner
+  4. weekly fitness notebook
+  5. recovery log book
+  6. undated training diary
+  7. walking habit tracker
+
+SUGGESTED PRICE (US)
+$11.99
+
+DESCRIPTION (plain)
+-------------------
+GLP-1 Fitness & Step Companion
+32-Week Strength, Cardio & Recovery Log (Undated)
+
+A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Plan on the left, log on the right
+  • Strength + cardio / steps split
+  • RPE and recovery notes
+  • Timer ring is a personal record, not a protocol
+
+Trim: 6 × 9 in
+Pages: 85
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $11.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>GLP-1 Fitness & Step Companion</b> — 32-Week Strength, Cardio & Recovery Log (Undated)</p>
+<p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Plan on the left, log on the right</li><li>Strength + cardio / steps split</li><li>RPE and recovery notes</li><li>Timer ring is a personal record, not a protocol</li></ul>
+<p>Trim 6 × 9 in · 85 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
+<p><i>Personal tracking / management tool only. Not medical advice.</i></p>

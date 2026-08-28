@@ -1,0 +1,78 @@
+KDP LISTING — 24
+================================
+TITLE (≤200 chars)
+GLP-1 Weekly Review & Clinic Brief Binder
+
+SUBTITLE
+52 Weeks of Review Spreads + One-Page Clinician Briefs
+
+AUTHOR / IMPRINT
+[Your name or imprint]
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+115
+
+COVER FILE
+24_GLP1_Weekly_Brief_COVER_WRAP.pdf
+  Full wrap size: 12.509" × 9.250"
+  Spine: 0.2590"  (white paper B&W, 115 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+24_GLP1_Weekly_Review_and_Clinic_Brief_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Reference  (HEA020000)
+HEALTH & FITNESS / Diseases / General  (HEA039000)
+
+SEVEN BACKEND KEYWORDS
+  1. clinic visit journal
+  2. weekly health review
+  3. doctor appointment notes
+  4. glp-1 weekly log
+  5. patient brief notebook
+  6. 52 week health diary
+  7. undated medical journal
+
+SUGGESTED PRICE (US)
+$12.99
+
+DESCRIPTION (plain)
+-------------------
+GLP-1 Weekly Review & Clinic Brief Binder
+52 Weeks of Review Spreads + One-Page Clinician Briefs
+
+A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Left: the week in signals
+  • Right: a 90-second clinician brief
+  • Flag box for loud weeks
+  • Four quarterly letters
+
+Trim: 6 × 9 in
+Pages: 115
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $12.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>GLP-1 Weekly Review & Clinic Brief Binder</b> — 52 Weeks of Review Spreads + One-Page Clinician Briefs</p>
+<p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Left: the week in signals</li><li>Right: a 90-second clinician brief</li><li>Flag box for loud weeks</li><li>Four quarterly letters</li></ul>
+<p>Trim 6 × 9 in · 115 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
+<p><i>Personal tracking / management tool only. Not medical advice.</i></p>

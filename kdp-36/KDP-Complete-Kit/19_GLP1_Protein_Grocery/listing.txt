@@ -1,0 +1,78 @@
+KDP LISTING — 19
+================================
+TITLE (≤200 chars)
+GLP-1 High-Protein Grocery & Meal Prep Planner
+
+SUBTITLE
+12-Week Shopping Lists, Batch-Cook Logs & Fridge Maps (Undated)
+
+AUTHOR / IMPRINT
+[Your name or imprint]
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+136
+
+COVER FILE
+19_GLP1_Protein_Grocery_COVER_WRAP.pdf
+  Full wrap size: 12.556" × 9.250"
+  Spine: 0.3063"  (white paper B&W, 136 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+19_GLP1_Protein_Grocery_and_Prep_Planner_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Diet & Nutrition / Food Content Guides  (HEA017000)
+HEALTH & FITNESS / Diet & Nutrition / Nutrition  (HEA019000)
+
+SEVEN BACKEND KEYWORDS
+  1. protein meal prep planner
+  2. glp-1 grocery list
+  3. batch cooking journal
+  4. high protein shopping list
+  5. fridge leftover log
+  6. 12 week meal prep
+  7. undated grocery planner
+
+SUGGESTED PRICE (US)
+$13.99
+
+DESCRIPTION (plain)
+-------------------
+GLP-1 High-Protein Grocery & Meal Prep Planner
+12-Week Shopping Lists, Batch-Cook Logs & Fridge Maps (Undated)
+
+A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Weekly shop lists by protein / produce / extras
+  • Prep-session log and fridge map
+  • Seven daily leftover pages per week
+  • Clinic brief if nutrition comes up
+
+Trim: 6 × 9 in
+Pages: 136
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $13.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>GLP-1 High-Protein Grocery & Meal Prep Planner</b> — 12-Week Shopping Lists, Batch-Cook Logs & Fridge Maps (Undated)</p>
+<p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Weekly shop lists by protein / produce / extras</li><li>Prep-session log and fridge map</li><li>Seven daily leftover pages per week</li><li>Clinic brief if nutrition comes up</li></ul>
+<p>Trim 6 × 9 in · 136 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
+<p><i>Personal tracking / management tool only. Not medical advice.</i></p>

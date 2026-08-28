@@ -1,0 +1,78 @@
+KDP LISTING — 29
+================================
+TITLE (≤200 chars)
+Sleep Window & Wind-Down Diary
+
+SUBTITLE
+12-Week Sleep Diary: Latency, WASO, Rise Time & Wind-Down (Tracking Only)
+
+AUTHOR / IMPRINT
+[Your name or imprint]
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+104
+
+COVER FILE
+29_Sleep_Window_COVER_WRAP.pdf
+  Full wrap size: 12.484" × 9.250"
+  Spine: 0.2342"  (white paper B&W, 104 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+29_Sleep_Window_and_Wind_Down_Diary_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Sleep  (HEA043000)
+SELF-HELP / Self-Management / General  (SEL032000)
+
+SEVEN BACKEND KEYWORDS
+  1. sleep diary journal
+  2. insomnia tracker
+  3. WASO sleep log
+  4. wind down notebook
+  5. 12 week sleep diary
+  6. latency sleep journal
+  7. undated sleep log
+
+SUGGESTED PRICE (US)
+$12.99
+
+DESCRIPTION (plain)
+-------------------
+Sleep Window & Wind-Down Diary
+12-Week Sleep Diary: Latency, WASO, Rise Time & Wind-Down (Tracking Only)
+
+A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Classic sleep-diary fields clinicians recognize
+  • Wind-down checkboxes
+  • Weekly pattern page
+  • Not a restriction protocol
+
+Trim: 6 × 9 in
+Pages: 104
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $12.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Sleep Window & Wind-Down Diary</b> — 12-Week Sleep Diary: Latency, WASO, Rise Time & Wind-Down (Tracking Only)</p>
+<p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Classic sleep-diary fields clinicians recognize</li><li>Wind-down checkboxes</li><li>Weekly pattern page</li><li>Not a restriction protocol</li></ul>
+<p>Trim 6 × 9 in · 104 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
+<p><i>Personal tracking / management tool only. Not medical advice.</i></p>

@@ -1,0 +1,78 @@
+KDP LISTING — 32
+================================
+TITLE (≤200 chars)
+Chronic Pain Body Map & Flare Diary
+
+SUBTITLE
+72 Flare Pages, Front/Back Maps, Monthly Function Dashboards
+
+AUTHOR / IMPRINT
+[Your name or imprint]
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+92
+
+COVER FILE
+32_Chronic_Pain_COVER_WRAP.pdf
+  Full wrap size: 12.457" × 9.250"
+  Spine: 0.2072"  (white paper B&W, 92 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+32_Chronic_Pain_Body_Map_and_Flare_Diary_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Pain Management  (HEA009000)
+HEALTH & FITNESS / Diseases / General  (HEA039000)
+
+SEVEN BACKEND KEYWORDS
+  1. chronic pain journal
+  2. flare tracker diary
+  3. pain body map
+  4. function log book
+  5. monthly pain dashboard
+  6. undated pain diary
+  7. chronic illness notebook
+
+SUGGESTED PRICE (US)
+$12.99
+
+DESCRIPTION (plain)
+-------------------
+Chronic Pain Body Map & Flare Diary
+72 Flare Pages, Front/Back Maps, Monthly Function Dashboards
+
+A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Simple front/back mark-up
+  • 0–10 plus quality words
+  • Function I still did — not a failure list
+  • Monthly dashboards
+
+Trim: 6 × 9 in
+Pages: 92
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $12.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Chronic Pain Body Map & Flare Diary</b> — 72 Flare Pages, Front/Back Maps, Monthly Function Dashboards</p>
+<p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Simple front/back mark-up</li><li>0–10 plus quality words</li><li>Function I still did — not a failure list</li><li>Monthly dashboards</li></ul>
+<p>Trim 6 × 9 in · 92 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
+<p><i>Personal tracking / management tool only. Not medical advice.</i></p>

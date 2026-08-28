@@ -1,0 +1,78 @@
+KDP LISTING — 14
+================================
+TITLE (≤200 chars)
+Perimenopause Symptom & Mood Chart
+
+SUBTITLE
+90-Day Hot Flash, Sleep Wheel & Cycle Timeline Tracker
+
+AUTHOR / IMPRINT
+[Your name or imprint]
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+107
+
+COVER FILE
+14_Perimenopause_Chart_COVER_WRAP.pdf
+  Full wrap size: 12.491" × 9.250"
+  Spine: 0.2410"  (white paper B&W, 107 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+14_Perimenopause_Symptom_and_Mood_Chart_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Women's Health  (HEA028000)
+HEALTH & FITNESS / Menopause  (HEA024000)
+
+SEVEN BACKEND KEYWORDS
+  1. perimenopause tracker
+  2. hot flash journal
+  3. menopause symptom diary
+  4. cycle mood chart
+  5. night sweat log book
+  6. undated peri journal
+  7. women's health notebook
+
+SUGGESTED PRICE (US)
+$12.99
+
+DESCRIPTION (plain)
+-------------------
+Perimenopause Symptom & Mood Chart
+90-Day Hot Flash, Sleep Wheel & Cycle Timeline Tracker
+
+A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Tally marks for flashes and night sweats
+  • Sleep-quality wheel 1–5
+  • Chaotic-cycle timeline (blank is data)
+  • Questions for the next visit
+
+Trim: 6 × 9 in
+Pages: 107
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $12.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Perimenopause Symptom & Mood Chart</b> — 90-Day Hot Flash, Sleep Wheel & Cycle Timeline Tracker</p>
+<p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Tally marks for flashes and night sweats</li><li>Sleep-quality wheel 1–5</li><li>Chaotic-cycle timeline (blank is data)</li><li>Questions for the next visit</li></ul>
+<p>Trim 6 × 9 in · 107 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
+<p><i>Personal tracking / management tool only. Not medical advice.</i></p>

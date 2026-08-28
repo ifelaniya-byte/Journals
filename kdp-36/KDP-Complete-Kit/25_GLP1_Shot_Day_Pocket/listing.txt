@@ -1,0 +1,78 @@
+KDP LISTING — 25
+================================
+TITLE (≤200 chars)
+GLP-1 Shot Day 0-48 Hour Pocket Log
+
+SUBTITLE
+5x8 Two-Page Cycles: Injection Day + Next 48 Hours (36 Cycles)
+
+AUTHOR / IMPRINT
+[Your name or imprint]
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+5" × 8"
+
+PAGE COUNT
+79
+
+COVER FILE
+25_GLP1_Shot_Day_Pocket_COVER_WRAP.pdf
+  Full wrap size: 10.428" × 8.250"
+  Spine: 0.1779"  (white paper B&W, 79 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+25_GLP1_Shot_Day_0_48h_Pocket_Log_5x8.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Diseases / General  (HEA039000)
+HEALTH & FITNESS / Reference  (HEA020000)
+
+SEVEN BACKEND KEYWORDS
+  1. injection day journal
+  2. glp-1 shot log
+  3. pocket side effect diary
+  4. 0-48 hour tracker
+  5. 5x8 medication log
+  6. weekly injection notes
+  7. undated shot notebook
+
+SUGGESTED PRICE (US)
+$10.99
+
+DESCRIPTION (plain)
+-------------------
+GLP-1 Shot Day 0-48 Hour Pocket Log
+5x8 Two-Page Cycles: Injection Day + Next 48 Hours (36 Cycles)
+
+A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Shot day as prescribed: time, site, 0–12h
+  • Echo page: +24 to +48h
+  • 36 cycles in a pocket trim
+  • Copy the dose — never invent one
+
+Trim: 5 × 8 in
+Pages: 79
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $10.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>GLP-1 Shot Day 0-48 Hour Pocket Log</b> — 5x8 Two-Page Cycles: Injection Day + Next 48 Hours (36 Cycles)</p>
+<p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Shot day as prescribed: time, site, 0–12h</li><li>Echo page: +24 to +48h</li><li>36 cycles in a pocket trim</li><li>Copy the dose — never invent one</li></ul>
+<p>Trim 5 × 8 in · 79 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
+<p><i>Personal tracking / management tool only. Not medical advice.</i></p>

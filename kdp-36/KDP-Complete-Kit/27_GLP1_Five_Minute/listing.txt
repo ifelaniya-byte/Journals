@@ -1,0 +1,78 @@
+KDP LISTING — 27
+================================
+TITLE (≤200 chars)
+GLP-1 Five-Minute Morning Pages
+
+SUBTITLE
+120 Compact Daily Pages for People Who Won't Fill a Spread
+
+AUTHOR / IMPRINT
+[Your name or imprint]
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+130
+
+COVER FILE
+27_GLP1_Five_Minute_COVER_WRAP.pdf
+  Full wrap size: 12.543" × 9.250"
+  Spine: 0.2928"  (white paper B&W, 130 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+27_GLP1_Five_Minute_Morning_Pages_6x9.pdf
+
+CATEGORIES / BISAC
+SELF-HELP / Journaling  (SEL010000)
+HEALTH & FITNESS / Diet & Nutrition / Nutrition  (HEA019000)
+
+SEVEN BACKEND KEYWORDS
+  1. five minute journal
+  2. glp-1 daily log
+  3. short morning pages
+  4. compact health diary
+  5. 120 day undated
+  6. quick daily tracker
+  7. minimalist glp journal
+
+SUGGESTED PRICE (US)
+$12.99
+
+DESCRIPTION (plain)
+-------------------
+GLP-1 Five-Minute Morning Pages
+120 Compact Daily Pages for People Who Won't Fill a Spread
+
+A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Five minutes, then leave the book
+  • Shot / not-shot, protein, body scale
+  • One sentence + one gratitude
+  • 30-day harvest pages
+
+Trim: 6 × 9 in
+Pages: 130
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $12.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>GLP-1 Five-Minute Morning Pages</b> — 120 Compact Daily Pages for People Who Won't Fill a Spread</p>
+<p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Five minutes, then leave the book</li><li>Shot / not-shot, protein, body scale</li><li>One sentence + one gratitude</li><li>30-day harvest pages</li></ul>
+<p>Trim 6 × 9 in · 130 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
+<p><i>Personal tracking / management tool only. Not medical advice.</i></p>

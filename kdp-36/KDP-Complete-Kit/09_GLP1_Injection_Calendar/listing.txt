@@ -1,0 +1,78 @@
+KDP LISTING — 09
+================================
+TITLE (≤200 chars)
+GLP-1 Injection Sticker Calendar
+
+SUBTITLE
+Undated 12-Month 8.5 x 11 Log with Site Map & Refill Pages
+
+AUTHOR / IMPRINT
+[Your name or imprint]
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+8.5" × 11"
+
+PAGE COUNT
+98
+
+COVER FILE
+09_GLP1_Injection_Calendar_COVER_WRAP.pdf
+  Full wrap size: 17.471" × 11.250"
+  Spine: 0.2207"  (white paper B&W, 98 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+09_GLP1_Injection_Sticker_Calendar_85x11.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Diseases / General  (HEA039000)
+NON-CLASSIFIABLE  (NON000000)
+
+SEVEN BACKEND KEYWORDS
+  1. injection calendar book
+  2. glp-1 sticker planner
+  3. weekly injection log
+  4. site rotation tracker
+  5. 8.5 x 11 health calendar
+  6. undated med calendar
+  7. refill reminder notebook
+
+SUGGESTED PRICE (US)
+$14.99
+
+DESCRIPTION (plain)
+-------------------
+GLP-1 Injection Sticker Calendar
+Undated 12-Month 8.5 x 11 Log with Site Map & Refill Pages
+
+A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Six-row sticker calendars you number yourself
+  • Blank site map — copy what your clinic showed you
+  • Injection log, weekly sheets, refill notes
+  • White paper recommended for vinyl stickers
+
+Trim: 8.5 × 11 in
+Pages: 98
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $14.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>GLP-1 Injection Sticker Calendar</b> — Undated 12-Month 8.5 x 11 Log with Site Map & Refill Pages</p>
+<p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Six-row sticker calendars you number yourself</li><li>Blank site map — copy what your clinic showed you</li><li>Injection log, weekly sheets, refill notes</li><li>White paper recommended for vinyl stickers</li></ul>
+<p>Trim 8.5 × 11 in · 98 pages · black-and-white interior · white paper recommended · bleed OFF.</p>
+<p><i>Personal tracking / management tool only. Not medical advice.</i></p>
