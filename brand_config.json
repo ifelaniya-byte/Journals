@@ -1,11 +1,13 @@
 {
   "brand_name": "The Ritual Library",
   "imprint": "Stillwork Studio",
-  "imprint_status": "Working candidate — trademark clearance pending",
-  "domain": "",
-  "qr_redirect_host": "",
-  "landing_origin": "",
+  "imprint_status": "Working candidate \u2014 trademark clearance pending",
+  "domain": "stillworkstudio.com",
+  "qr_redirect_host": "go.stillworkstudio.com",
+  "landing_origin": "https://www.stillworkstudio.com",
   "customer_service_email": "",
   "updated": "2026-08-28",
-  "release_note": "Stillwork Studio is an approved working imprint for the v1.1 branded build only. It is not trademark clearance, a domain registration, legal clearance, or publication authorization."
+  "release_note": "Stillwork Studio is an approved working imprint for the v1.1 branded build only. It is not trademark clearance, a domain registration, legal clearance, or publication authorization.",
+  "domain_status": "Candidate configuration only \u2014 ownership and name clearance must be verified before public DNS, QR stamping, proof, or upload.",
+  "audio_status": "Draft voice recordings generated for legal/editorial review; not approved for deployment."
 }

@@ -33,6 +33,7 @@ python build_catalog.py        # regenerates the full release package
 python validate_catalog.py     # structural QC; exits non-zero on a failure
 python make_zips.py            # creates only the six Wave 1 candidate bundles
 python make_zips.py --all-vault # explicit internal archive only; never an upload plan
+# Only after a real domain and deployment: python configure_wave1_qr.py --domain <domain> --apply --verify-live
 ```
 
 Do not release a product simply because it validates or has a ZIP file. Follow `RELEASE_POLICY.md`; only six Wave 1 SKUs are potential September uploads. Stillwork Studio is the working imprint candidate, subject to clearance. Clear names/claims, complete the QR/audio gate where applicable, validate the final KDP template, and approve proof copies.

@@ -2,7 +2,7 @@
 
 **Decision date:** August 28, 2026  
 **Scope:** Six Wave 1 paperbacks only — A01, A04, A05, B10, B12, and B18.  
-**Status:** Architecture prepared. **No QR code may be printed or uploaded until a buyer-controlled domain, live audio files, and route tests pass.**
+**Status:** Candidate domain configuration and six draft narration files are prepared. **No QR code may be printed or uploaded until ownership/name clearance, live deployment, audio review, route tests, and physical-proof scans pass.**
 
 ## Product rule
 
@@ -14,14 +14,14 @@ The QR must resolve to a brand-owned redirect host, not a raw website-builder UR
 
 | SKU | Product | Printed endpoint after domain registration | Landing-page path | Audio asset | On-page label |
 |---|---|---|---|---|---|
-| A01 | *Dose & Breathe* | `go.<domain>/arrive` | `/listen/arrive/` | `A01-arrive.mp3` | A quiet optional pause |
-| A04 | *Softer Words* | `go.<domain>/soften` | `/listen/soften/` | `A04-soften.mp3` | A quiet optional pause |
-| A05 | *Night Harbor* | `go.<domain>/harbor` | `/listen/harbor/` | `A05-harbor.mp3` | A quiet optional pause |
-| B10 | *Rest & Regulate* | `go.<domain>/settle` | `/listen/settle/` | `B10-settle.mp3` | A quiet optional pause |
-| B12 | *Back to Enough* | `go.<domain>/enough` | `/listen/enough/` | `B12-enough.mp3` | A quiet optional pause |
-| B18 | *Enough Money, Enough Calm* | `go.<domain>/clarity` | `/listen/clarity/` | `B18-clarity.mp3` | A quiet optional pause |
+| A01 | *Dose & Breathe* | `go.stillworkstudio.com/arrive` | `/listen/arrive/` | `A01-arrive.mp3` | A quiet optional pause |
+| A04 | *Softer Words* | `go.stillworkstudio.com/soften` | `/listen/soften/` | `A04-soften.mp3` | A quiet optional pause |
+| A05 | *Night Harbor* | `go.stillworkstudio.com/harbor` | `/listen/harbor/` | `A05-harbor.mp3` | A quiet optional pause |
+| B10 | *Rest & Regulate* | `go.stillworkstudio.com/settle` | `/listen/settle/` | `B10-settle.mp3` | A quiet optional pause |
+| B12 | *Back to Enough* | `go.stillworkstudio.com/enough` | `/listen/enough/` | `B12-enough.mp3` | A quiet optional pause |
+| B18 | *Enough Money, Enough Calm* | `go.stillworkstudio.com/clarity` | `/listen/clarity/` | `B18-clarity.mp3` | A quiet optional pause |
 
-`<domain>` is deliberately unset in `brand_config.json`. Do not substitute an unregistered name, a temporary test host, Bitly, Rebrandly, Squarespace, Carrd, Linktree, or a local URL in a print file.
+`stillworkstudio.com` is a **candidate configuration only** in `brand_config.json`; ownership and name clearance have not been independently verified. Do not stamp/print a code until those conditions are documented. Never substitute a temporary test host, Bitly, Rebrandly, Squarespace, Carrd, Linktree, or a local URL in a print file.
 
 ## Ownership and redirect design
 
@@ -33,10 +33,10 @@ The QR must resolve to a brand-owned redirect host, not a raw website-builder UR
 
 ## Non-negotiable completion checklist
 
-- [ ] Exact domain is registered and controlled by the business owner.
+- [ ] `stillworkstudio.com` is confirmed registered and controlled by the business owner (or `brand_config.json` is changed to the cleared replacement before QR generation).
 - [ ] Trademark/name reviewer clears the working imprint and relevant product/series names.
 - [ ] A healthcare/claims reviewer clears A01 audio and any other claims-sensitive script; all six scripts have editorial sign-off.
-- [ ] Final MP3s are present in `qr-routing/site/audio/` and play on mobile with the screen locked/unlocked as intended.
+- [ ] The six draft MP3s in `qr-routing/site/audio/` have passed editorial/claims review in `QR_AUDIO_REVIEW.md`, are marked final, and play on mobile with the screen locked/unlocked as intended.
 - [ ] Each HTTPS `go.<domain>/<route>` redirects to its expected first-party landing page without an account login, age gate, forced download, tracker, or broken certificate.
 - [ ] `python configure_wave1_qr.py --domain <domain> --apply --verify-live` completes successfully after a clean `python build_catalog.py`.
 - [ ] QR is at least 1.1 in. square, black on white, surrounded by clear space, and its printed short address appears below it for accessibility.

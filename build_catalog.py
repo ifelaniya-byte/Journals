@@ -407,7 +407,7 @@ pip install -r requirements.txt
 python build_catalog.py        # regenerates the full release package
 python validate_catalog.py     # structural QC; exits non-zero on a failure
 python make_zips.py            # creates only the six Wave 1 candidate bundles
-python make_zips.py --all-vault # explicit internal archive only; never an upload plan
+python make_zips.py --all-vault # explicit internal archive only; never an upload plan\n# Only after a real domain and deployment: python configure_wave1_qr.py --domain <domain> --apply --verify-live
 ```
 
 Do not release a product simply because it validates or has a ZIP file. Follow `RELEASE_POLICY.md`; only six Wave 1 SKUs are potential September uploads. Stillwork Studio is the working imprint candidate, subject to clearance. Clear names/claims, complete the QR/audio gate where applicable, validate the final KDP template, and approve proof copies.
@@ -419,8 +419,8 @@ A complete, repository-grade production system for an 18-product wellness-statio
 ## Deliverables at a glance
 - **18 KDP paperback packages** in `release/`, each with 10 publication/listing files.
 - **2 deluxe hero packages** in `deluxe-heroes/`: *Dose & Breathe* and *Pocket of Calm*.
-- **Commercial operating docs:** `CATALOG.csv`, `RELEASE_POLICY.md`, `PORTFOLIO.md`, `WAVE1_HUMAN_QA.md`, `KDP_ACCOUNT_OPERATIONS.md`, `LEGAL_AND_CLAIMS.md`, `MARKETING.md`, `UPLOAD_CHECKLIST.md`, `ART_DIRECTION.md`, `DELUXE_HEROES.md`, `POLISH_NOTES.md`, `HISTORY.md`, `LOOKBOOK.pdf`, and `00_START_HERE.md`.
-- **Build/QC tools:** `build_catalog.py`, `polish_catalog.py`, `validate_catalog.py`, `make_zips.py`, and `requirements.txt`.
+- **Commercial operating docs:** `CATALOG.csv`, `RELEASE_POLICY.md`, `PORTFOLIO.md`, `WAVE1_HUMAN_QA.md`, `KDP_ACCOUNT_OPERATIONS.md`, `LEGAL_AND_CLAIMS.md`, `MARKETING.md`, `UPLOAD_CHECKLIST.md`, `ART_DIRECTION.md`, `DELUXE_HEROES.md`, `POLISH_NOTES.md`, `HISTORY.md`, `LOOKBOOK.pdf`, `00_START_HERE.md`, `PREPUBLICATION_SEQUENCE.md`, `QR_AND_AUDIO.md`, `QR_AUDIO_REVIEW.md`, `TRADEMARK_SCREENING.md`, and `DECISIONS.md`.
+- **Build/QC tools:** `build_catalog.py`, `polish_catalog.py`, `validate_catalog.py`, `configure_wave1_qr.py`, `make_zips.py`, and `requirements.txt`.
 
 ## Product truthfulness
 The KDP editions are purposeful scout products: complete paperback experiences with honest paperback materials. Deluxe materials—foil, ribbons, velvet, coils, card decks, rigid boxes, pockets, scent treatments, and kitting—are not represented as part of a KDP paperback. The two deluxe hero directories are vendor-ready content/art packages that still require final printer dielines and physical proofs.

@@ -1,6 +1,6 @@
 # First-party QR routing deployment
 
-This directory is a deployable-reference architecture, not a live service and not an instruction to print QR codes yet.
+This directory is a deployable candidate architecture, not a live service and not an instruction to print QR codes yet. It currently uses the unverified candidate domain `stillworkstudio.com` in generated route configuration.
 
 ## Intended production topology
 
@@ -15,7 +15,7 @@ Never print a raw Carrd, Shopify, Squarespace, Bitly, Rebrandly, Linktree, tempo
 
 - `worker.js` — small Cloudflare Worker reference map for the six permanent routes.
 - `routes.json` — generated only after an exact domain is supplied to `configure_wave1_qr.py`.
-- `site/` — generated mobile-first static landing pages and final reviewed MP3 destination folder.
+- `site/` — generated mobile-first static landing pages and six **draft, review-pending** MP3s. The published audio must be explicitly approved in `../QR_AUDIO_REVIEW.md`.
 
 ## Deployment outline
 

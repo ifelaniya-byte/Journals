@@ -11,7 +11,7 @@ from PIL import Image
 import fitz
 R=Path(__file__).resolve().parent
 CAT=R/'CATALOG.csv'; REL=R/'release'
-BRAND=json.loads((R/'brand_config.json').read_text(encoding='utf-8')); IMPRINT=BRAND.get('imprint','').strip()
+BRAND=json.loads((R/'brand_config.json').read_text(encoding='utf-8')); IMPRINT=BRAND.get('imprint','').strip(); DOMAIN=BRAND.get('domain','').strip()
 BLEED=.125; PPI=.002252
 fails=[]; passed=0
 
@@ -60,9 +60,15 @@ up=(R/'UPLOAD_CHECKLIST.md').read_text(encoding='utf-8')
 check(len(re.findall(r'^## [AB]\d+',up,re.M))==18,'upload checklist must have 18 sections')
 look=fitz.open(R/'LOOKBOOK.pdf')
 check(len(look)==19,'lookbook must have title + 18 product pages')
-check(all((R/x).exists() for x in ['MARKETING.md','LEGAL_AND_CLAIMS.md','00_START_HERE.md','RELEASE_POLICY.md','PORTFOLIO.md','WAVE1_HUMAN_QA.md','KDP_ACCOUNT_OPERATIONS.md','POLISH_NOTES.md','PREPUBLICATION_SEQUENCE.md','QR_AND_AUDIO.md','TRADEMARK_SCREENING.md','DECISIONS.md']),'operating and release-control docs present')
+check(all((R/x).exists() for x in ['MARKETING.md','LEGAL_AND_CLAIMS.md','00_START_HERE.md','RELEASE_POLICY.md','PORTFOLIO.md','WAVE1_HUMAN_QA.md','KDP_ACCOUNT_OPERATIONS.md','POLISH_NOTES.md','PREPUBLICATION_SEQUENCE.md','QR_AND_AUDIO.md','QR_AUDIO_REVIEW.md','TRADEMARK_SCREENING.md','DECISIONS.md']),'operating and release-control docs present')
 check((R/'configure_wave1_qr.py').is_file() and (R/'qr-routing'/'worker.js').is_file(),'QR routing/stamp tooling present')
-print(f'\nChecks passed: {passed}/27')
+if DOMAIN:
+    route_file=R/'qr-routing'/'routes.json'
+    route_data=json.loads(route_file.read_text(encoding='utf-8')) if route_file.exists() else {}
+    check(route_data.get('domain')==DOMAIN and len(route_data.get('routes',[]))==6,'configured QR route map has six candidate routes')
+    check(all((R/'qr-routing'/'site'/'audio'/x).is_file() for x in ['A01-arrive.mp3','A04-soften.mp3','A05-harbor.mp3','B10-settle.mp3','B12-enough.mp3','B18-clarity.mp3']),'six Wave 1 draft audio files present')
+    check(all((R/'qr-routing'/'site'/'listen'/x/'index.html').is_file() for x in ['arrive','soften','harbor','settle','enough','clarity']),'six Wave 1 candidate landing pages present')
+print(f'\nChecks passed: {passed}/30')
 if fails:
     print('FAILURES:', '; '.join(fails));sys.exit(1)
 print('ALL 18 PRODUCTS: STRUCTURALLY COMPLETE — BRANDED INTERIORS, WRAPS, LISTING ASSETS, METADATA, CHECKLIST, LOOKBOOK')

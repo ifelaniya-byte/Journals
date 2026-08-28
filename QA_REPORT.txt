@@ -19,5 +19,5 @@ B16  Us, In Balance                    160    7x9     OK   OK   OK  OK
 B17  One Minute at My Desk             120    5x7     OK   OK   OK  OK
 B18  Enough Money, Enough Calm         168    6x8     OK   OK   OK  OK
 
-Checks passed: 27/27
+Checks passed: 30/30
 ALL 18 PRODUCTS: STRUCTURALLY COMPLETE — BRANDED INTERIORS, WRAPS, LISTING ASSETS, METADATA, CHECKLIST, LOOKBOOK
