@@ -1,7 +1,7 @@
 AMAZON TITLE: Dose & Breathe: A Mindful Weekly GLP-1 Companion
 COVER TITLE: Dose & Breathe
 SUBTITLE: A mindful weekly companion for your GLP-1 journey
-AUTHOR: [Author / Imprint]
+AUTHOR: Stillwork Studio
 SERIES: Pace & Progress
 FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
 TRIM: 6 × 8 in.
@@ -19,4 +19,4 @@ CLAIMS / RELEASE BOUNDARY:
 No dosing, injection, weight-loss, symptom-relief, or treatment promises. Legal/healthcare marketing review required.
 
 UPLOAD NOTE:
-Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.
+Confirm the final imprint, use the current KDP cover template, and inspect a physical proof. Wave 1 QR/audio is a separate live-route and proof-scan gate before publication or advertising.

@@ -1,7 +1,7 @@
 AMAZON TITLE: Rest & Regulate: A 90-Day Breath-Paced Planner
 COVER TITLE: Rest & Regulate
 SUBTITLE: Small returns to the present, without performance metrics
-AUTHOR: [Author / Imprint]
+AUTHOR: Stillwork Studio
 SERIES: Stillwork Editions
 FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
 TRIM: 6 × 8 in.
@@ -19,4 +19,4 @@ CLAIMS / RELEASE BOUNDARY:
 Do not claim vagus stimulation, anxiety treatment, HRV improvement, or physiological outcomes.
 
 UPLOAD NOTE:
-Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.
+Confirm the final imprint, use the current KDP cover template, and inspect a physical proof. Wave 1 QR/audio is a separate live-route and proof-scan gate before publication or advertising.

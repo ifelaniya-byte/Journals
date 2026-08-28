@@ -20,7 +20,7 @@ Review every actual page—not merely sample spreads. Initial each row on the re
 - [ ] Prompt is specific enough to use, optional in tone, and free of shame, scarcity, body judgment, performance pressure, or a requirement to disclose private health information.
 - [ ] Tone supports **today / experiment / support / notice / choose / enough**; it does not use **cheat / fix / failure / cure / should / must** except where required in a disclaimer.
 - [ ] No page introduces a diagnosis, outcome claim, protocol, dosing instruction, health guarantee, treatment implication, financial recommendation, or unsupported safety statement.
-- [ ] No page depicts or promises deluxe materials not in the paperback: cards, foil, ribbons, pocket, box, scent, QR audio, magnetic closure, or specialty paper.
+- [ ] No page depicts or promises deluxe materials not in the paperback: cards, foil, ribbons, pocket, box, scent, magnetic closure, or specialty paper. **Exception:** the selected Wave 1 optional QR/audio feature is permitted only when its exact first-party route, reviewed audio/transcript, accessibility text, and physical-proof scan pass `QR_AND_AUDIO.md`.
 - [ ] If a prompt may be skipped or adapted, that permission is plainly available in nearby context.
 
 ### Cover/listing truthfulness checks
@@ -31,7 +31,7 @@ Review every actual page—not merely sample spreads. Initial each row on the re
 - [ ] `listing_07_series.jpg` presents a collection relationship only; it does not say a buyer receives other books.
 
 ### Stop-the-line issues
-Any one of these blocks upload until corrected: a medical/treatment/dosing/financial claim; a third-party mark used without clearance; a false format/material implication; unreadable copy; a misleading KDP title/subtitle; a page with production defect; placeholder author/domain text; or an inaccessible critical instruction.
+Any one of these blocks upload until corrected: a medical/treatment/dosing/financial claim; a third-party mark used without clearance; a false format/material implication; unreadable copy; a misleading KDP title/subtitle; a page with production defect; placeholder author/domain text; a nonfunctional or unreviewed QR/audio feature; or an inaccessible critical instruction.
 
 ---
 

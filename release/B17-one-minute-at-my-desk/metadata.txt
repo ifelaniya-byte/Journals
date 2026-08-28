@@ -1,7 +1,7 @@
 AMAZON TITLE: One Minute at My Desk: A Micro-Meditation & Reflection Book
 COVER TITLE: One Minute at My Desk
 SUBTITLE: Sixty small desk resets for full days
-AUTHOR: [Author / Imprint]
+AUTHOR: Stillwork Studio
 SERIES: Stillwork Editions
 FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
 TRIM: 5 × 7 in.
@@ -19,4 +19,4 @@ CLAIMS / RELEASE BOUNDARY:
 General reflection only. Do not make medical, therapeutic, or workplace-performance claims.
 
 UPLOAD NOTE:
-Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.
+Confirm the final imprint, use the current KDP cover template, and inspect a physical proof. Wave 1 QR/audio is a separate live-route and proof-scan gate before publication or advertising.

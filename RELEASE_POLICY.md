@@ -1,6 +1,6 @@
 # Release policy — built is not published
 
-**Status:** `v1.0-prepublication`  
+**Status:** `v1.1-branded` candidate — Stillwork Studio selected as working imprint; trademark/name, domain, claims, QR/audio, and proof gates remain open
 **Applies to:** every KDP, Etsy, presale, creator, and paid-media asset in this repository.
 
 The repository contains a pre-built option library. It does **not** authorize an 18-title release. The validation plan remains a focused six-scout experiment: publish six only after their reviewed customer-facing copy is cleared, then let evidence—not the existence of assets—open the next slot.
@@ -20,8 +20,8 @@ The repository contains a pre-built option library. It does **not** authorize an
 
 ## Wave 1 — publish only after clearance
 
-**Target window:** September 2026  
-**Trigger:** required legal/claims/name review is marked **Clear**, author/imprint and final upload metadata are inserted, KDP Previewer passes, and an author proof is ordered. Ads start only after physical proof approval.
+**Target window:** September 2026
+**Trigger:** required legal/claims/name review is marked **Clear**; the working imprint is cleared and consistently inserted; the buyer-controlled QR/audio route is live, stamped, and verified where included; KDP Previewer passes; and an author proof is ordered. Ads start only after physical proof approval.
 
 | ID | Product | Why it is in Wave 1 | Required review before upload |
 |---|---|---|---|
@@ -72,11 +72,21 @@ A “fail” on a format-degraded version is **directional feedback**, not an au
 
 ---
 
+## Wave 1 cadence, account controls, and seasonality
+
+Wave 1 is capped at six potential scouts—not an 18-title queue. Create at most two operational groups of up to three cleared products, separated by a **48-hour review interval**. This is an internal quality/proof-control choice, not a claimed Amazon allowance or an effort to work around any platform cap. Group membership is determined by title-specific clearance; an uncleared product does not enter because a batch has space.
+
+A01 *Dose & Breathe* is the only GLP-1-specific Wave 1 product. A04 and A05 share the Pace & Progress collection but are not GLP-1 scouts. Do not label a collection batch as “three GLP-1 titles.”
+
+At the time this policy was updated, KDP help described up to 10 title creations per book format each week; no public reset time is stated. Verify the current account/help notice and record creation dates as a rolling seven-day ledger. The account limit never overrides this six-product policy.
+
+Tag all data dated November 1 or later as Q4-influenced. Gate 1 must be evaluated on the full valid period and on the pre-November subset. A Q4-only pass is **Hold: Q4 Retest**; a failure despite Q4 tailwinds is a high-confidence kill/retire review. A mid-September release cannot create 60 clean pre-November days, so do not represent the clean sample that way.
+
 # Gate-to-release workflow
 
 1. **Content QA:** Wave 1 title receives a cover-to-cover human read-through using `WAVE1_HUMAN_QA.md`.
 2. **Claims/name audit:** Run `audit_metadata_claims.py` and conduct the appropriate legal/claims review.
-3. **KDP identity setup:** Finalize author/imprint and create collection/series pages before first listings go live. Do not imply a KDP Series link exists until it does.
+3. **KDP identity + QR setup:** Finalize the cleared author/imprint and create collection/series pages before first listings go live. For the selected Wave 1 QR/audio path, verify the buyer-controlled domain, live route, audio, and printed-code proof test. Do not imply a KDP Series link exists until it does.
 4. **Technical preflight:** Replace placeholders, run `validate_catalog.py`, use KDP’s current Cover Calculator/Previewer, and order a proof.
 5. **Proof decision:** Approve/revise physical proof. Only then enable the specific title’s ad test.
 6. **Gate 1:** Use the Scorecard’s full-period + Q4-adjusted decision, not instinct or number of files built.

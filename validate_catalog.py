@@ -6,11 +6,12 @@ cover dimensions/spine math, listing image dimensions, upload-checklist headings
 It is structural QC only; it does not replace KDP Previewer, physical proofs, or legal review.
 """
 from pathlib import Path
-import csv, re, sys
+import csv, re, sys, json
 from PIL import Image
 import fitz
 R=Path(__file__).resolve().parent
 CAT=R/'CATALOG.csv'; REL=R/'release'
+BRAND=json.loads((R/'brand_config.json').read_text(encoding='utf-8')); IMPRINT=BRAND.get('imprint','').strip()
 BLEED=.125; PPI=.002252
 fails=[]; passed=0
 
@@ -27,6 +28,7 @@ required_policy_fields={'release_wave','publication_status','primary_validation'
 check(required_policy_fields.issubset(rows[0].keys()),'catalog release-policy columns present')
 check(sum(r.get('release_wave')=='Wave 1' for r in rows)==6,'exactly six Wave 1 candidates')
 check(sum(r.get('release_wave')=='Vault' for r in rows)==2,'exactly two KDP vault products')
+check(bool(IMPRINT) and IMPRINT not in {'[Author / Imprint]','Author / Imprint'},'working imprint is configured')
 print(f"{'ID':<4} {'PRODUCT':<32} {'PG':>4} {'TRIM':>10} {'INT':>3} {'WRAP':>4} {'META':>4} {'IMG':>3}")
 for r in rows:
     folder=R/r['folder']; trim=tuple(map(float,r['trim'].split('x')));pages=int(r['pages'])
@@ -42,21 +44,25 @@ for r in rows:
     m=re.search(r'^KEYWORDS:\s*(.*)$',md,re.M)
     if m:kw=[x.strip() for x in m.group(1).split(',') if x.strip()]
     metaok=all(x in md for x in fields) and len(kw)==7
+    first_pages='\n'.join(interior[i].get_text() for i in range(min(2,len(interior))))
+    wraptext=wrap[0].get_text()
+    identityok=(f'AUTHOR: {IMPRINT}' in md and IMPRINT in first_pages and IMPRINT.lower() in wraptext.lower() and not any(token in (first_pages+'\n'+md+'\n'+wraptext) for token in ('[Author / Imprint]','[yourdomain.example]','yourdomain.example','[URL]')))
     imgok=True
     for x in required[2:9]:
         try:
             im=Image.open(folder/x); w,h=im.size
             if w<900 or h<900:imgok=False
         except Exception:imgok=False
-    check(inv and intok and wrapok and metaok and imgok,r['id'])
+    check(inv and intok and wrapok and metaok and imgok and identityok,r['id'])
     print(f"{r['id']:<4} {r['cover_title'][:32]:<32} {len(interior):>4} {trim[0]:>4g}x{trim[1]:<4g} {'OK' if intok else 'NO':>3} {'OK' if wrapok else 'NO':>4} {'OK' if metaok else 'NO':>4} {'OK' if imgok else 'NO':>3}")
 
 up=(R/'UPLOAD_CHECKLIST.md').read_text(encoding='utf-8')
 check(len(re.findall(r'^## [AB]\d+',up,re.M))==18,'upload checklist must have 18 sections')
 look=fitz.open(R/'LOOKBOOK.pdf')
 check(len(look)==19,'lookbook must have title + 18 product pages')
-check(all((R/x).exists() for x in ['MARKETING.md','LEGAL_AND_CLAIMS.md','00_START_HERE.md','RELEASE_POLICY.md','PORTFOLIO.md','WAVE1_HUMAN_QA.md','KDP_ACCOUNT_OPERATIONS.md','POLISH_NOTES.md']),'operating and release-control docs present')
-print(f'\nChecks passed: {passed}/25')
+check(all((R/x).exists() for x in ['MARKETING.md','LEGAL_AND_CLAIMS.md','00_START_HERE.md','RELEASE_POLICY.md','PORTFOLIO.md','WAVE1_HUMAN_QA.md','KDP_ACCOUNT_OPERATIONS.md','POLISH_NOTES.md','PREPUBLICATION_SEQUENCE.md','QR_AND_AUDIO.md','TRADEMARK_SCREENING.md','DECISIONS.md']),'operating and release-control docs present')
+check((R/'configure_wave1_qr.py').is_file() and (R/'qr-routing'/'worker.js').is_file(),'QR routing/stamp tooling present')
+print(f'\nChecks passed: {passed}/27')
 if fails:
     print('FAILURES:', '; '.join(fails));sys.exit(1)
-print('ALL 18 PRODUCTS: STRUCTURALLY COMPLETE — INTERIORS, WRAPS, LISTING ASSETS, METADATA, CHECKLIST, LOOKBOOK')
+print('ALL 18 PRODUCTS: STRUCTURALLY COMPLETE — BRANDED INTERIORS, WRAPS, LISTING ASSETS, METADATA, CHECKLIST, LOOKBOOK')

@@ -1,7 +1,7 @@
 AMAZON TITLE: Softer Words: A Gratitude & Self-Talk Diary
 COVER TITLE: Softer Words
 SUBTITLE: A gentle daily reflection practice for ordinary hard days
-AUTHOR: [Author / Imprint]
+AUTHOR: Stillwork Studio
 SERIES: Pace & Progress
 FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
 TRIM: 6 × 8 in.
@@ -19,4 +19,4 @@ CLAIMS / RELEASE BOUNDARY:
 Personal reflection only; not therapy or treatment for anxiety, depression, or other conditions.
 
 UPLOAD NOTE:
-Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.
+Confirm the final imprint, use the current KDP cover template, and inspect a physical proof. Wave 1 QR/audio is a separate live-route and proof-scan gate before publication or advertising.

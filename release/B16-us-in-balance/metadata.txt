@@ -1,7 +1,7 @@
 AMAZON TITLE: Us, In Balance: A Couples’ Pause & Repair Workbook
 COVER TITLE: Us, In Balance
 SUBTITLE: Side-by-side check-ins for two people under stress
-AUTHOR: [Author / Imprint]
+AUTHOR: Stillwork Studio
 SERIES: Stillwork Editions
 FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
 TRIM: 7 × 9 in.
@@ -19,4 +19,4 @@ CLAIMS / RELEASE BOUNDARY:
 Not couples therapy. Include a discreet resource page and do not position for coercive or abusive relationships.
 
 UPLOAD NOTE:
-Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.
+Confirm the final imprint, use the current KDP cover template, and inspect a physical proof. Wave 1 QR/audio is a separate live-route and proof-scan gate before publication or advertising.

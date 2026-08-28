@@ -17,7 +17,7 @@ Keep listing pages, ad groups, and imagery organized into two collections. Follo
 | B12 Back to Enough | Clear low-capacity productivity problem | No treatment claims for burnout. |
 | B10 Rest & Regulate | Strong ritual/content clarity | No vagus, HRV, or anxiety-treatment claims. |
 | B18 Enough Money, Enough Calm | Emotion-led finance niche | No financial advice/outcome claims. |
-| A09 Pocket of Calm companion | Builds future boxed-object waitlist | Keep collection-neutral until a separate GLP-1 decision/review. |
+| A09 Pocket of Calm companion | Vaulted KDP reference only | Do not advertise/upload this KDP companion; validate the collection-neutral deck through its separate paid card/waitlist path. |
 
 ## Title / claims discipline
 - Paste **AMAZON TITLE** from `metadata.txt`, not only the short cover title.

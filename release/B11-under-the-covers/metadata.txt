@@ -1,7 +1,7 @@
 AMAZON TITLE: Under the Covers: A Weighted-Blanket Sleep & Stress Diary
 COVER TITLE: Under the Covers
 SUBTITLE: A cozy, specific bedside reflection practice
-AUTHOR: [Author / Imprint]
+AUTHOR: Stillwork Studio
 SERIES: Stillwork Editions
 FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
 TRIM: 7 × 9 in.
@@ -19,4 +19,4 @@ CLAIMS / RELEASE BOUNDARY:
 Do not recommend blanket weights or claim treatment for anxiety/insomnia. Include a final weighted-blanket safety note.
 
 UPLOAD NOTE:
-Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.
+Confirm the final imprint, use the current KDP cover template, and inspect a physical proof. Wave 1 QR/audio is a separate live-route and proof-scan gate before publication or advertising.

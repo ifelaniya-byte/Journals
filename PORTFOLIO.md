@@ -1,14 +1,14 @@
 # Portfolio — single source of truth
 
-**Current repository state:** `v1.0-prepublication`  
-**Decision owner:** Founder / brand lead  
+**Current repository state:** `v1.1-branded` candidate — Stillwork Studio working imprint; no product is cleared for upload
+**Decision owner:** Founder / brand lead
 **Operating policy:** See `RELEASE_POLICY.md`. A file existing in `release/` means **Built**, not approved for KDP upload, ads, or inventory.
 
 ## The darling clause — complete before September 6, 2026
 
-**Founder’s personal favorite concept:** ______________________________  
-**Pre-committed kill / hold criterion for it:** ________________________________________________  
-**If that criterion occurs, I will follow the same decision rule as every other SKU:**  
+**Founder’s personal favorite concept:** ______________________________
+**Pre-committed kill / hold criterion for it:** ________________________________________________
+**If that criterion occurs, I will follow the same decision rule as every other SKU:**
 Founder signature: ______________________________  Date: __________________
 
 > Suggested wording: “If this product does not produce its specified Gate 1 signal by the end of the valid test window, and it does not qualify for the single documented strong-attention/weak-conversion iteration, I will hold or retire it without funding inventory.”
@@ -61,9 +61,9 @@ Founder signature: ______________________________  Date: __________________
 
 ## Required decision log entries
 
-Before changing a status, record the date, evidence, decision owner, next action, budget, and condition in `ritual-library-launch-kit/gate-1-validation-scorecard.xlsx` → **Gate Log**.
+Before changing a status, record the date, evidence, decision owner, next action, budget, and condition in `ritual-library-launch-kit/gate-1-validation-scorecard.xlsx` → **Gate Log**. Durable name, QR, and product-positioning decisions are additionally recorded in `DECISIONS.md`.
 
-- A **Wave 1** product becomes `Clear for upload` only when every pre-upload gate is complete.
+- A **Wave 1** product becomes `Clear for upload` only when every pre-upload gate is complete, including the selected QR/audio route and printed-proof test. A three-product group is a maximum, not a quota.
 - A **Wave 2** product cannot be activated because it is attractive or already built; it needs a signed open-slot decision and a hypothesis.
 - A **Vault** product is not uploaded to KDP. Its alternate test vehicle is the source of truth.
 - A `Retired` product remains in the repository for learning but receives no paid media, new design, or inventory spend without a new documented business case.

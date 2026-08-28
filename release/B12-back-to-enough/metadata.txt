@@ -1,7 +1,7 @@
 AMAZON TITLE: Back to Enough: A Compassionate Productivity Rescue Workbook
 COVER TITLE: Back to Enough
 SUBTITLE: Make the plan smaller until it becomes possible
-AUTHOR: [Author / Imprint]
+AUTHOR: Stillwork Studio
 SERIES: Stillwork Editions
 FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
 TRIM: 6 × 8 in.
@@ -19,4 +19,4 @@ CLAIMS / RELEASE BOUNDARY:
 Planning/reflection support only; not a diagnosis or treatment for burnout, anxiety, depression, or workplace harm.
 
 UPLOAD NOTE:
-Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.
+Confirm the final imprint, use the current KDP cover template, and inspect a physical proof. Wave 1 QR/audio is a separate live-route and proof-scan gate before publication or advertising.

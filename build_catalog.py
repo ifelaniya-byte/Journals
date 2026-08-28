@@ -10,9 +10,11 @@ from reportlab.lib import colors
 from reportlab.lib.units import inch
 from reportlab.pdfbase.pdfmetrics import stringWidth
 from PIL import Image, ImageDraw, ImageFont
-import fitz, shutil, csv, math, calendar, textwrap
+import fitz, shutil, csv, math, calendar, textwrap, json
 
 ROOT=Path(__file__).resolve().parent
+BRAND=json.loads((ROOT/'brand_config.json').read_text(encoding='utf-8'))
+IMPRINT=BRAND['imprint']
 RELEASE=ROOT/'release'
 DELUXE=ROOT/'deluxe-heroes'
 for d in (ROOT,RELEASE,DELUXE):d.mkdir(parents=True,exist_ok=True)
@@ -86,9 +88,9 @@ class Book:
   c=self.c;bg=colors.HexColor('#'+COLORS[ident]);ac=colors.HexColor('#'+ACCENTS[ident]);c.setFillColor(bg);c.rect(0,0,self.w,self.h,fill=1,stroke=0);c.setStrokeColor(ac);c.setLineWidth(1.1)
   for rr in [1.05,1.42,1.79]:c.circle(self.w*.75,self.h*.76,rr*inch,stroke=1,fill=0)
   centred(c,self.title,self.w/2,self.h*.57,22,colors.white,'Helvetica-Bold',self.w-1.05*inch,26);centred(c,self.subtitle,self.w/2,self.h*.46,10.4,colors.HexColor('#'+ACCENTS[ident]),'Helvetica',self.w-1.1*inch,13)
-  c.setFillColor(colors.white);c.setFont('Helvetica',8.5);c.drawCentredString(self.w/2,self.h*.2,'[Author / Imprint]');c.setFillColor(colors.HexColor('#'+ACCENTS[ident]));c.setFont('Helvetica',6.5);c.drawCentredString(self.w/2,.38*inch,'THE RITUAL LIBRARY');self.end()
+  c.setFillColor(colors.white);c.setFont('Helvetica',8.5);c.drawCentredString(self.w/2,self.h*.2,IMPRINT);c.setFillColor(colors.HexColor('#'+ACCENTS[ident]));c.setFont('Helvetica',6.5);c.drawCentredString(self.w/2,.38*inch,'THE RITUAL LIBRARY');self.end()
  def copyright(self,boundary):
-  self.frame('Before you begin',False);c=self.c;c.setFillColor(INK);c.setFont('Helvetica-Bold',14);c.drawString(self.mx,self.h-.86*inch,'A note before you begin');y=self.h-1.15*inch;y=para(c,boundary,self.mx,y,self.w-2*self.mx,9.5,12.5,INK);y-=.25*inch;y=para(c,'This is a personal reflection product. Use only the pages that help. Replace bracketed author/imprint and domain placeholders before release.',self.mx,y,self.w-2*self.mx,8.5,11,MID);self.end()
+  self.frame('Before you begin',False);c=self.c;c.setFillColor(INK);c.setFont('Helvetica-Bold',14);c.drawString(self.mx,self.h-.86*inch,'A note before you begin');y=self.h-1.15*inch;y=para(c,boundary,self.mx,y,self.w-2*self.mx,9.5,12.5,INK);y-=.25*inch;y=para(c,'This is a personal reflection product. Use only the pages that help. Finalize the named imprint, exact QR/audio route, and all release gates before publication.',self.mx,y,self.w-2*self.mx,8.5,11,MID);self.end()
  def notes(self,title='Open notes',prompt='This page is yours.',section='Notes',lines=17):
   self.frame(section);c=self.c;c.setFillColor(INK);c.setFont('Helvetica-Bold',14);c.drawString(self.mx,self.h-.82*inch,title);c.setFont('Helvetica-Oblique',8.3);c.setFillColor(MID);c.drawString(self.mx,self.h-1.03*inch,prompt);y=self.h-1.35*inch;c.setStrokeColor(FAINT)
   for _ in range(lines):c.line(self.mx,y,self.w-self.mx,y);y-=.28*inch
@@ -266,7 +268,7 @@ def make_cover(prod,pages,out):
  for rr in [1.0,1.35,1.7,2.05]:c.circle(W*.82,H*.80,rr*inch,stroke=1,fill=0)
  sx=(BLEED+tw)*inch;c.setStrokeColor(colors.Color(1,1,1,.2));c.line(sx,0,sx,H);c.line(sx+spine*inch,0,sx+spine*inch,H)
  fx=(BLEED+tw+spine)*inch;centred(c,cover,fx+tw*inch/2,H*.59,23,colors.white,'Helvetica-Bold',tw*inch-.8*inch,27);centred(c,sub,fx+tw*inch/2,H*.47,9.6,ac,'Helvetica',tw*inch-.9*inch,12)
- c.setFillColor(colors.white);c.setFont('Helvetica',8);c.drawCentredString(fx+tw*inch/2,H*.17,'[Author / Imprint]');c.setFillColor(ac);c.setFont('Helvetica',6.5);c.drawCentredString(fx+tw*inch/2,.38*inch,'THE RITUAL LIBRARY')
+ c.setFillColor(colors.white);c.setFont('Helvetica',8);c.drawCentredString(fx+tw*inch/2,H*.17,IMPRINT);c.setFillColor(ac);c.setFont('Helvetica',6.5);c.drawCentredString(fx+tw*inch/2,.38*inch,'THE RITUAL LIBRARY')
  bx=BLEED*inch+.35*inch;c.setFillColor(ac);c.setFont('Helvetica-Bold',7.5);c.drawString(bx,H*.66,'THE RITUAL LIBRARY');para(c,desc,bx,H*.62,tw*inch-.7*inch,8.3,10.5,colors.white);c.setFillColor(colors.white);c.rect(.32*inch,.35*inch,2*inch,1.2*inch,fill=1,stroke=0);c.setFillColor(bg);c.setFont('Helvetica',5.3);c.drawCentredString(1.32*inch,.28*inch,'BARCODE KEEP-CLEAR AREA')
  if spine>=.18:
   c.saveState();c.translate(sx+spine*inch/2,.36*inch);c.rotate(90);c.setFillColor(colors.white);c.setFont('Helvetica-Bold',max(4,min(7,spine*28)));c.drawCentredString(th*inch/2,0,cover.upper());c.restoreState()
@@ -277,7 +279,7 @@ def cover_front_jpg(prod, output):
  fbig=font(90,True);fsub=font(38);fsmall=font(28)
  # circles
  for r in [350,470,590]:dr.ellipse((W-300-r,H*0.15-r,W-300+r,H*0.15+r),outline=ac,width=3)
- centered_image(dr,cover,W/2,int(H*.47),fbig,'#FFFFFF',W-180,108);centered_image(dr,sub,W/2,int(H*.61),fsub,ac,W-220,50);dr.text((W/2,H-310),'[Author / Imprint]',font=fsmall,fill='#FFFFFF',anchor='mm');dr.text((W/2,H-120),'THE RITUAL LIBRARY',font=font(20),fill=ac,anchor='mm');im.save(output,quality=94)
+ centered_image(dr,cover,W/2,int(H*.47),fbig,'#FFFFFF',W-180,108);centered_image(dr,sub,W/2,int(H*.61),fsub,ac,W-220,50);dr.text((W/2,H-310),IMPRINT,font=fsmall,fill='#FFFFFF',anchor='mm');dr.text((W/2,H-120),'THE RITUAL LIBRARY',font=font(20),fill=ac,anchor='mm');im.save(output,quality=94)
 
 def font(size,bold=False):
  paths=['/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf' if bold else '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf','/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf' if bold else '/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf']
@@ -315,7 +317,7 @@ def write_metadata(prod,pages,spine,wrapw,wraph,folder):
  (folder/'metadata.txt').write_text(f'''AMAZON TITLE: {title}
 COVER TITLE: {cover}
 SUBTITLE: {sub}
-AUTHOR: [Author / Imprint]
+AUTHOR: {IMPRINT}
 SERIES: {coll}
 FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
 TRIM: {trim[0]:g} × {trim[1]:g} in.
@@ -333,13 +335,23 @@ CLAIMS / RELEASE BOUNDARY:
 {boundary}
 
 UPLOAD NOTE:
-Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.
+Confirm the final imprint, use the current KDP cover template, and inspect a physical proof. Wave 1 QR/audio is a separate live-route and proof-scan gate before publication or advertising.
 ''',encoding='utf-8')
+
+def rgb(hex_value):
+ hex_value=hex_value.lstrip('#');return tuple(int(hex_value[i:i+2],16)/255 for i in (0,2,4))
+
+def brand_existing_interior(pdf_path,ident):
+ # Baseline interiors stay immutable. Stamp only regenerated release copies with the working imprint
+ # and a clear unpublished QR/audio holding note. configure_wave1_qr.py replaces this note once all route gates pass.
+ doc=fitz.open(str(pdf_path));page=doc[0];page.add_redact_annot(fitz.Rect(105,420,328,455),fill=rgb(COLORS[ident]));page.apply_redactions();page.insert_textbox(fitz.Rect(75,430,358,448),IMPRINT,fontsize=8.5,fontname='helv',color=(1,1,1),align=1,overlay=True)
+ page=doc[1];page.add_redact_annot(fitz.Rect(34,215,398,285),fill=(1,1,1));page.apply_redactions();page.insert_text((40,233),f'Copyright © 2026 {IMPRINT}. All rights reserved.',fontsize=7.2,fontname='helv',color=(.31,.31,.31),overlay=True);page.insert_textbox(fitz.Rect(40,242,365,280),'Prepublication candidate: do not publish until the brand-owned QR/audio route, claims review, KDP preflight, and physical-proof gates are complete.',fontsize=7.0,fontname='helv',color=(.31,.31,.31),overlay=True)
+ tmp=pdf_path.with_suffix('.tmp.pdf');doc.save(tmp,garbage=4,deflate=True);doc.close();tmp.replace(pdf_path)
 
 def assemble_existing(prod):
  ident,slug,*_=prod;out=RELEASE/f'{ident}-{slug}';out.mkdir(parents=True,exist_ok=True);src=SRC/f'{ident}-{slug}'
- shutil.copy2(src/'interior.pdf',out/'interior.pdf');shutil.copy2(src/'cover_wrap.pdf',out/'cover_wrap.pdf')
- d=fitz.open(str(out/'interior.pdf'));pages=len(d);tw,th=prod[6];spine=pages*PPI;write_metadata(prod,pages,spine,2*BLEED+2*tw+spine,2*BLEED+th,out)
+ shutil.copy2(src/'interior.pdf',out/'interior.pdf');shutil.copy2(src/'cover_wrap.pdf',out/'cover_wrap.pdf');brand_existing_interior(out/'interior.pdf',ident)
+ d=fitz.open(str(out/'interior.pdf'));pages=len(d);d.close();tw,th=prod[6];spine=pages*PPI;write_metadata(prod,pages,spine,2*BLEED+2*tw+spine,2*BLEED+th,out)
  return out,pages
 
 def build_extra(prod):
@@ -394,10 +406,11 @@ This is a Git-ready 18-SKU KDP scout catalog with two companion deluxe-hero pack
 pip install -r requirements.txt
 python build_catalog.py        # regenerates the full release package
 python validate_catalog.py     # structural QC; exits non-zero on a failure
-python make_zips.py all        # optional 18 KDP upload zips
+python make_zips.py            # creates only the six Wave 1 candidate bundles
+python make_zips.py --all-vault # explicit internal archive only; never an upload plan
 ```
 
-Do not release a product simply because it validates or has a ZIP file. Follow `RELEASE_POLICY.md`; only six Wave 1 SKUs are potential September uploads. Replace placeholders, clear names/claims, validate the final KDP template, and approve proof copies.
+Do not release a product simply because it validates or has a ZIP file. Follow `RELEASE_POLICY.md`; only six Wave 1 SKUs are potential September uploads. Stillwork Studio is the working imprint candidate, subject to clearance. Clear names/claims, complete the QR/audio gate where applicable, validate the final KDP template, and approve proof copies.
 ''',encoding='utf-8')
  (ROOT/'README.md').write_text('''# The Ritual Library — 18 KDP scouts + deluxe hero formats
 
@@ -413,13 +426,13 @@ A complete, repository-grade production system for an 18-product wellness-statio
 The KDP editions are purposeful scout products: complete paperback experiences with honest paperback materials. Deluxe materials—foil, ribbons, velvet, coils, card decks, rigid boxes, pockets, scent treatments, and kitting—are not represented as part of a KDP paperback. The two deluxe hero directories are vendor-ready content/art packages that still require final printer dielines and physical proofs.
 
 ## Release blockers
-All files contain `[Author / Imprint]` and/or brand-domain placeholders. Before any release: complete claims/naming review, final KDP Cover Calculator check, proof approval, authorship/imprint replacement, and QR/domain testing. `Pocket of Calm` is current collection-neutral copy; do not convert it to GLP-1-specific promotion without a separate reviewed content pass.
+The v1.1 candidate build uses **Stillwork Studio** as its working imprint. Before any release: obtain name/claims clearance, register the buyer-controlled domain, complete and test the Wave 1 QR/audio route, complete the final KDP Cover Calculator check, and approve the physical proof. `Pocket of Calm` is current collection-neutral copy; do not convert it to GLP-1-specific promotion without a separate reviewed content pass.
 ''',encoding='utf-8')
  # Upload list
  s=['# KDP upload checklist — 18 scout paperbacks','', 'Use the exact title, price, categories, and keywords in each product folder’s `metadata.txt`. Standard configuration unless metadata says otherwise: **Paperback · black-and-white · white paper · no interior bleed · matte cover**. Upload interior + wrap, run Previewer, order a proof, then publish.','']
  for prod in PRODUCTS:
   ident,slug,coll,cover,title,sub,trim,target,paper,price,*_=prod;folder=RELEASE/f'{ident}-{slug}';pages=len(fitz.open(str(folder/'interior.pdf')))
-  s+= [f'## {ident} — {cover}',f'1. Title: **{title}**',f'2. Author: replace `[Author / Imprint]` consistently.',f'3. Settings: B&W · white paper · {trim[0]:g} × {trim[1]:g} in. · no bleed · matte.',f'4. Upload `release/{ident}-{slug}/interior.pdf` + `cover_wrap.pdf`.',f'5. Price: **${price:.2f}** · pages: {pages} · series: {coll}.',f'6. Preview → check barcode/spine/margins → order proof → publish only after claims review.','']
+  s+= [f'## {ident} — {cover}',f'1. Title: **{title}**',f'2. Author / imprint: **{IMPRINT}** (working candidate; confirm name clearance before upload).',f'3. Settings: B&W · white paper · {trim[0]:g} × {trim[1]:g} in. · no bleed · matte.',f'4. Upload `release/{ident}-{slug}/interior.pdf` + `cover_wrap.pdf`.',f'5. Price: **${price:.2f}** · pages: {pages} · series: {coll}.',f'6. Preview → check barcode/spine/margins → order proof → publish only after claims review.','']
  (ROOT/'UPLOAD_CHECKLIST.md').write_text('\n'.join(s),encoding='utf-8')
  (ROOT/'MARKETING.md').write_text('''# The Ritual Library — listing and launch system
 
@@ -440,7 +453,7 @@ Keep listing pages, ad groups, and imagery organized into two collections. Follo
 | B12 Back to Enough | Clear low-capacity productivity problem | No treatment claims for burnout. |
 | B10 Rest & Regulate | Strong ritual/content clarity | No vagus, HRV, or anxiety-treatment claims. |
 | B18 Enough Money, Enough Calm | Emotion-led finance niche | No financial advice/outcome claims. |
-| A09 Pocket of Calm companion | Builds future boxed-object waitlist | Keep collection-neutral until a separate GLP-1 decision/review. |
+| A09 Pocket of Calm companion | Vaulted KDP reference only | Do not advertise/upload this KDP companion; validate the collection-neutral deck through its separate paid card/waitlist path. |
 
 ## Title / claims discipline
 - Paste **AMAZON TITLE** from `metadata.txt`, not only the short cover title.
@@ -451,15 +464,32 @@ Keep listing pages, ad groups, and imagery organized into two collections. Follo
 ## First review language to watch
 The desired organic words are **gift**, **beautiful**, **gentle**, and **finally**. Log buyer objections—especially “not enough inside,” “expected deluxe materials,” “too clinical,” and “unclear”—in the validation Scorecard before changing a title, price, or interior.
 ''',encoding='utf-8')
- (ROOT/'LEGAL_AND_CLAIMS.md').write_text('''# Legal, trademark, and claims control
+ (ROOT/'LEGAL_AND_CLAIMS.md').write_text('''# Legal, trademark, advertising, and QR/audio control
 
-This repository contains design/content drafts—not legal, medical, clinical, financial, or trademark clearance.
+**Status:** prepublication control; not legal, medical, clinical, financial, trademark, advertising-platform, or data-privacy clearance.
 
-## Global rules
-- Do not promise treatment, diagnosis, cure, symptom relief, weight loss, physiological change, safer medication use, financial results, or relationship outcomes.
+## Global product rules
+- Do not promise treatment, diagnosis, cure, symptom relief, weight loss, physiological change, safer medication use, financial results, relationship outcomes, or a guaranteed emotional effect.
 - Keep KDP paperback and deluxe-object descriptions distinct. Never claim an insert, material, QR/audio, scent, card deck, or device in a product that does not include it.
-- Clear **The Ritual Library**, every product name, author/imprint, and any third-party mark before public launch. Do not use **Ozempic** or restricted breathwork-method names in covers/listings without a written rights/usage determination.
-- Obtain an appropriate reviewer’s sign-off for all GLP-1, sleep, pulse, anxiety, breathwork, movement, blanket, relationship, and money language—cover, interior, listing, advertising, creator brief, packaging, and landing page.
+- Clear **The Ritual Library**, **Stillwork Studio**, series names, every product name, and any third-party mark before public launch. The preliminary observation log is `TRADEMARK_SCREENING.md`; it is not clearance.
+- Obtain an appropriate reviewer’s sign-off for all GLP-1, sleep, pulse, anxiety, breathwork, movement, blanket, relationship, money, creator, landing-page, and optional-audio language—cover, interior, listing, advertising, creator brief, packaging, and landing page.
+
+## Wave 1 claims/name sweep
+Before a Wave 1 title is marked Clear, review its title, subtitle, seven keywords, description, cover/wrap, listing images, A+ copy, QR landing-page transcript, creator brief, and paid-ad variants for: **Ozempic, Wegovy, Mounjaro, dose, injection, medication, treatment, cure, medical, therapy, weight loss, anxiety, sleep**, and outcome/guarantee language. Named prescription-drug marks are not a default keyword or creative option.
+
+## Paid-media policy verification — Collection A
+**Open gate:** No paid Meta or TikTok campaign for A01 or another Collection A/GLP-1-adjacent asset is authorized until the relevant platform’s current policy, account eligibility, country, creative, landing page, targeting, age setting, and tracking plan are reviewed and documented.
+
+- Do not target or imply a viewer’s medical condition, prescription use, body status, or other sensitive personal attribute. Do not request health information in a lead form without the platform permissions and privacy review that apply.
+- Do not use prescription-drug names, drug imagery, outcome claims, before/after imagery, body shaming, calorie-count pressure, or health-condition profiling as a shortcut to an audience.
+- Meta’s current policy materials prohibit health/personal-attribute assertions and set 18+ restrictions for many weight-loss/health product or service ads. Confirm the exact policy/account treatment at launch: <https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes> and <https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/>.
+- TikTok policy materials restrict prescription-drug content and weight-management/body-image claims. Confirm the current U.S. account treatment before submitting any creative: <https://ads.tiktok.com/help/article/tiktok-ads-policy-dangerous-products-or-services> and <https://ads.tiktok.com/help/article/tiktok-ads-policy-weight-management>.
+- Amazon Ads requires truthful, substantiated detail-page-aligned claims; its moderation guidance identifies prescription-medicine keywords/products as unacceptable targeting. Keep Amazon keywords in the product’s truthful reflection/journaling scope and complete the metadata audit: <https://advertising.amazon.com/library/guides/sponsored-brands-display-ads-moderation>.
+
+Interest-adjacent wellness/journaling creative and collection-neutral creator seeding are hypotheses to review, not pre-cleared substitutes for policy compliance. Do not pass health/medical or sensitive financial data to ad platforms. See `PREPUBLICATION_SEQUENCE.md` for the release order.
+
+## QR/audio and privacy gate
+Only the six Wave 1 paperbacks may receive the selected optional QR/audio feature. The printed code must use a buyer-controlled HTTPS host, resolve to a reviewed first-party page, play the actual named audio, expose a matching transcript, and pass a physical-proof scan. No raw platform/shortener URL, temporary host, unreviewed audio, health data capture, or undisclosed tracker belongs in the printed experience. Follow `QR_AND_AUDIO.md` and use `configure_wave1_qr.py` only after deployment.
 
 ## Product-specific escalations
 | ID | Escalation |
@@ -471,7 +501,7 @@ This repository contains design/content drafts—not legal, medical, clinical, f
 | B12, B15, B16, B18 | Do not market as therapy, art therapy, couples therapy, or financial/mental-health treatment. |
 
 ## Proofing gate
-No product may be published until the relevant metadata boundary has been reviewed and the KDP proof matches the listing’s material/format claims.
+No product may be published until the relevant metadata boundary has been reviewed, required claims/name/ad-policy scope is clear, the exact QR/audio feature (if selected) passes its gate, and the KDP proof matches the listing’s material/format claims.
 ''',encoding='utf-8')
  (ROOT/'.gitignore').write_text('''# Generated packages and local environments
 packages/
@@ -480,7 +510,7 @@ __pycache__/
 *.pyc
 .DS_Store
 ''',encoding='utf-8')
- (ROOT/'requirements.txt').write_text('reportlab>=4.4,<5\nPillow>=10,<13\nPyMuPDF>=1.24,<2\n',encoding='utf-8')
+ (ROOT/'requirements.txt').write_text('reportlab>=4.4,<5\nPillow>=10,<13\nPyMuPDF>=1.24,<2\nqrcode[pil]>=8,<9\n',encoding='utf-8')
 
 def make_lookbook():
  W,H=11*inch,8.5*inch;c=canvas.Canvas(str(ROOT/'LOOKBOOK.pdf'),pagesize=(W,H),pageCompression=1)
@@ -522,4 +552,3 @@ def main():
  print('Built 18 KDP products at',ROOT)
 
 if __name__=='__main__':main()
-_=='__main__':main()

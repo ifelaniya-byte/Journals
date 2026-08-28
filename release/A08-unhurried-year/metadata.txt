@@ -1,7 +1,7 @@
 AMAZON TITLE: The Unhurried Year: An Undated Executive Wellness Planner
 COVER TITLE: The Unhurried Year
 SUBTITLE: A capacity-respecting year for work, care, and real life
-AUTHOR: [Author / Imprint]
+AUTHOR: Stillwork Studio
 SERIES: Pace & Progress
 FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
 TRIM: 7 × 9 in.
@@ -19,4 +19,4 @@ CLAIMS / RELEASE BOUNDARY:
 General planning tool only. Avoid medical or weight-loss outcomes; use private routine wording.
 
 UPLOAD NOTE:
-Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.
+Confirm the final imprint, use the current KDP cover template, and inspect a physical proof. Wave 1 QR/audio is a separate live-route and proof-scan gate before publication or advertising.

@@ -1,7 +1,7 @@
 AMAZON TITLE: The Scent of a Steady Year: An Undated GLP-1 Ritual Calendar
 COVER TITLE: The Scent of a Steady Year
 SUBTITLE: Twelve months of gentle planning and sensory cues
-AUTHOR: [Author / Imprint]
+AUTHOR: Stillwork Studio
 SERIES: Pace & Progress
 FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
 TRIM: 8.5 × 11 in.
@@ -19,4 +19,4 @@ CLAIMS / RELEASE BOUNDARY:
 Paperback edition contains visual sensory cues only—no fragrance, medical, or weight-loss claims.
 
 UPLOAD NOTE:
-Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.
+Confirm the final imprint, use the current KDP cover template, and inspect a physical proof. Wave 1 QR/audio is a separate live-route and proof-scan gate before publication or advertising.

@@ -6,11 +6,11 @@ This is a release-control guide, not a reason to publish the vault.
 
 Complete and document these decisions before creating a Wave 1 title record:
 
-- **Author / publisher display name:** ______________________________
-- **Imprint name:** ______________________________
-- **Copyright-page wording:** ______________________________
+- **Author / publisher display name:** **Stillwork Studio** *(working candidate; written name clearance required)*
+- **Imprint name:** **Stillwork Studio** *(working candidate; written name clearance required)*
+- **Copyright-page wording:** `Copyright © 2026 Stillwork Studio. All rights reserved.` *(subject to clearance)*
 - **Customer-service email / business contact:** ______________________________
-- **Brand-owned domain and long-term QR redirect owner:** ______________________________
+- **Brand-owned domain and long-term QR redirect owner:** ______________________________ *(unassigned; no QR stamp or upload until complete)*
 - **Series names:** `Pace & Progress` and `Stillwork Editions` (or final cleared alternatives)
 
 Use the same approved author/imprint spelling in every KDP metadata entry, copyright page, cover, A+ content, business account, and eventual deluxe packaging.
@@ -46,9 +46,9 @@ Never use A+ content to add unsupported claims, show a future deluxe box as if i
 
 ## 4. Upload cadence and account limits
 
-The policy decision is **six Wave 1 scouts**, not eighteen. To protect QA and account operations, prepare three cleared titles first, verify metadata/Previewer/proof workflow, then prepare the next three.
+The policy decision is **six Wave 1 scouts**, not eighteen. To protect QA and account operations, create no more than three individually cleared title records, complete a 48-hour operational review interval, then consider up to three more individually cleared records. This is a release-control choice—not a claimed platform entitlement—and title-specific legal/QA gates control the order.
 
-Do not rely on an internet claim of a “three-title-per-day” KDP limit. Amazon’s KDP help page currently describes a title-creation limit of **10 titles per book format each week** and advises contacting KDP for a higher-volume exception; account behavior and policy can change. Verify the current help/account notice before creating titles: <https://kdp.amazon.com/en_US/help/topic/G202145060>
+Do not rely on an internet claim of a “three-title-per-day” KDP limit. Amazon’s KDP help page currently describes a title-creation limit of **10 titles per book format each week** and advises contacting KDP for a higher-volume exception; it does not state a public reset time. Track the account’s creation dates as a conservative rolling seven-day ledger and verify the current help/account notice before creating titles: <https://kdp.amazon.com/en_US/help/topic/G202145060>
 
 This repository’s Wave 1 policy is more restrictive by choice. It exists to protect data quality, claims review, and proof handling—not to exploit a platform limit.
 
@@ -57,7 +57,8 @@ This repository’s Wave 1 policy is more restrictive by choice. It exists to pr
 - [ ] SKU is marked Wave 1 and `Clear for upload` in `PORTFOLIO.md` / Scorecard Gate Log.
 - [ ] Human content-QA form is signed in `WAVE1_HUMAN_QA.md`.
 - [ ] `audit_metadata_claims.py` has been run and all reviewer flags resolved.
-- [ ] Author/imprint and contact/domain placeholders are replaced in the exact final files.
+- [ ] The cleared author/imprint is consistent in metadata, copyright page, cover/wrap, listing assets, KDP account, and series setup.
+- [ ] For the selected QR/audio route: buyer-controlled domain, live HTTPS redirects, reviewed audio/transcript, print stamp, and pre-proof checks pass under `QR_AND_AUDIO.md`.
 - [ ] Current KDP Cover Calculator template has been compared with the final cover wrap.
 - [ ] KDP Print Previewer is clean and an author proof is ordered.
 - [ ] Listing uses product-specific actual interior images; no future/degraded-format imagery.
@@ -65,7 +66,7 @@ This repository’s Wave 1 policy is more restrictive by choice. It exists to pr
 
 ## 6. Before turning on ads
 
-- [ ] Physical proof approved for cover scuffing, page trim, spine, print contrast, pen performance, and listing truthfulness.
+- [ ] Physical proof approved for cover scuffing, page trim, spine, print contrast, pen performance, listing truthfulness, and the printed QR scan under warm indoor light on a current and older phone.
 - [ ] Brand/series implementation checked on the actual Amazon detail page.
 - [ ] Correct campaign, UTM/linking, product status, and budget cap are entered in the validation Scorecard.
 - [ ] Product-specific stop rule is recorded before spend begins.

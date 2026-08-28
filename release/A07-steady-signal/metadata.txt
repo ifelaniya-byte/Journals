@@ -1,7 +1,7 @@
 AMAZON TITLE: Steady Signal: A Calm-Check & Optional Pulse Observation Journal
 COVER TITLE: Steady Signal
 SUBTITLE: Notice signals without turning them into a verdict
-AUTHOR: [Author / Imprint]
+AUTHOR: Stillwork Studio
 SERIES: Pace & Progress
 FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
 TRIM: 6 × 8 in.
@@ -19,4 +19,4 @@ CLAIMS / RELEASE BOUNDARY:
 Not a medical device or diagnostic tool. Do not claim that pulse readings detect anxiety; include urgent-care language in final review.
 
 UPLOAD NOTE:
-Replace author/imprint and placeholder domain text; validate wrap against the current official KDP template; inspect physical proof before publishing or advertising.
+Confirm the final imprint, use the current KDP cover template, and inspect a physical proof. Wave 1 QR/audio is a separate live-route and proof-scan gate before publication or advertising.
