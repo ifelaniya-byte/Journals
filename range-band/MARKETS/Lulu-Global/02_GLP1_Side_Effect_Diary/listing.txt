@@ -1,0 +1,89 @@
+Lulu print Global Distribution  ·  TITLE 02  ·  $9.99 (this store's print minimum)
+Do not upload this price to a store with a different floor. KDP stays $9.99.
+================================
+TITLE (≤200 chars)
+GLP-1 Side Effect Tracker
+
+SUBTITLE
+Weekly Symptom Log with Severity Grids & Clinic Visit Prep Pages
+
+AUTHOR / IMPRINT
+Range Band Press
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+92
+
+COVER FILE
+02_GLP1_Side_Effect_Diary_COVER_WRAP.pdf
+  Full wrap size: 12.457" × 9.250"
+  Spine: 0.2072"  (white paper B&W, 92 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+02_GLP1_Side_Effect_and_Symptom_Diary_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Diseases / General  (HEA039000)
+HEALTH & FITNESS / Women's Health  (HEA028000)
+
+SEVEN BACKEND KEYWORDS
+  1. glp-1 side effect tracker
+  2. semaglutide symptom diary
+  3. nausea constipation log
+  4. weekly severity grid journal
+  5. clinic visit prep notebook
+  6. injection site symptom log
+  7. undated gi side effect diary
+
+SUGGESTED PRICE (US)
+$9.99
+
+DESCRIPTION (plain)
+-------------------
+GLP-1 Side Effect Tracker
+Weekly Symptom Log with Severity Grids & Clinic Visit Prep Pages
+
+Live inside the range. 36 weekly 0–5 symptom grids plus a clinic visit-prep page every four weeks.
+
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • 36 weekly 0–5 observation grids
+  • What helped / what aggravated
+  • Visit-prep page every four weeks
+  • Hydration, sleep, and flag days
+
+ALSO IN THIS CATALOG
+  • 22 Sleep / Bowel / Water
+  • 25 Shot-Day 0–48h
+  • 24 Clinic Brief
+
+Trim: 6 × 9 in
+Pages: 92
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $9.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>GLP-1 Side Effect Tracker</b> — Weekly Symptom Log with Severity Grids & Clinic Visit Prep Pages</p>
+<p><i>Live inside the range.</i> 36 weekly 0–5 symptom grids plus a clinic visit-prep page every four weeks.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>36 weekly 0–5 observation grids</li><li>What helped / what aggravated</li><li>Visit-prep page every four weeks</li><li>Hydration, sleep, and flag days</li></ul>
+<p><b>Also in this catalog</b></p>
+<ul><li>22 Sleep / Bowel / Water</li><li>25 Shot-Day 0–48h</li><li>24 Clinic Brief</li></ul>
+<p>Trim 6 × 9 in · 92 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

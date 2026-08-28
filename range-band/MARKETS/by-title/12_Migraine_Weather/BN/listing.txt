@@ -1,0 +1,88 @@
+Barnes & Noble Press paperback  ·  12  ·  $14.99
+Hard floor $14.99 since 22 Apr 2026. Same price on every title. Free account, free B&N ISBN.
+================================
+TITLE (≤200 chars)
+Migraine Weather & Trigger Diary
+
+SUBTITLE
+Pain Map, Aura Checklist, Barometric Pressure Log & Monthly Dashboard
+
+AUTHOR / IMPRINT
+Range Band Press
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+97
+
+COVER FILE
+12_Migraine_Weather_COVER_WRAP.pdf
+  Full wrap size: 12.468" × 9.250"
+  Spine: 0.2184"  (white paper B&W, 97 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+12_Migraine_Weather_and_Trigger_Diary_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Diseases / Nervous System (incl. Brain)  (HEA039050)
+HEALTH & FITNESS / Pain Management  (HEA009000)
+
+SEVEN BACKEND KEYWORDS
+  1. migraine tracker journal
+  2. headache weather diary
+  3. barometric pressure log
+  4. aura symptom notebook
+  5. pain map headache journal
+  6. undated migraine log
+  7. trigger diary for migraines
+
+SUGGESTED PRICE (US)
+$14.99
+
+DESCRIPTION (plain)
+-------------------
+Migraine Weather & Trigger Diary
+Pain Map, Aura Checklist, Barometric Pressure Log & Monthly Dashboard
+
+Live inside the range. 72 episode pages with head maps, weather, aura lists, plus 12 monthly dashboards.
+
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Front + side head maps
+  • Pressure, temp, humidity, storm front
+  • 72 episode pages + 12 dashboards
+  • A log you can hand a clinician
+
+ALSO IN THIS CATALOG
+  • 32 Chronic Pain maps
+  • 29 Sleep Window
+
+Trim: 6 × 9 in
+Pages: 97
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $14.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Migraine Weather & Trigger Diary</b> — Pain Map, Aura Checklist, Barometric Pressure Log & Monthly Dashboard</p>
+<p><i>Live inside the range.</i> 72 episode pages with head maps, weather, aura lists, plus 12 monthly dashboards.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Front + side head maps</li><li>Pressure, temp, humidity, storm front</li><li>72 episode pages + 12 dashboards</li><li>A log you can hand a clinician</li></ul>
+<p><b>Also in this catalog</b></p>
+<ul><li>32 Chronic Pain maps</li><li>29 Sleep Window</li></ul>
+<p>Trim 6 × 9 in · 97 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$14.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

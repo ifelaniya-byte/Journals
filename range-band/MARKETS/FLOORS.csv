@@ -1,0 +1,7 @@
+id,name,go,upfront,cut,pack,why
+KDP,Amazon KDP paperback,YES,$0,40% of list (60% royalty) + print,KDP-Complete-Kit,No catalog floor. $9.99 unlocks 60% royalty. Print-cost min is well below that for these page counts.
+BN,Barnes & Noble Press paperback,YES,$0,~55% of list − print,MARKETS/BN-Press,"Hard floor $14.99 since 22 Apr 2026. Same price on every title. Free account, free B&N ISBN."
+LULU-STORE,Lulu Bookstore (direct),YES,$0,print + Lulu share on their store,KDP-Complete-Kit,No $14.99 floor. Setup $0. Do not turn on ebook Global Dist ($4.99 fee).
+LULU-GLOBAL,Lulu print Global Distribution,YES,$0 for print global (ebook global is $4.99 — skip),50% wholesale + Lulu 20% of remainder,MARKETS/Lulu-Global,"List must be at least 2× Lulu print cost. Each title gets its own minimum, rounded to x.99, never under $9.99."
+DIGITAL,Google Play / Gumroad / Payhip PDF,YES,$0,Google ~30%; Gumroad 10%+$0.50; Payhip Free 5%+Stripe,MARKETS/DIGITAL-9.99,No print floor. Google Play min about $0.05. We stay $9.99.
+INGRAM,IngramSpark paperback,PARKED,ISBN (not $0),55% wholesale + 1.875% market access + print,MARKETS/Ingram-PARKED,No catalog $14.99 floor. Formula floor after 55% wholesale. PARKED: Bowker ISBN is upfront money ($125 / $295 per 10).

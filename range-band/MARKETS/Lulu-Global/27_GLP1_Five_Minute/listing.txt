@@ -1,0 +1,88 @@
+Lulu print Global Distribution  ·  TITLE 27  ·  $9.99 (this store's print minimum)
+Do not upload this price to a store with a different floor. KDP stays $9.99.
+================================
+TITLE (≤200 chars)
+GLP-1 Five-Minute Morning Pages
+
+SUBTITLE
+120 Compact Daily Pages for People Who Won't Fill a Spread
+
+AUTHOR / IMPRINT
+Range Band Press
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+130
+
+COVER FILE
+27_GLP1_Five_Minute_COVER_WRAP.pdf
+  Full wrap size: 12.543" × 9.250"
+  Spine: 0.2928"  (white paper B&W, 130 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+27_GLP1_Five_Minute_Morning_Pages_6x9.pdf
+
+CATEGORIES / BISAC
+SELF-HELP / Journaling  (SEL010000)
+HEALTH & FITNESS / Diet & Nutrition / Nutrition  (HEA019000)
+
+SEVEN BACKEND KEYWORDS
+  1. glp-1 five minute journal
+  2. compact daily shot log
+  3. short morning pages undated
+  4. 120 day one sentence diary
+  5. minimalist glp-1 tracker
+  6. quick protein daily log
+  7. people who wont fill a spread
+
+SUGGESTED PRICE (US)
+$9.99
+
+DESCRIPTION (plain)
+-------------------
+GLP-1 Five-Minute Morning Pages
+120 Compact Daily Pages for People Who Won't Fill a Spread
+
+Live inside the range. 120 compact days for people who will not fill a spread. Shot, protein, one sentence, done.
+
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Five minutes, then leave the book
+  • Shot / not-shot, protein, body scale
+  • One sentence + one gratitude
+  • 30-day harvest pages
+
+ALSO IN THIS CATALOG
+  • 01 Meal (if you will fill a spread)
+  • 09 Calendar
+
+Trim: 6 × 9 in
+Pages: 130
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $9.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>GLP-1 Five-Minute Morning Pages</b> — 120 Compact Daily Pages for People Who Won't Fill a Spread</p>
+<p><i>Live inside the range.</i> 120 compact days for people who will not fill a spread. Shot, protein, one sentence, done.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Five minutes, then leave the book</li><li>Shot / not-shot, protein, body scale</li><li>One sentence + one gratitude</li><li>30-day harvest pages</li></ul>
+<p><b>Also in this catalog</b></p>
+<ul><li>01 Meal (if you will fill a spread)</li><li>09 Calendar</li></ul>
+<p>Trim 6 × 9 in · 130 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

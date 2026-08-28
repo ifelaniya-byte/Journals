@@ -1,0 +1,88 @@
+IngramSpark paperback  ·  TITLE 36  ·  $9.99 (this store's print minimum)
+Do not upload this price to a store with a different floor. KDP stays $9.99.
+================================
+TITLE (≤200 chars)
+Bladder & Pelvic Symptom Diary
+
+SUBTITLE
+16 Three-Day Voiding Diaries (Drink, Void, Urgency, Leak) — Tracking Only
+
+AUTHOR / IMPRINT
+Range Band Press
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+88
+
+COVER FILE
+36_Bladder_Pelvic_COVER_WRAP.pdf
+  Full wrap size: 12.448" × 9.250"
+  Spine: 0.1982"  (white paper B&W, 88 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+36_Bladder_and_Pelvic_Symptom_Diary_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Women's Health  (HEA028000)
+HEALTH & FITNESS / Diseases / General  (HEA039000)
+
+SEVEN BACKEND KEYWORDS
+  1. 3 day bladder diary
+  2. voiding log book clinic
+  3. urgency leak pad tracker
+  4. pelvic symptom diary undated
+  5. drink void diary 16 blocks
+  6. urogynecology notebook
+  7. bladder diary for appointment
+
+SUGGESTED PRICE (US)
+$9.99
+
+DESCRIPTION (plain)
+-------------------
+Bladder & Pelvic Symptom Diary
+16 Three-Day Voiding Diaries (Drink, Void, Urgency, Leak) — Tracking Only
+
+Live inside the range. 16 three-day voiding diaries in the format clinics ask for: drink, void, urgency, leak, pad.
+
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • 3 consecutive days — the format clinics want
+  • Drink / void / urgency / leak / pad
+  • PT homework line only for assigned items
+  • 16 repeatable blocks
+
+ALSO IN THIS CATALOG
+  • 17 Postpartum PT homework
+  • 14 Hot-flash chart
+
+Trim: 6 × 9 in
+Pages: 88
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $9.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Bladder & Pelvic Symptom Diary</b> — 16 Three-Day Voiding Diaries (Drink, Void, Urgency, Leak) — Tracking Only</p>
+<p><i>Live inside the range.</i> 16 three-day voiding diaries in the format clinics ask for: drink, void, urgency, leak, pad.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>3 consecutive days — the format clinics want</li><li>Drink / void / urgency / leak / pad</li><li>PT homework line only for assigned items</li><li>16 repeatable blocks</li></ul>
+<p><b>Also in this catalog</b></p>
+<ul><li>17 Postpartum PT homework</li><li>14 Hot-flash chart</li></ul>
+<p>Trim 6 × 9 in · 88 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

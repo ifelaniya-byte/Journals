@@ -1,5 +1,5 @@
-DIGITAL $9.99 PRINT-AT-HOME PDF — 25
-Google Play / Gumroad / Payhip. Not an EPUB. Not for Apple or Kobo.
+DIGITAL $9.99 PDF — 25
+Google Play / Gumroad / Payhip. Not Apple. Not Kobo.
 ================================
 TITLE (≤200 chars)
 GLP-1 Shot Day 0-48 Hour Pocket Log
@@ -87,10 +87,3 @@ DESCRIPTION (HTML paste)
 <ul><li>09 Calendar</li><li>07 Titration</li><li>02 Side effects</li></ul>
 <p>Trim 5 × 8 in · 79 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
 <p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>
-
-DIGITAL FILE NOTES
--------------------
-Upload `25_GLP1_Shot_Day_Pocket_printathome.pdf` as the book file.
-Upload `25_GLP1_Shot_Day_Pocket_cover.jpg` as the store thumbnail.
-Say: print-at-home PDF of the paperback interior. Not a reflowable ebook.
-Trim / print: bleed OFF, white paper, same page count as the paperback.

@@ -58,4 +58,4 @@ Other floors (confirm in KDP): UK £7.99 · euro €9.99.
 
 Imprint: **Range Band Press** on all 36. Covers carry the range-band mark — type the same name in KDP’s author field. Never mix Quiet Mind titles into these series.
 
-Other stores (B&N $14.99 floor pack, Google Play / Gumroad / Payhip PDFs): `MARKETS/PLAYBOOK.md`. Do not put $14.99 on Amazon.
+Other stores: one **minimum-price version of each title** per floor — B&N Press $14.99, Lulu Global per-title 2× print, digital PDF $9.99. See `MARKETS/PLAYBOOK.md` and `MARKETS/by-title/`. Do not put $14.99 on Amazon.

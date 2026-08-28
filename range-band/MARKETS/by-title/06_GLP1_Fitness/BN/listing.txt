@@ -1,0 +1,89 @@
+Barnes & Noble Press paperback  ·  06  ·  $14.99
+Hard floor $14.99 since 22 Apr 2026. Same price on every title. Free account, free B&N ISBN.
+================================
+TITLE (≤200 chars)
+GLP-1 Fitness & Step Companion
+
+SUBTITLE
+32-Week Strength, Cardio & Recovery Log (Undated)
+
+AUTHOR / IMPRINT
+Range Band Press
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+85
+
+COVER FILE
+06_GLP1_Fitness_COVER_WRAP.pdf
+  Full wrap size: 12.441" × 9.250"
+  Spine: 0.1914"  (white paper B&W, 85 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+06_GLP1_Fitness_and_Step_Companion_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Exercise / General  (HEA007000)
+HEALTH & FITNESS / Diet & Nutrition / Nutrition  (HEA019000)
+
+SEVEN BACKEND KEYWORDS
+  1. glp-1 workout log
+  2. strength training while losing
+  3. step tracker journal undated
+  4. muscle preservation log book
+  5. rpe fitness notebook
+  6. walking habit tracker
+  7. recovery lifting diary
+
+SUGGESTED PRICE (US)
+$14.99
+
+DESCRIPTION (plain)
+-------------------
+GLP-1 Fitness & Step Companion
+32-Week Strength, Cardio & Recovery Log (Undated)
+
+Live inside the range. 32 weeks of strength vs cardio/steps, RPE, recovery — built for muscle while the scale moves.
+
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Plan on the left, log on the right
+  • Strength + cardio / steps split
+  • RPE and recovery notes
+  • Timer ring is a personal record, not a protocol
+
+ALSO IN THIS CATALOG
+  • 01 Meal & Satiety
+  • 03 Plateau-Breaker
+  • 19 Protein Grocery
+
+Trim: 6 × 9 in
+Pages: 85
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $14.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>GLP-1 Fitness & Step Companion</b> — 32-Week Strength, Cardio & Recovery Log (Undated)</p>
+<p><i>Live inside the range.</i> 32 weeks of strength vs cardio/steps, RPE, recovery — built for muscle while the scale moves.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Plan on the left, log on the right</li><li>Strength + cardio / steps split</li><li>RPE and recovery notes</li><li>Timer ring is a personal record, not a protocol</li></ul>
+<p><b>Also in this catalog</b></p>
+<ul><li>01 Meal & Satiety</li><li>03 Plateau-Breaker</li><li>19 Protein Grocery</li></ul>
+<p>Trim 6 × 9 in · 85 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$14.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

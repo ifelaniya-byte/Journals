@@ -1,0 +1,88 @@
+Barnes & Noble Press paperback  ·  TITLE 34  ·  $14.99 (this store's print minimum)
+Do not upload this price to a store with a different floor. KDP stays $9.99.
+================================
+TITLE (≤200 chars)
+12-Week Habit Operating System
+
+SUBTITLE
+Weekly Contracts, Bad-Day Minimums & Environment Design (Undated)
+
+AUTHOR / IMPRINT
+Range Band Press
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+117
+
+COVER FILE
+34_Habit_OS_COVER_WRAP.pdf
+  Full wrap size: 12.514" × 9.250"
+  Spine: 0.2635"  (white paper B&W, 117 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+34_Twelve_Week_Habit_Operating_System_6x9.pdf
+
+CATEGORIES / BISAC
+SELF-HELP / Self-Management / Time Management  (SEL027000)
+SELF-HELP / Personal Growth / Happiness  (SEL016000)
+
+SEVEN BACKEND KEYWORDS
+  1. habit contract journal 12 week
+  2. minimum viable habit tracker
+  3. identity habit notebook
+  4. bad day minimum log
+  5. undated habit operating system
+  6. weekly behavior contract
+  7. environment design journal
+
+SUGGESTED PRICE (US)
+$14.99
+
+DESCRIPTION (plain)
+-------------------
+12-Week Habit Operating System
+Weekly Contracts, Bad-Day Minimums & Environment Design (Undated)
+
+Live inside the range. At most three habits. A minimum version for loud days. Weekly contracts. Not a 75-day clone.
+
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • At most three habits
+  • Minimum version for loud days
+  • Weekly contract + repair after two misses
+  • Daily tick + one line — no moral essay
+
+ALSO IN THIS CATALOG
+  • 03 Plateau-Breaker
+  • 16 Digital Detox
+
+Trim: 6 × 9 in
+Pages: 117
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $14.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>12-Week Habit Operating System</b> — Weekly Contracts, Bad-Day Minimums & Environment Design (Undated)</p>
+<p><i>Live inside the range.</i> At most three habits. A minimum version for loud days. Weekly contracts. Not a 75-day clone.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>At most three habits</li><li>Minimum version for loud days</li><li>Weekly contract + repair after two misses</li><li>Daily tick + one line — no moral essay</li></ul>
+<p><b>Also in this catalog</b></p>
+<ul><li>03 Plateau-Breaker</li><li>16 Digital Detox</li></ul>
+<p>Trim 6 × 9 in · 117 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$14.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

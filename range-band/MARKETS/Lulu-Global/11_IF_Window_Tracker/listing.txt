@@ -1,0 +1,88 @@
+Lulu print Global Distribution  ·  TITLE 11  ·  $9.99 (this store's print minimum)
+Do not upload this price to a store with a different floor. KDP stays $9.99.
+================================
+TITLE (≤200 chars)
+Intermittent Fasting Window Tracker
+
+SUBTITLE
+12-Week 16:8 / Custom Fast Log with 24-Hour Timeline Bars
+
+AUTHOR / IMPRINT
+Range Band Press
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+107
+
+COVER FILE
+11_IF_Window_Tracker_COVER_WRAP.pdf
+  Full wrap size: 12.491" × 9.250"
+  Spine: 0.2410"  (white paper B&W, 107 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+11_Intermittent_Fasting_Window_Tracker_12_Week_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Diet & Nutrition / Nutrition  (HEA019000)
+HEALTH & FITNESS / Weight Loss  (HEA006000)
+
+SEVEN BACKEND KEYWORDS
+  1. intermittent fasting log
+  2. 16 8 fasting tracker
+  3. fasting window journal
+  4. 24 hour timeline food diary
+  5. time restricted eating log
+  6. 12 week if notebook
+  7. undated fasting tracker
+
+SUGGESTED PRICE (US)
+$9.99
+
+DESCRIPTION (plain)
+-------------------
+Intermittent Fasting Window Tracker
+12-Week 16:8 / Custom Fast Log with 24-Hour Timeline Bars
+
+Live inside the range. Shade the hours you actually fasted on a 24-hour bar. 12 weeks. 16:8, 18:6, or custom.
+
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Shade the hours you actually fasted
+  • 12/12 through 20/4 or custom
+  • Hydration row + energy/mood scales
+  • Optional weight sparkline you can skip
+
+ALSO IN THIS CATALOG
+  • 01 Meal & Satiety
+  • 05 Hunger log
+
+Trim: 6 × 9 in
+Pages: 107
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $9.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Intermittent Fasting Window Tracker</b> — 12-Week 16:8 / Custom Fast Log with 24-Hour Timeline Bars</p>
+<p><i>Live inside the range.</i> Shade the hours you actually fasted on a 24-hour bar. 12 weeks. 16:8, 18:6, or custom.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Shade the hours you actually fasted</li><li>12/12 through 20/4 or custom</li><li>Hydration row + energy/mood scales</li><li>Optional weight sparkline you can skip</li></ul>
+<p><b>Also in this catalog</b></p>
+<ul><li>01 Meal & Satiety</li><li>05 Hunger log</li></ul>
+<p>Trim 6 × 9 in · 107 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

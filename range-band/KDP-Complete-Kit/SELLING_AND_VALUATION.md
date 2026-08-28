@@ -1,6 +1,6 @@
 # Selling, valuation, and upload files
 
-**Rule: every title lists at $9.99 USD.** Nothing in this kit is priced above $9.99.
+**Rule: every title in this KDP kit lists at $9.99 USD.** Nothing in *this* folder is priced above $9.99. Other stores have their own floors — those listings live in `../MARKETS/` as **one minimum-price version of each title**, not one shared $14.99 catalog.
 
 ## Why $9.99 (not $12.99 / $14.99)
 
@@ -143,13 +143,18 @@ You never buy inventory. Amazon prints after the customer pays. Your cost is $0 
 
 **You upload two PDFs per title, never one merged file.**
 
-### 2. Barnes & Noble Press
+### 2. Other print stores — one min per title, not one $14.99 catalog
 
-[press.barnesandnoble.com](https://press.barnesandnoble.com) — paperback. Same interior PDF. Cover: they want a wrap or a front+back depending on the wizard; use the wrap and confirm spine. Price $9.99. Own ISBN if you want bookstore returns; B&N can also assign one.
+Full listings: `../MARKETS/by-title/` and `../MARKETS/PLAYBOOK.md`. Spreadsheet: `../MARKETS/PRODUCTS.csv`.
 
-### 3. IngramSpark
+- **B&N Press** — hard floor **$14.99** on every paperback since 22 Apr 2026. Pack: `../MARKETS/BN-Press/`. Free B&N ISBN. Do **not** put $14.99 on Amazon.
+- **Lulu print Global Dist.** — list ≥ **2× print cost**, rounded to x.99, never under $9.99. Pack: `../MARKETS/Lulu-Global/`. Title **30** (188 pages) is **$11.99**; the other 35 estimate at **$9.99**. Confirm in Lulu’s calculator. Lulu’s own bookstore can stay $9.99. Skip Lulu *ebook* Global Dist ($4.99 fee).
+- **Google Play / Gumroad / Payhip** — print-at-home PDF at **$9.99**. Pack: `../MARKETS/DIGITAL-9.99/`.
+- **IngramSpark** — **parked**. Formula min (print ÷ 0.43125) is $9.99 on this catalog, but a Bowker ISBN is upfront money. Listings only: `../MARKETS/Ingram-PARKED/`. When you reopen: rebuild the wrap in Ingram’s template. Never reuse the KDP wrap blindly.
 
-[ingramspark.com](https://www.ingramspark.com) — widest bookstore / library wholesale. Requires **your** ISBN (not a KDP-owned ISBN). Same interior. Cover wrap: Ingram’s template includes a different barcode box and sometimes a different spine formula — **do not blindly upload the KDP wrap**. Rebuild the wrap in Ingram’s cover template using the same front art. Wholesale discount typically 40–55%.
+### 3. IngramSpark (parked until ISBN)
+
+[ingramspark.com](https://www.ingramspark.com) — widest bookstore / library wholesale. Requires **your** ISBN (not a KDP-owned ISBN). Setup fee is $0 (2026); the ISBN is the cost. Same interior. Cover wrap: Ingram’s template includes a different barcode box and sometimes a different spine formula — **do not blindly upload the KDP wrap**. Rebuild the wrap in Ingram’s cover template using the same front art. Wholesale discount typically 55%.
 
 ### 4. Etsy (print-on-demand)
 
@@ -165,9 +170,9 @@ Same POD partners (Lulu Direct, Gelato, Printify). Or sell a **digital PDF** of 
 
 ### 6. Do not bother first
 
-Apple Books, Kobo, Google Play Books = ebooks. Draft2Digital = ebook aggregator. Walmart/Target shelf = Ingram wholesale, not a direct upload. eBay = possible but noisy.
+Apple Books and Kobo want EPUB, not PDF. Draft2Digital charges before a sale. Walmart/Target shelf = Ingram wholesale, not a direct upload. eBay = possible but noisy.
 
-**Recommended order:** KDP Amazon (all 36) → Expanded Distribution → B&N Press for the 5–10 best sellers → IngramSpark only if you buy ISBNs and want bookstores.
+**Recommended order:** KDP Amazon (all 36 at $9.99) → Expanded Distribution → Google Play PDFs → B&N Press (each title $14.99) → Lulu Global (each title at 2× print) → IngramSpark only if you buy ISBNs.
 
 ## Files to upload (KDP paperback)
 

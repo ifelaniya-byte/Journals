@@ -1,0 +1,88 @@
+Barnes & Noble Press paperback  ·  20  ·  $14.99
+Hard floor $14.99 since 22 Apr 2026. Same price on every title. Free account, free B&N ISBN.
+================================
+TITLE (≤200 chars)
+GLP-1 Restaurant, Travel & Social Event Log
+
+SUBTITLE
+60 Eating-Out Pages, 12 Trip Kits & Usual-Order Cards
+
+AUTHOR / IMPRINT
+Range Band Press
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+85
+
+COVER FILE
+20_GLP1_Out_and_About_COVER_WRAP.pdf
+  Full wrap size: 12.441" × 9.250"
+  Spine: 0.1914"  (white paper B&W, 85 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+20_GLP1_Restaurant_Travel_and_Social_Log_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Diet & Nutrition / Nutrition  (HEA019000)
+TRAVEL / Special Interest / General  (TRV026000)
+
+SEVEN BACKEND KEYWORDS
+  1. restaurant food diary undated
+  2. eating out journal glp-1
+  3. travel meal log book
+  4. usual order cards notebook
+  5. social event food tracker
+  6. trip kit health journal
+  7. dining out fullness log
+
+SUGGESTED PRICE (US)
+$14.99
+
+DESCRIPTION (plain)
+-------------------
+GLP-1 Restaurant, Travel & Social Event Log
+60 Eating-Out Pages, 12 Trip Kits & Usual-Order Cards
+
+Live inside the range. Usual-order cards, 60 eating-out pages, 12 trip kits. How it sat — not a restaurant ranking.
+
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • My-usual-order cards you fill once
+  • 60 event pages: order, fullness, repeat
+  • 12 trip kits: refill, time zone, bag backups
+  • Not a restaurant ranking
+
+ALSO IN THIS CATALOG
+  • 01 Meal & Satiety
+  • 19 Grocery & Prep
+
+Trim: 6 × 9 in
+Pages: 85
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $14.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>GLP-1 Restaurant, Travel & Social Event Log</b> — 60 Eating-Out Pages, 12 Trip Kits & Usual-Order Cards</p>
+<p><i>Live inside the range.</i> Usual-order cards, 60 eating-out pages, 12 trip kits. How it sat — not a restaurant ranking.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>My-usual-order cards you fill once</li><li>60 event pages: order, fullness, repeat</li><li>12 trip kits: refill, time zone, bag backups</li><li>Not a restaurant ranking</li></ul>
+<p><b>Also in this catalog</b></p>
+<ul><li>01 Meal & Satiety</li><li>19 Grocery & Prep</li></ul>
+<p>Trim 6 × 9 in · 85 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$14.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

@@ -1,5 +1,5 @@
-DIGITAL $9.99 PRINT-AT-HOME PDF — 31
-Google Play / Gumroad / Payhip. Not an EPUB. Not for Apple or Kobo.
+DIGITAL $9.99 PDF — 31
+Google Play / Gumroad / Payhip. Not Apple. Not Kobo.
 ================================
 TITLE (≤200 chars)
 Glucose & Meal Timing Log
@@ -86,10 +86,3 @@ DESCRIPTION (HTML paste)
 <ul><li>15 FODMAP</li><li>01 Meal & Satiety</li></ul>
 <p>Trim 6 × 9 in · 110 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
 <p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>
-
-DIGITAL FILE NOTES
--------------------
-Upload `31_Glucose_Meal_printathome.pdf` as the book file.
-Upload `31_Glucose_Meal_cover.jpg` as the store thumbnail.
-Say: print-at-home PDF of the paperback interior. Not a reflowable ebook.
-Trim / print: bleed OFF, white paper, same page count as the paperback.

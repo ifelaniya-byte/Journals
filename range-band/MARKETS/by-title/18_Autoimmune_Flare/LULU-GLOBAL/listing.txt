@@ -1,0 +1,88 @@
+Lulu print Global Distribution  ·  18  ·  $9.99
+List must be at least 2× Lulu print cost. Each title gets its own minimum, rounded to x.99, never under $9.99.
+================================
+TITLE (≤200 chars)
+Autoimmune Flare & Energy Journal
+
+SUBTITLE
+90-Day Spoon Tracker, Symptom Grid & Medication-as-Prescribed Log
+
+AUTHOR / IMPRINT
+Range Band Press
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+113
+
+COVER FILE
+18_Autoimmune_Flare_COVER_WRAP.pdf
+  Full wrap size: 12.505" × 9.250"
+  Spine: 0.2545"  (white paper B&W, 113 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+18_Autoimmune_Flare_and_Energy_Level_Journal_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Diseases / General  (HEA039000)
+HEALTH & FITNESS / Diseases / Immune System  (HEA039020)
+
+SEVEN BACKEND KEYWORDS
+  1. spoon theory journal
+  2. autoimmune flare tracker
+  3. chronic illness energy log
+  4. fatigue pain grid notebook
+  5. undated flare diary
+  6. medication as prescribed log
+  7. immune symptom journal
+
+SUGGESTED PRICE (US)
+$9.99
+
+DESCRIPTION (plain)
+-------------------
+Autoimmune Flare & Energy Journal
+90-Day Spoon Tracker, Symptom Grid & Medication-as-Prescribed Log
+
+Live inside the range. 90 spoon-budget days, 0–5 grids, meds copied from the label. Flares as weather, not failure.
+
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Spoons as a budget, not a dare
+  • 0–5 grids for pain, fatigue, fog, GI, skin
+  • Copy meds from the label
+  • Weekly flare review
+
+ALSO IN THIS CATALOG
+  • 32 Chronic Pain
+  • 24 Clinic Brief
+
+Trim: 6 × 9 in
+Pages: 113
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $9.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Autoimmune Flare & Energy Journal</b> — 90-Day Spoon Tracker, Symptom Grid & Medication-as-Prescribed Log</p>
+<p><i>Live inside the range.</i> 90 spoon-budget days, 0–5 grids, meds copied from the label. Flares as weather, not failure.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Spoons as a budget, not a dare</li><li>0–5 grids for pain, fatigue, fog, GI, skin</li><li>Copy meds from the label</li><li>Weekly flare review</li></ul>
+<p><b>Also in this catalog</b></p>
+<ul><li>32 Chronic Pain</li><li>24 Clinic Brief</li></ul>
+<p>Trim 6 × 9 in · 113 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>
