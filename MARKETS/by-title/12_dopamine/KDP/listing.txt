@@ -1,0 +1,89 @@
+Amazon KDP paperback  ·  TITLE 12  ·  $9.99
+Cut on sale only.
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+The Dopamine Menu: An ADHD Journal for Ordering Your Stimulation
+
+SUBTITLE
+Five Courses and a Daily Order Ticket, 150 Pages
+
+COVER TITLE (already printed; do not change the PDF)
+The Dopamine Menu
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Journals
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: cream  |  Cover: matte
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+150
+
+COVER FILE
+dopamine_cover_wrap.pdf
+
+INTERIOR FILE
+dopamine_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. dopamine_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Self-Help / Journaling | Self-Help / Personal Growth
+
+SEVEN BACKEND KEYWORDS
+  1. dopamine menu journal
+  2. adhd journal for adults
+  3. dopamine menu template book
+  4. executive function journal
+  5. neurodivergent daily journal
+  6. adhd stimulation tracker
+  7. adhd motivation notebook
+
+SUGGESTED PRICE (US)
+$9.99
+
+DIFFICULTY / LADDER
+n/a (journal)
+Pairs with The 5-Minute Dump (ADHD stack).
+
+DESCRIPTION (plain)
+-------------------
+The Dopamine Menu: An ADHD Journal for Ordering Your Stimulation
+Five Courses and a Daily Order Ticket, 150 Pages
+
+Your brain runs on stimulation. The Dopamine Menu turns regulating it into a restaurant you run.
+
+Your brain runs on stimulation. The Dopamine Menu turns regulating it into a restaurant you run. Build your menu in five courses — starters under five minutes, mains for deep flow, sides for the ten-minute gaps, rationed specials, and portioned desserts — then order from it daily. Each order logs your appetite, what you ordered, and the after-taste rating, so you learn what actually feeds your brain versus what steals from it. Menu refreshes keep the offerings honest, and a two-page index re-copies your working menu. 150 undated pages, 6 × 9 in, cream paper. For ADHD, AuDHD, and anyone whose stimulation diet needs a chef. Mechanism: five courses (starters, mains, sides, specials, desserts) plus a daily order ticket.
+
+
+Trim: 6 × 9 in
+Pages: 150
+Paper: cream  ·  B&W  ·  bleed OFF  ·  matte
+Price: $9.99
+Series: Quiet Mind Journals
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>The Dopamine Menu: An ADHD Journal for Ordering Your Stimulation</b> — Five Courses and a Daily Order Ticket, 150 Pages</p>
+<p>Your brain runs on stimulation. The Dopamine Menu turns regulating it into a restaurant you run.</p>
+<p><b>Inside</b></p><ul><li>Undated — start any day</li><li>Pairs with The 5-Minute Dump (ADHD stack).</li><li>150 pages · 6×9 in · cream paper · black & white · bleed OFF · matte</li></ul>
+<p>Your brain runs on stimulation. The Dopamine Menu turns regulating it into a restaurant you run. Build your menu in five courses — starters under five minutes, mains for deep flow, sides for the ten-minute gaps, rationed specials, and portioned desserts — then order from it daily. Each order logs your appetite, what you ordered, and the after-taste rating, so you learn what actually feeds your brain versus what steals from it. Menu refreshes keep the offerings honest, and a two-page index re-copies your working menu. 150 undated pages, 6 × 9 in, cream paper. For ADHD, AuDHD, and anyone whose stimulation diet needs a chef. Mechanism: five courses (starters, mains, sides, specials, desserts) plus a daily order ticket.</p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>

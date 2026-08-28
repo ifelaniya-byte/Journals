@@ -1,0 +1,90 @@
+DIGITAL PDF  ·  TITLE 08  ·  $6.99
+Google Play / Gumroad / Payhip / Ko-fi / itch.io. Not Apple. Not Kobo.
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+Fractal Dreams: Advanced Mathematical Coloring Book
+
+SUBTITLE
+67 Real Fractals: Sierpinski, Julia Sets and Golden Spirals
+
+COVER TITLE (already printed; do not change the PDF)
+Fractal Dreams
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Color
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white  |  Cover: matte
+
+TRIM
+8.5" × 11"
+
+PAGE COUNT
+140
+
+COVER FILE
+fractal_cover_wrap.pdf
+
+INTERIOR FILE
+fractal_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. fractal_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Crafts / Coloring Books | Crafts / Mandalas & Patterns
+
+SEVEN BACKEND KEYWORDS
+  1. fractal coloring book adults
+  2. real mathematics coloring
+  3. sacred geometry coloring book
+  4. advanced intricate coloring
+  5. sierpinski coloring pages
+  6. complex pattern coloring book
+  7. math coloring book for adults
+
+SUGGESTED PRICE (US)
+$6.99
+
+DIFFICULTY / LADDER
+Advanced
+Quiet Mind Color ladder: Advanced. Too hard? Try Celestial Atlas. Too easy? Try Architectural Visions.
+
+DESCRIPTION (plain)
+-------------------
+Fractal Dreams: Advanced Mathematical Coloring Book
+67 Real Fractals: Sierpinski, Julia Sets and Golden Spirals
+
+Generated from real mathematics. Not for beginners. For the colorist who has done everything else.
+
+Sierpinski triangles, Koch snowflake mandalas, fractal trees, Julia set dot fields, dragon curves, golden spirals, nested polygons, and recursive stars — generated from real mathematics. Every page is unique. Thin precise lines with hundreds of fill regions. Single-sided. 8.5 × 11 in. 140 pages. Not for beginners. For the colorist who has done everything else. Difficulty: Advanced. Single-sided. Every plate generated from real mathematics, not clip-art.
+Quiet Mind Color ladder: Advanced. Too hard? Try Celestial Atlas. Too easy? Try Architectural Visions.
+
+Trim: 8.5 × 11 in
+Pages: 140
+Paper: white  ·  B&W  ·  bleed OFF  ·  matte
+Price: $6.99
+Series: Quiet Mind Color
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Fractal Dreams: Advanced Mathematical Coloring Book</b> — 67 Real Fractals: Sierpinski, Julia Sets and Golden Spirals</p>
+<p>Generated from real mathematics. Not for beginners. For the colorist who has done everything else.</p>
+<p><b>Inside</b></p><ul><li>Difficulty: Advanced · single-sided pages</li><li>Quiet Mind Color — interiors first, then the cover</li><li>140 pages · 8.5×11 in · white paper · black & white · bleed OFF · matte</li></ul>
+<p>Sierpinski triangles, Koch snowflake mandalas, fractal trees, Julia set dot fields, dragon curves, golden spirals, nested polygons, and recursive stars — generated from real mathematics. Every page is unique. Thin precise lines with hundreds of fill regions. Single-sided. 8.5 × 11 in. 140 pages. Not for beginners. For the colorist who has done everything else. Difficulty: Advanced. Single-sided. Every plate generated from real mathematics, not clip-art.</p>
+<p><i>Quiet Mind Color ladder: Advanced. Too hard? Try Celestial Atlas. Too easy? Try Architectural Visions.</i></p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>

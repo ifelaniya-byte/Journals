@@ -1,0 +1,90 @@
+BN Press  ·  TITLE 16  ·  $14.99
+Hard floor $14.99. Do not put this price on Amazon.
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+Botanical Ink: Fine-Line Floral Coloring Book for Adults
+
+SUBTITLE
+49 Herbarium Plates with Real Phyllotaxis Spirals
+
+COVER TITLE (already printed; do not change the PDF)
+Botanical Ink
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Color
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white  |  Cover: matte
+
+TRIM
+8.5" × 11"
+
+PAGE COUNT
+104
+
+COVER FILE
+botanical_cover_wrap.pdf
+
+INTERIOR FILE
+botanical_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. botanical_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Crafts / Coloring Books | Arts / Drawing
+
+SEVEN BACKEND KEYWORDS
+  1. botanical coloring book adults
+  2. fine line floral coloring
+  3. herbarium coloring book
+  4. vintage botanical line art
+  5. detailed flower coloring adults
+  6. botanical garden coloring book
+  7. plant lover coloring book
+
+SUGGESTED PRICE (US)
+$14.99
+
+DIFFICULTY / LADDER
+Fine line
+Quiet Mind Color ladder: Fine line. Too hard? Try Mosaic Mind. Too easy? Try Tidal Ink.
+
+DESCRIPTION (plain)
+-------------------
+Botanical Ink: Fine-Line Floral Coloring Book for Adults
+49 Herbarium Plates with Real Phyllotaxis Spirals
+
+Fine-line botanicals drawn the old way — ferns, monstera, herbarium plates. A garden that never wilts.
+
+Fine-line botanicals drawn the old way: ferns with every pinna, monstera with true fenestrations, sunflower and dandelion heads built from real phyllotaxis spirals, herbarium plates with label boxes and tape corners. Thin, precise linework for colored pencils and fine-tip markers — the quiet, patient end of the coloring spectrum. Single-sided. 8.5 × 11 in, 104 pages, white paper. A garden that never wilts. Difficulty: Fine line. Real phyllotaxis spirals. Single-sided. 49 herbarium plates.
+Quiet Mind Color ladder: Fine line. Too hard? Try Mosaic Mind. Too easy? Try Tidal Ink.
+
+Trim: 8.5 × 11 in
+Pages: 104
+Paper: white  ·  B&W  ·  bleed OFF  ·  matte
+Price: $14.99
+Series: Quiet Mind Color
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Botanical Ink: Fine-Line Floral Coloring Book for Adults</b> — 49 Herbarium Plates with Real Phyllotaxis Spirals</p>
+<p>Fine-line botanicals drawn the old way — ferns, monstera, herbarium plates. A garden that never wilts.</p>
+<p><b>Inside</b></p><ul><li>Difficulty: Fine line · single-sided pages</li><li>Quiet Mind Color — interiors first, then the cover</li><li>104 pages · 8.5×11 in · white paper · black & white · bleed OFF · matte</li></ul>
+<p>Fine-line botanicals drawn the old way: ferns with every pinna, monstera with true fenestrations, sunflower and dandelion heads built from real phyllotaxis spirals, herbarium plates with label boxes and tape corners. Thin, precise linework for colored pencils and fine-tip markers — the quiet, patient end of the coloring spectrum. Single-sided. 8.5 × 11 in, 104 pages, white paper. A garden that never wilts. Difficulty: Fine line. Real phyllotaxis spirals. Single-sided. 49 herbarium plates.</p>
+<p><i>Quiet Mind Color ladder: Fine line. Too hard? Try Mosaic Mind. Too easy? Try Tidal Ink.</i></p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>

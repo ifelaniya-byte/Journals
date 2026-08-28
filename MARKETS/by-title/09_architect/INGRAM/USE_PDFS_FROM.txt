@@ -1,0 +1,4 @@
+Interior: release3/architect/architect_interior.pdf
+Wrap:     release3/architect/architect_cover_wrap.pdf
+Front JPG:release3/architect/architect_cover.jpg
+Listing images 02–07 in the same folder.

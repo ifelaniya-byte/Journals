@@ -1,0 +1,98 @@
+DIGITAL PDF EDITION (print-at-home, $6.99) - KDP LISTING — 09  architect
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+Architectural Visions: Cathedral and Cityscape Coloring Book for Adults
+
+SUBTITLE
+67 Intricate Cathedrals, Cityscapes and Rose Windows
+
+COVER TITLE (already printed; do not change the PDF)
+Architectural Visions
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Color
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white  |  Cover: matte
+
+TRIM
+8.5" × 11"
+
+PAGE COUNT
+140
+
+COVER FILE
+architect_cover_wrap.pdf
+
+PRODUCT FILE
+architect_digital.pdf  (license page + the full validated interior, 140 pages + 1 license page = 141)
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. architect_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Crafts / Coloring Books | Crafts / Architecture
+
+SEVEN BACKEND KEYWORDS
+  1. architecture coloring book for adults
+  2. cathedral coloring book
+  3. gothic coloring book for adults
+  4. cityscape coloring book for adults
+  5. travel coloring book for adults
+  6. stained glass windows coloring
+  7. building coloring book for adults
+
+SUGGESTED PRICE (DIGITAL)
+$6.99   (same price on every PDF store; platform minimums: none on any eligible store - see markets/digital/README.md)
+
+DIFFICULTY / LADDER
+Advanced
+Quiet Mind Color ladder: Advanced. Too hard? Try Fractal Dreams.
+
+DESCRIPTION (plain)
+-------------------
+Architectural Visions: Cathedral and Cityscape Coloring Book for Adults
+67 Intricate Cathedrals, Cityscapes and Rose Windows
+
+Gothic cathedrals, dense cityscapes, rose windows. Every page rewards a whole afternoon.
+
+Gothic cathedrals with flying buttresses and rose windows. Dense cityscapes with hundreds of windows. Ornate arched doorways. Grand spiral staircases. Every page rewards patience with architectural detail you can get lost in. 67 single-sided designs. 8.5 × 11 in. 140 pages. Difficulty: Advanced.
+Quiet Mind Color ladder: Advanced. Too hard? Try Fractal Dreams.
+
+Trim: 8.5 × 11 in
+Pages: 140
+Paper: white  ·  B&W  ·  bleed OFF  ·  matte
+Price: $6.99
+Series: Quiet Mind Color
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Architectural Visions: Cathedral and Cityscape Coloring Book for Adults</b> — 67 Intricate Cathedrals, Cityscapes and Rose Windows</p>
+<p>Gothic cathedrals, dense cityscapes, rose windows. Every page rewards a whole afternoon.</p>
+<p><b>Inside</b></p><ul><li>Difficulty: Advanced · single-sided pages</li><li>Quiet Mind Color — interiors first, then the cover</li><li>140 pages · 8.5×11 in · white paper · black & white · bleed OFF · matte</li></ul>
+<p>Gothic cathedrals with flying buttresses and rose windows. Dense cityscapes with hundreds of windows. Ornate arched doorways. Grand spiral staircases. Every page rewards patience with architectural detail you can get lost in. 67 single-sided designs. 8.5 × 11 in. 140 pages. Difficulty: Advanced.</p>
+<p><i>Quiet Mind Color ladder: Advanced. Too hard? Try Fractal Dreams.</i></p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>
+
+--------------------------------------------------------------------------------
+DIGITAL EDITION NOTES
+- Buyer gets: architect_digital.pdf, personal-use license, print-at-home.
+- The print edition stays $9.99 and separate; this file never goes to KDP.
+- Upload to the free PDF stores (see README matrix). Same price everywhere.
+- The Middle Season deliberately has NO digital edition (print-only lane).
+- Listing images: cover.jpg + listing_02-05 + listing_07. DO NOT use
+  listing_06_callout.jpg here (it shows the $9.99 print price).

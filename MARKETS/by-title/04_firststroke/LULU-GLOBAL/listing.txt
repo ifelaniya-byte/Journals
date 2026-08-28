@@ -1,0 +1,90 @@
+Lulu print Global Dist.  ·  TITLE 04  ·  $9.99
+Cut on sale only.
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+First Strokes: Easy Coloring Book for Adult Beginners
+
+SUBTITLE
+37 Super Simple Designs with 3 to 5 Large Shapes per Page
+
+COVER TITLE (already printed; do not change the PDF)
+First Strokes
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Color
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white  |  Cover: matte
+
+TRIM
+8.5" × 11"
+
+PAGE COUNT
+100
+
+COVER FILE
+firststroke_cover_wrap.pdf
+
+INTERIOR FILE
+firststroke_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. firststroke_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Crafts / Coloring Books | Self-Help / Stress Management
+
+SEVEN BACKEND KEYWORDS
+  1. easy coloring book for adults
+  2. large print coloring book for seniors
+  3. thick lines coloring book
+  4. simple coloring book for seniors
+  5. beginner coloring book adults
+  6. large shapes coloring
+  7. marker friendly coloring book
+
+SUGGESTED PRICE (US)
+$9.99
+
+DIFFICULTY / LADDER
+Beginner
+Quiet Mind Color ladder: Beginner. Too easy? Try Easy Garden.
+
+DESCRIPTION (plain)
+-------------------
+First Strokes: Easy Coloring Book for Adult Beginners
+37 Super Simple Designs with 3 to 5 Large Shapes per Page
+
+The simplest coloring book you'll find. 3–5 shapes per page. Lines so thick a marker can't miss.
+
+The simplest coloring book you'll find. 3–5 shapes per page. Lines so thick a marker can't miss. Stars, hearts, fish, cats, butterflies, houses — nothing intimidating, everything satisfying. Single-sided. 8.5 × 11 in. 100 pages. For absolute beginners, seniors, kids, and anyone who wants to color without frustration. Difficulty: Beginner. Single-sided. Thick marker-friendly lines. 37 designs of 3 to 5 large shapes, nothing tiny.
+Quiet Mind Color ladder: Beginner. Too easy? Try Easy Garden.
+
+Trim: 8.5 × 11 in
+Pages: 100
+Paper: white  ·  B&W  ·  bleed OFF  ·  matte
+Price: $9.99
+Series: Quiet Mind Color
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>First Strokes: Easy Coloring Book for Adult Beginners</b> — 37 Super Simple Designs with 3 to 5 Large Shapes per Page</p>
+<p>The simplest coloring book you'll find. 3–5 shapes per page. Lines so thick a marker can't miss.</p>
+<p><b>Inside</b></p><ul><li>Difficulty: Beginner · single-sided pages</li><li>Quiet Mind Color — interiors first, then the cover</li><li>100 pages · 8.5×11 in · white paper · black & white · bleed OFF · matte</li></ul>
+<p>The simplest coloring book you'll find. 3–5 shapes per page. Lines so thick a marker can't miss. Stars, hearts, fish, cats, butterflies, houses — nothing intimidating, everything satisfying. Single-sided. 8.5 × 11 in. 100 pages. For absolute beginners, seniors, kids, and anyone who wants to color without frustration. Difficulty: Beginner. Single-sided. Thick marker-friendly lines. 37 designs of 3 to 5 large shapes, nothing tiny.</p>
+<p><i>Quiet Mind Color ladder: Beginner. Too easy? Try Easy Garden.</i></p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>

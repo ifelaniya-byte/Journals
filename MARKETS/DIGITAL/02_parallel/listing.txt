@@ -1,0 +1,89 @@
+DIGITAL PDF  ·  TITLE 02  ·  $6.99
+Google Play / Gumroad / Payhip / Ko-fi / itch.io. Not Apple. Not Kobo.
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+Parallel Lives: A Split-Page Therapy Journal
+
+SUBTITLE
+160 Pages of Side-by-Side Prompts: What Happened and How It Felt
+
+COVER TITLE (already printed; do not change the PDF)
+Parallel Lives
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Journals
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: cream  |  Cover: matte
+
+TRIM
+7" × 10"
+
+PAGE COUNT
+160
+
+COVER FILE
+parallel_cover_wrap.pdf
+
+INTERIOR FILE
+parallel_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. parallel_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Self-Help / Journaling | Self-Help / Personal Growth
+
+SEVEN BACKEND KEYWORDS
+  1. side by side journal
+  2. dual column therapy journal
+  3. cbt journal for adults
+  4. split page journal
+  5. overthinking journal prompts
+  6. two perspective notebook
+  7. self awareness journal
+
+SUGGESTED PRICE (US)
+$6.99
+
+DIFFICULTY / LADDER
+n/a (journal)
+Standalone therapy journal. Pairs with Settle if the body is loud.
+
+DESCRIPTION (plain)
+-------------------
+Parallel Lives: A Split-Page Therapy Journal
+160 Pages of Side-by-Side Prompts: What Happened and How It Felt
+
+Every spread splits the page in two. The gap between the two sides is where the insight lives.
+
+Every spread splits the page in two. What happened and how it felt. What you said and what you meant. The gap between the two sides is where the insight lives. 20 paired prompt themes with reflection pages every 10 spreads. 7 × 10 in. 160 pages. Cream paper. For divided minds that need to see both sides. Mechanism: every spread is split — what happened / how it felt.
+
+
+Trim: 7 × 10 in
+Pages: 160
+Paper: cream  ·  B&W  ·  bleed OFF  ·  matte
+Price: $6.99
+Series: Quiet Mind Journals
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Parallel Lives: A Split-Page Therapy Journal</b> — 160 Pages of Side-by-Side Prompts: What Happened and How It Felt</p>
+<p>Every spread splits the page in two. The gap between the two sides is where the insight lives.</p>
+<p><b>Inside</b></p><ul><li>Undated — start any day</li><li>Standalone therapy journal. Pairs with Settle if the body is loud.</li><li>160 pages · 7×10 in · cream paper · black & white · bleed OFF · matte</li></ul>
+<p>Every spread splits the page in two. What happened and how it felt. What you said and what you meant. The gap between the two sides is where the insight lives. 20 paired prompt themes with reflection pages every 10 spreads. 7 × 10 in. 160 pages. Cream paper. For divided minds that need to see both sides. Mechanism: every spread is split — what happened / how it felt.</p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>

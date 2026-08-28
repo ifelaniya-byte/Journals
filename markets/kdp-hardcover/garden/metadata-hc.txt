@@ -1,0 +1,100 @@
+KDP HARDCOVER EDITION (case laminate, matched minimum pricing) - KDP LISTING — 05  garden
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+Easy Garden: Bold and Easy Flower Coloring Book for Adults
+
+SUBTITLE
+47 Big and Simple Designs with Thick Lines
+
+COVER TITLE (already printed; do not change the PDF)
+Easy Garden
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Color
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white  |  Cover: matte
+
+TRIM
+8.5" × 11"
+
+PAGE COUNT
+100
+
+COVER FILE
+KDP hardcover needs its own case-laminate wrap (no bleed, 0.625 wrap,
+0.375 hinge). Download KDP's hardcover template for this trim + page count;
+rebuild from markets/bn-print/garden/ panels (300 DPI).
+Interior: same PDF, upload unchanged (B&W, bleed OFF).
+
+INTERIOR FILE
+garden_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. garden_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Crafts / Coloring Books | Crafts / Nature
+
+SEVEN BACKEND KEYWORDS
+  1. bold and easy coloring book for adults
+  2. flower coloring book large print
+  3. thick line coloring book for adults
+  4. simple garden coloring book
+  5. flower coloring book for adults
+  6. beginner flower coloring book
+  7. garden coloring book for adults
+
+SUGGESTED PRICE (US)
+$13.99   (hardcover floor for 100pp is $11.33; lowest x.99 price paying at least $1.00 royalty)
+
+DIFFICULTY / LADDER
+Beginner
+Quiet Mind Color ladder: Beginner. Too hard? Try First Strokes. Too easy? Try Cozy Corners.
+
+DESCRIPTION (plain)
+-------------------
+Easy Garden: Bold and Easy Flower Coloring Book for Adults
+47 Big and Simple Designs with Thick Lines
+
+A garden that never needs watering. Thick, forgiving lines, one big subject per page. Bold and easy.
+
+Sunflowers, tulips, daisies, mushrooms, ladybugs, snails, and bees, all drawn with thick, forgiving lines. One big subject per page, large fill areas, no tiny gaps. 47 single-sided designs. 8.5 × 11 in. 100 pages. Difficulty: Beginner. Single-sided pages. Thick marker-friendly lines.
+Quiet Mind Color ladder: Beginner. Too hard? Try First Strokes. Too easy? Try Cozy Corners.
+
+Trim: 8.5 × 11 in
+Pages: 100
+Paper: white  ·  B&W  ·  bleed OFF  ·  matte
+Price: $13.99
+Series: Quiet Mind Color
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Easy Garden: Bold and Easy Flower Coloring Book for Adults</b> — 47 Big and Simple Designs with Thick Lines</p>
+<p>A garden that never needs watering. Thick, forgiving lines, one big subject per page. Bold and easy.</p>
+<p><b>Inside</b></p><ul><li>Difficulty: Beginner · single-sided pages</li><li>Quiet Mind Color — interiors first, then the cover</li><li>100 pages · 8.5×11 in · white paper · black & white · bleed OFF · matte</li></ul>
+<p>Sunflowers, tulips, daisies, mushrooms, ladybugs, snails, and bees, all drawn with thick, forgiving lines. One big subject per page, large fill areas, no tiny gaps. 47 single-sided designs. 8.5 × 11 in. 100 pages. Difficulty: Beginner. Single-sided pages. Thick marker-friendly lines.</p>
+<p><i>Quiet Mind Color ladder: Beginner. Too hard? Try First Strokes. Too easy? Try Cozy Corners.</i></p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>
+
+--------------------------------------------------------------------------------
+HARDCOVER NOTES (this edition only; paperback everywhere else stays $9.99)
+- B&W hardcover print cost (2026 rates): $6.80. Floor = cost/0.60 = $11.33.
+- Entry price $13.99 -> royalty $1.59 per Amazon sale.
+- Verify in KDP's printing-cost calculator and size picker at setup; rates drift.
+- Free to publish, free ISBN, 75-550 pages B&W, matte case laminate.
+- Series, imprint, keywords, categories: identical to the paperback listing.

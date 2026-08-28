@@ -1,0 +1,89 @@
+IngramSpark paperback  ·  TITLE 01  ·  $9.99
+PARKED — Bowker ISBN is upfront money.
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+The 5-Minute Dump: Micro-Journal for People Who Hate Journaling
+
+SUBTITLE
+200 Pages of Rotating Five-Minute Prompts, Undated
+
+COVER TITLE (already printed; do not change the PDF)
+The 5-Minute Dump
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Journals
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: cream  |  Cover: matte
+
+TRIM
+5.5" × 8.5"
+
+PAGE COUNT
+200
+
+COVER FILE
+dump_cover_wrap.pdf
+
+INTERIOR FILE
+dump_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. dump_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Self-Help / Journaling | Self-Help / Anxieties & Phobias
+
+SEVEN BACKEND KEYWORDS
+  1. 5 minute journal
+  2. adhd brain dump notebook
+  3. micro journal for beginners
+  4. low effort journaling
+  5. brain dump journal undated
+  6. journal for people who hate journaling
+  7. tiny prompts journal
+
+SUGGESTED PRICE (US)
+$9.99
+
+DIFFICULTY / LADDER
+n/a (journal)
+Pairs with The Dopamine Menu (ADHD stack).
+
+DESCRIPTION (plain)
+-------------------
+The 5-Minute Dump: Micro-Journal for People Who Hate Journaling
+200 Pages of Rotating Five-Minute Prompts, Undated
+
+Each page takes five minutes or less. No long prompts. No essays.
+
+Each page takes five minutes or less. No long prompts. No essays. Just brain dumps, body checks, mood circles, and tiny wins. 30 rotating micro-prompts designed for people who want to journal but can't commit to paragraphs. Undated. Start anywhere. 5.5 × 8.5 in. 200 pages. Cream paper. For ADHD, anxiety, depression, and anyone who needs less, not more. Mechanism: five minutes, rotating micro-prompts, no essays.
+
+
+Trim: 5.5 × 8.5 in
+Pages: 200
+Paper: cream  ·  B&W  ·  bleed OFF  ·  matte
+Price: $9.99
+Series: Quiet Mind Journals
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>The 5-Minute Dump: Micro-Journal for People Who Hate Journaling</b> — 200 Pages of Rotating Five-Minute Prompts, Undated</p>
+<p>Each page takes five minutes or less. No long prompts. No essays.</p>
+<p><b>Inside</b></p><ul><li>Undated — start any day</li><li>Pairs with The Dopamine Menu (ADHD stack).</li><li>200 pages · 5.5×8.5 in · cream paper · black & white · bleed OFF · matte</li></ul>
+<p>Each page takes five minutes or less. No long prompts. No essays. Just brain dumps, body checks, mood circles, and tiny wins. 30 rotating micro-prompts designed for people who want to journal but can't commit to paragraphs. Undated. Start anywhere. 5.5 × 8.5 in. 200 pages. Cream paper. For ADHD, anxiety, depression, and anyone who needs less, not more. Mechanism: five minutes, rotating micro-prompts, no essays.</p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>

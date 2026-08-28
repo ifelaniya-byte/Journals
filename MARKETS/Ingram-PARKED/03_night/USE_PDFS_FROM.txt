@@ -1,0 +1,4 @@
+Interior: release3/night/night_interior.pdf
+Wrap:     release3/night/night_cover_wrap.pdf
+Front JPG:release3/night/night_cover.jpg
+Listing images 02–07 in the same folder.

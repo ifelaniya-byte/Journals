@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.cache/
+.DS_Store
+.venv/
+Journals.bundle
+.ssh/
+
+# B&N kit cover panels: 10MB, regenerable via make_bn_kits.py (live on remote branch)
+markets/bn-print/*/bn_front.jpg
+markets/bn-print/*/bn_back.jpg
+
+# Digital edition PDFs: regenerable via make_digital_kits.py (kept out of git for space)
+markets/digital/*/*_digital.pdf
+markets/digital/samplers/*.pdf
+
+# regenerable caches (untracked for space; scripts rebuild on demand)
+assets3/*_linen.jpg
+assets4/*_linen.jpg
+MARKETS/DIGITAL/*/*_cover.jpg
+markets/digital/*/*_digital.pdf
+markets/bn-print/*/bn_*.jpg
+markets/samplers/
+release3/*/*_cover.png

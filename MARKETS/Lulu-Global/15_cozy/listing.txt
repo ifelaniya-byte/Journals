@@ -1,0 +1,90 @@
+Lulu Global  ·  TITLE 15  ·  $9.99
+List ≥ 2× Lulu print. Confirm calculator.
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+Cozy Corners: Cozy Spaces Coloring Book for Adults
+
+SUBTITLE
+49 Cozy Spaces: Reading Nooks, Rainy Windows and Hygge Rooms
+
+COVER TITLE (already printed; do not change the PDF)
+Cozy Corners
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Color
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white  |  Cover: matte
+
+TRIM
+8.5" × 11"
+
+PAGE COUNT
+104
+
+COVER FILE
+cozy_cover_wrap.pdf
+
+INTERIOR FILE
+cozy_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. cozy_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Crafts / Coloring Books | Self-Help / Stress Management
+
+SEVEN BACKEND KEYWORDS
+  1. cozy coloring book adults
+  2. cozy spaces coloring
+  3. hygge coloring book
+  4. reading nook coloring pages
+  5. cottagecore interiors coloring
+  6. fireplace coloring book
+  7. aesthetic cozy coloring
+
+SUGGESTED PRICE (US)
+$9.99
+
+DIFFICULTY / LADDER
+Beginner–Easy
+Quiet Mind Color ladder: Beginner–Easy. Too hard? Try Easy Garden. Too easy? Try Woodland Wonders.
+
+DESCRIPTION (plain)
+-------------------
+Cozy Corners: Cozy Spaces Coloring Book for Adults
+49 Cozy Spaces: Reading Nooks, Rainy Windows and Hygge Rooms
+
+Reading nooks, rainy windows, string lights. Small scenes you can finish in one sitting.
+
+Reading nooks and rainy windows. Fireplaces, teapots, string lights, shelf plants, curled cats and canopy beds — the coziest corners, drawn with soft rounded lines that are a pleasure to fill. Every design is a small scene you can finish in one sitting, single-sided so you can frame the ones you love. 8.5 × 11 in, 104 pages, white paper. Warm drinks optional but recommended. Difficulty: Beginner to Easy. Single-sided, frame-able. 49 cozy spaces.
+Quiet Mind Color ladder: Beginner–Easy. Too hard? Try Easy Garden. Too easy? Try Woodland Wonders.
+
+Trim: 8.5 × 11 in
+Pages: 104
+Paper: white  ·  B&W  ·  bleed OFF  ·  matte
+Price: $9.99
+Series: Quiet Mind Color
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Cozy Corners: Cozy Spaces Coloring Book for Adults</b> — 49 Cozy Spaces: Reading Nooks, Rainy Windows and Hygge Rooms</p>
+<p>Reading nooks, rainy windows, string lights. Small scenes you can finish in one sitting.</p>
+<p><b>Inside</b></p><ul><li>Difficulty: Beginner–Easy · single-sided pages</li><li>Quiet Mind Color — interiors first, then the cover</li><li>104 pages · 8.5×11 in · white paper · black & white · bleed OFF · matte</li></ul>
+<p>Reading nooks and rainy windows. Fireplaces, teapots, string lights, shelf plants, curled cats and canopy beds — the coziest corners, drawn with soft rounded lines that are a pleasure to fill. Every design is a small scene you can finish in one sitting, single-sided so you can frame the ones you love. 8.5 × 11 in, 104 pages, white paper. Warm drinks optional but recommended. Difficulty: Beginner to Easy. Single-sided, frame-able. 49 cozy spaces.</p>
+<p><i>Quiet Mind Color ladder: Beginner–Easy. Too hard? Try Easy Garden. Too easy? Try Woodland Wonders.</i></p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>

@@ -1,0 +1,90 @@
+DIGITAL PDF  ·  TITLE 18  ·  $6.99
+Google Play / Gumroad / Payhip / Ko-fi / itch.io. Not Apple. Not Kobo.
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+Tidal Ink: Jellyfish and Deep-Sea Fine-Line Coloring Book for Adults
+
+SUBTITLE
+49 Fine-Line Deep-Sea Plates from Real Logarithmic Spirals
+
+COVER TITLE (already printed; do not change the PDF)
+Tidal Ink
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Color
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white  |  Cover: matte
+
+TRIM
+8.5" × 11"
+
+PAGE COUNT
+104
+
+COVER FILE
+tidal_cover_wrap.pdf
+
+INTERIOR FILE
+tidal_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. tidal_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Crafts / Coloring Books | Crafts / Animals
+
+SEVEN BACKEND KEYWORDS
+  1. jellyfish coloring book adults
+  2. ocean coloring book adults
+  3. nautilus spiral coloring
+  4. deep sea coloring book
+  5. marine life fine line coloring
+  6. coastal coloring book adults
+  7. underwater coloring pages
+
+SUGGESTED PRICE (US)
+$6.99
+
+DIFFICULTY / LADDER
+Fine line
+Quiet Mind Color ladder: Fine line. Too hard? Try Botanical Ink. Too easy? Try Celestial Atlas.
+
+DESCRIPTION (plain)
+-------------------
+Tidal Ink: Jellyfish and Deep-Sea Fine-Line Coloring Book for Adults
+49 Fine-Line Deep-Sea Plates from Real Logarithmic Spirals
+
+Jellyfish, nautilus, kelp. Every spiral is real mathematics. Color it blue. Or don't.
+
+Drifting jellyfish with ribbon arms, chambered nautiluses drawn from the actual logarithmic spiral, seahorses, sea turtles, coral fans, kelp forests and smooth rolling waves — the deep sea rendered in fine, unhurried line. Every curve is a true spline, every spiral real mathematics; the result pages feel like etchings. Single-sided. 8.5 × 11 in, 104 pages, white paper. Color it blue. Or don't. The ocean won't mind. Difficulty: Fine line. Nautilus from the real logarithmic spiral. Single-sided. 49 deep-sea plates.
+Quiet Mind Color ladder: Fine line. Too hard? Try Botanical Ink. Too easy? Try Celestial Atlas.
+
+Trim: 8.5 × 11 in
+Pages: 104
+Paper: white  ·  B&W  ·  bleed OFF  ·  matte
+Price: $6.99
+Series: Quiet Mind Color
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Tidal Ink: Jellyfish and Deep-Sea Fine-Line Coloring Book for Adults</b> — 49 Fine-Line Deep-Sea Plates from Real Logarithmic Spirals</p>
+<p>Jellyfish, nautilus, kelp. Every spiral is real mathematics. Color it blue. Or don't.</p>
+<p><b>Inside</b></p><ul><li>Difficulty: Fine line · single-sided pages</li><li>Quiet Mind Color — interiors first, then the cover</li><li>104 pages · 8.5×11 in · white paper · black & white · bleed OFF · matte</li></ul>
+<p>Drifting jellyfish with ribbon arms, chambered nautiluses drawn from the actual logarithmic spiral, seahorses, sea turtles, coral fans, kelp forests and smooth rolling waves — the deep sea rendered in fine, unhurried line. Every curve is a true spline, every spiral real mathematics; the result pages feel like etchings. Single-sided. 8.5 × 11 in, 104 pages, white paper. Color it blue. Or don't. The ocean won't mind. Difficulty: Fine line. Nautilus from the real logarithmic spiral. Single-sided. 49 deep-sea plates.</p>
+<p><i>Quiet Mind Color ladder: Fine line. Too hard? Try Botanical Ink. Too easy? Try Celestial Atlas.</i></p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>

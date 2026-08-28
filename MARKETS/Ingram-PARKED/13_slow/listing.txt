@@ -1,0 +1,89 @@
+IngramSpark PARKED  ·  TITLE 13  ·  $9.99
+PARKED — Bowker ISBN is upfront.
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+The Slow Page: A Slow Living Journal for Four Seasons
+
+SUBTITLE
+One Unhurried Page a Day for Four Seasons
+
+COVER TITLE (already printed; do not change the PDF)
+The Slow Page
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Journals
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: cream  |  Cover: matte
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+144
+
+COVER FILE
+slow_cover_wrap.pdf
+
+INTERIOR FILE
+slow_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. slow_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Self-Help / Journaling | Self-Help / Motivational
+
+SEVEN BACKEND KEYWORDS
+  1. slow living journal
+  2. seasonal living notebook
+  3. hygge daily journal
+  4. intentional living journal
+  5. four seasons journal
+  6. unhurried morning pages
+  7. quiet life journal
+
+SUGGESTED PRICE (US)
+$9.99
+
+DIFFICULTY / LADDER
+n/a (journal)
+Gift with Cozy Corners (Quiet Mind Color).
+
+DESCRIPTION (plain)
+-------------------
+The Slow Page: A Slow Living Journal for Four Seasons
+One Unhurried Page a Day for Four Seasons
+
+One page a day, done slowly. Less than any journal you've abandoned.
+
+One page a day, done slowly. The Slow Page asks for less than any journal you've abandoned: one thing done slowly, four sensory details from the day, a list of what you're deliberately not doing, and a checkbox that says tonight, this was enough. Four season gates — spring, summer, autumn, winter — each with intentions and a hand-drawn emblem, plus weekly sabbath pages for one walk, one unhurried meal, and one hour off screens. 144 undated pages, 6 × 9 in, cream paper. For anyone recovering from hurry. Gift with Cozy Corners from Quiet Mind Color.
+
+
+Trim: 6 × 9 in
+Pages: 144
+Paper: cream  ·  B&W  ·  bleed OFF  ·  matte
+Price: $9.99
+Series: Quiet Mind Journals
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>The Slow Page: A Slow Living Journal for Four Seasons</b> — One Unhurried Page a Day for Four Seasons</p>
+<p>One page a day, done slowly. Less than any journal you've abandoned.</p>
+<p><b>Inside</b></p><ul><li>Undated — start any day</li><li>Gift with Cozy Corners (Quiet Mind Color).</li><li>144 pages · 6×9 in · cream paper · black & white · bleed OFF · matte</li></ul>
+<p>One page a day, done slowly. The Slow Page asks for less than any journal you've abandoned: one thing done slowly, four sensory details from the day, a list of what you're deliberately not doing, and a checkbox that says tonight, this was enough. Four season gates — spring, summer, autumn, winter — each with intentions and a hand-drawn emblem, plus weekly sabbath pages for one walk, one unhurried meal, and one hour off screens. 144 undated pages, 6 × 9 in, cream paper. For anyone recovering from hurry. Gift with Cozy Corners from Quiet Mind Color.</p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>

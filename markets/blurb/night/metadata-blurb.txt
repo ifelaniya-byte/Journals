@@ -1,0 +1,98 @@
+BLURB TRADE BOOK EDITION (matched minimum pricing) - KDP LISTING — 03  night
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+The Night Pages: An Insomnia Journal for 3 A.M.
+
+SUBTITLE
+A 5 by 8 Pocket Nightstand Journal for Racing Thoughts
+
+COVER TITLE (already printed; do not change the PDF)
+The Night Pages
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Journals
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: cream  |  Cover: matte
+
+TRIM
+5" × 8"
+
+PAGE COUNT
+120
+
+COVER FILE
+night_cover_wrap.pdf
+
+INTERIOR FILE
+night_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. night_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Self-Help / Journaling | Self-Help / Anxieties & Phobias
+
+SEVEN BACKEND KEYWORDS
+  1. insomnia journal undated
+  2. 3am journal
+  3. can't sleep notebook
+  4. racing thoughts journal
+  5. bedside pocket journal
+  6. night anxiety writing
+  7. worry dump journal
+
+SUGGESTED PRICE (US)
+$12.99   (Blurb base cost approx $11.44; entry = base + $1)
+
+DIFFICULTY / LADDER
+n/a (journal)
+Pairs with Settle (night anxiety + body).
+
+DESCRIPTION (plain)
+-------------------
+The Night Pages: An Insomnia Journal for 3 A.M.
+A 5 by 8 Pocket Nightstand Journal for Racing Thoughts
+
+This journal lives on your nightstand. When your brain won't shut up at 3am, open it.
+
+This journal lives on your nightstand. When your brain won't shut up at 3am, open it. 20 prompts written for the dark. Body scan pages between sections to land you back in your body. 5 × 8 in. 120 pages. Pocket-sized for dark rooms. For insomnia, night anxiety, and 3am brains. Mechanism: 5×8 nightstand size, prompts written for the dark.
+
+
+Trim: 5 × 8 in
+Pages: 120
+Paper: cream  ·  B&W  ·  bleed OFF  ·  matte
+Price: $12.99
+Series: Quiet Mind Journals
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>The Night Pages: An Insomnia Journal for 3 A.M.</b> — A 5 by 8 Pocket Nightstand Journal for Racing Thoughts</p>
+<p>This journal lives on your nightstand. When your brain won't shut up at 3am, open it.</p>
+<p><b>Inside</b></p><ul><li>Undated — start any day</li><li>Pairs with Settle (night anxiety + body).</li><li>120 pages · 5×8 in · cream paper · black & white · bleed OFF · matte</li></ul>
+<p>This journal lives on your nightstand. When your brain won't shut up at 3am, open it. 20 prompts written for the dark. Body scan pages between sections to land you back in your body. 5 × 8 in. 120 pages. Pocket-sized for dark rooms. For insomnia, night anxiety, and 3am brains. Mechanism: 5×8 nightstand size, prompts written for the dark.</p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>
+
+--------------------------------------------------------------------------------
+BLURB NOTES (this edition only)
+- Base print cost ESTIMATE $11.44 (120pp B&W trade). Confirm in Blurb's
+  calculator at project setup; if it differs, price at (their base + $1.00).
+- Trim verified: Blurb trade books come in 5x8, 6x9, 8x10 only; this book's
+  trim fits. (8.5x11 / 5.5x8.5 / 7x10 titles have no Blurb edition.)
+- Entry price $12.99 -> approx $1.55 per sale on the Blurb Bookstore.
+- $0 upfront. Interior PDF unchanged; cover rebuilt in Blurb's template from
+  markets/bn-print/night/ panels.

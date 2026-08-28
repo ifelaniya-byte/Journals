@@ -1,0 +1,89 @@
+IngramSpark paperback  ·  TITLE 11  ·  $9.99
+PARKED — Bowker ISBN is upfront money.
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+The Middle Season: Perimenopause Symptom Tracker & Journal
+
+SUBTITLE
+Hot Flashes, Sleep, Brain Fog and Clinic Notes, Undated
+
+COVER TITLE (already printed; do not change the PDF)
+The Middle Season
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Journals
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white  |  Cover: matte
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+160
+
+COVER FILE
+middle_cover_wrap.pdf
+
+INTERIOR FILE
+middle_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. middle_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Health / Women's Health | Self-Help / Journaling
+
+SEVEN BACKEND KEYWORDS
+  1. perimenopause journal
+  2. perimenopause symptom tracker
+  3. hot flash log book
+  4. night sweats tracker
+  5. midlife hormone journal
+  6. brain fog journal women
+  7. menopause transition notebook
+
+SUGGESTED PRICE (US)
+$9.99
+
+DIFFICULTY / LADDER
+n/a (journal)
+Pairs with Settle (body) when symptoms are loud.
+
+DESCRIPTION (plain)
+-------------------
+The Middle Season: Perimenopause Symptom Tracker & Journal
+Hot Flashes, Sleep, Brain Fog and Clinic Notes, Undated
+
+A calm, private tracker for perimenopause — the years everyone talks around.
+
+The Middle Season is a calm, private tracker for perimenopause — the years everyone talks around. Daily pages log twelve common symptoms with intensity scales, sleep, and context. Weekly pattern pages turn seven shaded squares into a picture. Monthly reviews name the dominant pattern, and a doctor file turns 'I've been feeling off' into specifics you can say out loud in an appointment. 160 undated pages, 6 × 9 in, white paper for crisp grids. Not medical advice — a companion that keeps your records so you don't have to hold them in your head. Pairs with Settle when the body is loud.
+
+
+Trim: 6 × 9 in
+Pages: 160
+Paper: white  ·  B&W  ·  bleed OFF  ·  matte
+Price: $9.99
+Series: Quiet Mind Journals
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>The Middle Season: Perimenopause Symptom Tracker & Journal</b> — Hot Flashes, Sleep, Brain Fog and Clinic Notes, Undated</p>
+<p>A calm, private tracker for perimenopause — the years everyone talks around.</p>
+<p><b>Inside</b></p><ul><li>Undated — start any day</li><li>Pairs with Settle (body) when symptoms are loud.</li><li>160 pages · 6×9 in · white paper · black & white · bleed OFF · matte</li></ul>
+<p>The Middle Season is a calm, private tracker for perimenopause — the years everyone talks around. Daily pages log twelve common symptoms with intensity scales, sleep, and context. Weekly pattern pages turn seven shaded squares into a picture. Monthly reviews name the dominant pattern, and a doctor file turns 'I've been feeling off' into specifics you can say out loud in an appointment. 160 undated pages, 6 × 9 in, white paper for crisp grids. Not medical advice — a companion that keeps your records so you don't have to hold them in your head. Pairs with Settle when the body is loud.</p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>

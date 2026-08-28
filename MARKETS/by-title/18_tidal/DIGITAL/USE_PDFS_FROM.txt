@@ -1,0 +1,4 @@
+Interior: release4/tidal/tidal_interior.pdf
+Wrap:     release4/tidal/tidal_cover_wrap.pdf
+Front JPG:release4/tidal/tidal_cover.jpg
+Listing images 02–07 in the same folder.

@@ -1,0 +1,100 @@
+KDP HARDCOVER EDITION (case laminate, matched minimum pricing) - KDP LISTING — 17  celestial
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+Celestial Atlas: Constellation Coloring Book for Adults
+
+SUBTITLE
+49 Constellation Plates from Real Star Positions
+
+COVER TITLE (already printed; do not change the PDF)
+Celestial Atlas
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Color
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white  |  Cover: matte
+
+TRIM
+8.5" × 11"
+
+PAGE COUNT
+104
+
+COVER FILE
+KDP hardcover needs its own case-laminate wrap (no bleed, 0.625 wrap,
+0.375 hinge). Download KDP's hardcover template for this trim + page count;
+rebuild from markets/bn-print/celestial/ panels (300 DPI).
+Interior: same PDF, upload unchanged (B&W, bleed OFF).
+
+INTERIOR FILE
+celestial_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. celestial_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Crafts / Coloring Books | Arts / Drawing
+
+SEVEN BACKEND KEYWORDS
+  1. constellation coloring book
+  2. celestial coloring book adults
+  3. real star map coloring
+  4. moon phases coloring book
+  5. astronomy coloring adults
+  6. galaxy fine line coloring
+  7. night sky coloring book
+
+SUGGESTED PRICE (US)
+$13.99   (hardcover floor for 104pp is $11.33; lowest x.99 price paying at least $1.00 royalty)
+
+DIFFICULTY / LADDER
+Fine line
+Quiet Mind Color ladder: Fine line. Too hard? Try Tidal Ink. Too easy? Try Fractal Dreams.
+
+DESCRIPTION (plain)
+-------------------
+Celestial Atlas: Constellation Coloring Book for Adults
+49 Constellation Plates from Real Star Positions
+
+A night sky you color yourself. Real star positions, true moon terminators, quiet skies.
+
+A night sky you color yourself. Twelve constellation plates drawn from real star positions with magnitude-scaled stars and diffraction spikes — Orion, Leo, Scorpius, the Dippers and more — plus moon phases with true terminators, Saturn's rings, spiral galaxies, comets, meteor showers and nebulae built from hundreds of fine dots. Thin, exact linework for pencils and fine tips. Single-sided. 8.5 × 11 in, 104 pages, white paper. For stargazers who like their skies quiet. Difficulty: Fine line. Constellation plates from real star positions, magnitude-scaled. Single-sided. 49 plates.
+Quiet Mind Color ladder: Fine line. Too hard? Try Tidal Ink. Too easy? Try Fractal Dreams.
+
+Trim: 8.5 × 11 in
+Pages: 104
+Paper: white  ·  B&W  ·  bleed OFF  ·  matte
+Price: $13.99
+Series: Quiet Mind Color
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Celestial Atlas: Constellation Coloring Book for Adults</b> — 49 Constellation Plates from Real Star Positions</p>
+<p>A night sky you color yourself. Real star positions, true moon terminators, quiet skies.</p>
+<p><b>Inside</b></p><ul><li>Difficulty: Fine line · single-sided pages</li><li>Quiet Mind Color — interiors first, then the cover</li><li>104 pages · 8.5×11 in · white paper · black & white · bleed OFF · matte</li></ul>
+<p>A night sky you color yourself. Twelve constellation plates drawn from real star positions with magnitude-scaled stars and diffraction spikes — Orion, Leo, Scorpius, the Dippers and more — plus moon phases with true terminators, Saturn's rings, spiral galaxies, comets, meteor showers and nebulae built from hundreds of fine dots. Thin, exact linework for pencils and fine tips. Single-sided. 8.5 × 11 in, 104 pages, white paper. For stargazers who like their skies quiet. Difficulty: Fine line. Constellation plates from real star positions, magnitude-scaled. Single-sided. 49 plates.</p>
+<p><i>Quiet Mind Color ladder: Fine line. Too hard? Try Tidal Ink. Too easy? Try Fractal Dreams.</i></p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>
+
+--------------------------------------------------------------------------------
+HARDCOVER NOTES (this edition only; paperback everywhere else stays $9.99)
+- B&W hardcover print cost (2026 rates): $6.80. Floor = cost/0.60 = $11.33.
+- Entry price $13.99 -> royalty $1.59 per Amazon sale.
+- Verify in KDP's printing-cost calculator and size picker at setup; rates drift.
+- Free to publish, free ISBN, 75-550 pages B&W, matte case laminate.
+- Series, imprint, keywords, categories: identical to the paperback listing.

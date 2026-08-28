@@ -1,0 +1,89 @@
+KDP LISTING — 07  woodland
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+Woodland Wonders: Forest Animals Coloring Book for Adults
+
+SUBTITLE
+57 Cottagecore Designs: Owls, Foxes, Mushrooms and Ferns
+
+COVER TITLE (already printed; do not change the PDF)
+Woodland Wonders
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Color
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white  |  Cover: matte
+
+TRIM
+8.5" × 11"
+
+PAGE COUNT
+120
+
+COVER FILE
+woodland_cover_wrap.pdf
+
+INTERIOR FILE
+woodland_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. woodland_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Crafts / Coloring Books | Crafts / Animals
+
+SEVEN BACKEND KEYWORDS
+  1. woodland animals coloring book
+  2. forest coloring book adults
+  3. cottagecore coloring forest
+  4. mushroom coloring book adults
+  5. cottagecore coloring book
+  6. nature scenes coloring book
+  7. wildlife coloring book adults
+
+SUGGESTED PRICE (US)
+$9.99
+
+DIFFICULTY / LADDER
+Intermediate
+Quiet Mind Color ladder: Intermediate. Too hard? Try Cozy Corners. Too easy? Try Mosaic Mind.
+
+DESCRIPTION (plain)
+-------------------
+Woodland Wonders: Forest Animals Coloring Book for Adults
+57 Cottagecore Designs: Owls, Foxes, Mushrooms and Ferns
+
+Owls, foxes, deer, mushroom villages — cottagecore forest, flattened.
+
+Owls, foxes, deer, mushroom villages, pine forests, and fern patterns — medium-detail nature scenes with character details, feather textures, and enough background elements to reward patient coloring. Single-sided. 8.5 × 11 in. 120 pages. The forest, flattened. Difficulty: Intermediate. Single-sided. 57 cottagecore forest designs.
+Quiet Mind Color ladder: Intermediate. Too hard? Try Cozy Corners. Too easy? Try Mosaic Mind.
+
+Trim: 8.5 × 11 in
+Pages: 120
+Paper: white  ·  B&W  ·  bleed OFF  ·  matte
+Price: $9.99
+Series: Quiet Mind Color
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Woodland Wonders: Forest Animals Coloring Book for Adults</b> — 57 Cottagecore Designs: Owls, Foxes, Mushrooms and Ferns</p>
+<p>Owls, foxes, deer, mushroom villages — cottagecore forest, flattened.</p>
+<p><b>Inside</b></p><ul><li>Difficulty: Intermediate · single-sided pages</li><li>Quiet Mind Color — interiors first, then the cover</li><li>120 pages · 8.5×11 in · white paper · black & white · bleed OFF · matte</li></ul>
+<p>Owls, foxes, deer, mushroom villages, pine forests, and fern patterns — medium-detail nature scenes with character details, feather textures, and enough background elements to reward patient coloring. Single-sided. 8.5 × 11 in. 120 pages. The forest, flattened. Difficulty: Intermediate. Single-sided. 57 cottagecore forest designs.</p>
+<p><i>Quiet Mind Color ladder: Intermediate. Too hard? Try Cozy Corners. Too easy? Try Mosaic Mind.</i></p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>

@@ -1,0 +1,89 @@
+Barnes & Noble Press  ·  TITLE 14  ·  $14.99
+Cut on sale only.
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+The 75 Soft Journal
+
+SUBTITLE
+A Gentler 75-Day Challenge Tracker with a Day 76 Page
+
+COVER TITLE (already printed; do not change the PDF)
+The 75 Soft Journal
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Journals
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: cream  |  Cover: matte
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+96
+
+COVER FILE
+soft_cover_wrap.pdf
+
+INTERIOR FILE
+soft_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. soft_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Health / Fitness | Self-Help / Journaling
+
+SEVEN BACKEND KEYWORDS
+  1. 75 soft journal
+  2. 75 day gentle challenge
+  3. 75 soft tracker undated
+  4. gentle habit challenge book
+  5. kind fitness journal
+  6. 75 day wellness tracker
+  7. soft challenge workbook
+
+SUGGESTED PRICE (US)
+$14.99
+
+DIFFICULTY / LADDER
+n/a (journal)
+Standalone 75-day track. After day 76, try The Slow Page.
+
+DESCRIPTION (plain)
+-------------------
+The 75 Soft Journal
+A Gentler 75-Day Challenge Tracker with a Day 76 Page
+
+75 days of structure without the punishment. The sixth rule is be kind to yourself. Day 76 is in the book.
+
+75 Soft keeps the structure of the famous challenge and drops the punishment. Eat well 80% of the time. Move 45 minutes, five days a week. Drink your water. Get your steps. Read your pages. And the sixth rule — be kind to yourself. This journal tracks all six daily with checkboxes, water droplets and energy dots, adds a soft weekly recap with no scores and no shame, and marks the route with refresher, halfway, momentum and finish-line pages. Day 76 gets its own page, because that's the one that matters. 96 pages, 6 × 9 in, cream paper. 96 pages on purpose: 75 daily trackers, weekly recaps with no score, and a Day 76 page. Not a punishment-reset challenge — the sixth rule is be kind to yourself.
+
+
+Trim: 6 × 9 in
+Pages: 96
+Paper: cream  ·  B&W  ·  bleed OFF  ·  matte
+Price: $14.99
+Series: Quiet Mind Journals
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>The 75 Soft Journal</b> — A Gentler 75-Day Challenge Tracker with a Day 76 Page</p>
+<p>75 days of structure without the punishment. The sixth rule is be kind to yourself. Day 76 is in the book.</p>
+<p><b>Inside</b></p><ul><li>Undated — start any day</li><li>Standalone 75-day track. After day 76, try The Slow Page.</li><li>96 pages · 6×9 in · cream paper · black & white · bleed OFF · matte</li></ul>
+<p>75 Soft keeps the structure of the famous challenge and drops the punishment. Eat well 80% of the time. Move 45 minutes, five days a week. Drink your water. Get your steps. Read your pages. And the sixth rule — be kind to yourself. This journal tracks all six daily with checkboxes, water droplets and energy dots, adds a soft weekly recap with no scores and no shame, and marks the route with refresher, halfway, momentum and finish-line pages. Day 76 gets its own page, because that's the one that matters. 96 pages, 6 × 9 in, cream paper. 96 pages on purpose: 75 daily trackers, weekly recaps with no score, and a Day 76 page. Not a punishment-reset challenge — the sixth rule is be kind to yourself.</p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>

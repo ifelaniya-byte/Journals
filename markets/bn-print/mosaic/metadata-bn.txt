@@ -1,0 +1,99 @@
+B&N PRINT EDITION ($14.99 platform minimum) - KDP LISTING — 06  mosaic
+================================
+AMAZON TITLE (≤200) — paste this, not the short cover word
+Mosaic Mind: Geometric Coloring Book for Adults
+
+SUBTITLE
+57 Stained-Glass Mosaics, Tessellations and Islamic Stars
+
+COVER TITLE (already printed; do not change the PDF)
+Mosaic Mind
+
+AUTHOR / IMPRINT
+Quiet Mind Press
+
+SERIES (create these two series on KDP — do not mix)
+Quiet Mind Color
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white  |  Cover: matte
+
+TRIM
+8.5" × 11"
+
+PAGE COUNT
+120
+
+COVER FILES (B&N separate-panel route; B&N builds the spine)
+bn_front.jpg (front with bleed)
+bn_back.jpg (back with bleed, barcode space reserved)
+
+INTERIOR FILE
+mosaic_interior.pdf
+
+SEVEN LISTING IMAGES (Amazon order)
+  1. mosaic_cover.jpg  (1 — main)
+  2. listing_02_interior.jpg
+  3. listing_03_interior.jpg
+  4. listing_04_interior.jpg
+  5. listing_05_interior.jpg
+  6. listing_06_callout.jpg
+  7. listing_07_series.jpg
+
+CATEGORIES
+Crafts / Coloring Books | Crafts / Mandalas & Patterns
+
+SEVEN BACKEND KEYWORDS
+  1. mosaic coloring book for adults
+  2. stained glass coloring book
+  3. geometric coloring book adults
+  4. tessellation coloring book
+  5. islamic star coloring book
+  6. celtic knot coloring
+  7. geometric coloring book for men
+
+SUGGESTED PRICE (US)
+$14.99
+
+DIFFICULTY / LADDER
+Intermediate
+Quiet Mind Color ladder: Intermediate. Too hard? Try Woodland Wonders. Too easy? Try Botanical Ink.
+
+DESCRIPTION (plain)
+-------------------
+Mosaic Mind: Geometric Coloring Book for Adults
+57 Stained-Glass Mosaics, Tessellations and Islamic Stars
+
+The coloring sweet spot between too easy and too hard: mosaic tiles that build like stained glass.
+
+Hexagonal mosaics, Islamic stars, Celtic knots, op-art circles, chevron fields, and pinwheel patterns. Tile by tile, each page builds like stained glass. Medium complexity: enough detail to stay engaged, never overwhelming. 57 single-sided designs. 8.5 × 11 in. 120 pages. Difficulty: Intermediate.
+Quiet Mind Color ladder: Intermediate. Too hard? Try Woodland Wonders. Too easy? Try Botanical Ink.
+
+Trim: 8.5 × 11 in
+Pages: 120
+Paper: white  ·  B&W  ·  bleed OFF  ·  matte
+Price: $14.99
+Series: Quiet Mind Color
+
+Personal use. Not medical advice. Not a treatment protocol.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Mosaic Mind: Geometric Coloring Book for Adults</b> — 57 Stained-Glass Mosaics, Tessellations and Islamic Stars</p>
+<p>The coloring sweet spot between too easy and too hard: mosaic tiles that build like stained glass.</p>
+<p><b>Inside</b></p><ul><li>Difficulty: Intermediate · single-sided pages</li><li>Quiet Mind Color — interiors first, then the cover</li><li>120 pages · 8.5×11 in · white paper · black & white · bleed OFF · matte</li></ul>
+<p>Hexagonal mosaics, Islamic stars, Celtic knots, op-art circles, chevron fields, and pinwheel patterns. Tile by tile, each page builds like stained glass. Medium complexity: enough detail to stay engaged, never overwhelming. 57 single-sided designs. 8.5 × 11 in. 120 pages. Difficulty: Intermediate.</p>
+<p><i>Quiet Mind Color ladder: Intermediate. Too hard? Try Woodland Wonders. Too easy? Try Botanical Ink.</i></p>
+<p><i>Personal use. Not medical advice, not a treatment protocol, not affiliated with any challenge brand or manufacturer.</i></p>
+
+--------------------------------------------------------------------------------
+B&N PRESS NOTES (this edition only; everywhere else this book stays $9.99)
+- Price: $14.99. B&N print minimum list price is $14.99 since April 2026.
+- Interior: upload release file mosaic_interior.pdf UNCHANGED. B&W, bleed OFF.
+- Cover route: upload bn_front.jpg + bn_back.jpg; set spine color #30486C;
+  add spine text only if B&N's tool asks (title, 14pt-class, centered).
+- Free B&N ISBN at setup. Paper: white. Finish: matte.
+- Expected panel pixel size at 300 DPI: 2588 x 3375.

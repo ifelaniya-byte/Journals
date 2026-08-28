@@ -1,0 +1,4 @@
+Interior: release4/cozy/cozy_interior.pdf
+Wrap:     release4/cozy/cozy_cover_wrap.pdf
+Front JPG:release4/cozy/cozy_cover.jpg
+Listing images 02–07 in the same folder.

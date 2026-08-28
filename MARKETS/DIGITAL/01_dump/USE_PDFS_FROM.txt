@@ -1,0 +1,4 @@
+Interior: release3/dump/dump_interior.pdf
+Wrap:     release3/dump/dump_cover_wrap.pdf
+Front JPG:release3/dump/dump_cover.jpg
+Listing images 02–07 in the same folder.

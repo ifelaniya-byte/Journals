@@ -1,0 +1,4 @@
+Interior: release4/slow/slow_interior.pdf
+Wrap:     release4/slow/slow_cover_wrap.pdf
+Front JPG:release4/slow/slow_cover.jpg
+Listing images 02–07 in the same folder.
