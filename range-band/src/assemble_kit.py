@@ -34,10 +34,20 @@ for _t in ALL_TITLES:
 KIT = Path("/home/user/KDP-Complete-Kit")
 
 
+def listing_disclaimer(t: dict) -> str:
+    n = int(t["n"])
+    glp = n in set(range(1, 10)) | set(range(19, 28)) or "GLP-1" in t.get("kdp_title", "")
+    base = "Personal tracking / management tool only. Not medical advice."
+    if glp:
+        return base + " GLP-1 is the stem on the cover — no manufacturer brands in the title."
+    return base
+
+
 def html_desc(t: dict) -> str:
     bullets = "".join(f"<li>{b}</li>" for b in t["bullets"])
     also = "".join(f"<li>{x}</li>" for x in t.get("also") or [])
     hook = t.get("hook") or "A discreet, giftable, undated tracking journal."
+    disclaimer = listing_disclaimer(t)
     return f"""<p><b>{t["kdp_title"]}</b> — {t["kdp_subtitle"]}</p>
 <p><i>{HOUSE}</i> {hook}</p>
 <p>From <b>{IMPRINT}</b>. {HOUSE_LONG} Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
@@ -46,7 +56,7 @@ def html_desc(t: dict) -> str:
 <p><b>Also in this catalog</b></p>
 <ul>{also}</ul>
 <p>Trim {t["trim"][0]:g} × {t["trim"][1]:g} in · {t["pages"]} pages · black-and-white interior · white paper recommended · bleed OFF · <b>${t["price"]:.2f}</b>.</p>
-<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>"""
+<p><i>{disclaimer}</i></p>"""
 
 
 def plain_desc(t: dict) -> str:
