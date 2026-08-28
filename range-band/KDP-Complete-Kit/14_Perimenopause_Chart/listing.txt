@@ -52,9 +52,9 @@ DESCRIPTION (plain)
 Perimenopause Symptom & Mood Chart
 90-Day Hot Flash, Sleep Wheel & Cycle Timeline Tracker
 
-Tally marks for flashes and night sweats, a 1–5 sleep wheel, a chaotic-cycle timeline.
+Live inside the range. Tally marks for flashes and night sweats, a 1–5 sleep wheel, a chaotic-cycle timeline.
 
-A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
   • Tally marks for flashes and night sweats
@@ -77,8 +77,8 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>Perimenopause Symptom & Mood Chart</b> — 90-Day Hot Flash, Sleep Wheel & Cycle Timeline Tracker</p>
-<p>Tally marks for flashes and night sweats, a 1–5 sleep wheel, a chaotic-cycle timeline.</p>
-<p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><i>Live inside the range.</i> Tally marks for flashes and night sweats, a 1–5 sleep wheel, a chaotic-cycle timeline.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>Tally marks for flashes and night sweats</li><li>Sleep-quality wheel 1–5</li><li>Chaotic-cycle timeline (blank is data)</li><li>Questions for the next visit</li></ul>
 <p><b>Also in this catalog</b></p>

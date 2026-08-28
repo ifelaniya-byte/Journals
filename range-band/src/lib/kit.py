@@ -131,7 +131,7 @@ class Book:
         self.running = running
         self.c = canvas.Canvas(str(self.path), pagesize=pagesize)
         self.c.setTitle(running or self.path.stem)
-        self.c.setAuthor("Independent tracking journal")
+        self.c.setAuthor("Range Band Press")
         self.c.setSubject("Personal tracking / management journal (not medical advice)")
         self.page_num = 0
         self.ml = self.mr = outer
@@ -446,16 +446,17 @@ COPYRIGHT = (
 
 
 def title_page(book: Book, series: str, title: str, subtitle: str, tagline: str):
+    from .brand import HOUSE, IMPRINT_TRACKED, draw_range_band
+
     b = book
     b.begin()
-    # double-line frame
     inset = 0.38 * inch
     b.rect(inset, inset, b.w - 2 * inset, b.h - 2 * inset, stroke=INK, sw=0.9, r=0)
     b.rect(inset + 5, inset + 5, b.w - 2 * inset - 10, b.h - 2 * inset - 10, stroke=INK, sw=0.35, r=0)
-    draw_spaced(b.c, series, b.w / 2, b.h * 0.72, "Sans", 7.4, 1.6, "center", MID)
-    b.ornament(b.w / 2, b.h * 0.72 - 18, 64)
-    # title may wrap
-    y = b.h * 0.58
+    draw_spaced(b.c, IMPRINT_TRACKED, b.w / 2, b.h * 0.78, "Sans", 7.0, 1.8, "center", MID)
+    draw_spaced(b.c, series, b.w / 2, b.h * 0.74, "Sans", 7.2, 1.5, "center", MID)
+    draw_range_band(b.c, b.w / 2, b.h * 0.74 - 20, 96, INK, INK, tick=5.5, band_h=5.2, weight=1.15)
+    y = b.h * 0.56
     for ln in wrap(title, "Cormorant-Semi", 28, b.w - 1.5 * inch):
         b.text(ln, b.w / 2, y, "Cormorant-Semi", 28, INK, "center")
         y -= 32
@@ -463,9 +464,10 @@ def title_page(book: Book, series: str, title: str, subtitle: str, tagline: str)
     for ln in wrap(subtitle, "Cormorant-Italic", 12, b.w - 1.7 * inch):
         b.text(ln, b.w / 2, y, "Cormorant-Italic", 12, INK2, "center")
         y -= 16
-    b.ornament(b.w / 2, y - 10, 48)
-    b.text(tagline, b.w / 2, 1.15 * inch, "Sans", 8.5, MID, "center")
-    b.text("Undated  ·  Personal use  ·  Not medical advice", b.w / 2, 0.88 * inch, "Sans", 7, MUTED, "center")
+    draw_range_band(b.c, b.w / 2, y - 8, 72, INK, INK, tick=4.5, band_h=4.4, weight=1.0)
+    b.text(HOUSE, b.w / 2, 1.32 * inch, "Cormorant-Italic", 11, INK2, "center")
+    b.text(tagline, b.w / 2, 1.08 * inch, "Sans", 8.5, MID, "center")
+    b.text("Undated  ·  Personal use  ·  Not medical advice", b.w / 2, 0.84 * inch, "Sans", 7, MUTED, "center")
     b.end()
 
 

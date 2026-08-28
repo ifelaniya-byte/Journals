@@ -2,7 +2,7 @@
 
 Undated GLP-1 and wellness logs. GitHub branch: `Range-Band`. Not Quiet Mind.
 
-**Imprint on every KDP listing: Range Band Press.** Covers stay blank — type it in the author field.
+**Live inside the range.** Imprint: **Range Band Press** (KDP author field *and* the cover mark).
 
 **List price for every title: $9.99 US** (KDP 60% paperback royalty floor).
 
@@ -15,6 +15,7 @@ Read `PROOF_REPORT.md` for the verification that every listing is $9.99.
 ```
 KDP-Complete-Kit/
   00_START_HERE.md          ← you are here
+  BRAND.md                  ← voice, mark, what we never say
   CASHFLOW.md               ← rank loop, waves, also-bought, ads
   SELLING_AND_VALUATION.md  ← prices, royalties, where to sell, upload files
   PROOF_REPORT.md           ← verification of files, trims, pages, $9.99
@@ -43,7 +44,7 @@ Each numbered folder contains:
 
 ## What was deliberately not invented
 
-- No publisher name on the cover (KDP author field: **Range Band Press**)
+- Cover mark is two posts + a living band + a pip. KDP author field: **Range Band Press**
 - No live QR URLs — dashed QR boxes are on titles 03, 09, 17 so you can paste your own
 - No Ozempic-as-brand in titles (GLP-1 is the stem)
 - No exercise videos, dosing schedules, or treatment claims

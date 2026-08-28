@@ -52,9 +52,9 @@ DESCRIPTION (plain)
 GLP-1 Titration Log (Pocket 5x8)
 Weekly Dose-as-Prescribed Notebook with Pen & Refill Reminders
 
-Pocket 5×8. Copy the dose you were prescribed. Date it. 52 weeks. Never invent a number.
+Live inside the range. Pocket 5×8. Copy the dose you were prescribed. Date it. 52 weeks. Never invent a number.
 
-A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
   • Copy the dose you were prescribed — never invent one
@@ -78,8 +78,8 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>GLP-1 Titration Log (Pocket 5x8)</b> — Weekly Dose-as-Prescribed Notebook with Pen & Refill Reminders</p>
-<p>Pocket 5×8. Copy the dose you were prescribed. Date it. 52 weeks. Never invent a number.</p>
-<p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><i>Live inside the range.</i> Pocket 5×8. Copy the dose you were prescribed. Date it. 52 weeks. Never invent a number.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>Copy the dose you were prescribed — never invent one</li><li>52 weekly date / time / site tables</li><li>Next-pen and discard-after lines</li><li>Sticker / lot margin</li></ul>
 <p><b>Also in this catalog</b></p>

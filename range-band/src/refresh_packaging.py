@@ -482,10 +482,12 @@ def main():
     lookbook(OUTPUT / "LOOKBOOK.pdf", pairs)
     print("2/3  assemble kit folder")
     copy_into_kit()
-    cf = ROOT / "CASHFLOW.md"
-    if cf.exists():
-        import shutil
-        shutil.copy2(cf, KIT / "CASHFLOW.md")
+    import shutil
+
+    for name in ("CASHFLOW.md", "BRAND.md"):
+        src = ROOT / name
+        if src.exists():
+            shutil.copy2(src, KIT / name)
     print("3/3  selling + proof")
     issues, checks, price_proof, rows_data = verify()
     (KIT / "SELLING_AND_VALUATION.md").write_text(selling_md(rows_data), encoding="utf-8")

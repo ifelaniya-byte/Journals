@@ -52,9 +52,9 @@ DESCRIPTION (plain)
 GLP-1 Shot Day 0-48 Hour Pocket Log
 5x8 Two-Page Cycles: Injection Day + Next 48 Hours (36 Cycles)
 
-Pocket 5×8. Shot day + the next 48 hours. 36 cycles. How it actually went.
+Live inside the range. Pocket 5×8. Shot day + the next 48 hours. 36 cycles. How it actually went.
 
-A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
   • Shot day as prescribed: time, site, 0–12h
@@ -78,8 +78,8 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>GLP-1 Shot Day 0-48 Hour Pocket Log</b> — 5x8 Two-Page Cycles: Injection Day + Next 48 Hours (36 Cycles)</p>
-<p>Pocket 5×8. Shot day + the next 48 hours. 36 cycles. How it actually went.</p>
-<p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><i>Live inside the range.</i> Pocket 5×8. Shot day + the next 48 hours. 36 cycles. How it actually went.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>Shot day as prescribed: time, site, 0–12h</li><li>Echo page: +24 to +48h</li><li>36 cycles in a pocket trim</li><li>Copy the dose — never invent one</li></ul>
 <p><b>Also in this catalog</b></p>

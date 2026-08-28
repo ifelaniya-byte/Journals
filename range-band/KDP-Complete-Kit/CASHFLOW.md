@@ -1,6 +1,6 @@
-# Cashflow — how these 36 books plug into Amazon
+# Cashflow — Range Band Press on Amazon
 
-GLP-1 stays on the **cover and title**. The algorithm is fed in the **seven backend keywords**, the **first sentence** of the description, **series**, **$9.99** (60% royalty floor), and **also-bought paths**.
+**Live inside the range.** GLP-1 stays on the **cover and title**. The algorithm is fed in the **seven backend keywords**, the **first sentence** of the description, **series**, **$9.99** (60% royalty floor), and **also-bought paths**.
 
 This is not magic. Rank = impressions × CTR × conversion × (later) reviews. We built each of those.
 

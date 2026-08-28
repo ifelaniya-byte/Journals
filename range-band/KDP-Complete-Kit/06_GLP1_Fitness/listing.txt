@@ -52,9 +52,9 @@ DESCRIPTION (plain)
 GLP-1 Fitness & Step Companion
 32-Week Strength, Cardio & Recovery Log (Undated)
 
-32 weeks of strength vs cardio/steps, RPE, recovery — built for muscle while the scale moves.
+Live inside the range. 32 weeks of strength vs cardio/steps, RPE, recovery — built for muscle while the scale moves.
 
-A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
 
 INSIDE
   • Plan on the left, log on the right
@@ -78,8 +78,8 @@ Personal tracking / management tool only. Not medical advice.
 DESCRIPTION (HTML paste)
 ------------------------
 <p><b>GLP-1 Fitness & Step Companion</b> — 32-Week Strength, Cardio & Recovery Log (Undated)</p>
-<p>32 weeks of strength vs cardio/steps, RPE, recovery — built for muscle while the scale moves.</p>
-<p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><i>Live inside the range.</i> 32 weeks of strength vs cardio/steps, RPE, recovery — built for muscle while the scale moves.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul><li>Plan on the left, log on the right</li><li>Strength + cardio / steps split</li><li>RPE and recovery notes</li><li>Timer ring is a personal record, not a protocol</li></ul>
 <p><b>Also in this catalog</b></p>

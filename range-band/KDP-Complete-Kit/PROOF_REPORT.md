@@ -50,7 +50,7 @@
 - 36 front covers in _covers/ (ads only)
 - METADATA.csv contains no leftover $10.99–$15.99
 - METADATA.csv price column is 9.99 for all 36 rows
-- LOOKBOOK.pdf exists (42 pages)
+- LOOKBOOK.pdf exists (43 pages)
 - Bleed setting in listings: all say Bleed: OFF / no bleed (spot-checked via listing recipe)
 - Interior type B&W + white paper is in every listing.txt header
 

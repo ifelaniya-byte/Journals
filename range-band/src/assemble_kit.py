@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
 
 from lib import algorithm as A  # noqa: E402
+from lib.brand import HOUSE, HOUSE_LONG, IMPRINT  # noqa: E402
 from lib.covers import generate_all_covers, make_front, make_wrap  # noqa: E402
 from lib.kit import OUTPUT, register_fonts  # noqa: E402
 from lib.titles import TITLES, spine_in, wrap_size  # noqa: E402
@@ -38,8 +39,8 @@ def html_desc(t: dict) -> str:
     also = "".join(f"<li>{x}</li>" for x in t.get("also") or [])
     hook = t.get("hook") or "A discreet, giftable, undated tracking journal."
     return f"""<p><b>{t["kdp_title"]}</b> — {t["kdp_subtitle"]}</p>
-<p>{hook}</p>
-<p>A discreet, giftable, <b>undated</b> tracking journal. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><i>{HOUSE}</i> {hook}</p>
+<p>From <b>{IMPRINT}</b>. {HOUSE_LONG} Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
 <p><b>Inside</b></p>
 <ul>{bullets}</ul>
 <p><b>Also in this catalog</b></p>
@@ -54,9 +55,9 @@ def plain_desc(t: dict) -> str:
         f"{t['kdp_title']}",
         t["kdp_subtitle"],
         "",
-        hook,
+        HOUSE + " " + hook,
         "",
-        "A discreet, giftable, undated tracking journal. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.",
+        f"From {IMPRINT}. {HOUSE_LONG} Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.",
         "",
         "INSIDE",
     ]
@@ -197,19 +198,71 @@ def lookbook(dest: Path, front_pngs: list[tuple[dict, Path]]):
         c.setLineWidth(0.5)
         c.line(0.7 * inch, 9.82 * inch, 7.8 * inch, 9.82 * inch)
 
-    # title
-    c.setFillColor(Color(0.14, 0.16, 0.15))
+    from lib.brand import ACCENT, HOUSE, HOUSE_LONG, IMPRINT_TRACKED, draw_range_band
+
+    sage = Color(0.14, 0.18, 0.16)
+    cream = Color(0.93, 0.90, 0.84)
+    copper = Color(0.77, 0.47, 0.29)
+    c.setFillColor(sage)
     c.rect(0, 0, 8.5 * inch, 11 * inch, stroke=0, fill=1)
-    c.setFillColor(Color(0.93, 0.91, 0.86))
+    c.setFillColor(copper)
+    c.rect(0, 10.78 * inch, 8.5 * inch, 0.22 * inch, stroke=0, fill=1)
+    c.setFillColor(cream)
     c.setFont("Sans", 8)
-    c.drawCentredString(4.25 * inch, 8.4 * inch, "R A N G E   B A N D   P R E S S")
-    c.setFont("Cormorant-Semi", 32)
-    c.drawCentredString(4.25 * inch, 7.6 * inch, "Thirty-Six Tracking Journals")
+    c.drawCentredString(4.25 * inch, 8.55 * inch, "R A N G E   B A N D   P R E S S")
+    draw_range_band(c, 4.25 * inch, 8.22 * inch, 140, cream, copper, tick=7, band_h=6.5, weight=1.4)
+    c.setFont("Cormorant-Semi", 34)
+    c.drawCentredString(4.25 * inch, 7.35 * inch, "Live inside the range.")
     c.setFont("Cormorant-Italic", 13)
-    c.drawCentredString(4.25 * inch, 7.2 * inch, "Undated health logs — interiors, wraps, listing copy")
+    for i, ln in enumerate(
+        [
+            "A range is not a cage. It is the band you already chose —",
+            "protein, sleep, a shot day, a quiet Tuesday.",
+        ]
+    ):
+        c.drawCentredString(4.25 * inch, 6.85 * inch - i * 18, ln)
     c.setFont("Sans", 8)
-    c.drawCentredString(4.25 * inch, 1.4 * inch, "GLP-1 Tracking  ·  Wellness Tracking  ·  Companions")
-    c.drawCentredString(4.25 * inch, 1.15 * inch, "Undated  ·  Grayscale interiors  ·  Discreet giftable covers  ·  $9.99")
+    c.drawCentredString(4.25 * inch, 1.55 * inch, "36 undated tracking journals  ·  $9.99  ·  four series")
+    c.drawCentredString(4.25 * inch, 1.28 * inch, "GLP-1 Tracking  ·  Wellness Tracking  ·  Companions")
+    c.drawCentredString(4.25 * inch, 1.02 * inch, "Interiors, wrap covers, listing copy — ready to upload")
+    c.showPage()
+
+    # manifesto
+    page_frame("The press", "Not prompts. Not coloring. Tracking.")
+    y = 9.35 * inch
+    c.setFillColor(INK)
+    manifesto = [
+        HOUSE_LONG,
+        "",
+        "Four series, one imprint. GLP-1 on the cover where it belongs.",
+        "Generic names stay in the keywords. Quiet Mind keeps the 3 a.m. books.",
+        "",
+        "Every list price is $9.99. Author field: Range Band Press.",
+        "Covers carry the range-band mark — two posts, a living band, a pip.",
+        "Fill in what a clinician already directed. We do not diagnose, dose, or treat.",
+    ]
+    c.setFont("Sans", 10)
+    for s in manifesto:
+        c.drawString(0.75 * inch, y, s)
+        y -= 16
+    # series color keys
+    y -= 10
+    c.setFont("Sans-Semi", 9)
+    c.drawString(0.75 * inch, y, "Series color")
+    y -= 22
+    keys = [
+        ("GLP-1 Tracking", ACCENT["GLP-1 TRACKING SERIES"]),
+        ("Wellness Tracking", ACCENT["WELLNESS TRACKING SERIES"]),
+        ("GLP-1 Companion", ACCENT["GLP-1 COMPANION SERIES"]),
+        ("Wellness Companion", ACCENT["WELLNESS COMPANION SERIES"]),
+    ]
+    for name, rgb in keys:
+        c.setFillColor(Color(*rgb))
+        c.roundRect(0.75 * inch, y - 4, 28, 12, 2, stroke=0, fill=1)
+        c.setFillColor(INK)
+        c.setFont("Sans", 9)
+        c.drawString(1.25 * inch, y, name)
+        y -= 20
     c.showPage()
 
     page_frame("How to upload", "One title at a time. Interior PDF + wrap cover PDF.")
@@ -221,7 +274,7 @@ def lookbook(dest: Path, front_pngs: list[tuple[dict, Path]]):
         "    in the reserved white box on the back.",
         "5.  Paste title, subtitle, HTML description, and 7 keywords from listing.txt.",
         "6.  Pick two BISAC categories. Set US price to $9.99. Order a proof before ads.",
-        "7.  Author / imprint: Range Band Press. Covers are blank on purpose.",
+        "7.  Author / imprint: Range Band Press. Covers carry the range-band mark.",
         "",
         "Do not merge cover + interior. KDP wants two files.",
         "Do not put Ozempic in your title unless you accept Amazon's brand-name filter;",
@@ -313,7 +366,7 @@ START_HERE = """# Range Band Press — 36 tracking journals
 
 Undated GLP-1 and wellness logs. GitHub branch: `Range-Band`. Not Quiet Mind.
 
-**Imprint on every KDP listing: Range Band Press.** Covers stay blank — type it in the author field.
+**Live inside the range.** Imprint: **Range Band Press** (KDP author field *and* the cover mark).
 
 **List price for every title: $9.99 US** (KDP 60% paperback royalty floor).
 
@@ -326,6 +379,7 @@ Read `PROOF_REPORT.md` for the verification that every listing is $9.99.
 ```
 KDP-Complete-Kit/
   00_START_HERE.md          ← you are here
+  BRAND.md                  ← voice, mark, what we never say
   CASHFLOW.md               ← rank loop, waves, also-bought, ads
   SELLING_AND_VALUATION.md  ← prices, royalties, where to sell, upload files
   PROOF_REPORT.md           ← verification of files, trims, pages, $9.99
@@ -354,7 +408,7 @@ Each numbered folder contains:
 
 ## What was deliberately not invented
 
-- No publisher name on the cover (KDP author field: **Range Band Press**)
+- Cover mark is two posts + a living band + a pip. KDP author field: **Range Band Press**
 - No live QR URLs — dashed QR boxes are on titles 03, 09, 17 so you can paste your own
 - No Ozempic-as-brand in titles (GLP-1 is the stem)
 - No exercise videos, dosing schedules, or treatment claims
@@ -401,6 +455,9 @@ def copy_into_kit():
     cf = ROOT / "CASHFLOW.md"
     if cf.exists():
         shutil.copy2(cf, KIT / "CASHFLOW.md")
+    br = ROOT / "BRAND.md"
+    if br.exists():
+        shutil.copy2(br, KIT / "BRAND.md")
 
 
 def zip_kit():

@@ -512,7 +512,7 @@ TITLES = [
             "Copy the bottle — do not invent a dose",
             "Focus boxes for blocks you actually started",
             "Wear-off / crash line",
-            "Dopamine stamp row",
+            "Focus stamp row — blocks you actually started",
         ],
         keywords=[
             "adhd medication log",
