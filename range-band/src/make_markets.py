@@ -270,6 +270,9 @@ Author: **{IMPRINT}**.
     play = ROOT / "MARKETS_PLAYBOOK.md"
     if play.exists():
         shutil.copy2(play, MARKETS / "PLAYBOOK.md")
+    census = ROOT / "MARKETS_CENSUS.md"
+    if census.exists():
+        shutil.copy2(census, MARKETS / "CENSUS.md")
     (MARKETS / "README.md").write_text(
         "# Markets — one minimum per title, per store\n\n"
         "Read **PLAYBOOK.md**. Spreadsheet: **PRODUCTS.csv**. Per book: **by-title/**.\n\n"

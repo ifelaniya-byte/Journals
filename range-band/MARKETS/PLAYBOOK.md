@@ -9,7 +9,7 @@ Imprint: **Range Band Press**. PDFs are the same book. **List price is not.** Ea
 | `KDP-Complete-Kit/` | **$9.99** every title | Amazon KDP paperback (60% royalty) |
 | `MARKETS/BN-Press/` | **$14.99** every title | Barnes & Noble Press (hard floor since 22 Apr 2026) |
 | `MARKETS/Lulu-Global/` | **per title** — `round_99(max(2 × Lulu print, 9.99))` | Lulu print Global Distribution |
-| `MARKETS/DIGITAL-9.99/` | **$9.99** every title | Print-at-home PDF (Google Play, Gumroad, Payhip) |
+| `MARKETS/DIGITAL-9.99/` | **$9.99** every title | Print-at-home PDF — Google Play, Gumroad, Payhip, Ko-fi, itch.io, Lemon Squeezy, Whop |
 | `MARKETS/Ingram-PARKED/` | **per title** formula min — **do not upload** | IngramSpark after you buy Bowker ISBNs |
 | `MARKETS/by-title/` | all of the above, one folder per book | Look up *this* title's min on *this* store |
 | `MARKETS/PRODUCTS.csv` | 36 rows × every channel price | Spreadsheet |
@@ -18,6 +18,8 @@ Imprint: **Range Band Press**. PDFs are the same book. **List price is not.** Ea
 Covers do not print a dollar amount. Never paste a B&N $14.99 listing into KDP. Never paste a $9.99 print listing into B&N Press.
 
 The old folder `MARKETS/FLOOR-14.99/` was the shared $14.99 pack. It is now **`BN-Press`**.
+
+Full $0-to-list census (least reach → most reach, every GO / PARK / NO we could verify): **`CENSUS.md`**.
 
 ---
 
@@ -97,6 +99,22 @@ Official rule: list price must be **at least twice print cost** for print Global
 - Free plan: **$0/month**, ~**5%** + Stripe/PayPal processing
 - Do not upgrade to $29/$99 plans. We have no monthly budget
 
+### 7. Same PDF pack, smaller tills (optional, after 1–6)
+
+Same `DIGITAL-9.99/` files at **$9.99**. No new price. No new interior.
+
+| Store | Cut on sale | Note |
+|---|---|---|
+| [Ko-fi Shop](https://ko-fi.com) | 5% + Stripe/PayPal | Do not buy Gold |
+| [itch.io](https://itch.io) (type: book) | you pick; default 10% | New accounts cap ~20 pages — Wave 1 first, then ask support to lift |
+| [Lemon Squeezy](https://www.lemonsqueezy.com) | 5% + $0.50 | MoR, handles VAT |
+| [Whop](https://whop.com) | ~3% + card | Course-shaped storefront |
+| [Buy Me a Coffee](https://www.buymeacoffee.com) | 5% | Skip if Ko-fi is already live |
+| [DriveThruFiction](https://www.drivethrufiction.com) | % on sale | PDF-native, tiny fiction/RPG audience |
+| Lulu Bookstore *ebook* | ~10% | Not Global Dist — Global ebook is $4.99, skip |
+
+Square Online free and Systeme.io free are own-stores with **no traffic**. Only if you want a branded checkout. Big Cartel free is **5 products** — we have 36, skip.
+
 ---
 
 ## Parked — costs money before a sale, or needs a file we do not have
@@ -124,7 +142,7 @@ IngramSpark’s old **$49 setup fee** is dead. Guides that still quote it are st
 | Lulu Global Dist. | same PDF | wrap / their template + front | `Lulu-Global/` | that title's cell in `PRODUCTS.csv` |
 | Lulu Bookstore | same PDF | front PDF | `by-title/…/LULU-STORE/` | $9.99 |
 | Google Play | `*_printathome.pdf` | `*_cover.jpg` | `DIGITAL-9.99/` | $9.99 |
-| Gumroad / Payhip | same PDF | same JPG | `DIGITAL-9.99/` | $9.99 |
+| Gumroad / Payhip / Ko-fi / itch.io / Lemon Squeezy / Whop | same PDF | same JPG | `DIGITAL-9.99/` | $9.99 |
 | IngramSpark | same interior | **Ingram wrap**, not KDP wrap | `Ingram-PARKED/` | parked |
 
 Author field everywhere: **Range Band Press**.
@@ -142,6 +160,8 @@ Week 3 — Google Play: upload the six Wave 1 PDFs. Then Gumroad or Payhip (pick
 Week 4 — B&N Press: six Wave 1 titles from **BN-Press** at $14.99. Then the rest.
 
 Week 5 — Lulu Global: start with title **30** ($11.99) so you see the 2×-print rule bite, then the $9.99 titles.
+
+Week 6 — optional extras from the same PDF pack: itch.io + Ko-fi. Not Etsy. Not D2D.
 
 Never: ads on Wave 4, Quiet Mind queries, Ozempic in the title, Kindle Select if Google Play is live.
 

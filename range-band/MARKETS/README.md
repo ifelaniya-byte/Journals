@@ -1,6 +1,6 @@
 # Markets — one minimum per title, per store
 
-Read **PLAYBOOK.md**. Spreadsheet: **PRODUCTS.csv**. Per book: **by-title/**.
+Read **PLAYBOOK.md**. Full $0-to-list census (least reach → most): **CENSUS.md**. Spreadsheet: **PRODUCTS.csv**. Per book: **by-title/**.
 
 | Folder | Price |
 |---|---|
