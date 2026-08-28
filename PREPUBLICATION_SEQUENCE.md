@@ -1,12 +1,12 @@
 # Corrected Wave 1 sequence — no uploads authorized
 
-**Current date:** August 28, 2026  
-**Scope:** Six potential Wave 1 scouts only: A01, A04, A05, B10, B12, B18.  
+**Current date:** August 28, 2026
+**Scope:** Six potential Wave 1 scouts only: A01, A04, A05, B10, B12, B18.
 **Current state:** Prepublication. A completed file, branded cover, ZIP, test landing page, or KDP draft does **not** authorize a public upload, publication, ad, or inventory order.
 
 ## The actual release constraint
 
-This is a six-product research program, not an eighteen-product drip campaign. The repository intentionally retains 10 Wave 2 options and two KDP Vault products so they can move quickly **only** when a signed portfolio gate opens a slot. Do not allocate the Phase 1 budget across 18 live items.
+This is a six-product research program, not an eighteen-product drip campaign. The repository intentionally retains 9 Wave 2 options and 3 Vault/non-KDP products so they can move quickly **only** when a signed portfolio gate opens a slot. Do not allocate the Phase 1 budget across 18 live items.
 
 A01 *Dose & Breathe* is the sole GLP-1-specific Wave 1 product. A04 and A05 are in the Pace & Progress collection but are not GLP-1 products. Do not describe a three-title collection batch as “three GLP-1 scouts.”
 
@@ -33,6 +33,15 @@ A01 *Dose & Breathe* is the sole GLP-1-specific Wave 1 product. A04 and A05 are 
 KDP’s published help currently states a limit of 10 title creations per book format per week; it does not publish a reset time. Verify the current in-account/help notice at the time of use and keep a rolling seven-day title-creation ledger. That limit is not the release plan: the portfolio caps the campaign at six potential scouts.
 
 Do not document claims about Amazon “velocity scoring” as a known rule unless a current, authoritative source or account notice supports them. The two-group pace here is justified by claims QA, KDP preflight, proof handling, and clean test data.
+
+## October 6 schedule contingency — pre-committed
+
+**Decision control:** see `DECISIONS.md` → `D-2026-08-28-13`.
+
+- If **no** Wave 1 SKU is individually `Clear for upload` by **October 6, 2026**, do not force a late launch merely to preserve the October 31 Read 1 meeting.
+- The default becomes a **January 2027 clean-season launch/test** with new product-specific observation dates. Recalculate the two-read timing from actual live dates; do not reuse the September/October calendar as if it had occurred.
+- A SKU that fully clears after October 6 may have an **optional, individually approved Q4 soft launch** only. All resulting sales/listing data must be tagged Q4-influenced and cannot authorize deluxe funding, inventory, or a claim of clean-season validation.
+- No Q4 exception changes the six-scout cap, price guard, claims/name review, QR/privacy, proof, or paid-media restrictions. *Pocket of Calm* remains subject to its separate January–February 2027 Gate 2/3 presale policy.
 
 ## Gate 1 timing and Q4 treatment
 

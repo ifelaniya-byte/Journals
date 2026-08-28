@@ -31,7 +31,9 @@ This is a Git-ready 18-concept product catalog with 15 conditional KDP book opti
 ```bash
 pip install -r requirements.txt
 python build_catalog.py        # regenerates the full release package
-python validate_catalog.py     # structural QC; exits non-zero on a failure
+python verify_canonical.py   # PORTFOLIO.md decision baseline vs source/artifacts
+python verify_pricing.py     # Wave 1 price source/artifact agreement
+python validate_catalog.py     # structural QC + canonical guards; exits non-zero on a failure
 python make_zips.py            # creates only the six Wave 1 candidate bundles
 python make_zips.py --all-vault # explicit internal archive only; never an upload plan
 # Only after a real domain and deployment: python configure_wave1_qr.py --domain <domain> --apply --verify-live

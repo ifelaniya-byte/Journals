@@ -3,7 +3,7 @@
 **Status:** private prepublication system. `Built` never means approved for KDP, ads, a public website, or inventory.
 **Decision owner:** Founder / brand lead.
 **Live record for commercial decisions:** `DECISIONS.md`; per-test evidence and Gate 1 meetings: `ritual-library-launch-kit/gate-1-validation-scorecard.xlsx` → Gate Log.
-**Source hierarchy:** this register governs product status and commercial posture; `CATALOG.csv` is the generated technical manifest; `metadata.txt` is a generated upload artifact, never independent authority for a price or release decision.
+**Source hierarchy:** the machine-readable canonical table in this register governs decision-bound product facts; `DECISIONS.md` records the authorizing rationale; `CATALOG.csv` is a generated technical manifest; `metadata.txt` is a generated upload artifact, never independent authority for a price or release decision. `verify_canonical.py` checks the relationship on every validation run.
 
 ## Portfolio snapshot
 
@@ -86,6 +86,32 @@ Founder signature: ______________________________  Date: __________________
 | B17 | *One Minute at My Desk* | Quiet Practice (proposed) | Visible 30–90-second desk resets / corporate-gift object. | Freestanding easel + refillable tear-pad. | $24 object hypothesis. | Vault — no public KDP. | Paid digital desk-practice test, then physical-object demand. | Book-form result is directional only; do not kill the easel object because a paperback surrogate fails. | `D-2026-08-28-04` |
 | B18 | *Enough Money, Enough Calm* | Quiet Practice (proposed) | Emotional-finance reflection: facts, feelings, one next step; no advice. | 6 × 8 in. paperback scout; gift hardcase separate. | **$18.99** KDP scout | Wave 1 — Built / hard hold. | KDP evidence under two-read Gate 1. | Hold/retire if no signal; never add financial, legal, tax, investment, or mental-health outcomes to rescue conversion. | `D-2026-08-28-08` |
 
+## Machine-readable canonical product table
+
+This table is the machine-readable decision baseline for `verify_canonical.py`. It governs the exact title, current configured collection, technical page/trim fields, price posture, wave, and publication status. `Quiet Practice` remains a proposed future replacement for the currently configured private `Stillwork Editions` collection; it is not silently substituted here.
+
+| ID | Canonical title | Configured collection | Pages | Trim | Price posture | Release wave | Publication status |
+|---|---|---|---|---|---|---|---|
+| A01 | Dose & Breathe: A Mindful Weekly GLP-1 Companion | Pace & Progress | 128 | 6x8 | $16.99 | Wave 1 | HOLD — awaiting release gates |
+| A02 | Color Your Way Forward: A Mindful GLP-1 Coloring Workbook | Pace & Progress | 100 | 8.5x11 | TBD — no authorized KDP price | Wave 2 | HOLD |
+| A03 | The Scent of a Steady Year: An Undated GLP-1 Ritual Calendar | Pace & Progress | 12 monthly sheets | 10x12 | N/A — non-KDP calendar | Vault | NOT A KDP PRODUCT — DO NOT PUBLISH |
+| A04 | Softer Words: A Gratitude & Self-Talk Diary | Pace & Progress | 128 | 6x8 | $17.99 | Wave 1 | HOLD — awaiting release gates |
+| A05 | Night Harbor: An Evening Wind-Down & Sleep Reflection Companion | Pace & Progress | 168 | 6x8 | $15.99 | Wave 1 | HOLD — awaiting release gates |
+| A06 | Stillness & Stretch: A Gentle Movement Reflection Companion | Pace & Progress | 128 | 8x10 | TBD — no authorized KDP price | Wave 2 | HOLD — review-heavy |
+| A07 | Steady Signal: A Calm-Check & Optional Pulse Observation Journal | Pace & Progress | 120 | 6x8 | TBD — no authorized KDP price | Wave 2 | HOLD — review-heavy |
+| A08 | The Unhurried Year: An Undated Executive Wellness Planner | Pace & Progress | 160 | 7x9 | TBD — no authorized KDP price | Wave 2 | HOLD — waitlist-first |
+| A09 | Pocket of Calm: A Guided Journaling Companion | Stillwork Editions | 120 | 6x8 | N/A — no public KDP price | Vault | DO NOT PUBLISH TO KDP |
+| B10 | Rest & Regulate: A 90-Day Breath-Paced Planner | Stillwork Editions | 144 | 6x8 | $17.99 | Wave 1 | HOLD — awaiting release gates |
+| B11 | Under the Covers: A Weighted-Blanket Sleep & Stress Diary | Stillwork Editions | 120 | 7x9 | TBD — no authorized KDP price | Wave 2 | HOLD — review-heavy |
+| B12 | Back to Enough: A Compassionate Productivity Rescue Workbook | Stillwork Editions | 160 | 6x8 | $18.99 | Wave 1 | HOLD — awaiting release gates |
+| B13 | The Breathwork Integration Book: A Session Reflection Log | Stillwork Editions | 128 | 8.27x11.69 | TBD — no authorized KDP price | Wave 2 | HOLD — review-heavy |
+| B14 | Among the Trees: A Forest-Bathing Photo Reflection Journal | Stillwork Editions | 128 | 8x8 | TBD — no authorized KDP price | Wave 2 | HOLD |
+| B15 | Color & Check In: A Mandala Coloring & Mood Diary | Stillwork Editions | 120 | 8.5x11 | TBD — no authorized KDP price | Wave 2 | HOLD |
+| B16 | Us, In Balance: A Couples’ Pause & Repair Workbook | Stillwork Editions | 160 | 7x9 | TBD — no authorized KDP price | Wave 2 | HOLD — review-heavy |
+| B17 | One Minute at My Desk: A Micro-Meditation & Reflection Book | Stillwork Editions | 120 | 5x7 | N/A — no public KDP price | Vault | DO NOT PUBLISH TO KDP |
+| B18 | Enough Money, Enough Calm: A Financial-Anxiety Mindset Workbook | Stillwork Editions | 168 | 6x8 | $18.99 | Wave 1 | HOLD — awaiting release gates |
+
+**Rule:** update this table, the applicable `DECISIONS.md` record, and the relevant Scorecard Gate Log before changing any decision-bound field. Then update source, rebuild, and run `verify_canonical.py`; never use a generated artifact as the decision source.
 ## Signed decision controls
 
 1. Before any status change, record date, evidence, decision owner, next action, budget, and condition in the Scorecard Gate Log.

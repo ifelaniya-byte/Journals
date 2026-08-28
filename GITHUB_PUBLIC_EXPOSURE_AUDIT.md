@@ -18,6 +18,21 @@ Public API/repository pages showed:
 | `ADHD-Journals` | Public branch describes 18 prompt journals/coloring books under a separate imprint, with `$9.99` price enforcement. | Unreviewed claims/positioning and unwanted product association may be publicly visible. |
 | Recent activity | Commits were public and actively updating at the time of inspection. | Do not assume a static historical ZIP; exposure may still be changing. |
 
+## Public evidence snapshot and ownership question
+
+At the latest unauthenticated public-API check on August 28, 2026, GitHub reported the repository as public, non-archived, forkable, with `forks_count: 0` and `network_count: 0`; its three public branches were `main`, `ADHD-Journals`, and `Range-Band`. This is a dated public-observation record, not proof that no one has cloned or copied content elsewhere. The account/controller relationship cannot be determined from public data.
+
+**Before any merge, separation, or commercial use decision, the founder must identify which statement is true and record the answer in `DECISIONS.md`:**
+
+| If the account is… | Required decision |
+|---|---|
+| Controlled by this venture / a collaborator | Either bring it under these controls (private repository, no public releases, per-SKU gates, no copied pricing/copy/trade dress) or formally firewall it as a separate business with different identity, copy, assets, audiences, and storefronts. Do not leave a same-owner undercutting GLP-1/wellness catalog in ambiguous parallel operation. |
+| Controlled by the founder personally but outside this project | Make it private or delete it, then decide whether any reviewed non-sensitive learning may be migrated through a documented, fresh review. No wholesale import or history merge. |
+| Controlled by an unrelated third party | Preserve the dated public evidence, do not contact through an automated channel, and obtain counsel’s direction on confidential-information, claim, trademark, and takedown implications. |
+| Unknown | Treat it as external/untrusted until a named controller confirms otherwise; do not merge, copy, or share credentials/material. |
+
+For a human screenshot, the account owner should capture the repository landing page, branches page, fork/network count, each exposed README, and recent commit history **before** changing visibility. Save the images privately with date/time and URLs; do not post them as a public issue or “cleanup” commit.
+
 ## Required containment (account owner only)
 
 1. **Immediately make `ifelaniya-byte/Journals` private** in GitHub repository Settings → General → Danger Zone → Change visibility, or delete it if it has no required evidence value. Do not first “clean it up” with public commits; those commits add more public history.

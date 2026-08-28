@@ -135,7 +135,7 @@ check(all((R / name).exists() for name in [
     "MARKETING.md", "LEGAL_AND_CLAIMS.md", "00_START_HERE.md", "RELEASE_POLICY.md",
     "PORTFOLIO.md", "WAVE1_HUMAN_QA.md", "KDP_ACCOUNT_OPERATIONS.md", "POLISH_NOTES.md",
     "PREPUBLICATION_SEQUENCE.md", "QR_AND_AUDIO.md", "QR_AUDIO_REVIEW.md", "TRADEMARK_SCREENING.md",
-    "DECISIONS.md", "verify_pricing.py", "GITHUB_PUBLIC_EXPOSURE_AUDIT.md",
+    "DECISIONS.md", "verify_pricing.py", "verify_canonical.py", "AUTOMATION_POLICY.md", "COUNSEL_ENGAGEMENT_EMAIL.md", "GITHUB_PUBLIC_EXPOSURE_AUDIT.md",
 ]), "operating, price-control, and exposure-control docs present")
 check((R / "configure_wave1_qr.py").is_file() and (R / "qr-routing" / "worker.js").is_file(), "QR routing/stamp tooling present")
 if DOMAIN:
@@ -156,7 +156,14 @@ if price_check.stderr:
     print(price_check.stderr.rstrip())
 check(price_check.returncode == 0, "Wave 1 prices match the canonical DECISIONS.md table")
 
-print(f"\nChecks passed: {passed}/33")
+canonical_check = subprocess.run([sys.executable, str(R / "verify_canonical.py")], cwd=R, text=True, capture_output=True)
+print("\n--- Canonical product-control guard ---")
+print(canonical_check.stdout.rstrip())
+if canonical_check.stderr:
+    print(canonical_check.stderr.rstrip())
+check(canonical_check.returncode == 0, "all decision-bound catalog fields match PORTFOLIO.md")
+
+print(f"\nChecks passed: {passed}/34")
 if fails:
     print("FAILURES:", "; ".join(fails))
     raise SystemExit(1)

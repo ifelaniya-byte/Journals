@@ -439,7 +439,9 @@ This is a Git-ready 18-concept product catalog with 15 conditional KDP book opti
 ```bash
 pip install -r requirements.txt
 python build_catalog.py        # regenerates the full release package
-python validate_catalog.py     # structural QC; exits non-zero on a failure
+python verify_canonical.py   # PORTFOLIO.md decision baseline vs source/artifacts
+python verify_pricing.py     # Wave 1 price source/artifact agreement
+python validate_catalog.py     # structural QC + canonical guards; exits non-zero on a failure
 python make_zips.py            # creates only the six Wave 1 candidate bundles
 python make_zips.py --all-vault # explicit internal archive only; never an upload plan\n# Only after a real domain and deployment: python configure_wave1_qr.py --domain <domain> --apply --verify-live
 ```
@@ -453,7 +455,7 @@ A complete, repository-grade production system for an 18-product wellness-statio
 ## Deliverables at a glance
 - **15 conditional KDP book options** plus two private book-form reference artifacts in `release/`; A03 is a non-KDP calendar brief in `non-kdp/`.
 - **2 deluxe hero packages** in `deluxe-heroes/`: *Dose & Breathe* and *Pocket of Calm*.
-- **Commercial operating docs:** `CATALOG.csv`, `RELEASE_POLICY.md`, `PORTFOLIO.md`, `WAVE1_HUMAN_QA.md`, `KDP_ACCOUNT_OPERATIONS.md`, `LEGAL_AND_CLAIMS.md`, `MARKETING.md`, `UPLOAD_CHECKLIST.md`, `ART_DIRECTION.md`, `DELUXE_HEROES.md`, `POLISH_NOTES.md`, `HISTORY.md`, `LOOKBOOK.pdf`, `00_START_HERE.md`, `PREPUBLICATION_SEQUENCE.md`, `SCORECARD_READ1_READ2_SPEC.md` (in the launch kit), `QR_AND_AUDIO.md`, `QR_AUDIO_REVIEW.md`, `TRADEMARK_SCREENING.md`, `BACKUP_IMPRINT_SHORTLIST.md`, `COUNSEL_ENGAGEMENT_MEMO.md`, and `DECISIONS.md`.
+- **Commercial operating docs:** `CATALOG.csv`, `RELEASE_POLICY.md`, `PORTFOLIO.md`, `WAVE1_HUMAN_QA.md`, `KDP_ACCOUNT_OPERATIONS.md`, `LEGAL_AND_CLAIMS.md`, `MARKETING.md`, `UPLOAD_CHECKLIST.md`, `ART_DIRECTION.md`, `DELUXE_HEROES.md`, `POLISH_NOTES.md`, `HISTORY.md`, `LOOKBOOK.pdf`, `00_START_HERE.md`, `PREPUBLICATION_SEQUENCE.md`, `SCORECARD_READ1_READ2_SPEC.md` (in the launch kit), `QR_AND_AUDIO.md`, `QR_AUDIO_REVIEW.md`, `TRADEMARK_SCREENING.md`, `BACKUP_IMPRINT_SHORTLIST.md`, `COUNSEL_ENGAGEMENT_MEMO.md`, `COUNSEL_ENGAGEMENT_EMAIL.md`, `AUTOMATION_POLICY.md`, `verify_canonical.py`, `verify_pricing.py`, and `DECISIONS.md`.
 - **Build/QC tools:** `build_catalog.py`, `polish_catalog.py`, `validate_catalog.py`, `configure_wave1_qr.py`, `make_zips.py`, and `requirements.txt`.
 
 ## Product truthfulness

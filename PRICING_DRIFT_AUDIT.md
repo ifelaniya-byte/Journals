@@ -47,11 +47,11 @@ The Gate 1 scorecard has no paperback price, royalty, print-cost, margin, or con
 
 Operational implication: record any future controlled price iteration in the Scorecard Gate Log, but do not reinterpret paperback sales as deluxe funding evidence without the existing price-visible deluxe-intent, Q4, and Gate 2/3 controls.
 
-## Controlled repair — ready to execute
+## Controlled repair — completed
 
-1. Record B10’s approved price in the canonical table in `DECISIONS.md` — completed at $17.99.
-2. Change only the six Wave 1 price values in `build_catalog.py`.
-3. Rebuild all derived artifacts; do not hand-patch only `metadata.txt`.
-4. Run `verify_pricing.py`, `validate_catalog.py`, `audit_metadata_claims.py`, and a diff of the six current/baseline `metadata.txt` files against the canonical price table.
-5. Inspect listing callouts, lookbook, `CATALOG.csv`, and the KDP upload checklist for all six prices.
-6. Commit the price repair with the evidence and tag only after the suite passes. A price correction never clears naming, claims, QR, KDP technical, proof, or release gates.
+1. Recorded B10’s approved price in the canonical table in `DECISIONS.md` at $17.99.
+2. Updated only the six Wave 1 price values in `build_catalog.py`.
+3. Rebuilt derived artifacts; did not hand-patch only `metadata.txt`.
+4. Ran `verify_pricing.py`, `verify_canonical.py`, `validate_catalog.py`, and `audit_metadata_claims.py`; the first three passed and the metadata audit had no hard-stop strings.
+5. Confirmed the six price values in listing callouts, lookbook, `CATALOG.csv`, current metadata, preserved baseline metadata, and the Wave 1-only KDP upload checklist.
+6. Committed the repaired state. A price correction never clears naming, claims, QR, KDP technical, proof, or release gates.
