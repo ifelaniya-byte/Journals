@@ -19,3 +19,5 @@
 **Upload:** paperback · bleed OFF · B&W · white paper · interior + wrap. Almost all 6×9; **07 and 25 are 5×8**; **09 is 8.5×11**.
 
 **Launch:** Wave 1 ads only — 01 Meal, 09 Calendar, 05 Craving, 30 PMDD, 10 Sober, 12 Migraine. Do not bid Quiet Mind queries.
+
+**Other stores:** `MARKETS/PLAYBOOK.md`. KDP stays $9.99. B&N Press cannot list print under $14.99 — use `MARKETS/FLOOR-14.99/`. Digital PDF (Google Play, Gumroad, Payhip) is `MARKETS/DIGITAL-9.99/`. No monthly fees. No setup fees.

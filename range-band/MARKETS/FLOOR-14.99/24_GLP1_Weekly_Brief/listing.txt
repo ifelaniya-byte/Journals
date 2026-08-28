@@ -1,0 +1,89 @@
+FLOOR $14.99 LISTING — 24  ·  B&N Press / any $14.99 print floor
+Do not upload this price to Amazon KDP ($9.99 kit).
+================================
+TITLE (≤200 chars)
+GLP-1 Weekly Review & Clinic Brief Binder
+
+SUBTITLE
+52 Weeks of Review Spreads + One-Page Clinician Briefs
+
+AUTHOR / IMPRINT
+Range Band Press
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+115
+
+COVER FILE
+24_GLP1_Weekly_Brief_COVER_WRAP.pdf
+  Full wrap size: 12.509" × 9.250"
+  Spine: 0.2590"  (white paper B&W, 115 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+24_GLP1_Weekly_Review_and_Clinic_Brief_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Reference  (HEA020000)
+HEALTH & FITNESS / Diseases / General  (HEA039000)
+
+SEVEN BACKEND KEYWORDS
+  1. clinic visit journal 52 week
+  2. one page doctor brief
+  3. weekly health review notebook
+  4. patient appointment notes
+  5. glp-1 weekly log book
+  6. undated medical visit journal
+  7. clinician handoff notebook
+
+SUGGESTED PRICE (US)
+$14.99
+
+DESCRIPTION (plain)
+-------------------
+GLP-1 Weekly Review & Clinic Brief Binder
+52 Weeks of Review Spreads + One-Page Clinician Briefs
+
+Live inside the range. 52 weeks: signals on the left, a 90-second clinician brief on the right. Hand it over.
+
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Left: the week in signals
+  • Right: a 90-second clinician brief
+  • Flag box for loud weeks
+  • Four quarterly letters
+
+ALSO IN THIS CATALOG
+  • 02 Side effects
+  • 01 Meal
+  • 09 Calendar
+
+Trim: 6 × 9 in
+Pages: 115
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $14.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>GLP-1 Weekly Review & Clinic Brief Binder</b> — 52 Weeks of Review Spreads + One-Page Clinician Briefs</p>
+<p><i>Live inside the range.</i> 52 weeks: signals on the left, a 90-second clinician brief on the right. Hand it over.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Left: the week in signals</li><li>Right: a 90-second clinician brief</li><li>Flag box for loud weeks</li><li>Four quarterly letters</li></ul>
+<p><b>Also in this catalog</b></p>
+<ul><li>02 Side effects</li><li>01 Meal</li><li>09 Calendar</li></ul>
+<p>Trim 6 × 9 in · 115 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$14.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

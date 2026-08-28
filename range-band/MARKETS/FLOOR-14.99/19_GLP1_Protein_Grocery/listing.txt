@@ -1,0 +1,89 @@
+FLOOR $14.99 LISTING — 19  ·  B&N Press / any $14.99 print floor
+Do not upload this price to Amazon KDP ($9.99 kit).
+================================
+TITLE (≤200 chars)
+GLP-1 High-Protein Grocery & Meal Prep Planner
+
+SUBTITLE
+12-Week Shopping Lists, Batch-Cook Logs & Fridge Maps (Undated)
+
+AUTHOR / IMPRINT
+Range Band Press
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+136
+
+COVER FILE
+19_GLP1_Protein_Grocery_COVER_WRAP.pdf
+  Full wrap size: 12.556" × 9.250"
+  Spine: 0.3063"  (white paper B&W, 136 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+19_GLP1_Protein_Grocery_and_Prep_Planner_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Diet & Nutrition / Food Content Guides  (HEA017000)
+HEALTH & FITNESS / Diet & Nutrition / Nutrition  (HEA019000)
+
+SEVEN BACKEND KEYWORDS
+  1. high protein grocery planner
+  2. glp-1 meal prep journal
+  3. batch cooking log book
+  4. fridge map leftover tracker
+  5. 12 week shopping list book
+  6. semaglutide grocery planner
+  7. undated protein meal prep
+
+SUGGESTED PRICE (US)
+$14.99
+
+DESCRIPTION (plain)
+-------------------
+GLP-1 High-Protein Grocery & Meal Prep Planner
+12-Week Shopping Lists, Batch-Cook Logs & Fridge Maps (Undated)
+
+Live inside the range. 12 weeks of protein-first shopping lists, batch-cook logs, fridge maps, leftover days.
+
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Weekly shop lists by protein / produce / extras
+  • Prep-session log and fridge map
+  • Seven daily leftover pages per week
+  • Clinic brief if nutrition comes up
+
+ALSO IN THIS CATALOG
+  • 01 Meal & Satiety
+  • 26 What-Sat-Well cards
+  • 06 Muscle
+
+Trim: 6 × 9 in
+Pages: 136
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $14.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>GLP-1 High-Protein Grocery & Meal Prep Planner</b> — 12-Week Shopping Lists, Batch-Cook Logs & Fridge Maps (Undated)</p>
+<p><i>Live inside the range.</i> 12 weeks of protein-first shopping lists, batch-cook logs, fridge maps, leftover days.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Weekly shop lists by protein / produce / extras</li><li>Prep-session log and fridge map</li><li>Seven daily leftover pages per week</li><li>Clinic brief if nutrition comes up</li></ul>
+<p><b>Also in this catalog</b></p>
+<ul><li>01 Meal & Satiety</li><li>26 What-Sat-Well cards</li><li>06 Muscle</li></ul>
+<p>Trim 6 × 9 in · 136 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$14.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

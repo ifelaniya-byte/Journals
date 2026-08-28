@@ -17,3 +17,5 @@ A range is not a cage. It is the band you already chose — protein, sleep, a sh
 Four series: GLP-1 Tracking · Wellness Tracking · GLP-1 Companion · Wellness Companion.
 
 KDP: paperback · bleed OFF · B&W · white paper · interior PDF + wrap cover. Covers carry the range-band mark (two posts, a living band, a pip).
+
+**Markets (no monthly, no setup fee):** Amazon KDP at **$9.99** · B&N Press at **$14.99** (`range-band/MARKETS/FLOOR-14.99/`) · Google Play / Gumroad / Payhip PDFs at **$9.99**. Read [`range-band/MARKETS/PLAYBOOK.md`](range-band/MARKETS/PLAYBOOK.md).

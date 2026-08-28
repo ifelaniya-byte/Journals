@@ -45,7 +45,7 @@ def html_desc(t: dict) -> str:
 <ul>{bullets}</ul>
 <p><b>Also in this catalog</b></p>
 <ul>{also}</ul>
-<p>Trim {t["trim"][0]:g} × {t["trim"][1]:g} in · {t["pages"]} pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p>Trim {t["trim"][0]:g} × {t["trim"][1]:g} in · {t["pages"]} pages · black-and-white interior · white paper recommended · bleed OFF · <b>${t["price"]:.2f}</b>.</p>
 <p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>"""
 
 
@@ -83,7 +83,8 @@ def plain_desc(t: dict) -> str:
 
 def listing_txt(t: dict, wrap_w, wrap_h, spine) -> str:
     kw = "\n".join(f"  {i}. {k}" for i, k in enumerate(t["keywords"], 1))
-    return f"""KDP LISTING — {t["n"]}
+    banner = t.get("channel_note") or f"KDP LISTING — {t['n']}"
+    return f"""{banner}
 ================================
 TITLE (≤200 chars)
 {t["kdp_title"]}

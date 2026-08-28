@@ -1,0 +1,88 @@
+FLOOR $14.99 LISTING — 13  ·  B&N Press / any $14.99 print floor
+Do not upload this price to Amazon KDP ($9.99 kit).
+================================
+TITLE (≤200 chars)
+ADHD Medication & Focus Log
+
+SUBTITLE
+90-Day Dose Tracker, Pomodoro Focus Boxes & Dopamine Stamp Pages
+
+AUTHOR / IMPRINT
+Range Band Press
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+113
+
+COVER FILE
+13_ADHD_Focus_Log_COVER_WRAP.pdf
+  Full wrap size: 12.505" × 9.250"
+  Spine: 0.2545"  (white paper B&W, 113 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+13_ADHD_Medication_and_Focus_Log_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Diseases / Nervous System  (HEA039110)
+SELF-HELP / Personal Growth / Success  (SEL014000)
+
+SEVEN BACKEND KEYWORDS
+  1. adhd medication log book
+  2. stimulant dose as prescribed
+  3. pomodoro focus tracker
+  4. adhd daily focus boxes
+  5. wear off crash journal
+  6. undated adhd med notebook
+  7. copy the bottle log
+
+SUGGESTED PRICE (US)
+$14.99
+
+DESCRIPTION (plain)
+-------------------
+ADHD Medication & Focus Log
+90-Day Dose Tracker, Pomodoro Focus Boxes & Dopamine Stamp Pages
+
+Live inside the range. Copy the bottle. Pomodoro boxes for blocks you started. Wear-off line. Not a dopamine menu.
+
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Copy the bottle — do not invent a dose
+  • Focus boxes for blocks you actually started
+  • Wear-off / crash line
+  • Focus stamp row — blocks you actually started
+
+ALSO IN THIS CATALOG
+  • 34 Habit OS
+  • 16 Digital Detox — this is dose-as-Rx, not a dopamine menu
+
+Trim: 6 × 9 in
+Pages: 113
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $14.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>ADHD Medication & Focus Log</b> — 90-Day Dose Tracker, Pomodoro Focus Boxes & Dopamine Stamp Pages</p>
+<p><i>Live inside the range.</i> Copy the bottle. Pomodoro boxes for blocks you started. Wear-off line. Not a dopamine menu.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Copy the bottle — do not invent a dose</li><li>Focus boxes for blocks you actually started</li><li>Wear-off / crash line</li><li>Focus stamp row — blocks you actually started</li></ul>
+<p><b>Also in this catalog</b></p>
+<ul><li>34 Habit OS</li><li>16 Digital Detox — this is dose-as-Rx, not a dopamine menu</li></ul>
+<p>Trim 6 × 9 in · 113 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$14.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>

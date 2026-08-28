@@ -56,4 +56,6 @@ Other floors (confirm in KDP): UK £7.99 · euro €9.99.
 4. Ads: exact match on Wave 1 keywords only. Daily cap you can afford to lose.
 5. Do not touch Wave 4 with ads. Ever, until a title is already selling from also-bought.
 
-Imprint: **Range Band Press** on all 36. Covers are blank on purpose — type it in KDP’s author field. Never mix Quiet Mind titles into these series.
+Imprint: **Range Band Press** on all 36. Covers carry the range-band mark — type the same name in KDP’s author field. Never mix Quiet Mind titles into these series.
+
+Other stores (B&N $14.99 floor pack, Google Play / Gumroad / Payhip PDFs): `MARKETS/PLAYBOOK.md`. Do not put $14.99 on Amazon.

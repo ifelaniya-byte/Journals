@@ -1,0 +1,95 @@
+DIGITAL $9.99 PRINT-AT-HOME PDF — 26
+Google Play / Gumroad / Payhip. Not an EPUB. Not for Apple or Kobo.
+================================
+TITLE (≤200 chars)
+GLP-1 Protein Kitchen Recipe & Leftover Log
+
+SUBTITLE
+60 Blank Recipe Cards + 30 Leftover Logs (Not a Cookbook)
+
+AUTHOR / IMPRINT
+Range Band Press
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+98
+
+COVER FILE
+26_GLP1_Protein_Kitchen_COVER_WRAP.pdf
+  Full wrap size: 12.471" × 9.250"
+  Spine: 0.2207"  (white paper B&W, 98 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+26_GLP1_Protein_Kitchen_Recipe_and_Leftover_Log_6x9.pdf
+
+CATEGORIES / BISAC
+COOKING / General  (CKB000000)
+HEALTH & FITNESS / Diet & Nutrition / Nutrition  (HEA019000)
+
+SEVEN BACKEND KEYWORDS
+  1. what sat well recipe log
+  2. protein leftover journal
+  3. blank recipe cards protein
+  4. glp-1 kitchen notebook
+  5. make again retire cards
+  6. undated recipe log book
+  7. meal prep leftover tracker
+
+SUGGESTED PRICE (US)
+$9.99
+
+DESCRIPTION (plain)
+-------------------
+GLP-1 Protein Kitchen Recipe & Leftover Log
+60 Blank Recipe Cards + 30 Leftover Logs (Not a Cookbook)
+
+Live inside the range. 60 cards you write: name, protein, how it sat, make-again or retire. 30 leftover logs. Not a cookbook.
+
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • 60 cards: name, protein, how it sat
+  • Make-again vs retire
+  • 30 leftover logs so prep gets eaten
+  • No branded meal plan
+
+ALSO IN THIS CATALOG
+  • 19 Grocery & Prep
+  • 01 Meal & Satiety
+
+Trim: 6 × 9 in
+Pages: 98
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $9.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>GLP-1 Protein Kitchen Recipe & Leftover Log</b> — 60 Blank Recipe Cards + 30 Leftover Logs (Not a Cookbook)</p>
+<p><i>Live inside the range.</i> 60 cards you write: name, protein, how it sat, make-again or retire. 30 leftover logs. Not a cookbook.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>60 cards: name, protein, how it sat</li><li>Make-again vs retire</li><li>30 leftover logs so prep gets eaten</li><li>No branded meal plan</li></ul>
+<p><b>Also in this catalog</b></p>
+<ul><li>19 Grocery & Prep</li><li>01 Meal & Satiety</li></ul>
+<p>Trim 6 × 9 in · 98 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>
+
+DIGITAL FILE NOTES
+-------------------
+Upload `26_GLP1_Protein_Kitchen_printathome.pdf` as the book file.
+Upload `26_GLP1_Protein_Kitchen_cover.jpg` as the store thumbnail.
+Say: print-at-home PDF of the paperback interior. Not a reflowable ebook.
+Trim / print: bleed OFF, white paper, same page count as the paperback.

@@ -1,0 +1,95 @@
+DIGITAL $9.99 PRINT-AT-HOME PDF — 14
+Google Play / Gumroad / Payhip. Not an EPUB. Not for Apple or Kobo.
+================================
+TITLE (≤200 chars)
+Perimenopause Symptom & Mood Chart
+
+SUBTITLE
+90-Day Hot Flash, Sleep Wheel & Cycle Timeline Tracker
+
+AUTHOR / IMPRINT
+Range Band Press
+
+LANGUAGE
+English
+
+INTERIOR
+Black & white  |  Bleed: OFF  |  Paper: white
+
+TRIM
+6" × 9"
+
+PAGE COUNT
+107
+
+COVER FILE
+14_Perimenopause_Chart_COVER_WRAP.pdf
+  Full wrap size: 12.491" × 9.250"
+  Spine: 0.2410"  (white paper B&W, 107 × 0.002252)
+  Spine text: YES
+  Barcode: white 2.05 × 1.25" reserved, back cover lower-right (near spine)
+
+INTERIOR FILE
+14_Perimenopause_Symptom_and_Mood_Chart_6x9.pdf
+
+CATEGORIES / BISAC
+HEALTH & FITNESS / Women's Health  (HEA028000)
+HEALTH & FITNESS / Menopause  (HEA024000)
+
+SEVEN BACKEND KEYWORDS
+  1. hot flash tracker journal
+  2. sleep wheel peri chart
+  3. night sweat log book
+  4. cycle timeline notebook
+  5. peri symptom tally journal
+  6. undated hot flash diary
+  7. clinic questions peri log
+
+SUGGESTED PRICE (US)
+$9.99
+
+DESCRIPTION (plain)
+-------------------
+Perimenopause Symptom & Mood Chart
+90-Day Hot Flash, Sleep Wheel & Cycle Timeline Tracker
+
+Live inside the range. Tally marks for flashes and night sweats, a 1–5 sleep wheel, a chaotic-cycle timeline.
+
+From Range Band Press. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Fill in what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.
+
+INSIDE
+  • Tally marks for flashes and night sweats
+  • Sleep-quality wheel 1–5
+  • Chaotic-cycle timeline (blank is data)
+  • Questions for the next visit
+
+ALSO IN THIS CATALOG
+  • 30 PMDD 6-cycle (deeper)
+  • 29 Sleep Window — this is tallies + sleep wheel, not a peri memoir
+
+Trim: 6 × 9 in
+Pages: 107
+Interior: black & white / grayscale, no bleed, fonts embedded
+Paper: white (recommended for grids and stickers)
+Suggested list price: $9.99
+
+Personal tracking / management tool only. Not medical advice.
+
+DESCRIPTION (HTML paste)
+------------------------
+<p><b>Perimenopause Symptom & Mood Chart</b> — 90-Day Hot Flash, Sleep Wheel & Cycle Timeline Tracker</p>
+<p><i>Live inside the range.</i> Tally marks for flashes and night sweats, a 1–5 sleep wheel, a chaotic-cycle timeline.</p>
+<p>From <b>Range Band Press</b>. A range is not a cage. It is the band you already chose — protein, sleep, a shot day, a quiet Tuesday. Undated logs for a life that has numbers but is not a number. Write what your own clinician already directed. This book does not diagnose, dose, or treat, and it is not affiliated with any medication manufacturer.</p>
+<p><b>Inside</b></p>
+<ul><li>Tally marks for flashes and night sweats</li><li>Sleep-quality wheel 1–5</li><li>Chaotic-cycle timeline (blank is data)</li><li>Questions for the next visit</li></ul>
+<p><b>Also in this catalog</b></p>
+<ul><li>30 PMDD 6-cycle (deeper)</li><li>29 Sleep Window — this is tallies + sleep wheel, not a peri memoir</li></ul>
+<p>Trim 6 × 9 in · 107 pages · black-and-white interior · white paper recommended · bleed OFF · <b>$9.99</b>.</p>
+<p><i>Personal tracking / management tool only. Not medical advice. GLP-1 is the stem on the cover — no manufacturer brands in the title.</i></p>
+
+DIGITAL FILE NOTES
+-------------------
+Upload `14_Perimenopause_Chart_printathome.pdf` as the book file.
+Upload `14_Perimenopause_Chart_cover.jpg` as the store thumbnail.
+Say: print-at-home PDF of the paperback interior. Not a reflowable ebook.
+Trim / print: bleed OFF, white paper, same page count as the paperback.
