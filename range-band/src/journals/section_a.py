@@ -1034,7 +1034,7 @@ def build_07(path=None):
         ],
         legend=[
             ("Dose column", "The amount you were directed to take — copied, not chosen"),
-            ("Skip / delay", "If a dose was delayed, write why; do not 'catch up' unless instructed"),
+            ("Skip / delay", "If delayed, write why. No catch-up unless your prescriber said so"),
         ],
         goals=[
             "Prescribed starting dose (record only)",
