@@ -8,7 +8,7 @@ TRIM: 7 × 9 in.
 PAGES: 120
 SPINE: 0.2702 in. (white-paper formula; validate in KDP Cover Calculator)
 COVER WRAP: 14.5202 × 9.2500 in.
-PRICE: $14.99
+PRICE: TBD — no authorized KDP price
 CATEGORIES: Self-Help / Journaling|Self-Help / Stress Management
 KEYWORDS: weighted blanket journal, sleep diary, bedtime comfort journal, stress reflection, cozy sleep planner, sleep environment log, night routine journal
 

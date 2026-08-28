@@ -8,7 +8,7 @@ TRIM: 6 × 8 in.
 PAGES: 120
 SPINE: 0.2702 in. (white-paper formula; validate in KDP Cover Calculator)
 COVER WRAP: 12.5202 × 8.2500 in.
-PRICE: $14.99
+PRICE: TBD — no authorized KDP price
 CATEGORIES: Self-Help / Journaling|Self-Help / Stress Management
 KEYWORDS: calm check journal, anxiety reflection journal, body signal tracker, grounding journal, wellness observation, pulse notes journal, self care tracker
 

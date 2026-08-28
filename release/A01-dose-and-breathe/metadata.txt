@@ -8,7 +8,7 @@ TRIM: 6 × 8 in.
 PAGES: 128
 SPINE: 0.2883 in. (white-paper formula; validate in KDP Cover Calculator)
 COVER WRAP: 12.5383 × 8.2500 in.
-PRICE: $14.99
+PRICE: $16.99
 CATEGORIES: Self-Help / Journaling|Health & Fitness / Healthy Living
 KEYWORDS: GLP-1 journal, mindful wellness journal, weekly reflection journal, self compassion tracker, medication routine companion, calming journal, health journey notebook
 

@@ -8,7 +8,7 @@ TRIM: 5 × 7 in.
 PAGES: 120
 SPINE: 0.2702 in. (white-paper formula; validate in KDP Cover Calculator)
 COVER WRAP: 10.5202 × 7.2500 in.
-PRICE: $12.99
+PRICE: N/A — no public KDP price
 CATEGORIES: Self-Help / Journaling|Business & Money / Time Management
 KEYWORDS: desk meditation book, micro mindfulness journal, one minute reset, office self care, work stress journal, desk wellness gift, short meditation prompts
 

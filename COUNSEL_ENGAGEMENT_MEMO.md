@@ -1,28 +1,32 @@
 # Counsel engagement brief — name, claims, and public-release boundaries
 
-**Prepared:** August 28, 2026  
-**Decision owner:** Founder / brand lead  
-**Requested scope:** one coordinated trademark/name and healthcare-marketing/claims review.  
+**Prepared:** August 28, 2026
+**Decision owner:** Founder / brand lead
+**Requested scope:** one coordinated trademark/name and healthcare-marketing/claims review.
 **Business state:** all materials are private prepublication candidates. This brief does not request KDP publication, paid advertising, manufacturing, or a legal conclusion from anyone other than retained counsel.
 
 ## Executive request
 
 Please provide a scoped written assessment that answers the two questions below before the business commits to a public imprint, branded domain, QR proof, KDP upload, or paid campaign.
 
-1. **Name / trademark:** May the business use and, if appropriate, pursue protection for the candidate imprint **Stillwork Studio**, the brand **The Ritual Library**, the series names **Pace & Progress** and **Stillwork Editions**, and the Wave 1 product names in the proposed U.S. paper-goods, retail, and digital-audio context?
+1. **Name / trademark:** May the business use and, if appropriate, pursue protection for the coordinated candidate package **Calyven Studio** (imprint), **The Ritual Library** (editorial brand), **Pace & Progress** (Collection A), and **Quiet Practice** (Collection B), plus the six Wave 1 product names, in the proposed U.S. paper-goods, retail, and digital-audio context? Please also assess the earlier **Stillwork Studio / Stillwork Editions** candidates as conflict-history/comparison terms, not as the preferred go-forward architecture.
 2. **Claims / marketing:** Which claims, disclaimers, titles, keywords, creator statements, QR/audio scripts, landing-page wording, and paid-media approaches are permissible for the six Wave 1 paperbacks—especially A01 *Dose & Breathe*—and which require revision, substantiation, exclusion, age gating, or no paid use?
 
 ## Decisions needed from counsel
 
 ### A. Trademark, name, and domain
 
-Please assess federal, state/common-law, marketplace, domain, and social-handle risk for:
+Please assess federal, state/common-law, marketplace, domain, and social-handle risk as **one coordinated search package** for:
 
-- **Stillwork Studio**; its root overlap with an existing “Stillwork” recording business; and the candidate domain **stillworkstudio.com** / `go.stillworkstudio.com`.
-- **The Ritual Library**, **Pace & Progress**, **Stillwork Editions**, and the six Wave 1 titles: *Dose & Breathe*, *Softer Words*, *Night Harbor*, *Rest & Regulate*, *Back to Enough*, and *Enough Money, Enough Calm*.
-- The intended goods/services: Class 16 paper books, journals, planners, cards, printed stationery; Class 35 online/wholesale retail; Class 41 online non-downloadable audio/content. Please advise whether any additional digital/downloadable class is appropriate.
-- Whether a short defensive domain registration before final clearance is sensible, and the point at which public domain use, a 10-year registration, branded landing page, KDP account identity, QR-coded proof, or trademark application would increase exposure.
-- Whether **Stillwork Editions** should be renamed now if the imprint is rejected, and whether any proposed backup should be screened concurrently. See `BACKUP_IMPRINT_SHORTLIST.md`.
+- **Calyven Studio** — initial alternate imprint candidate now downgraded to counsel-comparison status. Public review found the active exact-root site `calyven.com` used by a Spanish building-renovation business. Search it for a documented go/no-go/qualification opinion rather than assuming it is ownable; include exact, phonetic, visual, and commercial-impression variants, including reasonable `Calvin`/`Caly-` sound-alikes.
+- **The Ritual Library** — customer-facing editorial brand; search at the same depth as the imprint, not as a lightweight descriptor.
+- **Pace & Progress** — Collection A / series candidate.
+- **Quiet Practice** — proposed Collection B / series candidate that decouples the collection from the imprint root.
+- The six Wave 1 titles: *Dose & Breathe*, *Softer Words*, *Night Harbor*, *Rest & Regulate*, *Back to Enough*, and *Enough Money, Enough Calm*.
+- **Stillwork Studio** and **Stillwork Editions** as prior private working candidates: identify whether the existing “Stillwork” recording-business root creates a conflict, coexistence condition, or other reason to avoid the terms. They are comparison terms, not the requested preferred public architecture.
+- The intended goods/services: Class 16 paper books, journals, planners, cards, calendars, and printed stationery; Class 35 online/wholesale retail; Class 41 online non-downloadable audio/content. Please advise whether a downloadable/digital class, or another class, is appropriate.
+- Recommend the process for selecting and defensively registering a replacement approved root (exact-root `.com` and exact-presentation `.com`) after availability/clearance. `calyven.com` is already registered and active, so do not treat it as an available defensive registration. A one-year registration, if counsel advises it for a replacement, must not be read as permission to deploy, publicly use, or make a longer-term commitment. Identify the point at which public domain use, branded landing page, KDP identity, QR-coded proof, or trademark application increases exposure.
+- Whether the four names can be searched/reported in one coordinated engagement and what sequencing/application plan is appropriate. See `BACKUP_IMPRINT_SHORTLIST.md` and `PORTFOLIO.md`.
 
 **Requested output:** Clear / revise / do-not-use conclusion for each term, practical coexistence steps if relevant, search scope/limitations, and recommended application sequencing. A git tag, metadata field, or private landing file must not be treated as marketplace use or clearance.
 

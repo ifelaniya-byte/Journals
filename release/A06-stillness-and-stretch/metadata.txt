@@ -8,7 +8,7 @@ TRIM: 8 × 10 in.
 PAGES: 128
 SPINE: 0.2883 in. (white-paper formula; validate in KDP Cover Calculator)
 COVER WRAP: 16.5383 × 10.2500 in.
-PRICE: $15.99
+PRICE: TBD — no authorized KDP price
 CATEGORIES: Health & Fitness / Exercise|Self-Help / Journaling
 KEYWORDS: gentle movement journal, yin inspired journal, body scan reflection, slow stretch planner, mindful movement, wellness practice journal, restorative routine
 

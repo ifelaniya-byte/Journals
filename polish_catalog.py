@@ -260,8 +260,8 @@ def series_cards(rows):
   for row in picks:im.save(ROOT/row['folder']/'listing_07_series.jpg',quality=95)
 
 def main():
- rows=list(csv.DictReader((ROOT/'CATALOG.csv').open(encoding='utf-8')))
+ rows=[r for r in csv.DictReader((ROOT/'CATALOG.csv').open(encoding='utf-8')) if not r['publication_status'].startswith('NOT A KDP PRODUCT')]
  for row in rows:make_wrap(row);make_front(row);callout(row)
  series_cards(rows)
- print('Polished 18 covers, wraps, callouts, and collection cards.')
+ print('Polished 17 book-format reference covers, wraps, callouts, and collection cards; skipped non-KDP A03.')
 if __name__=='__main__':main()

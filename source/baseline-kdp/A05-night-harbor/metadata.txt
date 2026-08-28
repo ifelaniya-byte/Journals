@@ -8,7 +8,7 @@ TRIM: 6 × 8 in.
 PAGES: 168
 SPINE: 0.3783 in. (white-paper formula; validate in KDP Cover Calculator)
 COVER WRAP: 12.6283 × 8.2500 in.
-PRICE: $14.99
+PRICE: $15.99
 CATEGORIES: Self-Help / Journaling|Self-Help / Stress Management
 KEYWORDS: sleep journal, bedtime journal, evening reflection, wind down routine, night journal, gentle self care gift, bedside notebook
 

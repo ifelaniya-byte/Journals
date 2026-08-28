@@ -8,7 +8,7 @@ TRIM: 8.27 × 11.69 in.
 PAGES: 128
 SPINE: 0.2883 in. (white-paper formula; validate in KDP Cover Calculator)
 COVER WRAP: 17.0783 × 11.9400 in.
-PRICE: $15.99
+PRICE: TBD — no authorized KDP price
 CATEGORIES: Self-Help / Journaling|Self-Help / Personal Growth
 KEYWORDS: breathwork journal, session integration journal, mandala reflection, breathwork log, integration notebook, wellness workshop journal, mindful session notes
 

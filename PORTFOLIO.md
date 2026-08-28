@@ -1,69 +1,96 @@
-# Portfolio — single source of truth
+# Portfolio — canonical product and release register
 
-**Current repository state:** `v1.1-branded` candidate — Stillwork Studio working imprint; no product is cleared for upload
-**Decision owner:** Founder / brand lead
-**Operating policy:** See `RELEASE_POLICY.md`. A file existing in `release/` means **Built**, not approved for KDP upload, ads, or inventory.
+**Status:** private prepublication system. `Built` never means approved for KDP, ads, a public website, or inventory.
+**Decision owner:** Founder / brand lead.
+**Live record for commercial decisions:** `DECISIONS.md`; per-test evidence and Gate 1 meetings: `ritual-library-launch-kit/gate-1-validation-scorecard.xlsx` → Gate Log.
+**Source hierarchy:** this register governs product status and commercial posture; `CATALOG.csv` is the generated technical manifest; `metadata.txt` is a generated upload artifact, never independent authority for a price or release decision.
 
-## The darling clause — complete before September 6, 2026
+## Portfolio snapshot
 
-**Founder’s personal favorite concept:** ______________________________
-**Pre-committed kill / hold criterion for it:** ________________________________________________
-**If that criterion occurs, I will follow the same decision rule as every other SKU:**
+| Classification | Count | IDs | Rule |
+|---|---:|---|---|
+| Wave 1 KDP scouts | 6 | A01, A04, A05, B10, B12, B18 | Each needs its own gates clear; a three-title operational group is a maximum, never a quota. |
+| Wave 2 conditional options | 9 | A02, A06–A08, B11, B13–B16 | Requires an open slot, documented hypothesis, and applicable review. |
+| Vault — not a KDP product / no public KDP | 3 | A03, A09, B17 | Test the actual object or digital analogue; a paperback surrogate does not validate it. |
+| Total product concepts | **18** | A01–A09, B10–B18 | The catalog is an option library, not an 18-SKU launch plan. |
+
+## Identity architecture — counsel candidates only
+
+| Layer | Current candidate | Decision state | Decision record |
+|---|---|---|---|
+| Imprint / operating umbrella | **Calyven Studio** | **Do-not-deploy / counsel-comparison only.** Active exact-root domain/business surfaced after the initial screen; neither cleared nor registrable as the desired root `.com`. | `D-2026-08-28-07`, `D-2026-08-28-12` |
+| Editorial customer-facing line | **The Ritual Library** | Counsel search required at the same depth as the imprint. | `D-2026-08-28-07` |
+| Collection A | **Pace & Progress** | Candidate collection/series name; search with the package. | `D-2026-08-28-07` |
+| Collection B | **Quiet Practice** | Proposed decoupled collection/series name; not cleared or deployed. | `D-2026-08-28-07` |
+| Earlier working candidate | Stillwork Studio / Stillwork Editions | Retained only for counsel comparison and legacy private files; no assumption of clearance. | `D-2026-08-28-02`, `D-2026-08-28-07` |
+
+There is **no long-lived branding Git branch**. A name approved by counsel is changed on `main`, rebuilt, validated, and tagged in one controlled change. A physical proof bearing a QR that resolves through a branded buyer-controlled domain is the name/domain switching-cost point. `Calyven Studio` is not currently that approved name; see `DOMAIN_DUE_DILIGENCE.md`.
+
+## Pricing control
+
+The generated repository entered its first tracked commit with unapproved lower price defaults hard-coded in `build_catalog.py`. Those defaults are not a commercial pricing decision. The user-reconfirmed Wave 1 price decisions are recorded in `DECISIONS.md` and enforced by `verify_pricing.py`.
+
+| Wave 1 SKU | Authorized paperback scout price | Current price-control state |
+|---|---:|---|
+| A01 — *Dose & Breathe* | $16.99 | Confirmed; generated files still require governed rebuild. |
+| A04 — *Softer Words* | $17.99 | Confirmed; generated files still require governed rebuild. |
+| A05 — *Night Harbor* | $15.99 | Confirmed; generated files still require governed rebuild. |
+| B10 — *Rest & Regulate* | $17.99 | Confirmed; generated files require governed rebuild. |
+| B12 — *Back to Enough* | $18.99 | Confirmed; generated files still require governed rebuild. |
+| B18 — *Enough Money, Enough Calm* | $18.99 | Confirmed; generated files still require governed rebuild. |
+
+No other displayed historical KDP price in a generated artifact is an authorized future price. Wave 2 book prices are set only when that product has an approved open-slot hypothesis. Premium-object and waitlist prices below are product tests, not paperback defaults.
+
+## The darling clause — complete before any Gate 1 read
+
+**Founder’s personal-favorite concept:** ______________________________
+**Pre-committed kill / hold criterion:** ________________________________________________
+
+> I will apply this product’s documented Gate 1 rule exactly as I would to every other SKU. If it does not produce its stated valid signal and does not qualify for the one documented strong-attention/weak-conversion iteration, I will hold or retire it without new inventory funding.
+
 Founder signature: ______________________________  Date: __________________
 
-> Suggested wording: “If this product does not produce its specified Gate 1 signal by the end of the valid test window, and it does not qualify for the single documented strong-attention/weak-conversion iteration, I will hold or retire it without funding inventory.”
+## Gate legend
 
----
-
-## Decision gates
-
-| Gate | Meaning |
+| Gate | What “clear” means |
 |---|---|
-| Content QA | Human cover-to-cover tone, prompt, claims, layout, and customer-expectation review complete. |
-| Legal / claims | Required product-specific copy/naming review marked Clear. |
-| KDP technical | Current Cover Calculator + Previewer pass; author/imprint substituted; proof ordered. |
-| Proof | Physical author proof passes pen, trim, cover, and listing-truthfulness check. |
-| Gate 1 | Valid sales / waitlist / Etsy signal measured in the Scorecard. |
+| Content QA | Human cover-to-cover tone, prompt, claims, layout, and expectation review complete. |
+| Legal / claims / naming | Product-specific copy and the required name search/review are marked clear; no SKU inherits another SKU’s clearance. |
+| Identity / QR | Where selected, the final buyer-controlled domain, first-party route, reviewed audio and visible transcript are live; no tracker/health-data/fingerprinting conflict remains. |
+| KDP technical | Current Cover Calculator and Previewer pass, final cleared identity is inserted, and proof is ordered. |
+| Proof | Physical proof passes trim, pen, cover, listing-truthfulness, and (where selected) warm-indoor-light/older-phone QR scan controls. |
+| Gate 1 | Valid sales/waitlist/Etsy evidence is recorded in the Scorecard. October 31 is an interim clean-season read; November 28 is the Q4-flagged full decision. |
 
-**Legend:** `Built` = assets exist; `Hold` = do not upload or advertise; `Vault` = no KDP release; `Active` = only after the preceding gates are passed.
+**Status terms:** `Built` = private assets/specifications exist; `Hard hold` = no upload, public page, paid media, or inventory; `Vault` = no public KDP path; `Retired` = learning retained but no new spend without a new business case.
 
----
+## Full inventory
 
-## Pace & Progress / core portfolio
+| ID | Product | Collection / intended branch | Niche / customer job | Intended format or actual test object | Price / test posture | Classification & current gate status | Validation / next decision | Pre-committed kill or hold rule | Decision ref |
+|---|---|---|---|---|---|---|---|---|---|
+| A01 | *Dose & Breathe* | Pace & Progress | GLP-1-adjacent weekly reflection; space for care-team questions without medical guidance. | 6 × 8 in. paperback scout; premium hardcase is separate. | **$16.99** KDP scout | Wave 1 — Built / hard hold; all pre-upload gates open. | KDP + price-visible waitlist; Oct. 31 Read 1, Nov. 28 Read 2 when valid. | Hold/retire if no valid Gate 1 signal; one documented listing/price iteration only on strong attention + weak conversion. | `D-2026-08-28-08` |
+| A02 | *Color Your Way Forward* | Pace & Progress | Mindful coloring plus low-pressure routine reflection. | Wire-bound coloring object; book-form test only if an open slot proves appropriate. | No authorized KDP price. | Wave 2 — Built / hard hold. | Specific creative/wellness demand hypothesis. | No spend or upload without signed open-slot decision and claims review. | `D-2026-08-28-04` |
+| A03 | *The Scent of a Steady Year* | Pace & Progress | Year-at-a-glance planning and sensory-cue ritual. | **10 × 12 in. wire-bound wall calendar with reinforced hanger; calendar printer.** | $26 standard / $29 reviewed sensory-sticker edition; no KDP price. | **Vault — not a KDP product.** | Digital calendar demand, then physical-calendar production review. | A paperback surrogate is not a concept verdict; hold physical inventory if digital demand is absent. | `D-2026-08-28-09` |
+| A04 | *Softer Words* | Pace & Progress | Broad gratitude/self-talk diary for ordinary hard days and gifting. | 6 × 8 in. paperback scout; premium hardcase separate. | **$17.99** KDP scout | Wave 1 — Built / hard hold. | KDP evidence under two-read Gate 1. | Hold/retire if no signal; one controlled iteration only for strong attention + weak conversion. | `D-2026-08-28-08` |
+| A05 | *Night Harbor* | Pace & Progress | Bedside wind-down reflection without sleep-treatment claims. | 6 × 8 in. paperback scout; premium bedside object separate. | **$15.99** KDP scout | Wave 1 — Built / hard hold. | KDP evidence under two-read Gate 1. | Hold/retire if no signal; never intensify sleep or medical claims to rescue sales. | `D-2026-08-28-08` |
+| A06 | *Stillness & Stretch* | Pace & Progress | Gentle movement and body-scan reflection. | Wire-bound movement object; paperback only after review. | No authorized KDP price. | Wave 2 — Built / hard hold. | Named movement-reflection hypothesis. | No “post-injection safe” or medical movement promise; no release before review/open slot. | `D-2026-08-28-04` |
+| A07 | *Steady Signal* | Pace & Progress | Optional observation/pulse notes without device or diagnosis positioning. | Premium journal; book form only after clinical/claims review. | No authorized KDP price. | Wave 2 — Built / hard hold. | Non-device observation demand hypothesis. | Hold unless pulse/device wording and urgent-care boundary are reviewed. | `D-2026-08-28-04` |
+| A08 | *The Unhurried Year* | Pace & Progress | Capacity-respecting executive planning / premium planner. | Premium undated planner. | $28–30 price-visible waitlist; no authorized KDP price. | Wave 2 — Built / hard hold. | Both 25%+ qualified conversion and 400+ leads. | Hold if either requirement fails; do not make dated inventory. | `D-2026-08-28-04` |
+| A09 | *Pocket of Calm* | Collection-neutral core | 54-prompt deck and gift object for moments a blank page is too much. | 54-card boxed deck + companion logbook. | $30 object hypothesis. | Vault — no public KDP; collection-neutral. | Paid digital card sample + waitlist/presale; no earlier public presale than Jan.–Feb. 2027 and Gates 2–3. | One card/gift-proposition revision after failed digital test, then retire deck; a KDP companion is not a product verdict. | `D-2026-08-28-01` |
+| B10 | *Rest & Regulate* | Quiet Practice (proposed) | Optional grounding/breath-paced reflection without physiological outcome claims. | 6 × 8 in. paperback scout; premium journal separate. | **$17.99** KDP scout | Wave 1 — Built / hard hold; all pre-upload gates open. | KDP evidence under two-read Gate 1 after all gates are clear. | Hold/retire if no signal; no vagus, HRV, nervous-system, or treatment language to force fit. | `D-2026-08-28-08` |
+| B11 | *Under the Covers* | Quiet Practice (proposed) | Weighted-blanket comfort/sleep diary for existing users. | Specialty diary; book form only after safety review. | No authorized KDP price. | Wave 2 — Built / hard hold. | Specific comfort-diary demand hypothesis. | No blanket-weight recommendation/treatment claim; book-form failure is not the physical object’s final verdict. | `D-2026-08-28-04` |
+| B12 | *Back to Enough* | Quiet Practice (proposed) | Low-capacity task triage and compassionate productivity reflection. | 6 × 8 in. paperback scout; wire-bound workbook separate. | **$18.99** KDP scout | Wave 1 — Built / hard hold. | KDP evidence under two-read Gate 1. | Hold/retire if no signal; only one controlled listing/price iteration on strong attention + weak conversion. | `D-2026-08-28-08` |
+| B13 | *The Breathwork Integration Book* | Quiet Practice (proposed) | Session reflection/integration, not intense-breathwork instruction. | A4 specialty book; possible book form only after qualified review. | No authorized KDP price. | Wave 2 — Built / hard hold. | Practitioner/creator demand test with safety/naming review. | Remain held without qualified review and a clear naming path. | `D-2026-08-28-04` |
+| B14 | *Among the Trees* | Quiet Practice (proposed) | Forest-bathing/photo-reflection keepsake and visual gift. | 8 × 8 in. boutique photo journal. | No authorized KDP price. | Wave 2 — Built / hard hold. | Etsy / visual-retail paid demand signal. | No paid test before an open slot; no therapeutic forest-bathing outcome claim. | `D-2026-08-28-04` |
+| B15 | *Color & Check In* | Quiet Practice (proposed) | Mandala coloring plus mood reflection; not art therapy. | Twin-wire specialty coloring object. | No authorized KDP price. | Wave 2 — Built / hard hold. | Distinct coloring/mood demand hypothesis. | Hold unless the art/value proposition differentiates in test images and claims are reviewed. | `D-2026-08-28-04` |
+| B16 | *Us, In Balance* | Quiet Practice (proposed) | Consent-aware couples’ check-ins and repair reflection. | Hardcase workbook + reset cards. | No authorized KDP price. | Wave 2 — Built / hard hold. | Relationship-audience demand test with safety review. | No couples-therapy claim; hold without resource/safety framing approval. | `D-2026-08-28-04` |
+| B17 | *One Minute at My Desk* | Quiet Practice (proposed) | Visible 30–90-second desk resets / corporate-gift object. | Freestanding easel + refillable tear-pad. | $24 object hypothesis. | Vault — no public KDP. | Paid digital desk-practice test, then physical-object demand. | Book-form result is directional only; do not kill the easel object because a paperback surrogate fails. | `D-2026-08-28-04` |
+| B18 | *Enough Money, Enough Calm* | Quiet Practice (proposed) | Emotional-finance reflection: facts, feelings, one next step; no advice. | 6 × 8 in. paperback scout; gift hardcase separate. | **$18.99** KDP scout | Wave 1 — Built / hard hold. | KDP evidence under two-read Gate 1. | Hold/retire if no signal; never add financial, legal, tax, investment, or mental-health outcomes to rescue conversion. | `D-2026-08-28-08` |
 
-| ID | Product | Product posture | Release wave | Current status | Primary validation instrument | Gate 1 / next decision | Required gates before any public KDP release | Pre-committed kill / hold rule |
-|---|---|---|---|---|---|---|---|---|
-| A01 | *Dose & Breathe* | GLP-1-specific KDP scout | Wave 1 | Built — hold for review | KDP paperback + price-visible waitlist | 60-day KDP signal; Q4-adjusted review at Day 90 | Content QA; GLP-1/claims/name review; KDP technical; proof | Retire/hold if no Gate 1 signal after valid window; one listing/price retest only if attention is strong but conversion weak. |
-| A02 | *Color Your Way Forward* | Creative wellness option | Wave 2 | Built — hold | Future book-form or creative test | Only if a Wave 1 slot opens | Content QA; claims/name review; KDP technical; proof | No spend or upload until a documented hypothesis and open slot exist. |
-| A03 | *The Scent of a Steady Year* | Calendar / sensory-cue concept | Wave 2 | Built — hold | Etsy undated digital calendar | 50 paid Etsy sales at 4.5+ rating or documented digital-demand signal | Content QA; format review; no scent claim | Paperback outcome is not the primary verdict; hold if digital calendar has no paid signal. |
-| A04 | *Softer Words* | Broad daily-reflection scout | Wave 1 | Built — hold for review | KDP paperback | 60-day KDP signal; Q4-adjusted review at Day 90 | Content QA; general claims/name review; KDP technical; proof | Retire/hold if no Gate 1 signal after valid window; one listing/price retest only with strong attention + weak conversion. |
-| A05 | *Night Harbor* | Bedside wind-down scout | Wave 1 | Built — hold for review | KDP paperback | 60-day KDP signal; Q4-adjusted review at Day 90 | Content QA; sleep-adjacent copy review; KDP technical; proof | Retire/hold if no Gate 1 signal; do not intensify claims to rescue sales. |
-| A06 | *Stillness & Stretch* | Movement reflection option | Wave 2 | Built — hold | Later book/creator test | A specific movement-reflection demand hypothesis | Content QA; movement/health review; KDP technical; proof | No release before review; no “post-injection safe” promise. |
-| A07 | *Steady Signal* | Optional observation journal | Wave 2 | Built — hold | Later test only | A specific non-device observation hypothesis | Content QA; clinical/claims review; KDP technical; proof | No release until pulse/device wording is cleared. |
-| A08 | *The Unhurried Year* | Planner / premium-object candidate | Wave 2 | Built — hold | $28–30 price-visible waitlist | **Both** 25%+ conversion and 400+ email leads | Content QA; planner-format review; KDP technical only if paperback is selected | If rate or 400-lead requirement fails, hold; do not manufacture dated inventory. |
-| A09 | *Pocket of Calm* | **Collection-neutral core flagship** | Vault | Built — no KDP publication | Paid digital card sample + waitlist/presale | Etsy demand or waitlist; January–February 2027 pre-sale only after Gate 2/3 | Content QA; name review; deluxe proof/box/die-line approval | Paperback is not a product verdict. Keep KDP companion private; if digital card test fails, revise card/gift proposition once before retiring the deck. |
+## Signed decision controls
 
-## Stillwork Editions portfolio
-
-| ID | Product | Product posture | Release wave | Current status | Primary validation instrument | Gate 1 / next decision | Required gates before any public KDP release | Pre-committed kill / hold rule |
-|---|---|---|---|---|---|---|---|---|
-| B10 | *Rest & Regulate* | Breath-paced reflection scout | Wave 1 | Built — hold for review | KDP paperback | 60-day KDP signal; Q4-adjusted review at Day 90 | Content QA; breathwork/claims review; KDP technical; proof | Retire/hold if no signal; no vagus, HRV, or treatment language to force fit. |
-| B11 | *Under the Covers* | Weighted-blanket diary | Wave 2 | Built — hold | Later targeted test | Specific comfort-diary demand hypothesis | Content QA; sleep/blanket claims review; KDP technical; proof | No release before safety wording clears; failure of book form alone is not final object verdict. |
-| B12 | *Back to Enough* | Low-capacity productivity scout | Wave 1 | Built — hold for review | KDP paperback | 60-day KDP signal; Q4-adjusted review at Day 90 | Content QA; burnout claims review; KDP technical; proof | Retire/hold if no signal; only one controlled listing/price retest on strong attention + weak conversion. |
-| B13 | *The Breathwork Integration Book* | Session-integration log | Wave 2 | Built — hold | Later practitioner/creator test | Named audience and safety review must exist | Content QA; facilitation/naming/claims review; KDP technical; proof | Remain held if qualified-review and naming path are not clear. |
-| B14 | *Among the Trees* | Boutique / photo-journal option | Wave 2 | Built — hold | Etsy/visual-retail demand test | Paid visual/gift demand signal | Content QA; general claims/name review; KDP technical; proof | No paid test until a Wave 1 slot opens; do not claim therapeutic forest-bathing outcome. |
-| B15 | *Color & Check In* | Creative reflection option | Wave 2 | Built — hold | Future coloring demand test | Distinct mood/coloring hypothesis | Content QA; “art therapy” claims review; KDP technical; proof | Hold unless artwork, mood pages, and listing differentiation are strong enough to be shown in test images. |
-| B16 | *Us, In Balance* | Couples pause-and-repair option | Wave 2 | Built — hold | Later relationship-audience test | Specific buyer/safety demand hypothesis | Content QA; relationships/safety/resource review; KDP technical; proof | No release until resource/safety framing is reviewed; no “couples therapy” claims. |
-| B17 | *One Minute at My Desk* | Easel + tear-pad concept | Vault | Built — no KDP publication | Paid digital desk-practice test | 50 paid Etsy digital sales at 4.5+ rating | Content QA; digital deliverable QA; physical-object proof later | Book-form failure is directional only. Do not treat it as an easel-object kill. |
-| B18 | *Enough Money, Enough Calm* | Emotional-finance reflection scout | Wave 1 | Built — hold for review | KDP paperback | 60-day KDP signal; Q4-adjusted review at Day 90 | Content QA; finance/claims review; KDP technical; proof | Retire/hold if no signal; no financial outcomes/advice added to rescue conversion. |
-
----
-
-## Required decision log entries
-
-Before changing a status, record the date, evidence, decision owner, next action, budget, and condition in `ritual-library-launch-kit/gate-1-validation-scorecard.xlsx` → **Gate Log**. Durable name, QR, and product-positioning decisions are additionally recorded in `DECISIONS.md`.
-
-- A **Wave 1** product becomes `Clear for upload` only when every pre-upload gate is complete, including the selected QR/audio route and printed-proof test. A three-product group is a maximum, not a quota.
-- A **Wave 2** product cannot be activated because it is attractive or already built; it needs a signed open-slot decision and a hypothesis.
-- A **Vault** product is not uploaded to KDP. Its alternate test vehicle is the source of truth.
-- A `Retired` product remains in the repository for learning but receives no paid media, new design, or inventory spend without a new documented business case.
+1. Before any status change, record date, evidence, decision owner, next action, budget, and condition in the Scorecard Gate Log.
+2. Record durable portfolio, identity, price, QR/domain, and public-exposure decisions in `DECISIONS.md`.
+3. A Wave 1 SKU can become `Clear for upload` only after every product-specific gate is clear, including live QR/audio and physical proof where selected.
+4. A Wave 2 SKU needs both a signed open-slot decision and a testable, differentiated hypothesis. It is never activated because its files already exist.
+5. Vault products are never uploaded to KDP. Their designated actual-object/digital validation vehicle is the only relevant early proof.
+6. A Q4-only result remains `Hold: Q4 retest`; the Oct. 31 interim cannot authorize deluxe funding; a Nov. 28 advance remains subject to the two-read policy and Gates 2–3.

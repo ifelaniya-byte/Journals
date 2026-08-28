@@ -2,7 +2,7 @@
 """Package approved release assets on demand.
 
 Default: package only Wave 1 candidate upload assets. This does not mark them cleared—see
-RELEASE_POLICY.md. Use --all-vault only for an internal archive after explicit founder approval.
+RELEASE_POLICY.md. Use --all-vault only for internal book-form reference assets after explicit founder approval; strictly non-KDP A03 is excluded.
 """
 from pathlib import Path
 from zipfile import ZipFile, ZIP_DEFLATED
@@ -17,8 +17,9 @@ def zip_files(path, target, names):
 def main(mode='wave1'):
     rows=list(csv.DictReader((R/'CATALOG.csv').open(encoding='utf-8')))
     if mode=='wave1': rows=[r for r in rows if r['release_wave']=='Wave 1']
-    elif mode=='--all-vault': pass
-    else: raise SystemExit('Use no argument for Wave 1 only, or --all-vault for an explicit internal archive.')
+    elif mode=='--all-vault':
+        rows=[r for r in rows if r['release_wave']=='Vault' and r['folder'].startswith('release/')]
+    else: raise SystemExit('Use no argument for Wave 1 only, or --all-vault for an explicit internal archive of book-form reference assets.')
     if dest.exists(): shutil.rmtree(dest)
     dest.mkdir()
     for r in rows:

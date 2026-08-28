@@ -8,7 +8,7 @@ TRIM: 8 × 8 in.
 PAGES: 128
 SPINE: 0.2883 in. (white-paper formula; validate in KDP Cover Calculator)
 COVER WRAP: 16.5383 × 8.2500 in.
-PRICE: $15.99
+PRICE: TBD — no authorized KDP price
 CATEGORIES: Self-Help / Journaling|Nature & Wildlife / Outdoor Skills
 KEYWORDS: forest bathing journal, nature reflection journal, shinrin yoku journal, outdoor mindfulness, photo journal nature, nature walk notebook, gift for hikers
 

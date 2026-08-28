@@ -24,6 +24,11 @@ fails = []
 flags = []
 print(f"{'ID':<4} {'PRODUCT':<30} STATUS")
 for row in ROWS:
+    # A03 is deliberately a non-KDP calendar. Its product brief is governed by
+    # PORTFOLIO.md/DECISIONS.md and is not treated as customer-facing KDP metadata.
+    if row["publication_status"].startswith("NOT A KDP PRODUCT"):
+        print(f"{row['id']:<4} {row['cover_title'][:30]:<30} NON-KDP — no KDP metadata to audit")
+        continue
     folder = ROOT / row["folder"]
     text = (folder / "metadata.txt").read_text(encoding="utf-8")
     # Metadata text intended for KDP and advertising begins before the release-boundary section.

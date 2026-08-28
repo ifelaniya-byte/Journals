@@ -8,7 +8,7 @@ TRIM: 6 × 8 in.
 PAGES: 128
 SPINE: 0.2883 in. (white-paper formula; validate in KDP Cover Calculator)
 COVER WRAP: 12.5383 × 8.2500 in.
-PRICE: $14.99
+PRICE: $17.99
 CATEGORIES: Self-Help / Journaling|Self-Help / Personal Growth
 KEYWORDS: self compassion journal, gratitude diary, positive self talk journal, gentle daily journal, mindful reflection, kindness journal, gift journal
 

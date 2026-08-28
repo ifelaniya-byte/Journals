@@ -8,7 +8,7 @@ TRIM: 6 × 8 in.
 PAGES: 168
 SPINE: 0.3783 in. (white-paper formula; validate in KDP Cover Calculator)
 COVER WRAP: 12.6283 × 8.2500 in.
-PRICE: $14.99
+PRICE: $18.99
 CATEGORIES: Self-Help / Journaling|Business & Money / Personal Finance
 KEYWORDS: money anxiety journal, financial mindset workbook, money reflection journal, financial wellness journal, calm money planner, self reflection, money feelings journal
 

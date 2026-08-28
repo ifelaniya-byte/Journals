@@ -8,7 +8,7 @@ TRIM: 6 × 8 in.
 PAGES: 144
 SPINE: 0.3243 in. (white-paper formula; validate in KDP Cover Calculator)
 COVER WRAP: 12.5743 × 8.2500 in.
-PRICE: $14.99
+PRICE: $17.99
 CATEGORIES: Self-Help / Journaling|Self-Help / Stress Management
 KEYWORDS: breathwork journal, grounding practice planner, 90 day mindfulness journal, stress relief journal, nervous system journal, daily reflection, calming planner
 

@@ -8,7 +8,7 @@ TRIM: 6 × 8 in.
 PAGES: 120
 SPINE: 0.2702 in. (white-paper formula; validate in KDP Cover Calculator)
 COVER WRAP: 12.5202 × 8.2500 in.
-PRICE: $14.99
+PRICE: N/A — no public KDP price
 CATEGORIES: Self-Help / Journaling|Self-Help / Personal Growth
 KEYWORDS: journaling prompts, mindfulness journal, self reflection book, calming gift, stress relief journal, prompt journal, gentle wellness
 

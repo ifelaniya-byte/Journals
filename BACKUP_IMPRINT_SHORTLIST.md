@@ -1,7 +1,7 @@
 # Backup imprint + Collection B decoupling shortlist
 
-**Prepared:** August 28, 2026  
-**Purpose:** Give counsel a small, reversible fork to screen alongside **Stillwork Studio**.  
+**Prepared:** August 28, 2026
+**Purpose:** Give counsel a small, reversible fork to screen alongside **Stillwork Studio**.
 **Status:** None of these are clear, registered, available, or approved. Limited general-web searching is not trademark clearance.
 
 ## Screening frame
@@ -12,7 +12,7 @@ The relevant commercial picture includes: **Class 16** printed journals, planner
 
 | Candidate | Brand fit / collection fork | Limited-web screen observation | Class 16 / 35 / 41 counsel question | Preliminary status |
 |---|---|---|---|---|
-| **Calyven Studio** | Clean, studio-led umbrella. Collection B could become **The Ritual Library — Quiet Practice** or a descriptive `Everyday Reflection` series. | A limited exact-name query did not surface a clear exact-use result; search results were noisy rather than confirmatory. | Screen CALYVEN/CALVIN/CALY- phonetics in paper, wellness, publishing, retail, and audio/content; check whether “Studio” adds meaningful distinctiveness. | Yellow — submit for full search. |
+| **Calyven Studio** | Initially a clean, studio-led umbrella; Collection B could use **The Ritual Library — Quiet Practice** independently. | **New red flag:** `calyven.com` is an active Spanish building-renovation business, registered since 2024. The exact root is unavailable; earlier limited search was incomplete. | If useful, ask counsel for a documented no-go/qualification opinion on CALYVEN/CALVIN/CALY- phonetics; do not treat it as an available primary candidate. | **Red — do not register or deploy.** See `DOMAIN_DUE_DILIGENCE.md`. |
 | **Linden Quiet Press** | More editorial/paper-led. Decouple B as **The Ritual Library — Quiet Practice** rather than sharing an imprint root. | Limited screen surfaced a UK **Linden Print Studio** and a separate registered **QUIET** software mark; neither is an exact U.S. paper-goods conclusion. | Assess LINDEN / QUIET marks, printing/publishing adjacency, U.S. common-law use, and whether combined mark offers sufficient distinction in classes 16/35/41. | Yellow — submit for full search. |
 | **Norvale Paper Co.** | Wholesale/stationery-forward option. Decouple B as **Small Rituals** or a descriptive non-marked collection label until counsel approves a series name. | Limited exact-name screen did not surface a clear direct hit; nearby “Norway Press”/“Norvell” results mean phonetic and print-industry variants still need review. | Screen NORVALE/NORVELL/NORWAY and PAPER CO. variants, especially stationery/retail/publishing and web/domain use. | Yellow — submit for full search. |
 
@@ -36,6 +36,6 @@ These observations simply narrow the counsel queue; they are not legal determina
 | Candidate | Counsel search requested | Clearance decision | Domain decision | Imprint / series implementation | Owner / date |
 |---|---|---|---|---|---|
 | Stillwork Studio | | | | | |
-| Calyven Studio | | | | | |
+| Calyven Studio | Conflict-history only | Do-not-deploy / domain unavailable | — | — | See `D-2026-08-28-12` |
 | Linden Quiet Press | | | | | |
 | Norvale Paper Co. | | | | | |

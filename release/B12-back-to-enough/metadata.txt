@@ -8,7 +8,7 @@ TRIM: 6 × 8 in.
 PAGES: 160
 SPINE: 0.3603 in. (white-paper formula; validate in KDP Cover Calculator)
 COVER WRAP: 12.6103 × 8.2500 in.
-PRICE: $15.99
+PRICE: $18.99
 CATEGORIES: Self-Help / Journaling|Self-Help / Stress Management
 KEYWORDS: burnout workbook, compassionate productivity planner, task triage planner, overwhelm journal, recovery planning, self care workbook, low capacity planner
 

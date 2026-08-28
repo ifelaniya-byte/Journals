@@ -32,24 +32,24 @@ ACCENTS={
 
 PRODUCTS=[
 # id, slug, collection, cover, amazon title, subtitle, trim, pages, paper, price, kind, description, kws, categories, boundary
-('A01','dose-and-breathe','Pace & Progress','Dose & Breathe','Dose & Breathe: A Mindful Weekly GLP-1 Companion','A mindful weekly companion for your GLP-1 journey',(6,8),128,'white',14.99,'existing','A discreet weekly reflection book for adults using prescribed GLP-1 medication. Optional routine notes, a simple breath visual, and gentle space for comfort, support, and care-team questions.','GLP-1 journal|mindful wellness journal|weekly reflection journal|self compassion tracker|medication routine companion|calming journal|health journey notebook','Self-Help / Journaling|Health & Fitness / Healthy Living','No dosing, injection, weight-loss, symptom-relief, or treatment promises. Legal/healthcare marketing review required.'),
+('A01','dose-and-breathe','Pace & Progress','Dose & Breathe','Dose & Breathe: A Mindful Weekly GLP-1 Companion','A mindful weekly companion for your GLP-1 journey',(6,8),128,'white',16.99,'existing','A discreet weekly reflection book for adults using prescribed GLP-1 medication. Optional routine notes, a simple breath visual, and gentle space for comfort, support, and care-team questions.','GLP-1 journal|mindful wellness journal|weekly reflection journal|self compassion tracker|medication routine companion|calming journal|health journey notebook','Self-Help / Journaling|Health & Fitness / Healthy Living','No dosing, injection, weight-loss, symptom-relief, or treatment promises. Legal/healthcare marketing review required.'),
 ('A02','color-your-way-forward','Pace & Progress','Color Your Way Forward','Color Your Way Forward: A Mindful GLP-1 Coloring Workbook','Healthy rituals, calm scenes, and room to reflect',(8.5,11),100,'white',14.99,'coloring','A single-sided coloring workbook with calming everyday scenes, gentle reflection cues, and room for a low-pressure weekly check-in.','GLP-1 coloring book|adult wellness coloring|mindful coloring journal|healthy habits coloring|stress relief coloring|weight journey journal|calm creative workbook','Crafts & Hobbies / Coloring Books|Self-Help / Journaling','No weight-loss or therapeutic art claims. Use only cleared GLP-1 customer-facing language.'),
-('A03','scent-of-a-steady-year','Pace & Progress','The Scent of a Steady Year','The Scent of a Steady Year: An Undated GLP-1 Ritual Calendar','Twelve months of gentle planning and sensory cues',(8.5,11),120,'white',14.99,'calendar','An undated twelve-month planning journal with roomy calendar grids, sensory-inspired prompts, and optional personal-routine reflection.','GLP-1 planner|wellness calendar undated|self care calendar|mindful year planner|health journey organizer|ritual planner|wellness journal','Self-Help / Journaling|Health & Fitness / Healthy Living','Paperback edition contains visual sensory cues only—no fragrance, medical, or weight-loss claims.'),
-('A04','softer-words','Pace & Progress','Softer Words','Softer Words: A Gratitude & Self-Talk Diary','A gentle daily reflection practice for ordinary hard days',(6,8),128,'white',14.99,'existing','An undated gratitude and self-talk diary for the ordinary hard days, with brief prompts that make room for what felt difficult, what you did with care, and a kinder sentence to carry forward.','self compassion journal|gratitude diary|positive self talk journal|gentle daily journal|mindful reflection|kindness journal|gift journal','Self-Help / Journaling|Self-Help / Personal Growth','Personal reflection only; not therapy or treatment for anxiety, depression, or other conditions.'),
-('A05','night-harbor','Pace & Progress','Night Harbor','Night Harbor: An Evening Wind-Down & Sleep Reflection Companion','A bedside landing place for setting down the day',(6,8),168,'white',14.99,'existing','A quiet evening wind-down and morning reflection companion with brief prompts for setting down the day, choosing comfort, noticing patterns, and approaching tomorrow gently.','sleep journal|bedtime journal|evening reflection|wind down routine|night journal|gentle self care gift|bedside notebook','Self-Help / Journaling|Self-Help / Stress Management','Not a sleep-treatment product and does not diagnose or treat sleep conditions.'),
+('A03','scent-of-a-steady-year','Pace & Progress','The Scent of a Steady Year','The Scent of a Steady Year: An Undated GLP-1 Ritual Calendar','Twelve months of gentle planning and sensory cues',(8.5,11),120,'white',14.99,'calendar','An undated twelve-month planning journal with roomy calendar grids, sensory-inspired prompts, and optional personal-routine reflection.','GLP-1 planner|wellness calendar undated|self care calendar|mindful year planner|health journey organizer|ritual planner|wellness journal','Self-Help / Journaling|Health & Fitness / Healthy Living','Calendar uses visual sensory cues only—no fragrance, medical, or weight-loss claims.'),
+('A04','softer-words','Pace & Progress','Softer Words','Softer Words: A Gratitude & Self-Talk Diary','A gentle daily reflection practice for ordinary hard days',(6,8),128,'white',17.99,'existing','An undated gratitude and self-talk diary for the ordinary hard days, with brief prompts that make room for what felt difficult, what you did with care, and a kinder sentence to carry forward.','self compassion journal|gratitude diary|positive self talk journal|gentle daily journal|mindful reflection|kindness journal|gift journal','Self-Help / Journaling|Self-Help / Personal Growth','Personal reflection only; not therapy or treatment for anxiety, depression, or other conditions.'),
+('A05','night-harbor','Pace & Progress','Night Harbor','Night Harbor: An Evening Wind-Down & Sleep Reflection Companion','A bedside landing place for setting down the day',(6,8),168,'white',15.99,'existing','A quiet evening wind-down and morning reflection companion with brief prompts for setting down the day, choosing comfort, noticing patterns, and approaching tomorrow gently.','sleep journal|bedtime journal|evening reflection|wind down routine|night journal|gentle self care gift|bedside notebook','Self-Help / Journaling|Self-Help / Stress Management','Not a sleep-treatment product and does not diagnose or treat sleep conditions.'),
 ('A06','stillness-and-stretch','Pace & Progress','Stillness & Stretch','Stillness & Stretch: A Gentle Movement Reflection Companion','Slow shapes, body-scan pages, and permission to pause',(8,10),128,'white',15.99,'movement','A gentle movement reflection companion with simple illustrated shape cues, body-scan pages, and undated practice planning.','gentle movement journal|yin inspired journal|body scan reflection|slow stretch planner|mindful movement|wellness practice journal|restorative routine','Health & Fitness / Exercise|Self-Help / Journaling','Not exercise instruction or medical advice. Do not make post-injection safety claims; have movement copy reviewed.'),
 ('A07','steady-signal','Pace & Progress','Steady Signal','Steady Signal: A Calm-Check & Optional Pulse Observation Journal','Notice signals without turning them into a verdict',(6,8),120,'white',14.99,'signal','A personal observation journal for noticing sensations, optional resting-pulse notes, grounding attempts, and questions to raise with a care professional.','calm check journal|anxiety reflection journal|body signal tracker|grounding journal|wellness observation|pulse notes journal|self care tracker','Self-Help / Journaling|Self-Help / Stress Management','Not a medical device or diagnostic tool. Do not claim that pulse readings detect anxiety; include urgent-care language in final review.'),
 ('A08','unhurried-year','Pace & Progress','The Unhurried Year','The Unhurried Year: An Undated Executive Wellness Planner','A capacity-respecting year for work, care, and real life',(7,9),160,'white',15.99,'planner','An undated executive-style planner with month views, weekly priorities, capacity check-ins, and private routine space.','undated wellness planner|executive self care planner|capacity planning journal|professional wellness planner|mindful weekly planner|self care organizer|year planner','Self-Help / Journaling|Business & Money / Time Management','General planning tool only. Avoid medical or weight-loss outcomes; use private routine wording.'),
 ('A09','pocket-of-calm-companion','Stillwork Editions','Pocket of Calm','Pocket of Calm: A Guided Journaling Companion','Fifty-four small prompts for the moments a blank page is too much',(6,8),120,'white',14.99,'existing','A stand-alone companion with 54 gentle prompts organized into arrive, soften, nourish, reach, continue, and reset.','journaling prompts|mindfulness journal|self reflection book|calming gift|stress relief journal|prompt journal|gentle wellness','Self-Help / Journaling|Self-Help / Personal Growth','Current scout is collection-neutral. Do not label GLP-1-specific unless copy and claims receive a separate review.'),
-('B10','rest-and-regulate','Stillwork Editions','Rest & Regulate','Rest & Regulate: A 90-Day Breath-Paced Planner','Small returns to the present, without performance metrics',(6,8),144,'white',14.99,'existing','A ninety-day reflection planner built around optional grounding and paced-breathing practices, with room to notice what supports you.','breathwork journal|grounding practice planner|90 day mindfulness journal|stress relief journal|nervous system journal|daily reflection|calming planner','Self-Help / Journaling|Self-Help / Stress Management','Do not claim vagus stimulation, anxiety treatment, HRV improvement, or physiological outcomes.'),
+('B10','rest-and-regulate','Stillwork Editions','Rest & Regulate','Rest & Regulate: A 90-Day Breath-Paced Planner','Small returns to the present, without performance metrics',(6,8),144,'white',17.99,'existing','A ninety-day reflection planner built around optional grounding and paced-breathing practices, with room to notice what supports you.','breathwork journal|grounding practice planner|90 day mindfulness journal|stress relief journal|nervous system journal|daily reflection|calming planner','Self-Help / Journaling|Self-Help / Stress Management','Do not claim vagus stimulation, anxiety treatment, HRV improvement, or physiological outcomes.'),
 ('B11','under-the-covers','Stillwork Editions','Under the Covers','Under the Covers: A Weighted-Blanket Sleep & Stress Diary','A cozy, specific bedside reflection practice',(7,9),120,'white',14.99,'weighted','A bedside diary for recording personal comfort, room feel, settling rituals, and morning impressions around a weighted-blanket routine.','weighted blanket journal|sleep diary|bedtime comfort journal|stress reflection|cozy sleep planner|sleep environment log|night routine journal','Self-Help / Journaling|Self-Help / Stress Management','Do not recommend blanket weights or claim treatment for anxiety/insomnia. Include a final weighted-blanket safety note.'),
-('B12','back-to-enough','Stillwork Editions','Back to Enough','Back to Enough: A Compassionate Productivity Rescue Workbook','Make the plan smaller until it becomes possible',(6,8),160,'white',15.99,'existing','A compassionate productivity rescue workbook for low-capacity days, featuring task triage, capacity checks, mini-break planning, and weekly resets.','burnout workbook|compassionate productivity planner|task triage planner|overwhelm journal|recovery planning|self care workbook|low capacity planner','Self-Help / Journaling|Self-Help / Stress Management','Planning/reflection support only; not a diagnosis or treatment for burnout, anxiety, depression, or workplace harm.'),
+('B12','back-to-enough','Stillwork Editions','Back to Enough','Back to Enough: A Compassionate Productivity Rescue Workbook','Make the plan smaller until it becomes possible',(6,8),160,'white',18.99,'existing','A compassionate productivity rescue workbook for low-capacity days, featuring task triage, capacity checks, mini-break planning, and weekly resets.','burnout workbook|compassionate productivity planner|task triage planner|overwhelm journal|recovery planning|self care workbook|low capacity planner','Self-Help / Journaling|Self-Help / Stress Management','Planning/reflection support only; not a diagnosis or treatment for burnout, anxiety, depression, or workplace harm.'),
 ('B13','breathwork-integration','Stillwork Editions','Breathwork Integration','The Breathwork Integration Book: A Session Reflection Log','Preparation, integration, and a place to make meaning',(8.27,11.69),128,'white',15.99,'integration','A session reflection log with intention, setting, sensory memory, mandala sketch, and integration-planning pages.','breathwork journal|session integration journal|mandala reflection|breathwork log|integration notebook|wellness workshop journal|mindful session notes','Self-Help / Journaling|Self-Help / Personal Growth','Not a guide to intense breathwork and not a substitute for qualified facilitation or clinical care. Do not use restricted trademarked method names.'),
 ('B14','among-the-trees','Stillwork Editions','Among the Trees','Among the Trees: A Forest-Bathing Photo Reflection Journal','Slow outdoor attention, season by season',(8,8),128,'white',15.99,'forest','A nature reflection journal with five-senses prompts, room for photographs or found paper, seasonal returns, and restorative-place notes.','forest bathing journal|nature reflection journal|shinrin yoku journal|outdoor mindfulness|photo journal nature|nature walk notebook|gift for hikers','Self-Help / Journaling|Nature & Wildlife / Outdoor Skills','Personal reflection product only; do not promise therapeutic or medical outcomes from time outdoors.'),
 ('B15','color-and-check-in','Stillwork Editions','Color & Check In','Color & Check In: A Mandala Coloring & Mood Diary','Creative pauses and a place to notice what shifts',(8.5,11),120,'white',15.99,'moodcolor','A coloring and mood-reflection book with original line-art mandalas, color notes, and spacious personal check-ins.','mandala coloring journal|mood diary coloring|stress relief coloring journal|adult coloring workbook|creative self care|mindful coloring|mood reflection','Crafts & Hobbies / Coloring Books|Self-Help / Journaling','Use “creative stress-relief practice,” not art therapy or treatment claims.'),
 ('B16','us-in-balance','Stillwork Editions','Us, In Balance','Us, In Balance: A Couples’ Pause & Repair Workbook','Side-by-side check-ins for two people under stress',(7,9),160,'white',15.99,'couples','A shared reflection workbook with optional me/you/us check-ins, repair conversations, support requests, and weekly rituals.','couples journal|relationship workbook|communication journal|couples check in|emotional regulation journal|partner reflection|relationship gift','Self-Help / Journaling|Family & Relationships / Love & Romance','Not couples therapy. Include a discreet resource page and do not position for coercive or abusive relationships.'),
 ('B17','one-minute-at-my-desk','Stillwork Editions','One Minute at My Desk','One Minute at My Desk: A Micro-Meditation & Reflection Book','Sixty small desk resets for full days',(5,7),120,'white',12.99,'desk','A compact collection of sixty 30–90 second desk-reset prompts with micro-journal pages for before, after, and next.','desk meditation book|micro mindfulness journal|one minute reset|office self care|work stress journal|desk wellness gift|short meditation prompts','Self-Help / Journaling|Business & Money / Time Management','General reflection only. Do not make medical, therapeutic, or workplace-performance claims.'),
-('B18','enough-money-enough-calm','Stillwork Editions','Enough Money, Enough Calm','Enough Money, Enough Calm: A Financial-Anxiety Mindset Workbook','Facts, feelings, and one manageable next step',(6,8),168,'white',14.99,'existing','An emotion-forward reflection workbook for money moments that separates facts, feelings, and a manageable next step.','money anxiety journal|financial mindset workbook|money reflection journal|financial wellness journal|calm money planner|self reflection|money feelings journal','Self-Help / Journaling|Business & Money / Personal Finance','No financial, legal, tax, investment, or mental-health advice or outcome promises.'),
+('B18','enough-money-enough-calm','Stillwork Editions','Enough Money, Enough Calm','Enough Money, Enough Calm: A Financial-Anxiety Mindset Workbook','Facts, feelings, and one manageable next step',(6,8),168,'white',18.99,'existing','An emotion-forward reflection workbook for money moments that separates facts, feelings, and a manageable next step.','money anxiety journal|financial mindset workbook|money reflection journal|financial wellness journal|calm money planner|self reflection|money feelings journal','Self-Help / Journaling|Business & Money / Personal Finance','No financial, legal, tax, investment, or mental-health advice or outcome promises.'),
 ]
 P={x[1]:x for x in PRODUCTS}
 
@@ -57,7 +57,7 @@ P={x[1]:x for x in PRODUCTS}
 RELEASE_STATE={
  'A01':('Wave 1','HOLD — awaiting release gates','KDP paperback + price-visible waitlist','Required GLP-1/claims/name review, human QA, KDP Previewer, proof'),
  'A02':('Wave 2','HOLD','Future book/creative test','Signed open-slot decision and review'),
- 'A03':('Wave 2','HOLD — digital-first','Etsy undated calendar','Digital demand signal; paperback is not primary test'),
+ 'A03':('Vault','NOT A KDP PRODUCT — DO NOT PUBLISH','Digital-calendar demand + calendar-printer review','Non-KDP 10 × 12 wire-bound wall calendar with hanger; paperback surrogate is not a valid verdict'),
  'A04':('Wave 1','HOLD — awaiting release gates','KDP paperback','Human QA, general claims/name review, KDP Previewer, proof'),
  'A05':('Wave 1','HOLD — awaiting release gates','KDP paperback','Human QA, sleep-adjacent review, KDP Previewer, proof'),
  'A06':('Wave 2','HOLD — review-heavy','Future movement-reflection test','Movement/health review and signed open slot'),
@@ -74,6 +74,33 @@ RELEASE_STATE={
  'B17':('Vault','DO NOT PUBLISH TO KDP','Paid digital desk-practice sample','Physical easel/pad test; book form is reference only'),
  'B18':('Wave 1','HOLD — awaiting release gates','KDP paperback','Human QA, financial boundary review, KDP Previewer, proof'),
 }
+
+# A03 is a calendar-printer object, not a book-form option. These fields drive the
+# generated technical manifest without ever generating a KDP listing package.
+NON_KDP_PRODUCTS={
+ 'A03':{
+  'folder':'non-kdp/A03-scent-of-a-steady-year',
+  'pages':'12 monthly sheets',
+  'trim':'10x12',
+  'paper':'heavy matte calendar stock',
+  'price':'N/A — non-KDP calendar',
+  'format':'10 × 12 in. wire-bound wall calendar · reinforced hanger · Not a KDP product',
+ }
+}
+# Built reference books may exist for private learning, but these are the only rows
+# eligible to appear in a KDP upload checklist.
+BUILD_PRODUCTS=[p for p in PRODUCTS if p[0] not in NON_KDP_PRODUCTS]
+KDP_UPLOAD_PRODUCTS=[p for p in PRODUCTS if RELEASE_STATE[p[0]][0] == 'Wave 1']
+
+def price_label(ident, price):
+ # Only Wave 1 prices are authorized marketing/listing hypotheses. A number in a
+ # product tuple must never make a Wave 2 or Vault item look cleared for sale.
+ wave=RELEASE_STATE[ident][0]
+ if wave=='Wave 1':
+  return f'${price:.2f}'
+ if wave=='Vault':
+  return 'N/A — no public KDP price'
+ return 'TBD — no authorized KDP price'
 
 # PDF helpers
 class Book:
@@ -302,7 +329,7 @@ def page_jpg(pdf,page,out):
  d=fitz.open(str(pdf));page=min(page,len(d)-1);pix=d[page].get_pixmap(matrix=fitz.Matrix(3,3),alpha=False);pix.save(str(out))
 def callout_jpg(prod,out):
  ident,slug,coll,cover,title,sub,trim,pages,paper,price,*_=prod;W,H=1600,1200;im=Image.new('RGB',(W,H),'#F7F4EF');dr=ImageDraw.Draw(im);bg='#'+COLORS[ident];ac='#'+ACCENTS[ident];dr.rectangle((0,0,W,250),fill=bg);dr.text((80,95),cover,font=font(62,True),fill='#FFFFFF');dr.text((80,185),sub,font=font(28),fill=ac)
- cols=[('TRIM',f'{trim[0]:g} × {trim[1]:g} in.'),('PAGES',str(pages)),('INTERIOR','B&W · white paper'),('SCOUT PRICE',f'${price:.2f}')]
+ cols=[('TRIM',f'{trim[0]:g} × {trim[1]:g} in.'),('PAGES',str(pages)),('INTERIOR','B&W · white paper'),('PRICE STATUS',price_label(ident,price))]
  for i,(a,b) in enumerate(cols):
   x=90+(i%2)*770;y=380+(i//2)*290;dr.rounded_rectangle((x,y,x+660,y+190),20,fill='#FFFFFF',outline=ac,width=4);dr.text((x+35,y+45),a,font=font(24,True),fill=bg);dr.text((x+35,y+105),b,font=font(34),fill='#262626')
  dr.text((80,1060),'A KDP scout edition from The Ritual Library · deluxe materials sold separately where available.',font=font(22),fill='#505050');im.save(out,quality=94)
@@ -324,7 +351,7 @@ TRIM: {trim[0]:g} × {trim[1]:g} in.
 PAGES: {pages}
 SPINE: {spine:.4f} in. (white-paper formula; validate in KDP Cover Calculator)
 COVER WRAP: {wrapw:.4f} × {wraph:.4f} in.
-PRICE: ${price:.2f}
+PRICE: {price_label(ident,price)}
 CATEGORIES: {cats}
 KEYWORDS: {kws.replace('|',', ')}
 
@@ -371,15 +398,21 @@ def docs():
  with (ROOT/'CATALOG.csv').open('w',newline='',encoding='utf-8') as f:
   w=csv.writer(f);w.writerow(['id','collection','amazon_title','cover_title','subtitle','pages','trim','paper','spine_in','wrap_w','wrap_h','price','folder','keywords','categories','format','claims_boundary','release_wave','publication_status','primary_validation','release_trigger'])
   for prod in PRODUCTS:
-   ident,slug,coll,cover,title,sub,trim,target,paper,price,*_=prod;folder=RELEASE/f'{ident}-{slug}';d=fitz.open(str(folder/'interior.pdf'));pages=len(d);spine=pages*PPI;wave,status,test,trigger=RELEASE_STATE[ident];w.writerow([ident,coll,title,cover,sub,pages,f'{trim[0]:g}x{trim[1]:g}',paper,f'{spine:.4f}',f'{2*BLEED+2*trim[0]+spine:.4f}',f'{2*BLEED+trim[1]:.4f}',f'${price:.2f}',f'release/{ident}-{slug}',prod[12],prod[13],'Paperback · B&W · white · no bleed · matte',prod[14],wave,status,test,trigger])
+   ident,slug,coll,cover,title,sub,trim,target,paper,price,*_=prod;wave,status,test,trigger=RELEASE_STATE[ident]
+   if ident in NON_KDP_PRODUCTS:
+    spec=NON_KDP_PRODUCTS[ident]
+    w.writerow([ident,coll,title,cover,sub,spec['pages'],spec['trim'],spec['paper'],'N/A','N/A','N/A',spec['price'],spec['folder'],prod[12],prod[13],spec['format'],prod[14],wave,status,test,trigger])
+    continue
+   folder=RELEASE/f'{ident}-{slug}';d=fitz.open(str(folder/'interior.pdf'));pages=len(d);spine=pages*PPI
+   w.writerow([ident,coll,title,cover,sub,pages,f'{trim[0]:g}x{trim[1]:g}',paper,f'{spine:.4f}',f'{2*BLEED+2*trim[0]+spine:.4f}',f'{2*BLEED+trim[1]:.4f}',price_label(ident,price),f'release/{ident}-{slug}',prod[12],prod[13],'Paperback · B&W · white · no bleed · matte',prod[14],wave,status,test,trigger])
  # Start, readme, upload
  (ROOT/'00_START_HERE.md').write_text('''# The Ritual Library — start here
 
-This is a Git-ready 18-SKU KDP scout catalog with two companion deluxe-hero packages. It is deliberately organized like a production repository: every paperback has interior, wrap, seven listing images, metadata, upload settings, rebuild code, and automated structural QC.
+This is a Git-ready 18-concept product catalog with 15 conditional KDP book options, two private book-form references, and one non-KDP calendar with two companion deluxe-hero packages. It is deliberately organized like a production repository: every paperback has interior, wrap, seven listing images, metadata, upload settings, rebuild code, and automated structural QC.
 
 ## First actions
 1. Read `LEGAL_AND_CLAIMS.md` before changing or publishing health-adjacent metadata.
-2. Open `CATALOG.csv` to see every KDP listing title, price, format, and file path.
+2. Open `CATALOG.csv` to see every product’s format/status and only the conditional KDP listing rows.
 3. Read `RELEASE_POLICY.md` and `PORTFOLIO.md`. For each **Wave 1** scout only, open its `release/[ID]-[slug]/metadata.txt`; copy the **AMAZON TITLE**, not merely the cover word.
 4. Use `UPLOAD_CHECKLIST.md` and KDP Print Previewer. Order a proof before enabling ads.
 5. Run `python validate_catalog.py` after any rebuild. A green validation result is structural QC, not legal/clinical clearance.
@@ -415,10 +448,10 @@ Do not release a product simply because it validates or has a ZIP file. Follow `
 ''',encoding='utf-8')
  (ROOT/'README.md').write_text('''# The Ritual Library — 18 KDP scouts + deluxe hero formats
 
-A complete, repository-grade production system for an 18-product wellness-stationery catalog. **Built does not mean published:** only six Wave 1 KDP scouts are eligible for the release gates; twelve assets are intentionally held or vaulted. This is not a list of ideas: it includes full low-content interiors, KDP wraps, listing image suites, listing metadata, catalogs, launch documentation, reproducible source, and structural validation.
+A complete, repository-grade production system for an 18-product wellness-stationery catalog. **Built does not mean published:** only six Wave 1 KDP scouts are eligible for release gates; nine options are held and three concepts are Vault/non-KDP. This is not a list of ideas: it includes full low-content interiors, KDP wraps, listing image suites, listing metadata, catalogs, launch documentation, reproducible source, and structural validation.
 
 ## Deliverables at a glance
-- **18 KDP paperback packages** in `release/`, each with 10 publication/listing files.
+- **15 conditional KDP book options** plus two private book-form reference artifacts in `release/`; A03 is a non-KDP calendar brief in `non-kdp/`.
 - **2 deluxe hero packages** in `deluxe-heroes/`: *Dose & Breathe* and *Pocket of Calm*.
 - **Commercial operating docs:** `CATALOG.csv`, `RELEASE_POLICY.md`, `PORTFOLIO.md`, `WAVE1_HUMAN_QA.md`, `KDP_ACCOUNT_OPERATIONS.md`, `LEGAL_AND_CLAIMS.md`, `MARKETING.md`, `UPLOAD_CHECKLIST.md`, `ART_DIRECTION.md`, `DELUXE_HEROES.md`, `POLISH_NOTES.md`, `HISTORY.md`, `LOOKBOOK.pdf`, `00_START_HERE.md`, `PREPUBLICATION_SEQUENCE.md`, `SCORECARD_READ1_READ2_SPEC.md` (in the launch kit), `QR_AND_AUDIO.md`, `QR_AUDIO_REVIEW.md`, `TRADEMARK_SCREENING.md`, `BACKUP_IMPRINT_SHORTLIST.md`, `COUNSEL_ENGAGEMENT_MEMO.md`, and `DECISIONS.md`.
 - **Build/QC tools:** `build_catalog.py`, `polish_catalog.py`, `validate_catalog.py`, `configure_wave1_qr.py`, `make_zips.py`, and `requirements.txt`.
@@ -430,10 +463,10 @@ The KDP editions are purposeful scout products: complete paperback experiences w
 The v1.1 candidate build uses **Stillwork Studio** as its working imprint. Before any release: obtain name/claims clearance, register the buyer-controlled domain, complete and test the Wave 1 QR/audio route, complete the final KDP Cover Calculator check, and approve the physical proof. `Pocket of Calm` is current collection-neutral copy; do not convert it to GLP-1-specific promotion without a separate reviewed content pass.
 ''',encoding='utf-8')
  # Upload list
- s=['# KDP upload checklist — 18 scout paperbacks','', 'Use the exact title, price, categories, and keywords in each product folder’s `metadata.txt`. Standard configuration unless metadata says otherwise: **Paperback · black-and-white · white paper · no interior bleed · matte cover**. Upload interior + wrap, run Previewer, order a proof, then publish.','']
- for prod in PRODUCTS:
+ s=['# KDP upload checklist — six Wave 1 KDP scouts only','', 'Use the exact title, price, categories, and keywords in each product folder’s `metadata.txt`. Standard configuration unless metadata says otherwise: **Paperback · black-and-white · white paper · no interior bleed · matte cover**. Upload interior + wrap, run Previewer, order a proof, then publish.','']
+ for prod in KDP_UPLOAD_PRODUCTS:
   ident,slug,coll,cover,title,sub,trim,target,paper,price,*_=prod;folder=RELEASE/f'{ident}-{slug}';pages=len(fitz.open(str(folder/'interior.pdf')))
-  s+= [f'## {ident} — {cover}',f'1. Title: **{title}**',f'2. Author / imprint: **{IMPRINT}** (working candidate; confirm name clearance before upload).',f'3. Settings: B&W · white paper · {trim[0]:g} × {trim[1]:g} in. · no bleed · matte.',f'4. Upload `release/{ident}-{slug}/interior.pdf` + `cover_wrap.pdf`.',f'5. Price: **${price:.2f}** · pages: {pages} · series: {coll}.',f'6. Preview → check barcode/spine/margins → order proof → publish only after claims review.','']
+  s+= [f'## {ident} — {cover}',f'1. Title: **{title}**',f'2. Author / imprint: **{IMPRINT}** (working candidate; confirm name clearance before upload).',f'3. Settings: B&W · white paper · {trim[0]:g} × {trim[1]:g} in. · no bleed · matte.',f'4. Upload `release/{ident}-{slug}/interior.pdf` + `cover_wrap.pdf`.',f'5. Price: **{price_label(ident,price)}** · pages: {pages} · series: {coll}.',f'6. Preview → check barcode/spine/margins → order proof → publish only after claims review.','']
  (ROOT/'UPLOAD_CHECKLIST.md').write_text('\n'.join(s),encoding='utf-8')
  (ROOT/'MARKETING.md').write_text('''# The Ritual Library — listing and launch system
 
@@ -516,8 +549,8 @@ __pycache__/
 def make_lookbook():
  W,H=11*inch,8.5*inch;c=canvas.Canvas(str(ROOT/'LOOKBOOK.pdf'),pagesize=(W,H),pageCompression=1)
  # title
- c.setFillColor(colors.HexColor('#20313D'));c.rect(0,0,W,H,fill=1,stroke=0);c.setFillColor(colors.white);c.setFont('Helvetica-Bold',28);c.drawCentredString(W/2,H*.64,'THE RITUAL LIBRARY');c.setFillColor(colors.HexColor('#A4C3B2'));c.setFont('Helvetica',14);c.drawCentredString(W/2,H*.56,'18 KDP scout paperbacks · 2 deluxe hero formats');c.setFont('Helvetica-Oblique',11);c.drawCentredString(W/2,H*.46,'notice · soothe · continue');c.showPage()
- for prod in PRODUCTS:
+ c.setFillColor(colors.HexColor('#20313D'));c.rect(0,0,W,H,fill=1,stroke=0);c.setFillColor(colors.white);c.setFont('Helvetica-Bold',28);c.drawCentredString(W/2,H*.64,'THE RITUAL LIBRARY');c.setFillColor(colors.HexColor('#A4C3B2'));c.setFont('Helvetica',14);c.drawCentredString(W/2,H*.56,'18 product concepts · 15 conditional KDP options · 3 Vault/non-KDP');c.setFont('Helvetica-Oblique',11);c.drawCentredString(W/2,H*.46,'notice · soothe · continue');c.showPage()
+ for prod in BUILD_PRODUCTS:
   ident,slug,coll,cover,title,sub,trim,target,paper,price,*_=prod;folder=RELEASE/f'{ident}-{slug}';img=Image.open(folder/'cover.jpg');img.thumbnail((int(2.25*inch),int(3.35*inch)))
   # reportlab can place jpg file
   c.setFillColor(colors.HexColor('#F7F4EF'));c.rect(0,0,W,H,fill=1,stroke=0);c.drawImage(str(folder/'cover.jpg'),.75*inch,2.1*inch,width=2.1*inch,height=3.15*inch,preserveAspectRatio=True,anchor='c')
@@ -527,14 +560,16 @@ def make_lookbook():
   c.setFont('Helvetica',12);c.setFillColor(MID);y-=.08*inch
   for line in lines(sub,'Helvetica',12,W-4.15*inch):c.drawString(3.3*inch,y,line);y-=.19*inch
   c.setFillColor(INK);c.setFont('Helvetica',10);y-=.3*inch;y=para(c,prod[11],3.3*inch,y,W-4.15*inch,10,13,INK)
-  y-=.22*inch;c.setFont('Helvetica-Bold',9);c.drawString(3.3*inch,y,f'KDP SCOUT  ·  {trim[0]:g} × {trim[1]:g} in.  ·  {len(fitz.open(str(folder/"interior.pdf")))} pages  ·  ${price:.2f}')
+  y-=.22*inch;c.setFont('Helvetica-Bold',9);c.drawString(3.3*inch,y,f'KDP SCOUT  ·  {trim[0]:g} × {trim[1]:g} in.  ·  {len(fitz.open(str(folder/"interior.pdf")))} pages  ·  {price_label(ident,price)}')
   c.setFillColor(MID);c.setFont('Helvetica',8);para(c,'Deluxe version: '+('available as a separate hero-production package.' if ident in ('A01','A09') else 'future product path; not included with paperback scout.'),3.3*inch,y-.23*inch,W-4.15*inch,8,10,MID)
   c.showPage()
  c.save()
 
 def main():
- # rebuild/assemble 18 interiors and wraps
- for prod in PRODUCTS:
+ # rebuild/assemble private book-format references; A03 is deliberately non-KDP.
+ legacy=RELEASE/'A03-scent-of-a-steady-year'
+ if legacy.exists(): shutil.rmtree(legacy)
+ for prod in BUILD_PRODUCTS:
   if prod[1] in EXISTING: folder,pages=assemble_existing(prod)
   else: folder,pages=build_extra(prod)
   assets(prod,folder)
@@ -550,6 +585,6 @@ def main():
  import subprocess, sys
  subprocess.run([sys.executable, str(ROOT/'polish_catalog.py')], check=True)
  make_lookbook()
- print('Built 18 KDP products at',ROOT)
+ print('Built 17 private book-format reference artifacts plus one non-KDP calendar manifest at',ROOT)
 
 if __name__=='__main__':main()

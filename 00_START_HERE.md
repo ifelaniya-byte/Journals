@@ -1,10 +1,10 @@
 # The Ritual Library — start here
 
-This is a Git-ready 18-SKU KDP scout catalog with two companion deluxe-hero packages. It is deliberately organized like a production repository: every paperback has interior, wrap, seven listing images, metadata, upload settings, rebuild code, and automated structural QC.
+This is a Git-ready 18-concept product catalog with 15 conditional KDP book options, two private book-form references, and one non-KDP calendar with two companion deluxe-hero packages. It is deliberately organized like a production repository: every paperback has interior, wrap, seven listing images, metadata, upload settings, rebuild code, and automated structural QC.
 
 ## First actions
 1. Read `LEGAL_AND_CLAIMS.md` before changing or publishing health-adjacent metadata.
-2. Open `CATALOG.csv` to see every KDP listing title, price, format, and file path.
+2. Open `CATALOG.csv` to see every product’s format/status and only the conditional KDP listing rows.
 3. Read `RELEASE_POLICY.md` and `PORTFOLIO.md`. For each **Wave 1** scout only, open its `release/[ID]-[slug]/metadata.txt`; copy the **AMAZON TITLE**, not merely the cover word.
 4. Use `UPLOAD_CHECKLIST.md` and KDP Print Previewer. Order a proof before enabling ads.
 5. Run `python validate_catalog.py` after any rebuild. A green validation result is structural QC, not legal/clinical clearance.
