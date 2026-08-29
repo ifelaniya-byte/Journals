@@ -8,7 +8,7 @@ The second agent reorganized the repo. main no longer holds any books; it is jus
 |---|---|---|
 | main | One 10-line README that routes to the two catalog branches | Pointer only. We leave it alone. |
 | ADHD-Journals | All 18 of OUR books | Our line. Listing upgrades, the marketing system, and today's flat $9.99 cap all live here. |
-| Journals-0-18-and-19-36 | Their 36-book kit line | Theirs, all at $9.99. Untouched by us. |
+| Range-Band | Range Band Press 36-book kit line | Theirs, all at $9.99. Untouched by us. |
 
 ## Quality of our line
 

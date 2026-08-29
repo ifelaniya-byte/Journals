@@ -13,7 +13,7 @@ KDP is **$9.99 on every title** (catalog-wide cap). Other stores get **that titl
 | `release3/` + `release4/` | existing US list | Amazon KDP paperback |
 | `MARKETS/BN-Press/` | **max(KDP, $14.99)** | B&N Press (catalog floor 22 Apr 2026) |
 | `MARKETS/Lulu-Global/` | **max(KDP, round_99(2 × Lulu print))** | Lulu print Global Dist. |
-| `MARKETS/DIGITAL/` | same as KDP | PDF: Google Play, Gumroad, Payhip, Ko-fi, itch.io… |
+| `MARKETS/DIGITAL/` | **$4.99 attractors / $6.99 rest / Middle print-only** | PDF: Google Play, Gumroad, Payhip, Ko-fi, itch.io… (Wave 2) |
 | `MARKETS/Ingram-PARKED/` | formula min, **do not upload** | After Bowker ISBNs |
 | `MARKETS/by-title/` | all of the above | One product, every floor |
 | `MARKETS/i18n/` | same PDFs, translated copy | zh / hi / es / fr / ha / yo |
@@ -27,13 +27,13 @@ PDFs are **not copied**. Each market folder points at `release3/` or `release4/`
 
 ### Print
 
-1. **Amazon KDP paperback** — do this first. `release*/` + `metadata.txt`. Bleed OFF. Matte. Expanded Distribution **ON**. Author: Quiet Mind Press. Create series **Quiet Mind Journals** and **Quiet Mind Color**. Do not mix SKUs.
+1. **Amazon KDP paperback** — do this first. `release*/` + `metadata.txt`. Bleed OFF. Matte. Expanded Distribution **OFF**. Author: Quiet Mind Press. Create series **Quiet Mind Journals** and **Quiet Mind Color**. Do not mix SKUs.
    - Turn **every** KDP paperback marketplace ON: US, UK, DE, FR, ES, IT, NL, PL, SE, JP, CA, AU (and any new ones on the pricing page).
    - 60% floors (confirm live): US **$9.99** · UK **£7.99** · euro **€9.99** · CA/AU **13.99** · JP **¥1,000** · PL **40 zł** · SE **110 kr**.
    - **No KDP paperback POD in India, Nigeria, Mexico, or mainland China.** Readers there cannot order our paperback from a local Amazon print plant. English paperbacks still sell on .com / .co.uk / .fr / .es with international shipping where Amazon allows it.
    - Do **not** enroll Kindle Select if Google Play PDFs are live.
 
-2. **B&N Press print** — `MARKETS/BN-Press/`. Every title **$14.99** (their floor; our KDP list is $9.99). Free B&N ISBN. Never paste that price into KDP.
+2. **B&N Press print** — `MARKETS/BN-Press/`. Floor **$14.99**. **LIST the 11 titles ≥120pp. HOLD the 7 thin** (firststroke, garden, cozy, botanical, celestial, tidal, soft). Free B&N ISBN. Never paste that price into KDP.
 
 3. **Lulu print Global Dist.** — `MARKETS/Lulu-Global/`. List ≥ 2× print, never under the KDP list. Skip Lulu *ebook* Global Dist ($4.99). Lulu’s own bookstore can use the KDP price.
 
@@ -41,7 +41,7 @@ PDFs are **not copied**. Each market folder points at `release3/` or `release4/`
 
 ### Digital PDF (same files, `MARKETS/DIGITAL/`)
 
-Google Play, Gumroad, Payhip Free, Ko-fi Shop, itch.io (type: book), Lemon Squeezy, Whop. Price = KDP list. Description must say **print-at-home PDF of the paperback**, not a reflowable ebook.
+Google Play, Gumroad, Payhip Free, Ko-fi Shop, itch.io (type: book), Lemon Squeezy. **Skip Whop** (`PLATFORM_DECISIONS.md`). Prices: **$4.99** dump/dopamine/cozy/soft/settle; **$6.99** the other 12; **Middle Season print-only**. Description must say **print-at-home PDF of the paperback**, not a reflowable ebook. Wave 2 only.
 
 **Google Play Books countries (official, paid ebooks):** includes **India, Mexico, Spain, France, Hong Kong, Taiwan, Singapore, Malaysia, Brazil, South Africa, UAE…** Does **not** include **Nigeria** or **mainland China**. Turn on every country Google offers.
 
@@ -81,11 +81,11 @@ Nigeria’s two main indigenous languages are **Hausa** and **Yorùbá** (Englis
 
 Week 1 — KDP ads-four: Dopamine Menu, 75 Soft, Middle Season, Cozy Corners. Proof trims (Night 5×8, Dump 5.5×8.5, Settle 6×9, Parallel 7×10, one 8.5×11 coloring).
 
-Week 2–3 — rest of KDP 18. All marketplaces ON. Expanded Dist ON.
+Week 2–3 — rest of KDP 18. All KDP paperback marketplaces ON. Expanded Dist **OFF**.
 
 Week 4 — Google Play PDFs (Wave titles first). Enable India, MX, ES, FR, HK, TW. Then **one** checkout: Payhip or Gumroad. Add es/fr/zh/hi/ha/yo text on that checkout.
 
-Week 5 — B&N Press at the BN floor.
+Week 5 — B&N Press: the 11 thick titles only, at $14.99.
 
 Week 6 — Lulu Global. Optional: Pothi store, itch.io, Ko-fi.
 

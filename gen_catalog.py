@@ -449,7 +449,7 @@ def write_marketing(items):
         "| Slow Page, Cozy Corners | Pinterest hygge / cottagecore. Q4. |",
         "| All coloring | Pinterest first, then Facebook coloring groups. UGC of finished pages. |",
         "",
-        "Expanded distribution: ON for every title.",
+        "Expanded distribution: OFF (IngramSpark in Wave 2 — PLATFORM_DECISIONS.md).",
         "",
     ]
     (ROOT / "MARKETING.md").write_text("\n".join(lines) + "\n")
@@ -617,7 +617,7 @@ SELLING: read PLATFORM_DECISIONS.md (what lists where) then PLATFORM_PLAYBOOK.md
 
 ## Upload settings
 
-Paperback · B&W · **bleed OFF** · matte · expanded distribution ON  
+Paperback · B&W · **bleed OFF** · matte · expanded distribution OFF  
 Paper: cream (journals) / white (coloring + Middle Season grids)
 
 ## Staging (account health)
@@ -640,7 +640,7 @@ python gen_catalog.py          # ALWAYS last
 python make_zips.py all        # optional
 ```
 
-Do not merge this branch with `Journals-0-18-and-19-36` (the GLP-1 36).
+Do not merge this branch with `Range-Band` (Range Band Press, the GLP-1 36).
 """
     (ROOT / "00_START_HERE.md").write_text(start)
     print("wrote 00_START_HERE.md")

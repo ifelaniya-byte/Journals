@@ -24,6 +24,7 @@ OUT = ROOT / "markets" / "bn-print"
 DPI = 300
 B = 0.125 * 72          # bleed on the outer edge of each panel
 PRICE = "$14.99"        # B&N print minimum, owner-approved 2026-08-28
+BN_HOLD = {"firststroke", "garden", "cozy", "botanical", "celestial", "tidal", "soft"}
 
 # spine color suggestions = each book's cover texture tone
 def spine_hexes():
@@ -66,7 +67,9 @@ def main():
             pix = p.get_pixmap(matrix=pymupdf.Matrix(DPI/72, DPI/72), clip=rect)
             pix.save(str(od / name), jpg_quality=82)
         # patched metadata: price, cover files, banner
-        bn = md.replace("KDP LISTING", "B&N PRINT EDITION ($14.99 platform minimum) - KDP LISTING", 1)
+        hold = key in BN_HOLD
+        tag = "B&N PRINT EDITION ($14.99) HOLD — DO NOT UPLOAD" if hold else "B&N PRINT EDITION ($14.99 platform minimum)"
+        bn = md.replace("KDP LISTING", tag + " - KDP LISTING", 1)
         bn = bn.replace(f"COVER FILE\n{key}_cover_wrap.pdf",
                         "COVER FILES (B&N separate-panel route; B&N builds the spine)\n"
                         f"bn_front.jpg (front with bleed)\nbn_back.jpg (back with bleed, barcode space reserved)")
@@ -75,6 +78,7 @@ def main():
         bn += f"""
 --------------------------------------------------------------------------------
 B&N PRESS NOTES (this edition only; everywhere else this book stays $9.99)
+- {'HOLD — PLATFORM_DECISIONS.md: do not list this title at B&N (<120pp). Kit kept for the floor.' if hold else 'LIST — ≥120 pages; $14.99 is defensible heft.'}
 - Price: {PRICE}. B&N print minimum list price is $14.99 since April 2026.
 - Interior: upload release file {key}_interior.pdf UNCHANGED. B&W, bleed OFF.
 - Cover route: upload bn_front.jpg + bn_back.jpg; set spine color {hexes[key]};
@@ -88,6 +92,7 @@ B&N PRESS NOTES (this edition only; everywhere else this book stays $9.99)
         doc.close()
     # README index
     lines = ["# B&N Press kits - the $14.99 minimum-price edition (18 books)", "",
+             "**LIST 11** (≥120pp). **HOLD 7** thin (firststroke, garden, cozy, botanical, celestial, tidal, soft).","",
              "This folder is a SEPARATE edition for the only platform whose minimum",
              "list price ($14.99 print, April 2026) is above our $9.99 catalog price.",
              "Everything else in the repo stays $9.99. Interiors are unchanged.",

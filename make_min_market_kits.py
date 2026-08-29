@@ -29,6 +29,9 @@ HC_PER_PAGE = 0.012
 BL_FIXED = 9.03
 BL_PER_PAGE = 0.0201
 NO_HARDCOVER = {"night"}   # 5x8 is not a KDP hardcover trim
+# PLATFORM_DECISIONS.md: coloring hardcovers HELD (buyers want cheap flat-opening paperbacks).
+HC_HOLD = {"firststroke", "garden", "mosaic", "woodland", "fractal", "architect",
+           "cozy", "botanical", "celestial", "tidal"}
 # Blurb trade books exist in exactly three trims: 5x8, 6x9, 8x10 (Blurb's
 # own spec, verified 2026-08-28). Our 8.5x11 color line, 5.5x8.5 dump and
 # 7x10 parallel do not match; interiors are locked, so no resizing.
@@ -106,7 +109,7 @@ def main():
 
             if d.name in NO_HARDCOVER:
                 matrix.append((f"{title}  [NO hardcover: 5x8 not a KDP HC trim]",
-                               pages, None, None, None, None))
+                               pages, None, None, None, None, d.name))
                 continue
             cost, floor, hprice, roy = entry_hc(pages)
             hc = md.replace("KDP LISTING",
@@ -130,21 +133,30 @@ def main():
                 "- Verify in KDP's printing-cost calculator and size picker at setup; rates drift.\n"
                 "- Free to publish, free ISBN, 75-550 pages B&W, matte case laminate.\n"
                 "- Series, imprint, keywords, categories: identical to the paperback listing.\n")
+            if d.name in HC_HOLD:
+                hc = hc.replace("KDP HARDCOVER EDITION",
+                                "KDP HARDCOVER EDITION HOLD — DO NOT UPLOAD (coloring HC held)", 1)
+                hc += ("\nHOLD — PLATFORM_DECISIONS.md: do not list coloring hardcovers.\n"
+                       "Kit kept on disk. Release only if this paperback clearly outsells its print peers.\n")
             (OUT_HC / d.name).mkdir(exist_ok=True)
             (OUT_HC / d.name / "metadata-hc.txt").write_text(hc)
-            matrix.append((title, pages, cost, floor, hprice, roy))
+            matrix.append((title, pages, cost, floor, hprice, roy, d.name))
 
     lines = ["# Minimum-price markets: platforms whose floor is over $10", "",
              "Matched-pricing editions from each platform's own minimum rules. All $0 upfront.",
-             "Main catalog stays $9.99 everywhere. Interiors unchanged.", "",
+             "Main catalog stays $9.99 everywhere. Interiors unchanged.",
+             "Hardcover: journals LIST, coloring HOLD. B&N print: ≥120pp LIST, thin HOLD.", "",
              "| Book | Pages | KDP-HC cost | HC floor | HC entry | HC royalty |",
              "|---|---|---|---|---|---|"]
-    for title, pages, cost, floor, hprice, roy in matrix:
+    for title, pages, cost, floor, hprice, roy, slug in matrix:
+        tag = "**HOLD** " if slug in HC_HOLD else ""
         if cost is None:
             lines.append(f"| {title} | {pages} | - | - | - | - |")
         else:
-            lines.append(f"| {title} | {pages} | ${cost:.2f} | ${floor:.2f} | ${hprice:.2f} | ${roy:.2f} |")
+            lines.append(f"| {tag}{title} | {pages} | ${cost:.2f} | ${floor:.2f} | ${hprice:.2f} | ${roy:.2f} |")
     lines += ["",
+              "**LIST 7 journal hardcovers** (dump, settle, parallel, middle, dopamine, slow, soft).",
+              "**HOLD 10 coloring hardcovers** — kits exist; do not upload (PLATFORM_DECISIONS.md).",
               "Night Pages has NO hardcover kit: 5x8 is not among KDP's hardcover trims",
               "(5.5x8.5, 6x9, 6.14x9.21, 6.69x9.61, 7x10, 7.44x9.69, 7.5x9.25, 8.5x11), and",
               "interiors are locked so we do not resize. Verify the 8.5x11 hardcover option in",

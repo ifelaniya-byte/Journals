@@ -1153,7 +1153,7 @@ def generate_cover_jpg(path, texture, title_lines, subtitle, badge=None):
 PRODUCTS4 = {
     "settle": {
         "title": "Settle", "subtitle": "Daily Body Tracking with No Protocol and No Streaks, Undated",
-        "trim": (6 * inch, 9 * inch), "pages": 172, "paper": "cream", "price": "$14.99",
+        "trim": (6 * inch, 9 * inch), "pages": 172, "paper": "cream", "price": "$9.99",
         "dir": "settle", "tex_rgb": (150, 78, 54), "tex_seed": 51, "title_lines": ["SETTLE"],
         "categories": "Self-Help > Journaling | Health > Nervous System",
         "keywords": "somatic journal, nervous system regulation journal, grounding journal anxiety, "
@@ -1171,7 +1171,7 @@ PRODUCTS4 = {
     },
     "middle": {
         "title": "The Middle Season", "subtitle": "Hot Flashes, Sleep, Brain Fog and Clinic Notes, Undated",
-        "trim": (6 * inch, 9 * inch), "pages": 160, "paper": "white", "price": "$16.99",
+        "trim": (6 * inch, 9 * inch), "pages": 160, "paper": "white", "price": "$9.99",
         "dir": "middle", "tex_rgb": (126, 64, 94), "tex_seed": 53, "title_lines": ["THE MIDDLE", "SEASON"],
         "categories": "Health > Women's Health | Self-Help > Journaling",
         "keywords": "perimenopause journal, perimenopause symptom tracker, menopause tracking journal, "
@@ -1188,7 +1188,7 @@ PRODUCTS4 = {
     },
     "dopamine": {
         "title": "The Dopamine Menu", "subtitle": "Five Courses and a Daily Order Ticket, 150 Pages",
-        "trim": (6 * inch, 9 * inch), "pages": 150, "paper": "cream", "price": "$13.99",
+        "trim": (6 * inch, 9 * inch), "pages": 150, "paper": "cream", "price": "$9.99",
         "dir": "dopamine", "tex_rgb": (158, 74, 58), "tex_seed": 55, "title_lines": ["THE DOPAMINE", "MENU"],
         "categories": "Self-Help > Journaling | Health > ADHD",
         "keywords": "dopamine menu, adhd journal adults, adhd motivation planner, executive function journal, "
@@ -1206,7 +1206,7 @@ PRODUCTS4 = {
     },
     "slow": {
         "title": "The Slow Page", "subtitle": "One Unhurried Page a Day for Four Seasons",
-        "trim": (6 * inch, 9 * inch), "pages": 144, "paper": "cream", "price": "$15.99",
+        "trim": (6 * inch, 9 * inch), "pages": 144, "paper": "cream", "price": "$9.99",
         "dir": "slow", "tex_rgb": (128, 82, 50), "tex_seed": 57, "title_lines": ["THE SLOW", "PAGE"],
         "categories": "Self-Help > Journaling | Self-Help > Motivational",
         "keywords": "slow living journal, seasonal living journal, intentional living notebook, "
@@ -1223,7 +1223,7 @@ PRODUCTS4 = {
     },
     "soft": {
         "title": "The 75 Soft Journal", "subtitle": "A Gentler 75-Day Challenge Tracker with a Day 76 Page",
-        "trim": (6 * inch, 9 * inch), "pages": 96, "paper": "cream", "price": "$12.99",
+        "trim": (6 * inch, 9 * inch), "pages": 96, "paper": "cream", "price": "$9.99",
         "dir": "soft", "tex_rgb": (84, 108, 74), "tex_seed": 59, "title_lines": ["THE 75 SOFT", "JOURNAL"],
         "categories": "Health > Fitness & Dieting | Self-Help > Journaling",
         "keywords": "75 soft journal, 75 soft challenge tracker, 75 day challenge book, soft fitness journal, "
@@ -1240,7 +1240,7 @@ PRODUCTS4 = {
     },
     "cozy": {
         "title": "Cozy Corners", "subtitle": "49 Cozy Spaces: Reading Nooks, Rainy Windows and Hygge Rooms",
-        "trim": (8.5 * inch, 11 * inch), "pages": 104, "paper": "white", "price": "$10.99",
+        "trim": (8.5 * inch, 11 * inch), "pages": 104, "paper": "white", "price": "$9.99",
         "dir": "cozy", "tex_rgb": (124, 76, 56), "tex_seed": 61, "title_lines": ["COZY", "CORNERS"],
         "categories": "Crafts & Hobbies > Coloring Books for Grown-Ups > Scenes | Self-Help > Stress Management",
         "keywords": "cozy coloring book, cozy spaces coloring book, hygge coloring book adults, "
@@ -1259,7 +1259,7 @@ PRODUCTS4 = {
     },
     "botanical": {
         "title": "Botanical Ink", "subtitle": "49 Herbarium Plates with Real Phyllotaxis Spirals",
-        "trim": (8.5 * inch, 11 * inch), "pages": 104, "paper": "white", "price": "$11.99",
+        "trim": (8.5 * inch, 11 * inch), "pages": 104, "paper": "white", "price": "$9.99",
         "dir": "botanical", "tex_rgb": (30, 78, 58), "tex_seed": 63, "title_lines": ["BOTANICAL", "INK"],
         "categories": "Crafts & Hobbies > Coloring Books for Grown-Ups > Flowers & Botanical | Arts & Photography > Drawing",
         "keywords": "botanical coloring book fine line, floral coloring book adults, detailed flower coloring book, "
@@ -1279,7 +1279,7 @@ PRODUCTS4 = {
     },
     "celestial": {
         "title": "Celestial Atlas", "subtitle": "49 Constellation Plates from Real Star Positions",
-        "trim": (8.5 * inch, 11 * inch), "pages": 104, "paper": "white", "price": "$11.99",
+        "trim": (8.5 * inch, 11 * inch), "pages": 104, "paper": "white", "price": "$9.99",
         "dir": "celestial", "tex_rgb": (24, 26, 52), "tex_seed": 65, "title_lines": ["CELESTIAL", "ATLAS"],
         "categories": "Crafts & Hobbies > Coloring Books for Grown-Ups > Mandalas & Patterns | Science > Astronomy",
         "keywords": "celestial coloring book, constellation coloring book, astronomy coloring book adults, "
@@ -1299,7 +1299,7 @@ PRODUCTS4 = {
     },
     "tidal": {
         "title": "Tidal Ink", "subtitle": "49 Fine-Line Deep-Sea Plates from Real Logarithmic Spirals",
-        "trim": (8.5 * inch, 11 * inch), "pages": 104, "paper": "white", "price": "$11.99",
+        "trim": (8.5 * inch, 11 * inch), "pages": 104, "paper": "white", "price": "$9.99",
         "dir": "tidal", "tex_rgb": (16, 66, 86), "tex_seed": 67, "title_lines": ["TIDAL", "INK"],
         "categories": "Crafts & Hobbies > Coloring Books for Grown-Ups > Animals | Crafts > Ocean & Marine",
         "keywords": "ocean coloring book adults, jellyfish coloring book, sea life coloring fine line, "
@@ -1370,7 +1370,7 @@ DESCRIPTION:
 2. Title: {PRODUCTS4[k]['title']} | Subtitle: {PRODUCTS4[k]['subtitle']} | Author: {AUTHOR}
 3. Settings: B&W interior, {PRODUCTS4[k]['paper'].upper()} paper, {PRODUCTS4[k]['trim'][0]/inch}×{PRODUCTS4[k]['trim'][1]/inch}, NO bleed, matte
 4. Upload {PRODUCTS4[k]['dir']}_interior.pdf + {PRODUCTS4[k]['dir']}_cover_wrap.pdf
-5. Price: {PRODUCTS4[k]['price']} | Expanded distribution: ON
+5. Price: {PRODUCTS4[k]['price']} | Expanded distribution: OFF
 6. Preview → approve → order proof → publish
 """ for k in keys]))
     print("\nDONE")

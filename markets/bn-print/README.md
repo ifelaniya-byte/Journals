@@ -1,5 +1,7 @@
 # B&N Press kits - the $14.99 minimum-price edition (18 books)
 
+**LIST 11** (≥120pp). **HOLD 7** thin (firststroke, garden, cozy, botanical, celestial, tidal, soft).
+
 This folder is a SEPARATE edition for the only platform whose minimum
 list price ($14.99 print, April 2026) is above our $9.99 catalog price.
 Everything else in the repo stays $9.99. Interiors are unchanged.

@@ -28,7 +28,7 @@ THE RULES (owner-set, non-negotiable):
 DECISION BOX (needs owner sign-off before those steps):
 - RESOLVED 2026-08-28: owner chose market entry. A separate B&N-only edition at $14.99 exists at markets/bn-print/ (per-book front + back cover panels at 300 DPI and metadata-bn.txt). The main catalog stays $9.99 everywhere else and its validators are unchanged.
 - IngramSpark requires an ISBN per title. Options: their paid ISBN ($85 each, or possibly a free non-transferable one, sources conflict, ask at signup), or our own Bowker block ($295 for 10). ISBNs are the only money that might ever need spending, and only for non-Amazon print expansion.
-- Selling the books as printable PDF downloads (Gumroad, Payhip, Etsy, Google Play) is a product decision: it sells the same content twice (print + DIY print). Owner has not yet approved digital editions. Ask first.
+- RESOLVED 2026-08-28: digital PDFs are approved. Prices and holds are in PLATFORM_DECISIONS.md and EDITIONS_MATRIX.csv ($4.99 attractors / $6.99 rest / Middle Season print-only). Kits: markets/digital/. Wave 2 only — do not open digital during Wave 1 KDP.
 
 FEES CHANGE. Every number below was verified on 2026-08-28 from current sources (section 9). Older guides are wrong about several of these. Re-check the platform's own pricing page at signup; if it differs from this document, the platform is right.
 

@@ -1,4 +1,4 @@
-KDP HARDCOVER EDITION (case laminate, matched minimum pricing) - KDP LISTING — 09  architect
+KDP HARDCOVER EDITION HOLD — DO NOT UPLOAD (coloring HC held) (case laminate, matched minimum pricing) - KDP LISTING — 09  architect
 ================================
 AMAZON TITLE (≤200) — paste this, not the short cover word
 Architectural Visions: Cathedral and Cityscape Coloring Book for Adults
@@ -98,3 +98,6 @@ HARDCOVER NOTES (this edition only; paperback everywhere else stays $9.99)
 - Verify in KDP's printing-cost calculator and size picker at setup; rates drift.
 - Free to publish, free ISBN, 75-550 pages B&W, matte case laminate.
 - Series, imprint, keywords, categories: identical to the paperback listing.
+
+HOLD — PLATFORM_DECISIONS.md: do not list coloring hardcovers.
+Kit kept on disk. Release only if this paperback clearly outsells its print peers.

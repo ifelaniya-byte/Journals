@@ -49,5 +49,5 @@ Paste **AMAZON TITLE** from `metadata.txt`, not the short word on the cover.
 | Slow Page, Cozy Corners | Pinterest hygge / cottagecore. Q4. |
 | All coloring | Pinterest first, then Facebook coloring groups. UGC of finished pages. |
 
-Expanded distribution: ON for every title.
+Expanded distribution: OFF (IngramSpark in Wave 2 — PLATFORM_DECISIONS.md).
 

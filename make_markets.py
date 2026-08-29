@@ -22,6 +22,8 @@ HOUSE = 9.99
 # The Middle Season has NO digital edition (print-only flagship lane).
 POOL_499 = {"dump", "dopamine", "cozy", "soft", "settle"}
 NO_DIGITAL = {"middle"}
+# PLATFORM_DECISIONS.md: B&N lists only ≥120pp. Thin kits still exist as HOLD.
+BN_HOLD = {"firststroke", "garden", "cozy", "botanical", "celestial", "tidal", "soft"}
 
 
 def round_99(x: float) -> float:
@@ -88,6 +90,7 @@ def load_titles() -> list[dict]:
                     src=src,
                     kdp=kdp,
                     bn=round(max(kdp, BN_FLOOR), 2),
+                    bn_go=slug not in BN_HOLD,
                     lulu=round_99(max(2.0 * lp, kdp, HOUSE)),
                     digital=(None if r["interior_file"].split("/")[0] in NO_DIGITAL
                              else 4.99 if r["interior_file"].split("/")[0] in POOL_499 else 6.99),
@@ -153,7 +156,13 @@ def build_pack(slug: str, price_key: str, start: str, channel: str, extra: str):
     (out / "00_START_HERE.md").write_text(start, encoding="utf-8")
     titles = load_titles()
     for t in titles:
-        write_listing(t, out / f"{t['n']}_{t['slug']}", channel, t[price_key], extra)
+        extra_t = extra
+        if slug == "BN-Press" and not t.get("bn_go", True):
+            extra_t = (
+                "HOLD — do not upload. PLATFORM_DECISIONS.md: B&N only for titles ≥120pp. "
+                "This file is the $14.99 floor kit kept on disk. KDP stays $9.99."
+            )
+        write_listing(t, out / f"{t['n']}_{t['slug']}", channel, t[price_key], extra_t)
     write_csv(out / "METADATA.csv", titles, price_key, channel)
     prices = sorted({t[price_key] for t in titles})
     print(f"  {slug:18} {len(titles)}  prices {prices}")
@@ -221,12 +230,19 @@ def build_by_title():
             p = t[key]
             path = pack.format(**t)
             sub = folder / cid
+            if cid == "BN":
+                go = t.get("bn_go", go)
             if p is None:
                 lines.append(f"| {name} | **print only** | — | NO |")
                 sub.mkdir(exist_ok=True)
                 (sub / "PRINT_ONLY.txt").write_text(
                     "No digital edition: the flagship stays print-only (owner lane).\n",
                     encoding="utf-8")
+                continue
+            if cid == "BN" and not go:
+                lines.append(f"| {name} | **${p:.2f}** | `{path}` | HOLD |")
+                extra = "HOLD — <120pp at B&N $14.99 looks overpriced vs our $9.99 Amazon edition (PLATFORM_DECISIONS.md). Files exist; do not upload."
+                write_listing(t, sub, name, p, extra)
                 continue
             lines.append(f"| {name} | **${p:.2f}** | `{path}` | {'YES' if go else 'PARKED'} |")
             extra = ("PARKED — Bowker ISBN is upfront money." if not go else "Cut on sale only.")
@@ -291,6 +307,7 @@ def main():
         "bn",
         "# B&N Press — max(KDP list, $14.99)\n\n"
         "B&N will not create a paperback under $14.99 (22 Apr 2026).\n"
+        "LIST the 11 titles ≥120 pages. HOLD the 7 thin titles (96–104pp) — kits exist, do not upload.\n"
         "PDFs = release3/release4. Never upload this price to KDP.\n",
         "BN Press",
         "Hard floor $14.99. Do not put this price on Amazon.",

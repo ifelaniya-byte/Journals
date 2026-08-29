@@ -65,7 +65,7 @@ Our 18 books were scored from the validated builds. The 36 kit books were scored
 ## Branch key (corrected)
 
 - **ADHD-Journals** is OURS. All 18 of our books live here. Every one is now priced at $9.99.
-- **Journals-0-18-and-19-36** is THEIRS. The 36-book kit line, also at $9.99. We do not touch it.
+- **Range-Band** is THEIRS (Range Band Press). The 36-book kit line, also at $9.99. We do not touch it.
 - **main** holds no books. It is just a pointer page that routes to the two catalog branches.
 
 ## How to read this

@@ -1,6 +1,6 @@
 # Quiet Mind Press — 18 paperbacks
 
-Branch: **ADHD-Journals**. Do not merge with `Journals-0-18-and-19-36`.
+Branch: **ADHD-Journals**. Do not merge with `Range-Band` (Range Band Press).
 
 Start here: [`00_START_HERE.md`](00_START_HERE.md) · ads/series: [`MARKETING.md`](MARKETING.md) · sheet: [`CATALOG.csv`](CATALOG.csv)
 

@@ -90,6 +90,7 @@ DESCRIPTION (HTML paste)
 
 --------------------------------------------------------------------------------
 B&N PRESS NOTES (this edition only; everywhere else this book stays $9.99)
+- LIST — ≥120 pages; $14.99 is defensible heft.
 - Price: $14.99. B&N print minimum list price is $14.99 since April 2026.
 - Interior: upload release file dump_interior.pdf UNCHANGED. B&W, bleed OFF.
 - Cover route: upload bn_front.jpg + bn_back.jpg; set spine color #524438;

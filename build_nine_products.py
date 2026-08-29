@@ -2040,7 +2040,7 @@ PRODUCTS = {
     "dump": {
         "title": "The 5-Minute Dump",
         "subtitle": "200 Pages of Rotating Five-Minute Prompts, Undated",
-        "trim": DUMP_TRIM, "pages": 200, "paper": "cream", "price": "$11.99",
+        "trim": DUMP_TRIM, "pages": 200, "paper": "cream", "price": "$9.99",
         "dir": "dump", "tex_rgb": (82, 68, 56), "tex_seed": 21,
         "title_lines": ["THE 5-MINUTE", "DUMP"],
         "categories": "Self-Help > Journaling | Health > ADHD",
@@ -2057,7 +2057,7 @@ PRODUCTS = {
     "parallel": {
         "title": "Parallel Lives",
         "subtitle": "160 Pages of Side-by-Side Prompts: What Happened and How It Felt",
-        "trim": PARALLEL_TRIM, "pages": 160, "paper": "cream", "price": "$15.99",
+        "trim": PARALLEL_TRIM, "pages": 160, "paper": "cream", "price": "$9.99",
         "dir": "parallel", "tex_rgb": (62, 52, 78), "tex_seed": 23,
         "title_lines": ["PARALLEL", "LIVES"],
         "categories": "Self-Help > Journaling | Self-Help > Personal Transformation",
@@ -2073,7 +2073,7 @@ PRODUCTS = {
     "night": {
         "title": "The Night Pages",
         "subtitle": "A 5 by 8 Pocket Nightstand Journal for Racing Thoughts",
-        "trim": NIGHT_TRIM, "pages": 120, "paper": "cream", "price": "$10.99",
+        "trim": NIGHT_TRIM, "pages": 120, "paper": "cream", "price": "$9.99",
         "dir": "night", "tex_rgb": (28, 32, 48), "tex_seed": 25,
         "title_lines": ["THE NIGHT", "PAGES"],
         "categories": "Self-Help > Journaling | Health > Sleep Disorders",
@@ -2122,7 +2122,7 @@ PRODUCTS = {
     "mosaic": {
         "title": "Mosaic Mind",
         "subtitle": "57 Stained-Glass Mosaics, Tessellations and Islamic Stars",
-        "trim": COLOR_TRIM, "pages": 120, "paper": "white", "price": "$12.99",
+        "trim": COLOR_TRIM, "pages": 120, "paper": "white", "price": "$9.99",
         "dir": "mosaic", "tex_rgb": (48, 72, 108), "tex_seed": 35,
         "title_lines": ["MOSAIC", "MIND"],
         "categories": "Crafts > Coloring Books > Geometric & Patterns | Crafts > Coloring Books > Mandalas",
@@ -2138,7 +2138,7 @@ PRODUCTS = {
     "woodland": {
         "title": "Woodland Wonders",
         "subtitle": "57 Cottagecore Designs: Owls, Foxes, Mushrooms and Ferns",
-        "trim": COLOR_TRIM, "pages": 120, "paper": "white", "price": "$12.99",
+        "trim": COLOR_TRIM, "pages": 120, "paper": "white", "price": "$9.99",
         "dir": "woodland", "tex_rgb": (42, 82, 52), "tex_seed": 37,
         "title_lines": ["WOODLAND", "WONDERS"],
         "categories": "Crafts > Coloring Books > Animals | Crafts > Coloring Books > Nature",
@@ -2154,7 +2154,7 @@ PRODUCTS = {
     "fractal": {
         "title": "Fractal Dreams",
         "subtitle": "67 Real Fractals: Sierpinski, Julia Sets and Golden Spirals",
-        "trim": COLOR_TRIM, "pages": 140, "paper": "white", "price": "$14.99",
+        "trim": COLOR_TRIM, "pages": 140, "paper": "white", "price": "$9.99",
         "dir": "fractal", "tex_rgb": (22, 22, 38), "tex_seed": 39,
         "title_lines": ["FRACTAL", "DREAMS"],
         "categories": "Crafts > Coloring Books > Mandalas & Patterns | Science & Math > Mathematics",
@@ -2171,7 +2171,7 @@ PRODUCTS = {
     "architect": {
         "title": "Architectural Visions",
         "subtitle": "67 Intricate Cathedrals, Cityscapes and Rose Windows",
-        "trim": COLOR_TRIM, "pages": 140, "paper": "white", "price": "$14.99",
+        "trim": COLOR_TRIM, "pages": 140, "paper": "white", "price": "$9.99",
         "dir": "architect", "tex_rgb": (54, 60, 94), "tex_seed": 41,
         "title_lines": ["ARCHITECTURAL", "VISIONS"],
         "categories": "Crafts > Coloring Books > Architecture | Crafts > Coloring Books > Cities & Buildings",
@@ -2326,7 +2326,7 @@ DESCRIPTION:
 2. Title: {PRODUCTS[k]['title']} | Subtitle: {PRODUCTS[k]['subtitle']} | Author: {AUTHOR}
 3. Settings: B&W interior, {PRODUCTS[k]['paper'].upper()} paper, {PRODUCTS[k]['trim'][0]/inch}×{PRODUCTS[k]['trim'][1]/inch}, NO bleed, matte
 4. Upload {PRODUCTS[k]['dir']}_interior.pdf + {PRODUCTS[k]['dir']}_cover_wrap.pdf
-5. Price: {PRODUCTS[k]['price']} | Expanded distribution: ON
+5. Price: {PRODUCTS[k]['price']} | Expanded distribution: OFF
 6. Preview → approve → order proof → publish
 """ for k in all_keys]))
 
