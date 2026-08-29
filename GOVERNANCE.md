@@ -49,3 +49,36 @@ separation is a separate **private** repository.
    branches too.
 4. Preserve dated screenshots of the fork/network state and record
    the containment decision, per the sandbox station's note.
+
+## Freeze attestation - 2026-08-29
+
+Verified this date by the omega-station agent:
+
+- **Books frozen:** `ADHD-Journals` @ `3feca69` (tree `f49315a`),
+  746 files, local == remote, working tree clean. Zero PDFs changed
+  since the audited base `59112fc` (docs/metadata only in between),
+  so every interior remains byte-identical to the state that passed
+  the 1078-check audit. Interiors aggregate sha256 prefix:
+  `aefdc33ea4ea26f8`.
+- **Spell-checked:** full sweep over 388 surfaces / 108,273 words
+  (all 18 interiors' complete page text, metadata, cover wraps,
+  market listings, root docs). Every flagged token adjudicated:
+  platform names, acronyms, hyphenated compounds, real wellness
+  vocabulary (polyvagal, FODMAP, PMDD). Drug names (ozempic /
+  wegovy / mounjaro) appear exclusively inside "Never:" policy
+  lines in playbooks - zero occurrences in books, interiors, or
+  listings. Files changed since the audit: mojibake-free, no
+  doubled words. **PASS.**
+- **Contamination:** zero pipeline files on any books branch; books
+  worktree blind to the station; station work is a separate local
+  repository + this branch only.
+- **No LLM anywhere (confirmed from this side too):** station
+  provider committed as `mock`, no API keys in any environment, no
+  model weights on any disk. The socket exists; nothing is plugged
+  in; nothing will be until a mission exists.
+
+Standing owner actions (unchanged): create the empty **private**
+repo for the pipeline (one command then migrates the full station
+history), protect branches, send the counsel email. Per the sandbox
+agent's critical-path note, the email is the gating item for the
+October window.
