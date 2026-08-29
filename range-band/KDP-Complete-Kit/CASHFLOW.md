@@ -36,7 +36,7 @@ search  →  thumbnail  →  $9.99 click  →  Look Inside / bullets  →  buy
 That branch owns: dopamine menu, 75 Soft, somatic/Settle, Night Pages / 3 a.m., peri *memoir*, cozy/celestial/tidal/botanical coloring.
 
 Our 13 is **dose-as-prescribed + Pomodoro**, not a dopamine menu.  
-Our 14 is **hot-flash tallies + sleep wheel**, not The Middle Season.  
+Our 14 is **hot-flash tallies + sleep wheel**, not The Middle Season.  **ADS HOLD** on 14 until Middle Season is clearly not competing in the same ads auction.  
 Our 29 is **WASO clinical fields**, not The Night Pages.  
 Our 27 is **GLP-1 five-minute shot/protein**, not The 5-Minute Dump.
 
