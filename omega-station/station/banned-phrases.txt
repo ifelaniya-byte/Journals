@@ -1,0 +1,19 @@
+# One phrase per line, lowercase. Extend per brand.
+# Lines starting with # are comments.
+cure
+cures
+guarantee
+guaranteed
+miracle
+overnight
+instantly
+ozempic
+wegovy
+fda approved
+clinically proven
+doctor recommended
+medical advice
+diagnose
+prescription
+no side effects
+100% safe

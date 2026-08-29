@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "omega-station"
+version = "2.2.0"
+description = "Reflective autonomous engineering pipeline: Omega reasoning, Shadow integrity, Stationary judge, jailed actor, dual verifiers, dual overseers, hash-chained evidence."
+requires-python = ">=3.11"
+
+[project.scripts]
+omega-station = "omega_station.cli:main"

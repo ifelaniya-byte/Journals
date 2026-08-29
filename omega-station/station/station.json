@@ -1,0 +1,19 @@
+{
+  "provider": "mock",
+  "model": "mock-engineer",
+  "api_key_env": "OMEGA_API_KEY",
+  "api_base": "https://api.openai.com/v1",
+  "max_attempts": 3,
+  "max_actor_steps": 24,
+  "max_model_calls": 60,
+  "max_runtime_seconds": 3600,
+  "command_timeout": 180,
+  "allow_network": false,
+  "auto_accept_critical": false,
+  "max_touched_files": 8,
+  "cpu_limit_s": 30,
+  "mem_limit_mb": 2048,
+  "file_limit_mb": 256,
+  "nproc_limit": 128,
+  "env_passthrough": []
+}
