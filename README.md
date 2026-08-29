@@ -20,3 +20,8 @@ policy verifier (banned phrases, price drift, disclaimers). It is
 air-gapped from the catalog branches by design: catalogs export small
 price/banned files, the station prepares verified assets, humans
 publish. Start at `omega-station/SELLER-CHANNEL.md`.
+
+## Governance
+
+Two stations, one protocol, and the honest answer on where the trust
+boundary lives: see [GOVERNANCE.md](GOVERNANCE.md).

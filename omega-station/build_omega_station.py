@@ -2284,6 +2284,138 @@ add(
 # =========================================================================
 
 add(
+    "omega_station/proposal.py",
+    r'''
+    from __future__ import annotations
+
+    import json
+    import shutil
+    import time
+    from pathlib import Path
+
+    from .ledger import Ledger
+    from .policy import PolicyVerifier
+    from .shadow import manifest_diff, seal_tree
+
+    # Collaboration protocol (interoperates with the sibling
+    # omega-seller-station-sandbox COLLABORATION_PROTOCOL.md): an
+    # untrusted local proposal JSON is verified here, candidate-only.
+    # There is no success state beyond PASS_CANDIDATE - named human
+    # review is always required before anything ships.
+    INTAKE_DENY = ("publish", "price", "upload", "deploy", "post",
+                   "email", "curl", "wget", "git push", "http")
+
+
+    def _safe_rel(p) -> bool:
+        if not isinstance(p, str) or not p:
+            return False
+        if p.startswith("/"):
+            return False
+        if chr(92) in p:            # backslash: windows-ish/escape games
+            return False
+        if ".." in Path(p).parts:
+            return False
+        return True
+
+
+    def run_proposal(root: Path, proposal_path: Path,
+                     banned_file: Path | None = None,
+                     prices_file: Path | None = None) -> dict:
+        root = Path(root).resolve()
+        workspace = root / ".omega"
+        ledger = Ledger(workspace / "proposal-evidence.jsonl")
+        prop = json.loads(Path(proposal_path).read_text(encoding="utf-8"))
+        pid = str(prop.get("mission_id", "PROP-?"))
+        ledger.append("proposal_received", {"mission_id": pid}, task_id=pid)
+
+        def reject(reason):
+            ledger.append("proposal_rejected", {"reason": reason},
+                          task_id=pid)
+            return {"result": "REJECT", "mission_id": pid, "reason": reason}
+
+        # ---- intake gates: fail before anything is copied or written ----
+        blob = json.dumps(prop).lower()
+        for bad in INTAKE_DENY:
+            if '"' + bad + '"' in blob:
+                return reject(f"intake denied: '{bad}' action present")
+        allowed = prop.get("allowed_paths")
+        files = prop.get("files", {})
+        if not isinstance(allowed, list) or not allowed:
+            return reject("allowed_paths missing/empty")
+        if not isinstance(files, dict) or not files:
+            return reject("files missing/empty")
+        for p in list(allowed) + list(files):
+            if not _safe_rel(p):
+                return reject(f"unsafe path: {p!r}")
+        for p in files:
+            if p not in set(allowed):
+                return reject(f"write outside allowed_paths: {p}")
+
+        # ---- fresh, disposable candidate copy of the source tree ----
+        cand = workspace / f"candidate-{int(time.time())}-{pid}"
+        if cand.exists():
+            shutil.rmtree(cand)
+        shutil.copytree(root, cand, ignore=shutil.ignore_patterns(
+            ".git", ".omega", "__pycache__"))
+        ledger.append("candidate_created", {"dir": cand.name}, task_id=pid)
+
+        before = seal_tree(cand)
+        for p, content in files.items():
+            target = cand / p
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_text(str(content), encoding="utf-8")
+        diff = manifest_diff(before, seal_tree(cand))
+        changed = set(diff["added"]) | set(diff["modified"]) | set(diff["removed"])
+        if changed != set(files):
+            shutil.rmtree(cand, ignore_errors=True)
+            return reject(f"undeclared changes: {sorted(changed - set(files))}")
+
+        # ---- verifier B: allowlisted local test commands only ----
+        from .execution import CommandRunner
+        test_results = []
+        for cmd in prop.get("run_tests", []):
+            if not isinstance(cmd, list) or not cmd:
+                return reject("bad test command")
+            if cmd[0] not in ("python", "python3") or any(
+                    x in ("curl", "wget", "ssh", "git") for x in cmd):
+                return reject(f"non-allowlisted test command: {cmd}")
+            res = CommandRunner(cand, timeout=120).run(cmd)
+            test_results.append(res)
+            ledger.append("proposal_test", {"cmd": res["command"],
+                                            "exit": res["exit_code"]},
+                          task_id=pid)
+            if res["exit_code"] != 0:
+                shutil.rmtree(cand, ignore_errors=True)
+                return reject(f"test failed: {res['command']}")
+
+        # ---- policy audit on every written file ----
+        if banned_file or prices_file:
+            pv = PolicyVerifier.from_files(banned_file, prices_file)
+            for p, content in files.items():
+                rep = pv.check(str(content))
+                if not rep["pass"]:
+                    shutil.rmtree(cand, ignore_errors=True)
+                    return reject(
+                        f"policy violation in {p}: "
+                        f"{[v['rule'] for v in rep['violations']]}")
+
+        ledger.append("proposal_pass_candidate", {
+            "files": sorted(files),
+            "tests": [t["command"] for t in test_results],
+            "candidate_dir": cand.name,
+            "note": "PASS_CANDIDATE requires named human review",
+        }, task_id=pid)
+        return {
+            "result": "PASS_CANDIDATE",
+            "mission_id": pid,
+            "candidate_dir": str(cand),
+            "files": sorted(files),
+            "requires": "named human review",
+        }
+    ''',
+)
+
+add(
     "omega_station/cli.py",
     r'''
     from __future__ import annotations
@@ -2308,6 +2440,12 @@ add(
         sub.add_parser("status", help="station status report")
         sub.add_parser("ledger", help="verify the hash-chained evidence ledger")
         sub.add_parser("integrity", help="verify shadow seals vs filesystem")
+        prop = sub.add_parser(
+            "proposal",
+            help="verify an untrusted local proposal JSON (candidate-only)")
+        prop.add_argument("file")
+        prop.add_argument("--banned", help="banned phrases file")
+        prop.add_argument("--prices", help="JSON catalog {title: price}")
         pol = sub.add_parser("policy", help="audit a marketing/copy file")
         pol.add_argument("file")
         pol.add_argument("--banned", help="banned phrases file (one per line)")
@@ -2354,6 +2492,14 @@ add(
             v = station.verify_integrity()
             print(json.dumps(v, indent=2))
             return 0 if v.get("clean", True) else 1
+        if args.command == "proposal":
+            from .proposal import run_proposal
+            res = run_proposal(
+                root, Path(args.file),
+                Path(args.banned) if args.banned else None,
+                Path(args.prices) if args.prices else None)
+            print(json.dumps(res, indent=2))
+            return 0 if res["result"] == "PASS_CANDIDATE" else 1
         if args.command == "policy":
             text = Path(args.file).read_text(encoding="utf-8")
             pv = PolicyVerifier.from_files(
@@ -2372,7 +2518,7 @@ add(
     '''
     """Omega Station: reflective autonomous engineering pipeline."""
 
-    __version__ = "2.2.0"
+    __version__ = "2.3.0"
 
     from .engine import OmegaStation          # noqa: E402,F401
     from .policy import PolicyVerifier        # noqa: E402,F401
@@ -3127,6 +3273,95 @@ add(
 )
 
 add(
+    "tests/test_proposal.py",
+    r'''
+    import json
+    import tempfile
+    import unittest
+    from pathlib import Path
+
+    from omega_station.proposal import run_proposal
+
+
+    def _src(root):
+        (root / "README.md").write_text("source snapshot", encoding="utf-8")
+        (root / "app.py").write_text("x = 1" + chr(10), encoding="utf-8")
+
+
+    def _prop(root, **over):
+        p = {
+            "mission_id": "PROP-1",
+            "title": "add a notes file",
+            "allowed_paths": ["notes.txt"],
+            "files": {"notes.txt": "hello candidate" + chr(10)},
+        }
+        p.update(over)
+        f = root / "proposal.json"
+        f.write_text(json.dumps(p), encoding="utf-8")
+        return f
+
+
+    class TestProposal(unittest.TestCase):
+        def test_valid_proposal_pass_candidate_source_untouched(self):
+            with tempfile.TemporaryDirectory() as td:
+                root = Path(td)
+                _src(root)
+                before = (root / "app.py").read_bytes()
+                res = run_proposal(root, _prop(root))
+                self.assertEqual(res["result"], "PASS_CANDIDATE")
+                self.assertEqual(res["requires"], "named human review")
+                # source snapshot unchanged; write landed in candidate copy
+                self.assertEqual((root / "app.py").read_bytes(), before)
+                self.assertFalse((root / "notes.txt").exists())
+                cand = Path(res["candidate_dir"])
+                self.assertEqual((cand / "notes.txt").read_text().strip(),
+                                 "hello candidate")
+                # ledger chain verifies
+                from omega_station.ledger import Ledger
+                led = Ledger(root / ".omega" / "proposal-evidence.jsonl")
+                self.assertTrue(led.verify_chain()["ok"])
+
+        def test_reject_path_escape(self):
+            with tempfile.TemporaryDirectory() as td:
+                root = Path(td)
+                _src(root)
+                res = run_proposal(root, _prop(
+                    root, files={"../evil.txt": "x"}))
+                self.assertEqual(res["result"], "REJECT")
+                self.assertIn("unsafe path", res["reason"])
+
+        def test_reject_write_outside_allowed(self):
+            with tempfile.TemporaryDirectory() as td:
+                root = Path(td)
+                _src(root)
+                res = run_proposal(root, _prop(
+                    root, files={"other.txt": "x"}))
+                self.assertEqual(res["result"], "REJECT")
+                self.assertIn("outside allowed_paths", res["reason"])
+
+        def test_reject_intake_action(self):
+            with tempfile.TemporaryDirectory() as td:
+                root = Path(td)
+                _src(root)
+                res = run_proposal(root, _prop(root, action="publish"))
+                self.assertEqual(res["result"], "REJECT")
+                self.assertIn("intake denied", res["reason"])
+
+        def test_reject_policy_violation(self):
+            with tempfile.TemporaryDirectory() as td:
+                root = Path(td)
+                _src(root)
+                banned = root / "banned.txt"
+                banned.write_text("cure" + chr(10) + "guaranteed" + chr(10))
+                res = run_proposal(root, _prop(root, files={
+                    "notes.txt": "a guaranteed cure for boredom" + chr(10)}),
+                    banned_file=banned)
+                self.assertEqual(res["result"], "REJECT")
+                self.assertIn("policy violation", res["reason"])
+    ''',
+)
+
+add(
     "station.json",
     r'''
     {
@@ -3261,7 +3496,7 @@ add(
 
     [project]
     name = "omega-station"
-    version = "2.2.0"
+    version = "2.3.0"
     description = "Reflective autonomous engineering pipeline: Omega reasoning, Shadow integrity, Stationary judge, jailed actor, dual verifiers, dual overseers, hash-chained evidence."
     requires-python = ">=3.11"
 
@@ -3368,6 +3603,7 @@ add(
     | Rework with directive feedback | implemented (v1 lost failures; v2 feeds them back) |
     | Budget enforcement (calls / steps / runtime) | implemented + enforced |
     | Marketing policy verifier (banned/price/disclaimer) | implemented + tested |
+    | Untrusted proposal-JSON intake (collaboration protocol) | implemented + tested: candidate-only copies, intake gates, scope/hash verify, PASS_CANDIDATE requires named human review |
     | Persistent seals (cross-session integrity) | implemented + tested |
     | Resume after restart (state/ledger/seals) | implemented + tested |
     | Git branch isolation + per-mission commits | implemented + tested |
@@ -3382,6 +3618,25 @@ add(
     This is an engineering-integrity substrate, not superintelligence.
     The intelligence is whatever you put in the actor slot; the value is
     that nothing it does is trusted until it survives verification.
+
+    ## Collaboration protocol (untrusted proposals)
+
+    Another agent (or the sibling sandbox station) submits a proposal
+    JSON: `allowed_paths` (exact files it may write), `files` (contents),
+    optional `run_tests` (python/unittest allowlist only). The station
+    verifies it candidate-only:
+
+    ```bash
+    python3 -m omega_station proposal proposal.json \
+        --banned banned-phrases.txt --prices prices.example.json
+    ```
+
+    Intake gates reject publish/price/upload/network actions before
+    anything is copied. Writes land in a fresh disposable candidate
+    copy; hash-diff must equal the declared scope exactly; optional
+    allowlisted tests run jailed; policy audit covers every written
+    file. The only success state is PASS_CANDIDATE - named human review
+    required. The source tree is never modified.
 
     ## Final gate (git flow)
 

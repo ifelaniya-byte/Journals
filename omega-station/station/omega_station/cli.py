@@ -20,6 +20,12 @@ def build_parser() -> argparse.ArgumentParser:
     sub.add_parser("status", help="station status report")
     sub.add_parser("ledger", help="verify the hash-chained evidence ledger")
     sub.add_parser("integrity", help="verify shadow seals vs filesystem")
+    prop = sub.add_parser(
+        "proposal",
+        help="verify an untrusted local proposal JSON (candidate-only)")
+    prop.add_argument("file")
+    prop.add_argument("--banned", help="banned phrases file")
+    prop.add_argument("--prices", help="JSON catalog {title: price}")
     pol = sub.add_parser("policy", help="audit a marketing/copy file")
     pol.add_argument("file")
     pol.add_argument("--banned", help="banned phrases file (one per line)")
@@ -66,6 +72,14 @@ def main(argv=None) -> int:
         v = station.verify_integrity()
         print(json.dumps(v, indent=2))
         return 0 if v.get("clean", True) else 1
+    if args.command == "proposal":
+        from .proposal import run_proposal
+        res = run_proposal(
+            root, Path(args.file),
+            Path(args.banned) if args.banned else None,
+            Path(args.prices) if args.prices else None)
+        print(json.dumps(res, indent=2))
+        return 0 if res["result"] == "PASS_CANDIDATE" else 1
     if args.command == "policy":
         text = Path(args.file).read_text(encoding="utf-8")
         pv = PolicyVerifier.from_files(

@@ -93,6 +93,7 @@ explicitly allowed. Every step lands in the evidence ledger.
 | Rework with directive feedback | implemented (v1 lost failures; v2 feeds them back) |
 | Budget enforcement (calls / steps / runtime) | implemented + enforced |
 | Marketing policy verifier (banned/price/disclaimer) | implemented + tested |
+| Untrusted proposal-JSON intake (collaboration protocol) | implemented + tested: candidate-only copies, intake gates, scope/hash verify, PASS_CANDIDATE requires named human review |
 | Persistent seals (cross-session integrity) | implemented + tested |
 | Resume after restart (state/ledger/seals) | implemented + tested |
 | Git branch isolation + per-mission commits | implemented + tested |
@@ -107,6 +108,25 @@ explicitly allowed. Every step lands in the evidence ledger.
 This is an engineering-integrity substrate, not superintelligence.
 The intelligence is whatever you put in the actor slot; the value is
 that nothing it does is trusted until it survives verification.
+
+## Collaboration protocol (untrusted proposals)
+
+Another agent (or the sibling sandbox station) submits a proposal
+JSON: `allowed_paths` (exact files it may write), `files` (contents),
+optional `run_tests` (python/unittest allowlist only). The station
+verifies it candidate-only:
+
+```bash
+python3 -m omega_station proposal proposal.json \
+    --banned banned-phrases.txt --prices prices.example.json
+```
+
+Intake gates reject publish/price/upload/network actions before
+anything is copied. Writes land in a fresh disposable candidate
+copy; hash-diff must equal the declared scope exactly; optional
+allowlisted tests run jailed; policy audit covers every written
+file. The only success state is PASS_CANDIDATE - named human review
+required. The source tree is never modified.
 
 ## Final gate (git flow)
 
