@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.omega/
+.env
+dist/
+build/
+*.egg-info/
+generated/
+proposals/*.json
+!proposals/.gitkeep
+.omega/
+*.egg-info/

@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "omega-seller-station"
+version = "1.0.0"
+description = "Omega/Shadow reflective seller station — missions, seals, hostile verification"
+requires-python = ">=3.11"
+
+[project.scripts]
+omega = "omega.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["omega*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

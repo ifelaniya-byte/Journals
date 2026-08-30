@@ -1,0 +1,14 @@
+{
+  "model_provider": "mock",
+  "model_name": "mock",
+  "api_key_env": "OPENAI_API_KEY",
+  "api_base": "https://api.openai.com/v1",
+  "max_attempts": 3,
+  "max_workers": 2,
+  "command_timeout_seconds": 120,
+  "allow_network": false,
+  "auto_merge": false,
+  "docker_enabled": false,
+  "catalog_file": "catalog.json",
+  "generated_dir": "generated"
+}

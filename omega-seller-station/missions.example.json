@@ -1,0 +1,25 @@
+{
+  "missions": [
+    {
+      "mission_id": "MKT-QM-12-001",
+      "title": "Draft Pinterest copy for The Dopamine Menu",
+      "description": "Three short pin descriptions. Tracking/management tone. No diagnosis.",
+      "requirements": [
+        "Quiet Mind Press only",
+        "KDP price $9.99 if mentioned",
+        "No manufacturer drug brands",
+        "Output JSON in generated/"
+      ],
+      "constraints": [
+        "Do not mix Range Band series",
+        "Do not upload to KDP"
+      ],
+      "files": ["generated/dopamine_pins.json"],
+      "output_path": "generated/dopamine_pins.json",
+      "action": "draft_copy",
+      "risk": "medium",
+      "priority": 10,
+      "mock_body": "The Dopamine Menu — Quiet Mind Press. Five-course stimulation journal. Paperback $9.99 on KDP. Tracking and management only. Not medical advice."
+    }
+  ]
+}

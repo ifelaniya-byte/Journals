@@ -1,0 +1,22 @@
+{
+  "imprints": ["Quiet Mind Press", "Range Band Press"],
+  "kdp_paperback": 9.99,
+  "bn_print": 14.99,
+  "rule": "Never put B&N $14.99 on KDP. Never mix series pages.",
+  "titles": [
+    {
+      "id": "QM-12",
+      "imprint": "Quiet Mind Press",
+      "title": "The Dopamine Menu",
+      "kdp": 9.99,
+      "ads": true
+    },
+    {
+      "id": "RB-01",
+      "imprint": "Range Band Press",
+      "title": "GLP-1 Meal & Satiety Journal",
+      "kdp": 9.99,
+      "ads": true
+    }
+  ]
+}
