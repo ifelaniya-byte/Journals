@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://omega-absolute.dev/spec/experiment.schema.json",
+  "title": "Experiment Record",
+  "description": "Active Experiment Engine (§17) and Autonomous Research Loop (§51). Linked to reproducibility ledger.",
+  "type": "object",
+  "required": ["experiment_id", "hypotheses", "status"],
+  "properties": {
+    "experiment_id": { "type": "string", "format": "uuid" },
+    "parent_id": { "type": ["string", "null"] },
+    "hypotheses": { "type": "array", "items": { "type": "string" } },
+    "design": { "type": "string" },
+    "expected_discrimination": { "type": "number" },
+    "information_gain": { "type": "number" },
+    "cost": { "type": "object" },
+    "risk": { "type": "string" },
+    "reversibility": { "type": "string", "enum": ["REVERSIBLE", "PARTIALLY_REVERSIBLE", "IRREVERSIBLE"] },
+    "feasibility": { "type": "number" },
+    "status": {
+      "type": "string",
+      "enum": ["DESIGNED", "RUNNING", "COMPLETED", "FAILED", "ABORTED"]
+    },
+    "result": { "type": ["object", "null"] },
+    "reproducibility_id": { "type": ["string", "null"] }
+  },
+  "additionalProperties": false
+}

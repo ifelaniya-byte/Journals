@@ -1,0 +1,9 @@
+# Ω-ABSOLUTE Enhanced Foundation Dependencies
+# Core dependencies for enhanced foundation layer
+
+# Testing framework
+pytest>=7.0.0
+
+# Optional dependencies for enhanced features
+# Uncomment if needed for your environment:
+# pyyaml>=6.0  # For YAML configuration support (optional)

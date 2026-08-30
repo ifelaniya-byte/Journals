@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://omega-absolute.dev/spec/omega.schema.json",
+  "title": "Ω-ABSOLUTE Core Schemas",
+  "description": "Canonical schemas for governance, provenance, change-control, reproducibility, development state, and telemetry. Derived directly from the frozen theoretical architecture (§4, §57–§62, §73).",
+  "definitions": {
+    "DevelopmentState": {
+      "type": "string",
+      "enum": [
+        "NOT_DESIGNED",
+        "DESIGNED",
+        "SCAFFOLDED",
+        "IMPLEMENTED",
+        "TESTED",
+        "INTEGRATED",
+        "BENCHMARKED",
+        "VERIFIED",
+        "PROMOTED",
+        "DEPRECATED",
+        "RETIRED"
+      ],
+      "description": "Canonical development states (§61)."
+    },
+    "ClaimLevel": {
+      "type": "string",
+      "enum": [
+        "SPECIFICATION",
+        "IMPLEMENTATION",
+        "TEST",
+        "BENCHMARK",
+        "VERIFICATION",
+        "DEPLOYMENT",
+        "PRODUCTION"
+      ],
+      "description": "Claim discipline levels (§62). Forbidden: claiming VERIFICATION when only IMPLEMENTATION exists."
+    },
+    "EpistemicState": {
+      "type": "string",
+      "enum": [
+        "OBSERVED",
+        "VERIFIED",
+        "SUPPORTED",
+        "INFERRED",
+        "ASSUMED",
+        "HYPOTHESIZED",
+        "UNKNOWN",
+        "CONTRADICTED",
+        "DISPROVEN",
+        "STALE"
+      ],
+      "description": "Canonical epistemic states (§7)."
+    },
+    "SourceType": {
+      "type": "string",
+      "enum": [
+        "USER_PROVIDED",
+        "PROJECT_FILE",
+        "EXPERIMENT",
+        "TOOL",
+        "WEB_SOURCE",
+        "MODEL_INFERENCE",
+        "HYPOTHESIS"
+      ],
+      "description": "Provenance source types (§59)."
+    },
+    "CapabilityState": {
+      "type": "string",
+      "enum": [
+        "ACTIVE",
+        "DEGRADING",
+        "RETEST_REQUIRED",
+        "REPAIR_REQUIRED",
+        "RETIRED"
+      ],
+      "description": "Capability decay states (§48)."
+    }
+  }
+}

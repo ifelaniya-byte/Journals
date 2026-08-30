@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://omega-absolute.dev/spec/change_control.schema.json",
+  "title": "Change Control Record",
+  "description": "Every architectural change MUST include CHANGE_ID, DATE, AUTHOR_OR_AGENT, PREVIOUS_VERSION, NEW_VERSION, REASON, EXPECTED_GAIN, EXPECTED_RISK, TEST_PLAN, TEST_RESULT, ROLLBACK_PLAN (§60). No silent architectural mutation.",
+  "type": "object",
+  "required": [
+    "change_id",
+    "date",
+    "author_or_agent",
+    "previous_version",
+    "new_version",
+    "reason",
+    "expected_gain",
+    "expected_risk",
+    "test_plan",
+    "rollback_plan"
+  ],
+  "properties": {
+    "change_id": { "type": "string", "format": "uuid" },
+    "date": { "type": "string", "format": "date-time" },
+    "author_or_agent": { "type": "string" },
+    "previous_version": { "type": "string" },
+    "new_version": { "type": "string" },
+    "reason": { "type": "string" },
+    "expected_gain": { "type": "string" },
+    "expected_risk": { "type": "string" },
+    "test_plan": { "type": "string" },
+    "test_result": { "type": ["string", "null"] },
+    "rollback_plan": { "type": "string" },
+    "status": {
+      "type": "string",
+      "enum": ["PROPOSED", "APPROVED", "APPLIED", "ROLLED_BACK", "REJECTED"]
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://omega-absolute.dev/spec/provenance.schema.json",
+  "title": "Provenance Record",
+  "description": "Every imported fact MUST identify SOURCE, SOURCE_TYPE, ACQUISITION_TIME, CLAIM, EVIDENCE, CONFIDENCE, TRANSFORMATION, DERIVATION (§59).",
+  "type": "object",
+  "required": ["source", "source_type", "acquisition_time", "claim", "confidence"],
+  "properties": {
+    "provenance_id": { "type": "string", "format": "uuid" },
+    "source": { "type": "string" },
+    "source_type": { "$ref": "omega.schema.json#/definitions/SourceType" },
+    "acquisition_time": { "type": "string", "format": "date-time" },
+    "claim": { "type": "string" },
+    "evidence": { "type": "array", "items": { "type": "string" } },
+    "confidence": { "type": "number", "minimum": 0.0, "maximum": 1.0 },
+    "transforms": { "type": "array", "items": { "type": "string" } },
+    "derivation": { "type": "string" },
+    "parent_provenance_ids": { "type": "array", "items": { "type": "string", "format": "uuid" } }
+  },
+  "additionalProperties": false
+}

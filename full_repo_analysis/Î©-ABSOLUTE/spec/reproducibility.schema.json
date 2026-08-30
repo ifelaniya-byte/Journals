@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://omega-absolute.dev/spec/reproducibility.schema.json",
+  "title": "Reproducibility Ledger Entry",
+  "description": "Every important experiment MUST produce EXPERIMENT_ID, PARENT_ID, CODE_VERSION, CONFIG_VERSION, MODEL_VERSION, TOOL_VERSION, INPUT_HASH, OUTPUT_HASH, ENVIRONMENT_HASH, RANDOM_SEED, START_TIME, END_TIME, RESOURCE_USAGE, RESULT, METRICS, FAILURE_STATE (§58).",
+  "type": "object",
+  "required": [
+    "experiment_id",
+    "code_version",
+    "start_time",
+    "result"
+  ],
+  "properties": {
+    "experiment_id": { "type": "string", "format": "uuid" },
+    "parent_id": { "type": ["string", "null"], "format": "uuid" },
+    "code_version": { "type": "string" },
+    "config_version": { "type": ["string", "null"] },
+    "model_version": { "type": ["string", "null"] },
+    "tool_version": { "type": ["string", "null"] },
+    "input_hash": { "type": ["string", "null"] },
+    "output_hash": { "type": ["string", "null"] },
+    "environment_hash": { "type": ["string", "null"] },
+    "random_seed": { "type": ["integer", "null"] },
+    "start_time": { "type": "string", "format": "date-time" },
+    "end_time": { "type": ["string", "null"], "format": "date-time" },
+    "resource_usage": { "type": "object" },
+    "result": { "type": "string" },
+    "metrics": { "type": "object" },
+    "failure_state": { "type": ["string", "null"] },
+    "status": {
+      "type": "string",
+      "enum": ["RUNNING", "COMPLETED", "FAILED", "UNREPRODUCED", "REPRODUCED"]
+    }
+  },
+  "additionalProperties": false
+}

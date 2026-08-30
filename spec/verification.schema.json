@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://omega-absolute.dev/spec/verification.schema.json",
+  "title": "Verification Record",
+  "description": "Verification MUST inspect inputs, assumptions, intermediate states, tools, evidence, reasoning artifacts, final result, constraints, execution trace. Independent methods preferred (§30). Verifier-of-Verifiers required for consequential results (§32).",
+  "type": "object",
+  "required": ["verification_id", "target_id", "method", "status", "timestamp"],
+  "properties": {
+    "verification_id": { "type": "string", "format": "uuid" },
+    "target_id": { "type": "string" },
+    "method": { "type": "string" },
+    "status": {
+      "type": "string",
+      "enum": ["PENDING", "PASSED", "FAILED", "INCONCLUSIVE", "AUDITED"]
+    },
+    "timestamp": { "type": "string", "format": "date-time" },
+    "evidence": { "type": "array", "items": { "type": "string" } },
+    "findings": { "type": "array", "items": { "type": "string" } },
+    "verifier_id": { "type": "string" },
+    "parent_verification_id": { "type": ["string", "null"] },
+    "independent": { "type": "boolean", "default": false }
+  },
+  "additionalProperties": false
+}

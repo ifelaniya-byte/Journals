@@ -1,0 +1,3 @@
+# Ω-ABSOLUTE foundation dependencies
+# Pure Python + pytest for verification of the foundation layer.
+pytest>=7.0.0
