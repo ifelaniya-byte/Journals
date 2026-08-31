@@ -1,5 +1,6 @@
 Title: Invoice Follow-Up
-Subtitle: Practical undated record-keeping tool
+Subtitle: A title-specific undated record system for invoice follow-up
+Fields: Date / period | Source or account | Amount or status as stated | Document location | Next follow-up
+Research basis: CFPB public consumer-finance guidance
 Status: HOLD_HUMAN_REVIEW
-Price: 9.99
-Personal-use organization tool only. Not legal, tax, financial, medical, emergency, education, employment, or accessibility advice.
+Organization tool only; no professional advice or guaranteed outcome.

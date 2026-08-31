@@ -1,6 +1,6 @@
 Title: Care Team Question Cards
-Subtitle: Topic, Example, Question, And Answer Notes (Undated Records)
-Price: 9.99
-Audience: adults seeking a practical record-keeping tool.
-Description: A structured, undated notebook for capturing observations, questions, ownership, and next steps. It does not diagnose, treat, or replace professional advice.
-Keywords: care team question cards, topic, example, question, and answer notes, undated notebook, practical planner, records journal, follow up log, personal organization
+Subtitle: A title-specific undated record system for care team question cards
+Fields: Date / visit | What was observed or said | Provider / source | Question to bring forward | Next confirmed step
+Research basis: official-care-record organization guidance; records only
+Status: HOLD_HUMAN_REVIEW
+This is an organization tool only; it does not provide medical, legal, tax, financial, employment, benefits, emergency, or accessibility advice.

@@ -1,6 +1,6 @@
 Title: Seasonal Vehicle Readiness Book
-Subtitle: Check, Date, Evidence, And Service Question (Undated Records)
-Price: 9.99
-Audience: adults seeking a practical record-keeping tool.
-Description: A structured, undated notebook for capturing observations, questions, ownership, and next steps. It does not diagnose, treat, or replace professional advice.
-Keywords: seasonal vehicle readiness book, check, date, evidence, and service question, undated notebook, practical planner, records journal, follow up log, personal organization
+Subtitle: A title-specific undated record system for seasonal vehicle readiness book
+Fields: Area / item | Condition or observation | Photo / receipt reference | Person or vendor | Next action
+Research basis: FEMA preparedness and property-record guidance
+Status: HOLD_HUMAN_REVIEW
+This is an organization tool only; it does not provide medical, legal, tax, financial, employment, benefits, emergency, or accessibility advice.

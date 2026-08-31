@@ -1,5 +1,6 @@
-Title: Scholarship & Aid Tracker
-Subtitle: Practical undated record-keeping tool
+Title: Scholarship and Aid Tracker
+Subtitle: A title-specific undated record system for scholarship and aid tracker
+Fields: Program / school | Requirement or deadline | Document received | Contact / reference | Next action
+Research basis: U.S. Department of Education FAFSA/toolkit guidance
 Status: HOLD_HUMAN_REVIEW
-Price: 9.99
-Personal-use organization tool only. Not legal, tax, financial, medical, emergency, education, employment, or accessibility advice.
+Organization tool only; no professional advice or guaranteed outcome.

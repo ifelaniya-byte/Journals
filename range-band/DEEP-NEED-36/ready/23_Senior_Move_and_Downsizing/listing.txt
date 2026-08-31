@@ -1,5 +1,6 @@
-Title: Senior Move & Downsizing
-Subtitle: Practical undated record-keeping tool
+Title: Senior Move and Downsizing
+Subtitle: A title-specific undated record system for senior move and downsizing
+Fields: Setting / request | Need or barrier observed | Contact / confirmation | Option considered | Next action
+Research basis: public accessibility-planning guidance
 Status: HOLD_HUMAN_REVIEW
-Price: 9.99
-Personal-use organization tool only. Not legal, tax, financial, medical, emergency, education, employment, or accessibility advice.
+Organization tool only; no professional advice or guaranteed outcome.

@@ -1,5 +1,6 @@
 Title: Medication Conversation Log
-Subtitle: Practical undated record-keeping tool
+Subtitle: A title-specific undated record system for medication conversation log
+Fields: Date / visit | What was observed or said | Provider / source | Question to bring forward | Next confirmed step
+Research basis: official-care-record organization guidance; records only
 Status: HOLD_HUMAN_REVIEW
-Price: 9.99
-Personal-use organization tool only. Not legal, tax, financial, medical, emergency, education, employment, or accessibility advice.
+Organization tool only; no professional advice or guaranteed outcome.

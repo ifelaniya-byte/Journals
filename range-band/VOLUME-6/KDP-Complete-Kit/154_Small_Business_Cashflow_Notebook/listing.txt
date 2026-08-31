@@ -1,6 +1,6 @@
 Title: Small Business Cashflow Notebook
-Subtitle: Invoices, Expenses, And Decisions (Undated Records)
-Price: 9.99
-Audience: adults seeking a practical record-keeping tool.
-Description: A structured, undated notebook for capturing observations, questions, ownership, and next steps. It does not diagnose, treat, or replace professional advice.
-Keywords: small business cashflow notebook, invoices, expenses, and decisions, undated notebook, practical planner, records journal, follow up log, personal organization
+Subtitle: A title-specific undated record system for small business cashflow notebook
+Fields: Setting / request | Need or barrier observed | Contact / confirmation | Option considered | Next action
+Research basis: public accessibility-planning guidance
+Status: HOLD_HUMAN_REVIEW
+This is an organization tool only; it does not provide medical, legal, tax, financial, employment, benefits, emergency, or accessibility advice.
