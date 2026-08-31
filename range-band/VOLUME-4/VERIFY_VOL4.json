@@ -1,0 +1,1057 @@
+{
+  "summary": {
+    "kits": 36,
+    "files_ok": true,
+    "issues": [],
+    "keyword_issues": [],
+    "unique_keywords": 252,
+    "pages_min": 83,
+    "pages_max": 118
+  },
+  "rows": [
+    {
+      "n": "10",
+      "folder": "100_Pet_Loss_Grief_Ledger",
+      "files": [
+        "100_Pet_Loss_Grief_Ledger_COVER_FRONT.pdf",
+        "100_Pet_Loss_Grief_Ledger_COVER_WRAP.pdf",
+        "100_Pet_Loss_Grief_Ledger_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "10",
+      "folder": "101_Loss_After_Miscarriage",
+      "files": [
+        "101_Loss_After_Miscarriage_COVER_FRONT.pdf",
+        "101_Loss_After_Miscarriage_COVER_WRAP.pdf",
+        "101_Loss_After_Miscarriage_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "10",
+      "folder": "102_Estrangement_Contact_Ledger",
+      "files": [
+        "102_Estrangement_Contact_Ledger_COVER_FRONT.pdf",
+        "102_Estrangement_Contact_Ledger_COVER_WRAP.pdf",
+        "102_Estrangement_Contact_Ledger_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "10",
+      "folder": "103_Divorce_Rebuilding_Map",
+      "files": [
+        "103_Divorce_Rebuilding_Map_COVER_FRONT.pdf",
+        "103_Divorce_Rebuilding_Map_COVER_WRAP.pdf",
+        "103_Divorce_Rebuilding_Map_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "10",
+      "folder": "104_Sandwich_Generation_Bandwidth",
+      "files": [
+        "104_Sandwich_Generation_Bandwidth_COVER_FRONT.pdf",
+        "104_Sandwich_Generation_Bandwidth_COVER_WRAP.pdf",
+        "104_Sandwich_Generation_Bandwidth_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "10",
+      "folder": "105_ADHD_Meds_Appointments",
+      "files": [
+        "105_ADHD_Meds_Appointments_COVER_FRONT.pdf",
+        "105_ADHD_Meds_Appointments_COVER_WRAP.pdf",
+        "105_ADHD_Meds_Appointments_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "10",
+      "folder": "106_Neurodivergent_Routine_Map",
+      "files": [
+        "106_Neurodivergent_Routine_Map_COVER_FRONT.pdf",
+        "106_Neurodivergent_Routine_Map_COVER_WRAP.pdf",
+        "106_Neurodivergent_Routine_Map_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "10",
+      "folder": "107_Aging_Strong_Journey",
+      "files": [
+        "107_Aging_Strong_Journey_COVER_FRONT.pdf",
+        "107_Aging_Strong_Journey_COVER_WRAP.pdf",
+        "107_Aging_Strong_Journey_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "10",
+      "folder": "108_Care_Partner_Long_Goodbye",
+      "files": [
+        "108_Care_Partner_Long_Goodbye_COVER_FRONT.pdf",
+        "108_Care_Partner_Long_Goodbye_COVER_WRAP.pdf",
+        "108_Care_Partner_Long_Goodbye_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "73",
+      "folder": "73_Adenomyosis_Fibroid_Ledger",
+      "files": [
+        "73_Adenomyosis_Fibroid_Ledger_COVER_FRONT.pdf",
+        "73_Adenomyosis_Fibroid_Ledger_COVER_WRAP.pdf",
+        "73_Adenomyosis_Fibroid_Ledger_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "74",
+      "folder": "74_Hashimoto_Thyroid_Energy_Map",
+      "files": [
+        "74_Hashimoto_Thyroid_Energy_Map_COVER_FRONT.pdf",
+        "74_Hashimoto_Thyroid_Energy_Map_COVER_WRAP.pdf",
+        "74_Hashimoto_Thyroid_Energy_Map_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "75",
+      "folder": "75_Insulin_Resistance_Wave",
+      "files": [
+        "75_Insulin_Resistance_Wave_COVER_FRONT.pdf",
+        "75_Insulin_Resistance_Wave_COVER_WRAP.pdf",
+        "75_Insulin_Resistance_Wave_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "76",
+      "folder": "76_CKD_Clinic_Lab_Ledger",
+      "files": [
+        "76_CKD_Clinic_Lab_Ledger_COVER_FRONT.pdf",
+        "76_CKD_Clinic_Lab_Ledger_COVER_WRAP.pdf",
+        "76_CKD_Clinic_Lab_Ledger_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "77",
+      "folder": "77_Dialysis_Session_Log",
+      "files": [
+        "77_Dialysis_Session_Log_COVER_FRONT.pdf",
+        "77_Dialysis_Session_Log_COVER_WRAP.pdf",
+        "77_Dialysis_Session_Log_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 83,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 83,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.437,
+        9.25
+      ],
+      "expected_wrap": [
+        12.437,
+        9.25
+      ]
+    },
+    {
+      "n": "78",
+      "folder": "78_COPD_Breath_Scale",
+      "files": [
+        "78_COPD_Breath_Scale_COVER_FRONT.pdf",
+        "78_COPD_Breath_Scale_COVER_WRAP.pdf",
+        "78_COPD_Breath_Scale_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "79",
+      "folder": "79_Asthma_Wind_Trigger_Log",
+      "files": [
+        "79_Asthma_Wind_Trigger_Log_COVER_FRONT.pdf",
+        "79_Asthma_Wind_Trigger_Log_COVER_WRAP.pdf",
+        "79_Asthma_Wind_Trigger_Log_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "80",
+      "folder": "80_Restless_Legs_Sleep_Pressure",
+      "files": [
+        "80_Restless_Legs_Sleep_Pressure_COVER_FRONT.pdf",
+        "80_Restless_Legs_Sleep_Pressure_COVER_WRAP.pdf",
+        "80_Restless_Legs_Sleep_Pressure_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 83,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 83,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.437,
+        9.25
+      ],
+      "expected_wrap": [
+        12.437,
+        9.25
+      ]
+    },
+    {
+      "n": "81",
+      "folder": "81_Narcolepsy_Sleep_Pressure",
+      "files": [
+        "81_Narcolepsy_Sleep_Pressure_COVER_FRONT.pdf",
+        "81_Narcolepsy_Sleep_Pressure_COVER_WRAP.pdf",
+        "81_Narcolepsy_Sleep_Pressure_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 83,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 83,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.437,
+        9.25
+      ],
+      "expected_wrap": [
+        12.437,
+        9.25
+      ]
+    },
+    {
+      "n": "82",
+      "folder": "82_Insomnia_Restedness_Map",
+      "files": [
+        "82_Insomnia_Restedness_Map_COVER_FRONT.pdf",
+        "82_Insomnia_Restedness_Map_COVER_WRAP.pdf",
+        "82_Insomnia_Restedness_Map_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 83,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 83,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.437,
+        9.25
+      ],
+      "expected_wrap": [
+        12.437,
+        9.25
+      ]
+    },
+    {
+      "n": "83",
+      "folder": "83_AFib_Anticoagulation_Log",
+      "files": [
+        "83_AFib_Anticoagulation_Log_COVER_FRONT.pdf",
+        "83_AFib_Anticoagulation_Log_COVER_WRAP.pdf",
+        "83_AFib_Anticoagulation_Log_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "84",
+      "folder": "84_Cholesterol_Journey",
+      "files": [
+        "84_Cholesterol_Journey_COVER_FRONT.pdf",
+        "84_Cholesterol_Journey_COVER_WRAP.pdf",
+        "84_Cholesterol_Journey_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "85",
+      "folder": "85_PostConcussion_Recovery_Map",
+      "files": [
+        "85_PostConcussion_Recovery_Map_COVER_FRONT.pdf",
+        "85_PostConcussion_Recovery_Map_COVER_WRAP.pdf",
+        "85_PostConcussion_Recovery_Map_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "86",
+      "folder": "86_Fibromyalgia_Weather_Map",
+      "files": [
+        "86_Fibromyalgia_Weather_Map_COVER_FRONT.pdf",
+        "86_Fibromyalgia_Weather_Map_COVER_WRAP.pdf",
+        "86_Fibromyalgia_Weather_Map_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "87",
+      "folder": "87_Sjogren_Dryness_Map",
+      "files": [
+        "87_Sjogren_Dryness_Map_COVER_FRONT.pdf",
+        "87_Sjogren_Dryness_Map_COVER_WRAP.pdf",
+        "87_Sjogren_Dryness_Map_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "88",
+      "folder": "88_Scleroderma_Raynaud_Log",
+      "files": [
+        "88_Scleroderma_Raynaud_Log_COVER_FRONT.pdf",
+        "88_Scleroderma_Raynaud_Log_COVER_WRAP.pdf",
+        "88_Scleroderma_Raynaud_Log_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "89",
+      "folder": "89_MS_Sensory_Map",
+      "files": [
+        "89_MS_Sensory_Map_COVER_FRONT.pdf",
+        "89_MS_Sensory_Map_COVER_WRAP.pdf",
+        "89_MS_Sensory_Map_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "90",
+      "folder": "90_Eczema_Psoriasis_Flare_Map",
+      "files": [
+        "90_Eczema_Psoriasis_Flare_Map_COVER_FRONT.pdf",
+        "90_Eczema_Psoriasis_Flare_Map_COVER_WRAP.pdf",
+        "90_Eczema_Psoriasis_Flare_Map_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "91",
+      "folder": "91_ADHD_Task_Paralysis_Planner",
+      "files": [
+        "91_ADHD_Task_Paralysis_Planner_COVER_FRONT.pdf",
+        "91_ADHD_Task_Paralysis_Planner_COVER_WRAP.pdf",
+        "91_ADHD_Task_Paralysis_Planner_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "92",
+      "folder": "92_Autistic_Burnout_Ledger",
+      "files": [
+        "92_Autistic_Burnout_Ledger_COVER_FRONT.pdf",
+        "92_Autistic_Burnout_Ledger_COVER_WRAP.pdf",
+        "92_Autistic_Burnout_Ledger_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "93",
+      "folder": "93_Sensory_Overload_Emergency_Kit",
+      "files": [
+        "93_Sensory_Overload_Emergency_Kit_COVER_FRONT.pdf",
+        "93_Sensory_Overload_Emergency_Kit_COVER_WRAP.pdf",
+        "93_Sensory_Overload_Emergency_Kit_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 83,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 83,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.437,
+        9.25
+      ],
+      "expected_wrap": [
+        12.437,
+        9.25
+      ]
+    },
+    {
+      "n": "94",
+      "folder": "94_Rejection_Sensitivity_Radar",
+      "files": [
+        "94_Rejection_Sensitivity_Radar_COVER_FRONT.pdf",
+        "94_Rejection_Sensitivity_Radar_COVER_WRAP.pdf",
+        "94_Rejection_Sensitivity_Radar_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "95",
+      "folder": "95_Intrusive_Thought_Compulsion_Ledger",
+      "files": [
+        "95_Intrusive_Thought_Compulsion_Ledger_COVER_FRONT.pdf",
+        "95_Intrusive_Thought_Compulsion_Ledger_COVER_WRAP.pdf",
+        "95_Intrusive_Thought_Compulsion_Ledger_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "96",
+      "folder": "96_Flashback_Grounding_Timeline",
+      "files": [
+        "96_Flashback_Grounding_Timeline_COVER_FRONT.pdf",
+        "96_Flashback_Grounding_Timeline_COVER_WRAP.pdf",
+        "96_Flashback_Grounding_Timeline_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "97",
+      "folder": "97_Dissociation_Grounding_Map",
+      "files": [
+        "97_Dissociation_Grounding_Map_COVER_FRONT.pdf",
+        "97_Dissociation_Grounding_Map_COVER_WRAP.pdf",
+        "97_Dissociation_Grounding_Map_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 83,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 83,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.437,
+        9.25
+      ],
+      "expected_wrap": [
+        12.437,
+        9.25
+      ]
+    },
+    {
+      "n": "98",
+      "folder": "98_Panic_Drill_Log",
+      "files": [
+        "98_Panic_Drill_Log_COVER_FRONT.pdf",
+        "98_Panic_Drill_Log_COVER_WRAP.pdf",
+        "98_Panic_Drill_Log_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 83,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 83,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.437,
+        9.25
+      ],
+      "expected_wrap": [
+        12.437,
+        9.25
+      ]
+    },
+    {
+      "n": "99",
+      "folder": "99_Depression_Energy_Gauge",
+      "files": [
+        "99_Depression_Energy_Gauge_COVER_FRONT.pdf",
+        "99_Depression_Energy_Gauge_COVER_WRAP.pdf",
+        "99_Depression_Energy_Gauge_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    }
+  ]
+}

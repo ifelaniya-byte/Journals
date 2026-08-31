@@ -1,0 +1,1057 @@
+{
+  "summary": {
+    "kits": 36,
+    "files_ok": true,
+    "issues": [],
+    "keyword_issues": [],
+    "unique_keywords": 252,
+    "pages_min": 83,
+    "pages_max": 118
+  },
+  "rows": [
+    {
+      "n": "37",
+      "folder": "37_PCOS_Cycle_Compass",
+      "files": [
+        "37_PCOS_Cycle_Compass_COVER_FRONT.pdf",
+        "37_PCOS_Cycle_Compass_COVER_WRAP.pdf",
+        "37_PCOS_Cycle_Compass_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "38",
+      "folder": "38_Endometriosis_Pain_Radar",
+      "files": [
+        "38_Endometriosis_Pain_Radar_COVER_FRONT.pdf",
+        "38_Endometriosis_Pain_Radar_COVER_WRAP.pdf",
+        "38_Endometriosis_Pain_Radar_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "39",
+      "folder": "39_LongCovid_Energy_Ledger",
+      "files": [
+        "39_LongCovid_Energy_Ledger_COVER_FRONT.pdf",
+        "39_LongCovid_Energy_Ledger_COVER_WRAP.pdf",
+        "39_LongCovid_Energy_Ledger_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 112,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 112,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.502,
+        9.25
+      ],
+      "expected_wrap": [
+        12.502,
+        9.25
+      ]
+    },
+    {
+      "n": "40",
+      "folder": "40_SleepApnea_NightShift_Gauge",
+      "files": [
+        "40_SleepApnea_NightShift_Gauge_COVER_FRONT.pdf",
+        "40_SleepApnea_NightShift_Gauge_COVER_WRAP.pdf",
+        "40_SleepApnea_NightShift_Gauge_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 83,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 83,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.437,
+        9.25
+      ],
+      "expected_wrap": [
+        12.437,
+        9.25
+      ]
+    },
+    {
+      "n": "41",
+      "folder": "41_T1D_Bolt_Log",
+      "files": [
+        "41_T1D_Bolt_Log_COVER_FRONT.pdf",
+        "41_T1D_Bolt_Log_COVER_WRAP.pdf",
+        "41_T1D_Bolt_Log_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "42",
+      "folder": "42_Neuropathy_Nerve_Map",
+      "files": [
+        "42_Neuropathy_Nerve_Map_COVER_FRONT.pdf",
+        "42_Neuropathy_Nerve_Map_COVER_WRAP.pdf",
+        "42_Neuropathy_Nerve_Map_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "43",
+      "folder": "43_Histamine_Bucket_Diary",
+      "files": [
+        "43_Histamine_Bucket_Diary_COVER_FRONT.pdf",
+        "43_Histamine_Bucket_Diary_COVER_WRAP.pdf",
+        "43_Histamine_Bucket_Diary_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 83,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 83,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.437,
+        9.25
+      ],
+      "expected_wrap": [
+        12.437,
+        9.25
+      ]
+    },
+    {
+      "n": "44",
+      "folder": "44_Celiac_Contamination_Trail",
+      "files": [
+        "44_Celiac_Contamination_Trail_COVER_FRONT.pdf",
+        "44_Celiac_Contamination_Trail_COVER_WRAP.pdf",
+        "44_Celiac_Contamination_Trail_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "45",
+      "folder": "45_GutBrain_Wire",
+      "files": [
+        "45_GutBrain_Wire_COVER_FRONT.pdf",
+        "45_GutBrain_Wire_COVER_WRAP.pdf",
+        "45_GutBrain_Wire_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 83,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 83,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.437,
+        9.25
+      ],
+      "expected_wrap": [
+        12.437,
+        9.25
+      ]
+    },
+    {
+      "n": "46",
+      "folder": "46_Lupus_RA_Joint_Map",
+      "files": [
+        "46_Lupus_RA_Joint_Map_COVER_FRONT.pdf",
+        "46_Lupus_RA_Joint_Map_COVER_WRAP.pdf",
+        "46_Lupus_RA_Joint_Map_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "47",
+      "folder": "47_Cardiac_BP_Wave",
+      "files": [
+        "47_Cardiac_BP_Wave_COVER_FRONT.pdf",
+        "47_Cardiac_BP_Wave_COVER_WRAP.pdf",
+        "47_Cardiac_BP_Wave_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 112,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 112,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.502,
+        9.25
+      ],
+      "expected_wrap": [
+        12.502,
+        9.25
+      ]
+    },
+    {
+      "n": "48",
+      "folder": "48_Stroke_Recovery_Runway",
+      "files": [
+        "48_Stroke_Recovery_Runway_COVER_FRONT.pdf",
+        "48_Stroke_Recovery_Runway_COVER_WRAP.pdf",
+        "48_Stroke_Recovery_Runway_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "49",
+      "folder": "49_Oncology_Treatment_Companion",
+      "files": [
+        "49_Oncology_Treatment_Companion_COVER_FRONT.pdf",
+        "49_Oncology_Treatment_Companion_COVER_WRAP.pdf",
+        "49_Oncology_Treatment_Companion_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 112,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 112,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.502,
+        9.25
+      ],
+      "expected_wrap": [
+        12.502,
+        9.25
+      ]
+    },
+    {
+      "n": "50",
+      "folder": "50_Caregiver_Shift_Log",
+      "files": [
+        "50_Caregiver_Shift_Log_COVER_FRONT.pdf",
+        "50_Caregiver_Shift_Log_COVER_WRAP.pdf",
+        "50_Caregiver_Shift_Log_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 83,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 83,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.437,
+        9.25
+      ],
+      "expected_wrap": [
+        12.437,
+        9.25
+      ]
+    },
+    {
+      "n": "51",
+      "folder": "51_Vertigo_Position_Map",
+      "files": [
+        "51_Vertigo_Position_Map_COVER_FRONT.pdf",
+        "51_Vertigo_Position_Map_COVER_WRAP.pdf",
+        "51_Vertigo_Position_Map_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "52",
+      "folder": "52_Tinnitus_Sound_Ladder",
+      "files": [
+        "52_Tinnitus_Sound_Ladder_COVER_FRONT.pdf",
+        "52_Tinnitus_Sound_Ladder_COVER_WRAP.pdf",
+        "52_Tinnitus_Sound_Ladder_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "53",
+      "folder": "53_POTS_Position_Ledger",
+      "files": [
+        "53_POTS_Position_Ledger_COVER_FRONT.pdf",
+        "53_POTS_Position_Ledger_COVER_WRAP.pdf",
+        "53_POTS_Position_Ledger_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "54",
+      "folder": "54_Hypermobility_Joint_Guard",
+      "files": [
+        "54_Hypermobility_Joint_Guard_COVER_FRONT.pdf",
+        "54_Hypermobility_Joint_Guard_COVER_WRAP.pdf",
+        "54_Hypermobility_Joint_Guard_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "55",
+      "folder": "55_Symptom_Detective_Kit",
+      "files": [
+        "55_Symptom_Detective_Kit_COVER_FRONT.pdf",
+        "55_Symptom_Detective_Kit_COVER_WRAP.pdf",
+        "55_Symptom_Detective_Kit_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 112,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 112,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.502,
+        9.25
+      ],
+      "expected_wrap": [
+        12.502,
+        9.25
+      ]
+    },
+    {
+      "n": "56",
+      "folder": "56_IBD_Flare_Timeline",
+      "files": [
+        "56_IBD_Flare_Timeline_COVER_FRONT.pdf",
+        "56_IBD_Flare_Timeline_COVER_WRAP.pdf",
+        "56_IBD_Flare_Timeline_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "57",
+      "folder": "57_Shadow_Work_Doorways",
+      "files": [
+        "57_Shadow_Work_Doorways_COVER_FRONT.pdf",
+        "57_Shadow_Work_Doorways_COVER_WRAP.pdf",
+        "57_Shadow_Work_Doorways_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 112,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 112,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.502,
+        9.25
+      ],
+      "expected_wrap": [
+        12.502,
+        9.25
+      ]
+    },
+    {
+      "n": "58",
+      "folder": "58_Boundary_Script_Builder",
+      "files": [
+        "58_Boundary_Script_Builder_COVER_FRONT.pdf",
+        "58_Boundary_Script_Builder_COVER_WRAP.pdf",
+        "58_Boundary_Script_Builder_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 112,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 112,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.502,
+        9.25
+      ],
+      "expected_wrap": [
+        12.502,
+        9.25
+      ]
+    },
+    {
+      "n": "59",
+      "folder": "59_Mens_Pressure_Valve",
+      "files": [
+        "59_Mens_Pressure_Valve_COVER_FRONT.pdf",
+        "59_Mens_Pressure_Valve_COVER_WRAP.pdf",
+        "59_Mens_Pressure_Valve_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "60",
+      "folder": "60_Inner_Critic_Courtroom",
+      "files": [
+        "60_Inner_Critic_Courtroom_COVER_FRONT.pdf",
+        "60_Inner_Critic_Courtroom_COVER_WRAP.pdf",
+        "60_Inner_Critic_Courtroom_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "61",
+      "folder": "61_ADHD_Money_Bandwidth",
+      "files": [
+        "61_ADHD_Money_Bandwidth_COVER_FRONT.pdf",
+        "61_ADHD_Money_Bandwidth_COVER_WRAP.pdf",
+        "61_ADHD_Money_Bandwidth_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "62",
+      "folder": "62_One_Room_Launch",
+      "files": [
+        "62_One_Room_Launch_COVER_FRONT.pdf",
+        "62_One_Room_Launch_COVER_WRAP.pdf",
+        "62_One_Room_Launch_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 83,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 83,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.437,
+        9.25
+      ],
+      "expected_wrap": [
+        12.437,
+        9.25
+      ]
+    },
+    {
+      "n": "63",
+      "folder": "63_Connection_Compass",
+      "files": [
+        "63_Connection_Compass_COVER_FRONT.pdf",
+        "63_Connection_Compass_COVER_WRAP.pdf",
+        "63_Connection_Compass_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "64",
+      "folder": "64_Repair_Map",
+      "files": [
+        "64_Repair_Map_COVER_FRONT.pdf",
+        "64_Repair_Map_COVER_WRAP.pdf",
+        "64_Repair_Map_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "65",
+      "folder": "65_Yes_No_Ledger",
+      "files": [
+        "65_Yes_No_Ledger_COVER_FRONT.pdf",
+        "65_Yes_No_Ledger_COVER_WRAP.pdf",
+        "65_Yes_No_Ledger_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "66",
+      "folder": "66_Reboot_Orbit",
+      "files": [
+        "66_Reboot_Orbit_COVER_FRONT.pdf",
+        "66_Reboot_Orbit_COVER_WRAP.pdf",
+        "66_Reboot_Orbit_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "67",
+      "folder": "67_Work_Before_Feeling",
+      "files": [
+        "67_Work_Before_Feeling_COVER_FRONT.pdf",
+        "67_Work_Before_Feeling_COVER_WRAP.pdf",
+        "67_Work_Before_Feeling_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "68",
+      "folder": "68_Done_Ladder",
+      "files": [
+        "68_Done_Ladder_COVER_FRONT.pdf",
+        "68_Done_Ladder_COVER_WRAP.pdf",
+        "68_Done_Ladder_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "69",
+      "folder": "69_Decision_Diet",
+      "files": [
+        "69_Decision_Diet_COVER_FRONT.pdf",
+        "69_Decision_Diet_COVER_WRAP.pdf",
+        "69_Decision_Diet_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "70",
+      "folder": "70_Social_Battery_Gauge",
+      "files": [
+        "70_Social_Battery_Gauge_COVER_FRONT.pdf",
+        "70_Social_Battery_Gauge_COVER_WRAP.pdf",
+        "70_Social_Battery_Gauge_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "71",
+      "folder": "71_Time_Capsule",
+      "files": [
+        "71_Time_Capsule_COVER_FRONT.pdf",
+        "71_Time_Capsule_COVER_WRAP.pdf",
+        "71_Time_Capsule_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    },
+    {
+      "n": "72",
+      "folder": "72_Empty_Nest_Compass",
+      "files": [
+        "72_Empty_Nest_Compass_COVER_FRONT.pdf",
+        "72_Empty_Nest_Compass_COVER_WRAP.pdf",
+        "72_Empty_Nest_Compass_interior.pdf",
+        "listing.txt"
+      ],
+      "declared_pages": 118,
+      "declared_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_pages": 118,
+      "interior_trim": [
+        6.0,
+        9.0
+      ],
+      "interior_text_scan": "clean",
+      "wrap_size": [
+        12.516,
+        9.25
+      ],
+      "expected_wrap": [
+        12.516,
+        9.25
+      ]
+    }
+  ]
+}
