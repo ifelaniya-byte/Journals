@@ -143,7 +143,8 @@ check(all((R / name).exists() for name in [
     "MULTILINGUAL_MULTICHANNEL_MODEL.md", "BILINGUAL_LANGUAGE_REGISTER.csv", "MULTICHANNEL_PRICING_MODEL.csv",
     "SALE_READINESS_COMPLETION_MATRIX.md", "WAVE1_COUNSEL_AND_FINALIZATION_PACKET.md", "TRANSLATION_HANDOFF_PACKAGE.md", "TRANSLATION_SOURCE_MANIFEST.csv",
     "EXPANSION_36_RESEARCH_AND_STAGE_GATE.md", "EXPANSION_36_CONCEPT_REGISTER.csv", "EXPANSION_36_LOCAL_PROTOTYPES.md", "EXPANSION_36_LOCAL_PRODUCTION_REGISTER.csv",
-    "build_expansion_products.py", "validate_expansion_products.py", "verify_expansion_36.py", "verify_author_attribution.py",
+    "EXPANSION_36_RELEASE_GATE_PACKET.md", "EXPANSION_36_RELEASE_GATE_REGISTER.csv", "EXPANSION_36_TITLE_SCREENING_LOG.csv", "EXPANSION_36_OWNER_SIGNOFF_TEMPLATE.md",
+    "build_expansion_products.py", "validate_expansion_products.py", "build_expansion_release_gates.py", "verify_expansion_provenance.py", "verify_expansion_release_gates.py", "verify_expansion_36.py", "verify_author_attribution.py",
     "build_multichannel_pricing.py", "verify_multichannel_pricing.py", "build_translation_manifest.py", "verify_translation_manifest.py",
 ]), "operating, price-control, multilingual, readiness, and expansion-control docs present")
 check((R / "configure_wave1_qr.py").is_file() and (R / "qr-routing" / "worker.js").is_file(), "QR routing/stamp tooling present")
@@ -207,7 +208,21 @@ if prototype_check.stderr:
     print(prototype_check.stderr.rstrip())
 check(prototype_check.returncode == 0, "36 expansion packages are complete controlled local prototypes with hold boundaries")
 
-print(f"\nChecks passed: {passed}/40")
+provenance_check = subprocess.run([sys.executable, str(R / "verify_expansion_provenance.py")], cwd=R, text=True, capture_output=True)
+print("\n--- Expansion local-asset provenance guard ---")
+print(provenance_check.stdout.rstrip())
+if provenance_check.stderr:
+    print(provenance_check.stderr.rstrip())
+check(provenance_check.returncode == 0, "all 36 prototype manifests match their locally generated asset checksums")
+
+gate_check = subprocess.run([sys.executable, str(R / "verify_expansion_release_gates.py")], cwd=R, text=True, capture_output=True)
+print("\n--- Expansion release-gate truthfulness guard ---")
+print(gate_check.stdout.rstrip())
+if gate_check.stderr:
+    print(gate_check.stderr.rstrip())
+check(gate_check.returncode == 0, "all 36 release-gate packets remain held and require authorized external evidence")
+
+print(f"\nChecks passed: {passed}/42")
 if fails:
     print("FAILURES:", "; ".join(fails))
     raise SystemExit(1)

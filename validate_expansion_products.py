@@ -71,12 +71,27 @@ def main() -> None:
         interior = folder / "interior_prototype.pdf"
         doc = fitz.open(interior)
         pages = len(doc)
+        trim = tuple(float(value) for value in manifest.get("prototype_trim_inches", []))
+        interior_rect = doc[0].rect
+        if len(trim) != 2 or abs(interior_rect.width / 72 - trim[0]) > .02 or abs(interior_rect.height / 72 - trim[1]) > .02:
+            fail(f"{ident}: interior trim does not match manifest")
         if pages < 60 or pages % 2:
             fail(f"{ident}: interior must be 60+ pages and even; got {pages}")
         text = "\n".join(page.get_text() for page in doc)
         doc.close()
         cover_doc = fitz.open(cover)
+        cover_rect = cover_doc[0].rect
         cover_text = "\n".join(page.get_text() for page in cover_doc)
+        if len(cover_doc) != 1:
+            fail(f"{ident}: route cover asset must be exactly one page")
+        if direct:
+            cover_size_ok = abs(cover_rect.width / 72 - trim[0]) < .02 and abs(cover_rect.height / 72 - trim[1]) < .02
+        else:
+            expected_w = 2 * .125 + 2 * trim[0] + pages * .002252
+            expected_h = 2 * .125 + trim[1]
+            cover_size_ok = abs(cover_rect.width / 72 - expected_w) < .02 and abs(cover_rect.height / 72 - expected_h) < .02
+        if not cover_size_ok:
+            fail(f"{ident}: route cover geometry does not match the declared prototype path")
         cover_doc.close()
         for content_name, content in (("interior", text), ("cover", cover_text)):
             if title not in content:
