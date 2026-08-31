@@ -6,9 +6,9 @@ This is a release-control guide, not a reason to publish the vault.
 
 Complete and document these decisions before creating a Wave 1 title record:
 
-- **Author / publisher display name:** **Stillwork Studio** *(working candidate; written name clearance required)*
+- **Author / publisher display name:** **Arden Vellor** *(owner-directed provisional local attribution; written name/rights clearance required before public use)*
 - **Imprint name:** **Stillwork Studio** *(working candidate; written name clearance required)*
-- **Copyright-page wording:** `Copyright © 2026 Stillwork Studio. All rights reserved.` *(subject to clearance)*
+- **Copyright-page wording:** `Copyright © 2026 Arden Vellor. All rights reserved.` *(provisional local wording; subject to name/rights clearance)*
 - **Customer-service email / business contact:** ______________________________
 - **Brand-owned domain and long-term QR redirect owner:** ______________________________ *(unassigned; no QR stamp or upload until complete)*
 - **Series names:** `Pace & Progress` and `Stillwork Editions` (or final cleared alternatives)

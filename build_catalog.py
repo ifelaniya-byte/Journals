@@ -15,6 +15,7 @@ import fitz, shutil, csv, math, calendar, textwrap, json
 ROOT=Path(__file__).resolve().parent
 BRAND=json.loads((ROOT/'brand_config.json').read_text(encoding='utf-8'))
 IMPRINT=BRAND['imprint']
+AUTHOR=BRAND['author']
 RELEASE=ROOT/'release'
 DELUXE=ROOT/'deluxe-heroes'
 for d in (ROOT,RELEASE,DELUXE):d.mkdir(parents=True,exist_ok=True)
@@ -115,7 +116,7 @@ class Book:
   c=self.c;bg=colors.HexColor('#'+COLORS[ident]);ac=colors.HexColor('#'+ACCENTS[ident]);c.setFillColor(bg);c.rect(0,0,self.w,self.h,fill=1,stroke=0);c.setStrokeColor(ac);c.setLineWidth(1.1)
   for rr in [1.05,1.42,1.79]:c.circle(self.w*.75,self.h*.76,rr*inch,stroke=1,fill=0)
   centred(c,self.title,self.w/2,self.h*.57,22,colors.white,'Helvetica-Bold',self.w-1.05*inch,26);centred(c,self.subtitle,self.w/2,self.h*.46,10.4,colors.HexColor('#'+ACCENTS[ident]),'Helvetica',self.w-1.1*inch,13)
-  c.setFillColor(colors.white);c.setFont('Helvetica',8.5);c.drawCentredString(self.w/2,self.h*.2,IMPRINT);c.setFillColor(colors.HexColor('#'+ACCENTS[ident]));c.setFont('Helvetica',6.5);c.drawCentredString(self.w/2,.38*inch,'THE RITUAL LIBRARY');self.end()
+  c.setFillColor(colors.white);c.setFont('Helvetica',8.5);c.drawCentredString(self.w/2,self.h*.2,AUTHOR);c.setFillColor(colors.HexColor('#'+ACCENTS[ident]));c.setFont('Helvetica',6.5);c.drawCentredString(self.w/2,.38*inch,'THE RITUAL LIBRARY');self.end()
  def copyright(self,boundary):
   self.frame('Before you begin',False);c=self.c;c.setFillColor(INK);c.setFont('Helvetica-Bold',14);c.drawString(self.mx,self.h-.86*inch,'A note before you begin');y=self.h-1.15*inch;y=para(c,boundary,self.mx,y,self.w-2*self.mx,9.5,12.5,INK);y-=.25*inch;y=para(c,'This is a personal reflection product. Use only the pages that help. Finalize the named imprint, exact QR/audio route, and all release gates before publication.',self.mx,y,self.w-2*self.mx,8.5,11,MID);self.end()
  def notes(self,title='Open notes',prompt='This page is yours.',section='Notes',lines=17):
@@ -295,7 +296,7 @@ def make_cover(prod,pages,out):
  for rr in [1.0,1.35,1.7,2.05]:c.circle(W*.82,H*.80,rr*inch,stroke=1,fill=0)
  sx=(BLEED+tw)*inch;c.setStrokeColor(colors.Color(1,1,1,.2));c.line(sx,0,sx,H);c.line(sx+spine*inch,0,sx+spine*inch,H)
  fx=(BLEED+tw+spine)*inch;centred(c,cover,fx+tw*inch/2,H*.59,23,colors.white,'Helvetica-Bold',tw*inch-.8*inch,27);centred(c,sub,fx+tw*inch/2,H*.47,9.6,ac,'Helvetica',tw*inch-.9*inch,12)
- c.setFillColor(colors.white);c.setFont('Helvetica',8);c.drawCentredString(fx+tw*inch/2,H*.17,IMPRINT);c.setFillColor(ac);c.setFont('Helvetica',6.5);c.drawCentredString(fx+tw*inch/2,.38*inch,'THE RITUAL LIBRARY')
+ c.setFillColor(colors.white);c.setFont('Helvetica',8);c.drawCentredString(fx+tw*inch/2,H*.17,AUTHOR);c.setFillColor(ac);c.setFont('Helvetica',6.5);c.drawCentredString(fx+tw*inch/2,.38*inch,'THE RITUAL LIBRARY')
  bx=BLEED*inch+.35*inch;c.setFillColor(ac);c.setFont('Helvetica-Bold',7.5);c.drawString(bx,H*.66,'THE RITUAL LIBRARY');para(c,desc,bx,H*.62,tw*inch-.7*inch,8.3,10.5,colors.white);c.setFillColor(colors.white);c.rect(.32*inch,.35*inch,2*inch,1.2*inch,fill=1,stroke=0);c.setFillColor(bg);c.setFont('Helvetica',5.3);c.drawCentredString(1.32*inch,.28*inch,'BARCODE KEEP-CLEAR AREA')
  if spine>=.18:
   c.saveState();c.translate(sx+spine*inch/2,.36*inch);c.rotate(90);c.setFillColor(colors.white);c.setFont('Helvetica-Bold',max(4,min(7,spine*28)));c.drawCentredString(th*inch/2,0,cover.upper());c.restoreState()
@@ -306,7 +307,7 @@ def cover_front_jpg(prod, output):
  fbig=font(90,True);fsub=font(38);fsmall=font(28)
  # circles
  for r in [350,470,590]:dr.ellipse((W-300-r,H*0.15-r,W-300+r,H*0.15+r),outline=ac,width=3)
- centered_image(dr,cover,W/2,int(H*.47),fbig,'#FFFFFF',W-180,108);centered_image(dr,sub,W/2,int(H*.61),fsub,ac,W-220,50);dr.text((W/2,H-310),IMPRINT,font=fsmall,fill='#FFFFFF',anchor='mm');dr.text((W/2,H-120),'THE RITUAL LIBRARY',font=font(20),fill=ac,anchor='mm');im.save(output,quality=94)
+ centered_image(dr,cover,W/2,int(H*.47),fbig,'#FFFFFF',W-180,108);centered_image(dr,sub,W/2,int(H*.61),fsub,ac,W-220,50);dr.text((W/2,H-310),AUTHOR,font=fsmall,fill='#FFFFFF',anchor='mm');dr.text((W/2,H-120),'THE RITUAL LIBRARY',font=font(20),fill=ac,anchor='mm');im.save(output,quality=94)
 
 def font(size,bold=False):
  paths=['/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf' if bold else '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf','/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf' if bold else '/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf']
@@ -344,7 +345,7 @@ def write_metadata(prod,pages,spine,wrapw,wraph,folder):
  (folder/'metadata.txt').write_text(f'''AMAZON TITLE: {title}
 COVER TITLE: {cover}
 SUBTITLE: {sub}
-AUTHOR: {IMPRINT}
+AUTHOR: {AUTHOR}
 SERIES: {coll}
 FORMAT: Paperback · black & white interior · white paper · no interior bleed · matte cover
 TRIM: {trim[0]:g} × {trim[1]:g} in.
@@ -369,10 +370,10 @@ def rgb(hex_value):
  hex_value=hex_value.lstrip('#');return tuple(int(hex_value[i:i+2],16)/255 for i in (0,2,4))
 
 def brand_existing_interior(pdf_path,ident):
- # Baseline interiors stay immutable. Stamp only regenerated release copies with the working imprint
+ # Baseline interiors are retained as local source artifacts. Stamp regenerated release copies with the owner-directed provisional author attribution
  # and a clear unpublished QR/audio holding note. configure_wave1_qr.py replaces this note once all route gates pass.
- doc=fitz.open(str(pdf_path));page=doc[0];page.add_redact_annot(fitz.Rect(105,420,328,455),fill=rgb(COLORS[ident]));page.apply_redactions();page.insert_textbox(fitz.Rect(75,430,358,448),IMPRINT,fontsize=8.5,fontname='helv',color=(1,1,1),align=1,overlay=True)
- page=doc[1];page.add_redact_annot(fitz.Rect(34,215,398,285),fill=(1,1,1));page.apply_redactions();page.insert_text((40,233),f'Copyright © 2026 {IMPRINT}. All rights reserved.',fontsize=7.2,fontname='helv',color=(.31,.31,.31),overlay=True);page.insert_textbox(fitz.Rect(40,242,365,280),'Prepublication candidate: do not publish until the brand-owned QR/audio route, claims review, KDP preflight, and physical-proof gates are complete.',fontsize=7.0,fontname='helv',color=(.31,.31,.31),overlay=True)
+ doc=fitz.open(str(pdf_path));page=doc[0];page.add_redact_annot(fitz.Rect(105,420,328,455),fill=rgb(COLORS[ident]));page.apply_redactions();page.insert_textbox(fitz.Rect(75,430,358,448),AUTHOR,fontsize=8.5,fontname='helv',color=(1,1,1),align=1,overlay=True)
+ page=doc[1];page.add_redact_annot(fitz.Rect(34,215,398,285),fill=(1,1,1));page.apply_redactions();page.insert_text((40,233),f'Copyright © 2026 {AUTHOR}. All rights reserved.',fontsize=7.2,fontname='helv',color=(.31,.31,.31),overlay=True);page.insert_textbox(fitz.Rect(40,242,365,280),'Prepublication candidate: do not publish until the brand-owned QR/audio route, claims review, KDP preflight, and physical-proof gates are complete.',fontsize=7.0,fontname='helv',color=(.31,.31,.31),overlay=True)
  tmp=pdf_path.with_suffix('.tmp.pdf');doc.save(tmp,garbage=4,deflate=True);doc.close();tmp.replace(pdf_path)
 
 def assemble_existing(prod):
@@ -415,9 +416,13 @@ This is a Git-ready 18-concept product catalog with 15 conditional KDP book opti
 2. Open `CATALOG.csv` to see every product’s format/status and only the conditional KDP listing rows.
 3. Read `RELEASE_POLICY.md` and `PORTFOLIO.md`. For each **Wave 1** scout only, open its `release/[ID]-[slug]/metadata.txt`; copy the **AMAZON TITLE**, not merely the cover word.
 4. Use `UPLOAD_CHECKLIST.md` and KDP Print Previewer. Order a proof before enabling ads.
-5. Read `MULTILINGUAL_MULTICHANNEL_MODEL.md` before creating any edition, store price, translation, or distribution plan. Its `MULTICHANNEL_PRICING_MODEL.csv` is planning-only; it is not a price or publishing authorization.
-6. Run `python validate_catalog.py` after any rebuild. A green validation result is structural QC, not legal/clinical clearance.
-7. For the two-read Oct 31 / Nov 28 Gate 1 calculations, use `/home/user/ritual-library-launch-kit/gate-1-validation-scorecard.xlsx` and its adjacent `SCORECARD_READ1_READ2_SPEC.md`.
+5. Read `SALE_READINESS_COMPLETION_MATRIX.md` for each SKU's structural state and outstanding human gates. It records 0 `Clear for upload` products and is not release authorization.
+6. For the six Wave 1 candidates, use `WAVE1_COUNSEL_AND_FINALIZATION_PACKET.md` to obtain product-specific human/counsel decisions; it creates no clearance itself.
+7. Read `EXPANSION_36_RESEARCH_AND_STAGE_GATE.md` before choosing any expansion candidate. The 36 concepts remain outside the governed portfolio and are not a production queue.
+8. Read `TRANSLATION_HANDOFF_PACKAGE.md` and its source manifest before any localization. It locks English sources; it does not create translations or bilingual editions.
+9. Read `MULTILINGUAL_MULTICHANNEL_MODEL.md` before creating any edition, store price, translation, or distribution plan. Its `MULTICHANNEL_PRICING_MODEL.csv` is planning-only; it is not a price or publishing authorization.
+10. Run `python validate_catalog.py` after any rebuild. A green validation result is structural QC, not legal/clinical clearance.
+11. For the two-read Oct 31 / Nov 28 Gate 1 calculations, use `/home/user/ritual-library-launch-kit/gate-1-validation-scorecard.xlsx` and its adjacent `SCORECARD_READ1_READ2_SPEC.md`.
 
 ## Two collections
 | Collection | IDs | Customer promise |
@@ -444,7 +449,9 @@ python verify_canonical.py   # PORTFOLIO.md decision baseline vs source/artifact
 python verify_pricing.py     # Wave 1 price source/artifact agreement
 python build_multichannel_pricing.py  # writes planning-only channel/edition grid
 python verify_multichannel_pricing.py # confirms it retains canonical Wave 1 anchors
-python validate_catalog.py     # structural QC + canonical/price-model guards; exits non-zero on a failure
+python build_translation_manifest.py  # locks current English sources for future qualified handoff
+python verify_translation_manifest.py # confirms source digests and non-live language state
+python validate_catalog.py     # structural QC + canonical/price-model/source-lock guards; exits non-zero on a failure
 python make_zips.py            # creates only the six Wave 1 candidate bundles
 python make_zips.py --all-vault # explicit internal archive only; never an upload plan\n# Only after a real domain and deployment: python configure_wave1_qr.py --domain <domain> --apply --verify-live
 ```
@@ -458,8 +465,8 @@ A complete, repository-grade production system for an 18-product wellness-statio
 ## Deliverables at a glance
 - **15 conditional KDP book options** plus two private book-form reference artifacts in `release/`; A03 is a non-KDP calendar brief in `non-kdp/`.
 - **2 deluxe hero packages** in `deluxe-heroes/`: *Dose & Breathe* and *Pocket of Calm*.
-- **Commercial operating docs:** `CATALOG.csv`, `RELEASE_POLICY.md`, `PORTFOLIO.md`, `WAVE1_HUMAN_QA.md`, `KDP_ACCOUNT_OPERATIONS.md`, `LEGAL_AND_CLAIMS.md`, `MARKETING.md`, `UPLOAD_CHECKLIST.md`, `ART_DIRECTION.md`, `DELUXE_HEROES.md`, `POLISH_NOTES.md`, `HISTORY.md`, `LOOKBOOK.pdf`, `00_START_HERE.md`, `PREPUBLICATION_SEQUENCE.md`, `SCORECARD_READ1_READ2_SPEC.md` (in the launch kit), `QR_AND_AUDIO.md`, `QR_AUDIO_REVIEW.md`, `TRADEMARK_SCREENING.md`, `BACKUP_IMPRINT_SHORTLIST.md`, `COUNSEL_ENGAGEMENT_MEMO.md`, `COUNSEL_ENGAGEMENT_EMAIL.md`, `AUTOMATION_POLICY.md`, `MULTILINGUAL_MULTICHANNEL_MODEL.md`, `BILINGUAL_LANGUAGE_REGISTER.csv`, `MULTICHANNEL_PRICING_MODEL.csv`, `verify_canonical.py`, `verify_pricing.py`, `verify_multichannel_pricing.py`, and `DECISIONS.md`.
-- **Build/QC tools:** `build_catalog.py`, `polish_catalog.py`, `build_multichannel_pricing.py`, `validate_catalog.py`, `verify_multichannel_pricing.py`, `configure_wave1_qr.py`, `make_zips.py`, and `requirements.txt`.
+- **Commercial operating docs:** `CATALOG.csv`, `RELEASE_POLICY.md`, `PORTFOLIO.md`, `WAVE1_HUMAN_QA.md`, `KDP_ACCOUNT_OPERATIONS.md`, `LEGAL_AND_CLAIMS.md`, `MARKETING.md`, `UPLOAD_CHECKLIST.md`, `ART_DIRECTION.md`, `DELUXE_HEROES.md`, `POLISH_NOTES.md`, `HISTORY.md`, `LOOKBOOK.pdf`, `00_START_HERE.md`, `PREPUBLICATION_SEQUENCE.md`, `SCORECARD_READ1_READ2_SPEC.md` (in the launch kit), `QR_AND_AUDIO.md`, `QR_AUDIO_REVIEW.md`, `TRADEMARK_SCREENING.md`, `BACKUP_IMPRINT_SHORTLIST.md`, `COUNSEL_ENGAGEMENT_MEMO.md`, `COUNSEL_ENGAGEMENT_EMAIL.md`, `AUTOMATION_POLICY.md`, `SALE_READINESS_COMPLETION_MATRIX.md`, `WAVE1_COUNSEL_AND_FINALIZATION_PACKET.md`, `EXPANSION_36_RESEARCH_AND_STAGE_GATE.md`, `EXPANSION_36_CONCEPT_REGISTER.csv`, `TRANSLATION_HANDOFF_PACKAGE.md`, `TRANSLATION_SOURCE_MANIFEST.csv`, `MULTILINGUAL_MULTICHANNEL_MODEL.md`, `BILINGUAL_LANGUAGE_REGISTER.csv`, `MULTICHANNEL_PRICING_MODEL.csv`, `verify_canonical.py`, `verify_pricing.py`, `verify_multichannel_pricing.py`, `verify_translation_manifest.py`, `verify_author_attribution.py`, `verify_expansion_36.py`, and `DECISIONS.md`.
+- **Build/QC tools:** `build_catalog.py`, `polish_catalog.py`, `build_multichannel_pricing.py`, `build_translation_manifest.py`, `validate_catalog.py`, `verify_multichannel_pricing.py`, `verify_translation_manifest.py`, `verify_author_attribution.py`, `verify_expansion_36.py`, `configure_wave1_qr.py`, `make_zips.py`, and `requirements.txt`.
 
 ## Product truthfulness
 The KDP editions are purposeful scout products: complete paperback experiences with honest paperback materials. Deluxe materials—foil, ribbons, velvet, coils, card decks, rigid boxes, pockets, scent treatments, and kitting—are not represented as part of a KDP paperback. The two deluxe hero directories are vendor-ready content/art packages that still require final printer dielines and physical proofs.
@@ -471,7 +478,7 @@ The v1.1 candidate build uses **Stillwork Studio** as its working imprint. Befor
  s=['# KDP upload checklist — six Wave 1 KDP scouts only','', 'Use the exact title, price, categories, and keywords in each product folder’s `metadata.txt`. Standard configuration unless metadata says otherwise: **Paperback · black-and-white · white paper · no interior bleed · matte cover**. Upload interior + wrap, run Previewer, order a proof, then publish.','']
  for prod in KDP_UPLOAD_PRODUCTS:
   ident,slug,coll,cover,title,sub,trim,target,paper,price,*_=prod;folder=RELEASE/f'{ident}-{slug}';pages=len(fitz.open(str(folder/'interior.pdf')))
-  s+= [f'## {ident} — {cover}',f'1. Title: **{title}**',f'2. Author / imprint: **{IMPRINT}** (working candidate; confirm name clearance before upload).',f'3. Settings: B&W · white paper · {trim[0]:g} × {trim[1]:g} in. · no bleed · matte.',f'4. Upload `release/{ident}-{slug}/interior.pdf` + `cover_wrap.pdf`.',f'5. Price: **{price_label(ident,price)}** · pages: {pages} · series: {coll}.',f'6. Preview → check barcode/spine/margins → order proof → publish only after claims review.','']
+  s+= [f'## {ident} — {cover}',f'1. Title: **{title}**',f'2. Author: **{AUTHOR}** (owner-directed provisional local attribution; confirm name/rights clearance before upload).',f'3. Settings: B&W · white paper · {trim[0]:g} × {trim[1]:g} in. · no bleed · matte.',f'4. Upload `release/{ident}-{slug}/interior.pdf` + `cover_wrap.pdf`.',f'5. Price: **{price_label(ident,price)}** · pages: {pages} · series: {coll}.',f'6. Preview → check barcode/spine/margins → order proof → publish only after claims review.','']
  (ROOT/'UPLOAD_CHECKLIST.md').write_text('\n'.join(s),encoding='utf-8')
  (ROOT/'MARKETING.md').write_text('''# The Ritual Library — listing and launch system
 

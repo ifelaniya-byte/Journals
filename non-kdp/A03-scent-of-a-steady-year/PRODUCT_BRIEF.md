@@ -4,6 +4,10 @@
 **Decision:** `D-2026-08-28-09` in `DECISIONS.md`
 **Collection candidate:** Pace & Progress (subject to coordinated name review)
 
+## Local author attribution
+
+**Author:** Arden Vellor — owner-directed provisional local attribution only. This is not name/rights clearance, a calendar-printer approval, or permission to release the calendar.
+
 ## Actual product
 
 A **10 × 12 in. wire-bound wall calendar with a reinforced hanger**, designed as an undated planning and sensory-cue ritual object. It has twelve heavy matte monthly sheets and a storage envelope for its sticker set.

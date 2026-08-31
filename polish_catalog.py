@@ -16,7 +16,8 @@ from reportlab.pdfbase.pdfmetrics import stringWidth
 from PIL import Image, ImageDraw, ImageFont
 
 ROOT=Path(__file__).resolve().parent;REL=ROOT/'release';FONTS=ROOT/'fonts';BLEED=.125;PPI=.002252
-IMPRINT=json.loads((ROOT/'brand_config.json').read_text(encoding='utf-8'))['imprint']
+BRAND=json.loads((ROOT/'brand_config.json').read_text(encoding='utf-8'))
+AUTHOR=BRAND['author']
 pdfmetrics.registerFont(TTFont('RitualSerif',str(FONTS/'DejaVuSerif.ttf')))
 pdfmetrics.registerFont(TTFont('RitualSerifBold',str(FONTS/'DejaVuSerif-Bold.ttf')))
 pdfmetrics.registerFont(TTFont('RitualSans',str(FONTS/'DejaVuSans.ttf')))
@@ -214,7 +215,7 @@ def make_wrap(row):
  p_center(c,row['subtitle'],cx,H*.32,'RitualSans',8.9,accent,tw*inch-1.05*inch,12)
  # signature badge
  bw=tw*inch-1.10*inch;bh=.25*inch;bx=fx+.55*inch;by=.58*inch;c.setFillColor(colors.white);c.roundRect(bx,by,bw,bh,8,fill=1,stroke=0);c.setFillColor(bg);c.setFont('RitualSansBold',5.6);c.drawCentredString(bx+bw/2,by+.085*inch,badge)
- c.setFillColor(colors.white);c.setFont('RitualSans',5.2);c.drawCentredString(cx,.405*inch,IMPRINT.upper());c.setFillColor(accent);c.setFont('RitualSans',5.8);c.drawCentredString(cx,.30*inch,'THE RITUAL LIBRARY')
+ c.setFillColor(colors.white);c.setFont('RitualSans',5.2);c.drawCentredString(cx,.405*inch,AUTHOR.upper());c.setFillColor(accent);c.setFont('RitualSans',5.8);c.drawCentredString(cx,.30*inch,'THE RITUAL LIBRARY')
  # back
  bx=BLEED*inch+.38*inch;c.setFillColor(accent);c.setFont('RitualSansBold',6.8);c.drawString(bx,H*.68,row['collection'].upper());c.setFillColor(colors.white);c.setFont('RitualSerif',14);c.drawString(bx,H*.61,'A small ritual for real life.')
  p_left(c,description,bx,H*.52,'RitualSans',7.5,colors.white,tw*inch-.75*inch,9.5)
@@ -237,7 +238,7 @@ def make_front(row):
  center_img(d,row['subtitle'],W//2,1780,sans(33),accent,W-300,48)
  # badge
  bbox=(230,2240,W-230,2315);d.rounded_rectangle(bbox,37,fill='#FFFFFF');d.text((W//2,2278),badge,font=sans(21,True),fill=bg,anchor='mm')
- d.text((W//2,2460),IMPRINT.upper(),font=sans(17),fill='#FFFFFF',anchor='mm');d.text((W//2,2520),'THE RITUAL LIBRARY',font=sans(20),fill=accent,anchor='mm')
+ d.text((W//2,2460),AUTHOR.upper(),font=sans(17),fill='#FFFFFF',anchor='mm');d.text((W//2,2520),'THE RITUAL LIBRARY',font=sans(20),fill=accent,anchor='mm')
  im.save(ROOT/row['folder']/'cover.jpg',quality=95)
 
 def callout(row):

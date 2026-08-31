@@ -4,9 +4,9 @@
 The catalog has six Wave 1 KDP upload candidates, 9 held book-form options, and two private book-form
 reference assets, and one non-KDP calendar (A03). This validator confirms
 that generated book artifacts agree with CATALOG.csv, that A03 remains
-non-KDP, and that the Wave 1 pricing and multichannel-model guards pass. It is
-structural QC only; it does not replace KDP Previewer, physical proofing, or
-legal review.
+non-KDP, and that the Wave 1 pricing, multichannel-model, translation-source, and
+non-production expansion-register locks pass. It is structural QC only; it does not
+replace KDP Previewer, physical proofing, translation review, or legal review.
 """
 from pathlib import Path
 import csv
@@ -22,6 +22,7 @@ R = Path(__file__).resolve().parent
 CAT = R / "CATALOG.csv"
 BRAND = json.loads((R / "brand_config.json").read_text(encoding="utf-8"))
 IMPRINT = BRAND.get("imprint", "").strip()
+AUTHOR = BRAND.get("author", "").strip()
 DOMAIN = BRAND.get("domain", "").strip()
 BLEED = 0.125
 PPI = 0.002252
@@ -49,6 +50,7 @@ check(sum(r.get("release_wave") == "Wave 1" for r in rows) == 6, "exactly six Wa
 check(sum(r.get("release_wave") == "Wave 2" for r in rows) == 9, "exactly nine Wave 2 conditional options")
 check(sum(r.get("release_wave") == "Vault" for r in rows) == 3, "exactly three Vault/non-KDP products")
 check(bool(IMPRINT) and IMPRINT not in {"[Author / Imprint]", "Author / Imprint"}, "working imprint is configured")
+check(bool(AUTHOR) and AUTHOR not in {"[Author / Imprint]", "Author / Imprint"}, "owner-directed provisional author attribution is configured")
 
 print(f"{'ID':<4} {'PRODUCT':<32} {'PG':>4} {'TRIM':>10} {'INT':>3} {'WRAP':>4} {'META':>4} {'IMG':>3}")
 for row in rows:
@@ -110,9 +112,9 @@ for row in rows:
         keywords = [part.strip() for part in match.group(1).split(",") if part.strip()] if match else []
         metadata_ok = all(field in metadata for field in fields) and len(keywords) == 7
         identity_ok = (
-            f"AUTHOR: {IMPRINT}" in metadata
-            and IMPRINT in first_pages
-            and IMPRINT.lower() in wrap_text.lower()
+            f"AUTHOR: {AUTHOR}" in metadata
+            and AUTHOR in first_pages
+            and AUTHOR.lower() in wrap_text.lower()
             and not any(token in (first_pages + "\n" + metadata + "\n" + wrap_text) for token in ("[Author / Imprint]", "[yourdomain.example]", "yourdomain.example", "[URL]"))
         )
         images_ok = True
@@ -138,8 +140,10 @@ check(all((R / name).exists() for name in [
     "PREPUBLICATION_SEQUENCE.md", "QR_AND_AUDIO.md", "QR_AUDIO_REVIEW.md", "TRADEMARK_SCREENING.md",
     "DECISIONS.md", "verify_pricing.py", "verify_canonical.py", "AUTOMATION_POLICY.md", "COUNSEL_ENGAGEMENT_EMAIL.md", "GITHUB_PUBLIC_EXPOSURE_AUDIT.md",
     "MULTILINGUAL_MULTICHANNEL_MODEL.md", "BILINGUAL_LANGUAGE_REGISTER.csv", "MULTICHANNEL_PRICING_MODEL.csv",
-    "build_multichannel_pricing.py", "verify_multichannel_pricing.py",
-]), "operating, price-control, multilingual, and exposure-control docs present")
+    "SALE_READINESS_COMPLETION_MATRIX.md", "WAVE1_COUNSEL_AND_FINALIZATION_PACKET.md", "TRANSLATION_HANDOFF_PACKAGE.md", "TRANSLATION_SOURCE_MANIFEST.csv",
+    "EXPANSION_36_RESEARCH_AND_STAGE_GATE.md", "EXPANSION_36_CONCEPT_REGISTER.csv", "verify_expansion_36.py", "verify_author_attribution.py",
+    "build_multichannel_pricing.py", "verify_multichannel_pricing.py", "build_translation_manifest.py", "verify_translation_manifest.py",
+]), "operating, price-control, multilingual, readiness, and exposure-control docs present")
 check((R / "configure_wave1_qr.py").is_file() and (R / "qr-routing" / "worker.js").is_file(), "QR routing/stamp tooling present")
 if DOMAIN:
     route_file = R / "qr-routing" / "routes.json"
@@ -173,7 +177,28 @@ if market_model_check.stderr:
     print(market_model_check.stderr.rstrip())
 check(market_model_check.returncode == 0, "multichannel model retains canonical Wave 1 anchors and non-live bilingual scope")
 
-print(f"\nChecks passed: {passed}/35")
+translation_check = subprocess.run([sys.executable, str(R / "verify_translation_manifest.py")], cwd=R, text=True, capture_output=True)
+print("\n--- Translation-source lock guard ---")
+print(translation_check.stdout.rstrip())
+if translation_check.stderr:
+    print(translation_check.stderr.rstrip())
+check(translation_check.returncode == 0, "translation handoff manifest retains frozen English source digests and non-live status")
+
+author_check = subprocess.run([sys.executable, str(R / "verify_author_attribution.py")], cwd=R, text=True, capture_output=True)
+print("\n--- Provisional author-attribution guard ---")
+print(author_check.stdout.rstrip())
+if author_check.stderr:
+    print(author_check.stderr.rstrip())
+check(author_check.returncode == 0, "owner-directed provisional author attribution is consistent across governed local products")
+
+expansion_check = subprocess.run([sys.executable, str(R / "verify_expansion_36.py")], cwd=R, text=True, capture_output=True)
+print("\n--- Expansion-candidate guard ---")
+print(expansion_check.stdout.rstrip())
+if expansion_check.stderr:
+    print(expansion_check.stderr.rstrip())
+check(expansion_check.returncode == 0, "36 expansion candidates are unique, low-claim, non-production concepts outside the governed portfolio")
+
+print(f"\nChecks passed: {passed}/39")
 if fails:
     print("FAILURES:", "; ".join(fails))
     raise SystemExit(1)
