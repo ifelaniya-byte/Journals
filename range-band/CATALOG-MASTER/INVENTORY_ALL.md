@@ -314,3 +314,43 @@ Single catalog index for products 1–288. All products are candidate-only; no m
 - 287 — **Personal Archive Finding Aid** — `VOLUME-9/KDP-Complete-Kit/287_Personal_Archive_Finding_Aid`
 - 288 — **Life Admin Weekly Review** — `VOLUME-9/KDP-Complete-Kit/288_Life_Admin_Weekly_Review`
 
+## Deep Need 36
+
+Separate 36-title candidate slate, indexed here for unified discovery:
+
+- DN-01 — **Bill Day** — `DEEP-NEED-36/ready/01_Bill_Day`
+- DN-02 — **Debt in View** — `DEEP-NEED-36/ready/02_Debt_in_View`
+- DN-03 — **Tax Year Map** — `DEEP-NEED-36/ready/03_Tax_Year_Map`
+- DN-04 — **Receipt to Record** — `DEEP-NEED-36/ready/04_Receipt_to_Record`
+- DN-05 — **Subscription Cleanout** — `DEEP-NEED-36/ready/05_Subscription_Cleanout`
+- DN-06 — **Home Inventory Atlas** — `DEEP-NEED-36/ready/06_Home_Inventory_Atlas`
+- DN-07 — **Insurance Claim Notes** — `DEEP-NEED-36/ready/07_Insurance_Claim_Notes`
+- DN-08 — **Emergency Ready at Home** — `DEEP-NEED-36/ready/08_Emergency_Ready_at_Home`
+- DN-09 — **Digital Legacy Map** — `DEEP-NEED-36/ready/09_Digital_Legacy_Map`
+- DN-10 — **Final Wishes, Plainly** — `DEEP-NEED-36/ready/10_Final_Wishes,_Plainly`
+- DN-11 — **Retirement Bridge** — `DEEP-NEED-36/ready/11_Retirement_Bridge`
+- DN-12 — **Benefits Renewal Map** — `DEEP-NEED-36/ready/12_Benefits_Renewal_Map`
+- DN-13 — **Appointment Notes** — `DEEP-NEED-36/ready/13_Appointment_Notes`
+- DN-14 — **Medical Records Index** — `DEEP-NEED-36/ready/14_Medical_Records_Index`
+- DN-15 — **Medication Conversation Log** — `DEEP-NEED-36/ready/15_Medication_Conversation_Log`
+- DN-16 — **Care Transition Home** — `DEEP-NEED-36/ready/16_Care_Transition_Home`
+- DN-17 — **Home Access Plan** — `DEEP-NEED-36/ready/17_Home_Access_Plan`
+- DN-18 — **Disaster Recovery Checklist** — `DEEP-NEED-36/ready/18_Disaster_Recovery_Checklist`
+- DN-19 — **Two-Home Calendar** — `DEEP-NEED-36/ready/19_Two-Home_Calendar`
+- DN-20 — **School Support Meetings** — `DEEP-NEED-36/ready/20_School_Support_Meetings`
+- DN-21 — **Childcare Relay** — `DEEP-NEED-36/ready/21_Childcare_Relay`
+- DN-22 — **First Year Paperwork** — `DEEP-NEED-36/ready/22_First_Year_Paperwork`
+- DN-23 — **Senior Move and Downsizing** — `DEEP-NEED-36/ready/23_Senior_Move_and_Downsizing`
+- DN-24 — **Household Safety Check** — `DEEP-NEED-36/ready/24_Household_Safety_Check`
+- DN-25 — **New Hire Launchpad** — `DEEP-NEED-36/ready/25_New_Hire_Launchpad`
+- DN-26 — **Professional Credentials Log** — `DEEP-NEED-36/ready/26_Professional_Credentials_Log`
+- DN-27 — **Certification Study Map** — `DEEP-NEED-36/ready/27_Certification_Study_Map`
+- DN-28 — **Invoice Follow-Up** — `DEEP-NEED-36/ready/28_Invoice_Follow-Up`
+- DN-29 — **Reseller Stock and Orders** — `DEEP-NEED-36/ready/29_Reseller_Stock_and_Orders`
+- DN-30 — **Vendor and Supply Order Log** — `DEEP-NEED-36/ready/30_Vendor_and_Supply_Order_Log`
+- DN-31 — **Career Portfolio** — `DEEP-NEED-36/ready/31_Career_Portfolio`
+- DN-32 — **College Application Map** — `DEEP-NEED-36/ready/32_College_Application_Map`
+- DN-33 — **Scholarship and Aid Tracker** — `DEEP-NEED-36/ready/33_Scholarship_and_Aid_Tracker`
+- DN-34 — **Workplace Accommodation Paper Trail** — `DEEP-NEED-36/ready/34_Workplace_Accommodation_Paper_Trail`
+- DN-35 — **Student Records and Deadlines** — `DEEP-NEED-36/ready/35_Student_Records_and_Deadlines`
+- DN-36 — **Community Service Hours Log** — `DEEP-NEED-36/ready/36_Community_Service_Hours_Log`
