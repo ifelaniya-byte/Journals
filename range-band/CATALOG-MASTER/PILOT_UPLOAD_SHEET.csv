@@ -1,0 +1,7 @@
+priority,product,title,reason,publication_status
+1,109,Caregiver Handoff Notebook,care coordination pilot,HOLD_HUMAN_REVIEW
+2,112,Meal Train Coordination Ledger,community/family logistics pilot,HOLD_HUMAN_REVIEW
+3,118,Household Repair Evidence Log,property documentation pilot,HOLD_HUMAN_REVIEW
+4,113,Job Search Pipeline Board,employment workflow pilot,HOLD_HUMAN_REVIEW
+5,161,Accessible Event Planner,accessibility planning pilot,HOLD_HUMAN_REVIEW
+6,140,Subscription Cost Audit,household money organization pilot,HOLD_HUMAN_REVIEW
