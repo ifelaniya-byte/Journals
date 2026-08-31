@@ -9,6 +9,32 @@ Session branch: `arena/01a058a3-journals`
 This file records the truthful state of the "push the entire Quiet Mind Press workspace"
 request. It also documents what could NOT be shipped from this session.
 
+## Product counts (as of 2026-08-31)
+
+| Category | Count | Status |
+|---|---|---|
+| QMP frozen catalog products on private repo (`ADHD-Journals`) | 18 | Pushed / verified on remote |
+| Wave A (`qmp-wave-a/ready`) | 8 | NOT pushed — source not in this session |
+| Wave B (`qmp-wave-b/ready`) | 10 | NOT pushed — source not in this session |
+| Next-36 (`qmp-next-36/ready`) | 36 | NOT pushed — source not in this session |
+| Deep-36 (`qmp-deep-36/ready`) | 36 | NOT pushed — source not in this session |
+| Existing digital editions (exact frozen copies, `qmp-all-36/existing-digital`) | 17 | NOT pushed — source not in this session |
+| All-36 manifest + validation (`qmp-all-36`) | n/a | NOT pushed — source not in this session |
+| Seller pipeline / handoff (`quiet-mind-restore/pipeline`, `SELL_HUB.md`, `GOVERNANCE.md`) | n/a | Existing `Agent-Seller-Pipeline` branch is on remote; QMP workspace copy not pushed |
+
+Reconciliation (QMP candidate universe): 18 existing + 8 (Wave A) + 10 (Wave B) + 36 (Next-36)
++ 36 (Deep-36) = 108 product candidates; plus 17 existing digital editions (separate digital
+products that are exact copies of frozen interiors, subtract the one print-only title).
+
+- **Pushed QMP products: 18** (the frozen catalog on `ADHD-Journals`).
+- **Pushable from this session's live filesystem: 0 additional QMP products** — the
+  `qmp-*` / `quiet-mind-restore` trees are not present on the live disk in this session.
+- **Unfinished / not on remote: 90 QMP product candidates** (8 + 10 + 36 + 36), plus the 17
+  existing digital editions, the all-36 manifest, and the QMP-side pipeline/handoff files.
+- **Excluded by policy:** Range-Band 36-book line (`Range-Band` branch) and the Range-Band
+  Deep-36 line (`range-band/DEEP-NEED-36` on `arena/01a054fa-journals`) — these are the
+  read-only Range Band imprint and are intentionally kept separate from QMP.
+
 ## Shipped / verified on the private repo
 
 - `arena/01a058a3-journals` @ `3feca690a77a636ada6ca840e73c5c02a83f1c0f`
