@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E31",
+  "working_title": "Home Café Notes",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "home café hobby",
+  "core_job": "Document non-alcoholic drink experiments and home-coffee rituals",
+  "route_recommendation": "Paperback candidate plus countertop recipe-card stand later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    7.0,
+    9.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "Home-cafe ritual",
+  "claims_boundary": "No caffeine health nutrition or food-safety advice",
+  "first_test": "Test coffee and tea audiences with separate original samples",
+  "files": {
+    "interior_prototype.pdf": "f6a78e6b33973449cd4c8df21f93a1e75e36e13059daf7dfa986ab6d7b71418b",
+    "paperback_cover_wrap.pdf": "507000894f3e2b5737c518cd8b0c1700eb948a7d2ba09ff857d9d959f7d2a0c2",
+    "cover_preview.jpg": "5c7c4c093ce9d8521dfcb8b74c0cfffca239e1c86927195f7040ca4f661d549d",
+    "interior_sample.jpg": "d18ef227d542dfcec6d0678133c4d9b772dc5e5977549a9197e8a835cbb12a5d",
+    "PRODUCT_BRIEF.md": "331ce7406672149563248ecbd3f7c850b5862882c445585fcc90be6aa4948150",
+    "PRODUCTION_ROUTE.md": "02c7b080db502c4bdee9869153e9689c32ac8a34b2f1b6cce8ab7a0b8b8e1181"
+  }
+}

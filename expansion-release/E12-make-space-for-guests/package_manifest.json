@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E12",
+  "working_title": "Make Space for Guests",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "casual hosting",
+  "core_job": "Plan warm gatherings at a scale that suits the host",
+  "route_recommendation": "Paperback candidate plus direct tabletop planning pad later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    7.0,
+    9.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "Gathering note",
+  "claims_boundary": "No food-safety alcohol or event-safety advice",
+  "first_test": "Test brunch picnic and overnight-guest sample pages",
+  "files": {
+    "interior_prototype.pdf": "a1f4d9976ce94468cc38dce55d6285cf1ff093d0708f0b3d01084ff603b9c3af",
+    "paperback_cover_wrap.pdf": "0bf18f4d0f5b46bd4925e60328fa833b00c721b4883c27810cb29d5703c81195",
+    "cover_preview.jpg": "e841fcc250f21eb81f02410adbf83cf33d7fbbe8e4fa585063a0e51210fe3b9c",
+    "interior_sample.jpg": "7d71139d1f44c0d3799b35aa1b4ee11f9b48ebd25f4c4a35840da186cf7b425c",
+    "PRODUCT_BRIEF.md": "d55fc6abb4ce7780ff5cd0a02e345923082de01351e1585521acbf09f99d1342",
+    "PRODUCTION_ROUTE.md": "03f2e5208c37ccde1db35097962bdf952fe8d4ec9c1282d48d36601163000ca3"
+  }
+}

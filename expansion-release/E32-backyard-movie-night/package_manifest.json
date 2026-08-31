@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E32",
+  "working_title": "Backyard Movie Night",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "backyard entertaining",
+  "core_job": "Organize casual at-home movie gatherings without event complexity",
+  "route_recommendation": "Direct printable invitation/plan kit test then paperback candidate",
+  "route_asset": "front_cover_concept.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    10.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "Movie-night plan",
+  "claims_boundary": "No electrical weather crowd-safety or licensing advice",
+  "first_test": "Test a one-night printable kit and collect format feedback",
+  "files": {
+    "interior_prototype.pdf": "11b905cc46c1bf01a594a8df97ab6d7405457d370bcdfb82fb143efb26af2c3f",
+    "front_cover_concept.pdf": "57c86cb9f6d51de43ba1ecc872c62a4751b3150e29986d24d4100d4e7efb0aa5",
+    "cover_preview.jpg": "6f2b6ebb404173f35cb18438fdeaa148f3caa32be91aaf6ee1788d50a09b00a7",
+    "interior_sample.jpg": "22b219df77539d120e6344e88bf090ff7becb821d34e6a2be227d7e0c9e3820c",
+    "PRODUCT_BRIEF.md": "92502af883a9f05624d45632fbf40f7e476e694247a891f1f8943d33c12de344",
+    "PRODUCTION_ROUTE.md": "171c24ed51da2a47e6ef96b712c453a99df20abee1e5a48e42743d34bff6126f"
+  }
+}

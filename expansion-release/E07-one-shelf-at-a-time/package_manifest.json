@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E07",
+  "working_title": "One Shelf at a Time",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "small-space home organization",
+  "core_job": "Plan a focused reset without an all-house overhaul",
+  "route_recommendation": "Paperback candidate plus direct printable room-reset pack",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    10.0
+  ],
+  "prototype_page_count": 96,
+  "cycle": "One-shelf reset",
+  "claims_boundary": "No health hygiene or professional-organizing guarantees",
+  "first_test": "Test kitchen closet and entryway mini-editions",
+  "files": {
+    "interior_prototype.pdf": "0bf0f84ea99a67e0bc5a67a5406d67a5a78c8e3f44756922daabaa5c73b7d43a",
+    "paperback_cover_wrap.pdf": "f5c2f7aacb0be0aca3aece83e5bfe77283114a655020d2653250baceb8ae8c73",
+    "cover_preview.jpg": "1a764c48ce331a1426661ccc16be27ef11c90bc0765d1eb7eaa139538c8ee061",
+    "interior_sample.jpg": "df7339eabb2f4707849956b3ab015448ddceaae0e9a5ab0f65a582c6559bbf6b",
+    "PRODUCT_BRIEF.md": "e7774f0813c073381446a40325a57400ac0d23a3d4058fe7ca72c4e065573283",
+    "PRODUCTION_ROUTE.md": "769892bfc6b9bc694999fe212b46dd48bac11f291eba7db7fb864dbac21bc453"
+  }
+}

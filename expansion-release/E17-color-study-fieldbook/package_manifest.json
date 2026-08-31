@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E17",
+  "working_title": "Color Study Fieldbook",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "color exploration and art practice",
+  "core_job": "Give hobby artists a reusable visual reference that is not a generic coloring book",
+  "route_recommendation": "Paperback candidate with original art; no duplicated variations",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    8.0
+  ],
+  "prototype_page_count": 80,
+  "cycle": "Color study",
+  "claims_boundary": "No art-therapy or skill-outcome claims",
+  "first_test": "Test two original palette exercises and format preference",
+  "files": {
+    "interior_prototype.pdf": "584b32c46c6d8e980f3c7f7ac0b298bfee2d6771c5d0e0617cf5d2d8c3f1097f",
+    "paperback_cover_wrap.pdf": "dc46e12ebaef7d4b18e3c8773141cd7e239dd6b5adeb0ab93488f8ce952975db",
+    "cover_preview.jpg": "f5367545c716e757e770bae12aec90449e0fda9f6ff79caa8697596a33bfe607",
+    "interior_sample.jpg": "4f94485b867b1ca672e6fb04b7894a266cc6a51604d5c68b09f4c0625e1e7b1a",
+    "PRODUCT_BRIEF.md": "21a827315fecc9194e4703797014b5621e2ab0fef387a5c69ac31c8b81472387",
+    "PRODUCTION_ROUTE.md": "df7ec8d3032715f1469dd0bfb9010d75f2fbd46ca3a9e8c12884db650be5c34e"
+  }
+}

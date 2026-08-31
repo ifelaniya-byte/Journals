@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E16",
+  "working_title": "Make a Little Magazine",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "zine making and paper craft",
+  "core_job": "Help beginners structure an original small print project",
+  "route_recommendation": "Paperback candidate plus physical zine-making kit later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    8.5,
+    11.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "Tiny issue",
+  "claims_boundary": "No copyright clearance publishing or business advice",
+  "first_test": "Test a four-page project sampler and workshop interest",
+  "files": {
+    "interior_prototype.pdf": "5e74d35465735535e34fee41a5f58cee7abaaac798446515840577a279c244c0",
+    "paperback_cover_wrap.pdf": "a186342f5e63235d2a2308f85bee98c7834184a5c701866f80c9ac60a5452647",
+    "cover_preview.jpg": "434e5188855b28af8ef703f644fa5c6e2a5eb905214ca34aada67d9e2cd331f0",
+    "interior_sample.jpg": "94e6ee3b5d365ea59eddf2d20ecf3adcc4416394db22e7df7898a1ede219a0c0",
+    "PRODUCT_BRIEF.md": "b11f904eb0b20f8d16e25871a36f48a6b98ada3047d9fecce40496bc33bff0e7",
+    "PRODUCTION_ROUTE.md": "1746b12d4d5408a259ac37fb99b82f71a0fd53fcf1023116d6e15c1f69d9aa73"
+  }
+}

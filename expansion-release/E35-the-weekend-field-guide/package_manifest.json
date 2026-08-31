@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E35",
+  "working_title": "The Weekend Field Guide",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "local travel and outings",
+  "core_job": "Turn nearby outings into a repeatable discovery habit",
+  "route_recommendation": "Paperback candidate plus direct local-city inserts later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    5.0,
+    8.0
+  ],
+  "prototype_page_count": 80,
+  "cycle": "Weekend discovery",
+  "claims_boundary": "No travel safety accessibility legal or tourism advice",
+  "first_test": "Test a city-neutral weekend sampler in Philadelphia-area user research",
+  "files": {
+    "interior_prototype.pdf": "fc14c9669a852c48ca5b896a204b257ad5094405cda30b88328cbacb5e7fdb04",
+    "paperback_cover_wrap.pdf": "f44638964fe5f8f2548d3ecc975ad1f07bd74cf5c8bda8990b9d20f58b9d3311",
+    "cover_preview.jpg": "a71227dbdcb0ac512e0247858b44f044ae2b3c4620a8c2d41680c402de77b518",
+    "interior_sample.jpg": "8aeeecb1158404131dcc2b7701377a8b9d8fb8761be8d0369ede055b668d0f93",
+    "PRODUCT_BRIEF.md": "1f29009ec7f6ca13f1822af188c5808002f3eb5b629bac83a4155dcaba95a1c7",
+    "PRODUCTION_ROUTE.md": "84d64c56b438e582a8d69b10a87ad67af0e64537fb0004165224e40901899add"
+  }
+}

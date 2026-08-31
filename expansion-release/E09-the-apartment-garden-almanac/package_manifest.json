@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E09",
+  "working_title": "The Apartment Garden Almanac",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "small-space gardening",
+  "core_job": "Record experiments and plan attainable growing spaces",
+  "route_recommendation": "Paperback candidate plus direct printable seasonal inserts",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    10.0
+  ],
+  "prototype_page_count": 104,
+  "cycle": "Growing-space note",
+  "claims_boundary": "No pesticide horticultural or food-safety advice",
+  "first_test": "Test balcony windowsill and renter-friendly sample routes",
+  "files": {
+    "interior_prototype.pdf": "d10c9e1e886f0338b7d84b100cb70d52e7e0b516698f28b37d8d488abe81504e",
+    "paperback_cover_wrap.pdf": "88abbc5682d6c517207567edc4d7454f42d0c70d7fcb9e5566b9ac8f0c8cea65",
+    "cover_preview.jpg": "2c334a499598b10eb0b4735a8df14bcc7f2735daea457efdf4b7b06dbf6dac0f",
+    "interior_sample.jpg": "9056befedfa92fa7c0720b45a86653d102934d2d5352a6cdd2379cf44dd2f137",
+    "PRODUCT_BRIEF.md": "83aff94c72ac218ecf7ec0b9989a5093d60b80554df63bd79c2b5e58b658943d",
+    "PRODUCTION_ROUTE.md": "40fde321b54d9827c17ddae74eeb4caa3ca09352b0c6e08b9272d30468052377"
+  }
+}

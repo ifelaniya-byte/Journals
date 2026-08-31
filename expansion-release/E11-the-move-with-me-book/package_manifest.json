@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E11",
+  "working_title": "The Move With Me Book",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "moving and housewarming",
+  "core_job": "Organize a move and capture first-home memories",
+  "route_recommendation": "Paperback candidate plus direct moving-folder inserts",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    10.0
+  ],
+  "prototype_page_count": 96,
+  "cycle": "Arrival step",
+  "claims_boundary": "No legal leasing real-estate or moving-safety advice",
+  "first_test": "Test first-apartment and new-home buyer versions as separate content",
+  "files": {
+    "interior_prototype.pdf": "5a542629382f863b183b8866814df3c7df0a625fc470d9cd7c8e14278c8ff334",
+    "paperback_cover_wrap.pdf": "0ca12a33d9befa81386fe5419706cd1c2e7e9a3b9702cdb3e0ffd23253a00022",
+    "cover_preview.jpg": "0eefe3b099779a8f137440ddcc265db1d5aeb7726963831446eb7b0c1de88030",
+    "interior_sample.jpg": "c02486ca370be6baecfc506cc773b7c0048bb712334762d32dcebd09f6654c00",
+    "PRODUCT_BRIEF.md": "4b7b89fbaf637d7ed71568e73a4a1120eb21dbcccb39dffddeef6629f2c57c8a",
+    "PRODUCTION_ROUTE.md": "804f0acd41bfb2c1ea445ef89cf6191120598015b33f6edccca0ed71a481903b"
+  }
+}

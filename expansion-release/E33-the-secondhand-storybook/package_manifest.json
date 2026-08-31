@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E33",
+  "working_title": "The Secondhand Storybook",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "secondhand collecting",
+  "core_job": "Make thrifted and inherited objects more meaningful without valuation claims",
+  "route_recommendation": "Paperback candidate plus direct tag/label set later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    8.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "Secondhand story",
+  "claims_boundary": "No appraisal authentication resale or legal ownership advice",
+  "first_test": "Test vintage-home and thrifting hobby samples",
+  "files": {
+    "interior_prototype.pdf": "18a5b33eeeae2588363efa8dec83cceb6f27698a358ba5cde928b94d119432e6",
+    "paperback_cover_wrap.pdf": "f6b38a52c1bf8028b842212c5099fab0484485233c630390cb496fe21212f6ab",
+    "cover_preview.jpg": "1893e5ec03d06604a19e98d1ebd9110a7daa7682dd3cb4b38c6747e787812879",
+    "interior_sample.jpg": "8bd1a8433559fbf59ef236727dcf4e303f382219ed8e4a7f7dc39b5ebb7aaae2",
+    "PRODUCT_BRIEF.md": "33be331cebfb83f82a10219e364b0943da490184c2347cbdda5343b14935327e",
+    "PRODUCTION_ROUTE.md": "5e3672c3bfbd4c5612b781c4bd39a0ddccfff1ca8b3a3b2a6f708e69e8feaa6b"
+  }
+}

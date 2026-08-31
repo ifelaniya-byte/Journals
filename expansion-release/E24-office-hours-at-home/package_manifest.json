@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E24",
+  "working_title": "Office Hours at Home",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "hybrid work routines",
+  "core_job": "Plan changing work locations and routines on paper",
+  "route_recommendation": "Paperback candidate plus desk pad later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    10.0
+  ],
+  "prototype_page_count": 104,
+  "cycle": "Hybrid week",
+  "claims_boundary": "No employment accommodation or productivity guarantee claims",
+  "first_test": "Test hybrid-week sample and office/home configuration choices",
+  "files": {
+    "interior_prototype.pdf": "ff5c86b5072c5a47ca542ad69ba695191b49cf19b8979e7d556771a83c2b51fb",
+    "paperback_cover_wrap.pdf": "d86810ea976cef7f9b2292c36d214e73f18ea34df6f0dd5f8da5caba53d754c8",
+    "cover_preview.jpg": "e996550abd899ed92b235632ffcd2437ea0277ed228692f080f45f1f00a11bdd",
+    "interior_sample.jpg": "880c3fda2a12d8b35037427bc5d5dbf822240967153ab048607f16d8c59f2455",
+    "PRODUCT_BRIEF.md": "de7011e10a6fedb302d271907b013901b879b52072b8fb847170d7684113dbd7",
+    "PRODUCTION_ROUTE.md": "fb0bfa4a6792d5db375160b6383b41054fcb2fee6c7f12ee5d01cb353fae99bf"
+  }
+}

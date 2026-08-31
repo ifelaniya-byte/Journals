@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E03",
+  "working_title": "The Recipe Storybook",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "family food memory",
+  "core_job": "Capture family recipes and context in one heirloom-format book",
+  "route_recommendation": "Direct physical heirloom object first; paperback only as a distinct edition",
+  "route_asset": "front_cover_concept.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    10.0
+  ],
+  "prototype_page_count": 112,
+  "cycle": "Recipe story",
+  "claims_boundary": "No nutrition food-safety or dietary claims",
+  "first_test": "Test a 12-page keepsake sample with gift buyers",
+  "files": {
+    "interior_prototype.pdf": "e53f97076253d141b7328e8df32f2a3319a022a40224f651642cba1aa4590d8d",
+    "front_cover_concept.pdf": "c00ccbf6672e6a9b5e9e9d0c60c2c86c3a65d4d94eff1ecf86df6a4c10fcd152",
+    "cover_preview.jpg": "0e1f098adccbc04cea557e6356547f9106c7eb1cc61fd6cfe071fb81ace820c6",
+    "interior_sample.jpg": "9801289a16d6f47f4262dc2bfd4d576e1595b97e797da0eacb698382f87b5663",
+    "PRODUCT_BRIEF.md": "6997506cd437be66b729669159c82b81ece7dbc4f1e9d18c106da817a0236767",
+    "PRODUCTION_ROUTE.md": "00f30ef23a6de21a9ff278bfdf882fd13c2405262c70b32158fe8e7e42d12d90"
+  }
+}

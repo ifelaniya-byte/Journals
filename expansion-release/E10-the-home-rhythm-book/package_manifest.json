@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E10",
+  "working_title": "The Home Rhythm Book",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "household routines",
+  "core_job": "Coordinate ordinary maintenance and seasonal rituals without household perfectionism",
+  "route_recommendation": "Paperback candidate plus tear-pad calendar later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    10.0
+  ],
+  "prototype_page_count": 104,
+  "cycle": "Home rhythm",
+  "claims_boundary": "No repair safety legal landlord or contractor advice",
+  "first_test": "Test seasonal one-month printable pages",
+  "files": {
+    "interior_prototype.pdf": "4f0e6d77f6b0b08fae138c6cf611a83a34a049e9770d7f6b1f3476e338ff81bb",
+    "paperback_cover_wrap.pdf": "70c9d5d5d3c80317e40312ec321fe7f199d15ac8301ae8cb725d5c23c3aa2e8d",
+    "cover_preview.jpg": "e8e519203481ae61f5cc4e751f71ce2c1e695ed4971867235a44a2232f4d40b4",
+    "interior_sample.jpg": "927a0b1aa6aa5f7f1b9cac602c2285fb49ae3c914925a75d7a60ddc775bf47ca",
+    "PRODUCT_BRIEF.md": "3ac1c206a483068744633752c95cb385e7feb643416a6a2c3cdd5125d86d6877",
+    "PRODUCTION_ROUTE.md": "61d7093b4e3627ea8b694eab2fda2f16f847f700ac29092a02855f10c2a2f835"
+  }
+}

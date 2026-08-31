@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E02",
+  "working_title": "Postcard to Later",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "travel memory keeping",
+  "core_job": "Turn a trip into a usable memory artifact rather than an itinerary",
+  "route_recommendation": "Paperback candidate plus premium travel folio later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    5.0,
+    8.0
+  ],
+  "prototype_page_count": 80,
+  "cycle": "Small trip",
+  "claims_boundary": "No travel safety or legal advice",
+  "first_test": "Test a weekend-trip printable sample with two destination-neutral routes",
+  "files": {
+    "interior_prototype.pdf": "4f1ce6cc475b2f4224dc6846889c30b55d132a66bacc9cf6a95c19146e613c01",
+    "paperback_cover_wrap.pdf": "d3b9bb1a08838fb4b83d06c6fb2569bae186756bdc401d2c190db95720261228",
+    "cover_preview.jpg": "0f81378b424f026875425fd34cf1e49c7943bb15a3184552bc438a238ae24490",
+    "interior_sample.jpg": "960eaafa80845a0e0359b918065a719f5b8ad294d0148abb44b18404a6314a28",
+    "PRODUCT_BRIEF.md": "e7e4a9ae0bc519acf59a44df7ed52ff4a918eeae1369b3c2e1755b2875ede988",
+    "PRODUCTION_ROUTE.md": "d4d6957c10b6b8e4002f82b462b2ee57196851d872400e3f2272d2a5f1bbb340"
+  }
+}

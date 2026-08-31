@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E28",
+  "working_title": "The Celebration Capsule",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "milestone gifting",
+  "core_job": "Capture life events without being tied to a single occasion",
+  "route_recommendation": "Paperback candidate plus customizable direct cover later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    7.0,
+    9.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "Milestone capsule",
+  "claims_boundary": "No emotional outcome or relationship counseling claims",
+  "first_test": "Test graduation and birthday editions with distinct interiors",
+  "files": {
+    "interior_prototype.pdf": "983e377c8b0893db64e58736ec446762fb54e67a0c84423418c29ae987edec5b",
+    "paperback_cover_wrap.pdf": "0f8f21ed4e35f1eee0861cfb23fb80a4dbb4b368c9badc9a02234a2b449c35df",
+    "cover_preview.jpg": "01f5ea17c10c79c231ebabe288f8a4a2d96669df4df7dafbb2fac86025d06b9a",
+    "interior_sample.jpg": "c73a002973230275e48854df91cd97492f70db06a54c6c4633a6a1a23dbd8dcf",
+    "PRODUCT_BRIEF.md": "c3057e26134b289610f4238cc2003570ccf09ecaefa88c1d4736b8fe060f2c63",
+    "PRODUCTION_ROUTE.md": "9e1551f4efc595395e39fa4e611cc2ea359a1221a63036af9d40075544c6541a"
+  }
+}

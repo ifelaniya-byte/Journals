@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E34",
+  "working_title": "Repair Before Replace",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "household repair planning",
+  "core_job": "Help users track nontechnical repair decisions and product lifespan",
+  "route_recommendation": "Direct printable household record first; paperback candidate later",
+  "route_asset": "front_cover_concept.pdf",
+  "prototype_trim_inches": [
+    7.0,
+    9.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "Repair-before-replace decision",
+  "claims_boundary": "No repair safety electrical plumbing warranty or professional advice",
+  "first_test": "Test a household appliance/furniture sample without instructions",
+  "files": {
+    "interior_prototype.pdf": "7eb3c291d030e06dce3903a57a4721799efb472c50b3fc60d8b19e4200e31b87",
+    "front_cover_concept.pdf": "cb38834081086a6bc1bdf3ad85e986a93568b4c95ad70bfada5a5eabbfa898e9",
+    "cover_preview.jpg": "00f565b0257c2d6033b25b4125793c085789e9d0e7015b1d839633239569e010",
+    "interior_sample.jpg": "4fa3784ea645795d02ae23a0e8f845cc569b702abc40fb974de414a753db5f9e",
+    "PRODUCT_BRIEF.md": "a75c0b00a73728d64bcd92647c5b27c5947364267ff1b18100697b53f1020293",
+    "PRODUCTION_ROUTE.md": "dfca2d9c63e1c535daea723aa2ae4deeeb08d2d82e15ac75a474bbfcf87268d9"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E25",
+  "working_title": "The Supper Club Book",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "home entertaining",
+  "core_job": "Build a repeatable record of informal hosted meals",
+  "route_recommendation": "Direct gift object first; paperback candidate with original guided content",
+  "route_asset": "front_cover_concept.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    10.0
+  ],
+  "prototype_page_count": 96,
+  "cycle": "Supper club gathering",
+  "claims_boundary": "No food-safety alcohol service or event-safety advice",
+  "first_test": "Test themed dinner and potluck sample spreads",
+  "files": {
+    "interior_prototype.pdf": "5e64c0c71c500d334ff4d9b7f9b9653ab1f1d436b67b239a47522092c5189dca",
+    "front_cover_concept.pdf": "be970dc8a50d04e2e98b20c4fa0e825e0dad0d8d78d4cae202e59179fc17e32c",
+    "cover_preview.jpg": "8c427d3cf569f264fd9c65aca67de082353367967ee40ad82e1bb3c6009491e4",
+    "interior_sample.jpg": "9777652db50f7184324d843b0cac5a87242d9a156bd3076632b2ee9d9d4cb669",
+    "PRODUCT_BRIEF.md": "08ae9171876f447f9ea5771ede78c731cee805ea6ea6e2dfe1807ec195b8261a",
+    "PRODUCTION_ROUTE.md": "43c718f60e9fe6ad141cfa58744bf2d1c05558afe645540126a4bb116c6853d9"
+  }
+}

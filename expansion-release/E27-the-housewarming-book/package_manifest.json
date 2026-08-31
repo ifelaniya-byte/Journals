@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E27",
+  "working_title": "The Housewarming Book",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "housewarming and home memory",
+  "core_job": "Create a meaningful housewarming artifact rather than a generic guest book",
+  "route_recommendation": "Direct physical keepsake object first; paperback only as distinct edition",
+  "route_asset": "front_cover_concept.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    10.0
+  ],
+  "prototype_page_count": 96,
+  "cycle": "First-year home memory",
+  "claims_boundary": "No real-estate legal safety or security advice",
+  "first_test": "Test premium gift format with new-home gift buyers",
+  "files": {
+    "interior_prototype.pdf": "045a2df8e6caca22e99694015b28cf53b32b40c4645a6d3455b282fdfe8f7418",
+    "front_cover_concept.pdf": "68fc7a57b82e84d4869e70b2bb9acab7b160fb7b10465873c4316f723ef15fc5",
+    "cover_preview.jpg": "f72b0e85c7c63684fb9fc862750ae5960e98acf26637b69e86ccf3604a8475da",
+    "interior_sample.jpg": "374a964fb232a1af299c8c9964cfe39570583044a794e36d6039912d9e02aae4",
+    "PRODUCT_BRIEF.md": "e10f7d27d88b59f80b8fee14926df2c862b094db588818f844b19ae602e34c88",
+    "PRODUCTION_ROUTE.md": "8ce9c42c9e0db9ec577626b1aa8fe035900d4836066a113a6678d91803eba520"
+  }
+}

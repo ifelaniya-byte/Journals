@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E19",
+  "working_title": "The Meeting Map",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "meeting productivity",
+  "core_job": "Turn meeting notes into an accountable next-action record",
+  "route_recommendation": "Direct B2B pilot or paperback candidate after rights review",
+  "route_asset": "front_cover_concept.pdf",
+  "prototype_trim_inches": [
+    7.0,
+    9.0
+  ],
+  "prototype_page_count": 96,
+  "cycle": "Meeting map",
+  "claims_boundary": "No employment legal performance-management or productivity guarantee claims",
+  "first_test": "Test with independent professionals using a print-at-home sample",
+  "files": {
+    "interior_prototype.pdf": "7b80933b8f92361bddd177e39bbecd8792480ada321ce48ad608ea2c3170d61c",
+    "front_cover_concept.pdf": "1be85b9ed7e5eb4b9a48dd29e94a018f115a69c21c8a9ae44f999c875f80ea7c",
+    "cover_preview.jpg": "7c993e9c37fd79b230bd742f394aa558c30c84ed2a4f1221ed3d4d2c2719d82f",
+    "interior_sample.jpg": "620355481e4e35bcbd621e85368c1434d950acfd667035f57dfae60c34d41037",
+    "PRODUCT_BRIEF.md": "b43a3864b4fc62d83ff11211628ff893c11dcd3d8a7f9644abb398dec28d66d9",
+    "PRODUCTION_ROUTE.md": "d22365de71739e901803e5ec29e0f419ad8b69e67bd86cd1468a8730ff88fb02"
+  }
+}

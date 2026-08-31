@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E08",
+  "working_title": "The Tiny Kitchen Notebook",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "small-kitchen living",
+  "core_job": "Plan home cooking routines around a compact space",
+  "route_recommendation": "Paperback candidate plus magnetic/fridge pad later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    7.0,
+    9.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "Small-kitchen repeat",
+  "claims_boundary": "No nutrition food-safety or dietary advice",
+  "first_test": "Test compact-kitchen audience demand and usability",
+  "files": {
+    "interior_prototype.pdf": "bf83234b6a5a1e2287a45e84311066e2919c8ced1a32e9b557706d4893b15480",
+    "paperback_cover_wrap.pdf": "19e5c4cb59dc8dd69d17bd6437a899c74ec64e03a684badc5842848b8087edee",
+    "cover_preview.jpg": "15a573a415283980d78bc7e5db11e1ff2b49d9ab70ac8bb36b42305f18ac1a72",
+    "interior_sample.jpg": "f9260a9722bd412e5f698e0ed5c5fddecd25156f63d1342ccdb2075a1f00eb87",
+    "PRODUCT_BRIEF.md": "cf8169ed3e66d678d6a654dbf7e1bb221627f3ac4c8cbdab7180cb93d6103334",
+    "PRODUCTION_ROUTE.md": "7b8d7098ca7cc7fc176a79c869c3d623a3a2965d771f771a9a54fa60de0638f0"
+  }
+}

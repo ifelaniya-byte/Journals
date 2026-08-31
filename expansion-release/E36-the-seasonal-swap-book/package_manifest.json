@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E36",
+  "working_title": "The Seasonal Swap Book",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "seasonal living and organization",
+  "core_job": "Make seasonal transitions manageable and personal",
+  "route_recommendation": "Paperback candidate plus reusable tabbed binder concept later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    10.0
+  ],
+  "prototype_page_count": 104,
+  "cycle": "Seasonal swap",
+  "claims_boundary": "No mold pest safety environmental or disposal advice",
+  "first_test": "Test fall-to-winter and spring-to-summer printable modules",
+  "files": {
+    "interior_prototype.pdf": "6f4c52fe69ff0a80f78dbceda6a4fbaa7f8c5f560f13b0544560f110a432dd77",
+    "paperback_cover_wrap.pdf": "11b50de68ff3327cd63225ad053525a3907587f8c697668a6a7607cdb4b083ea",
+    "cover_preview.jpg": "ceb4d166d290f405cd2c3622adb6469f54cf1a241fdaeafd6bb0ebcee65b1c7e",
+    "interior_sample.jpg": "911d2fdcfbbaffa201c682139751f2c54a59887c77874fcce10a51c016808a2c",
+    "PRODUCT_BRIEF.md": "15da36fe65a92d3308077e9da6b81542cb1c7e39533c9661be912b9e215da9e5",
+    "PRODUCTION_ROUTE.md": "71fe44db509bf66bb02f026c3b8456d1e389184cc16c0df6edbcd5f965f8885d"
+  }
+}

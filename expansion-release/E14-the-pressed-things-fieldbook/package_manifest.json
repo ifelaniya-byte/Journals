@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E14",
+  "working_title": "The Pressed Things Fieldbook",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "flower pressing and nature craft",
+  "core_job": "Document and display pressed natural materials",
+  "route_recommendation": "Direct physical kit first; paperback only with original activity content",
+  "route_asset": "front_cover_concept.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    10.0
+  ],
+  "prototype_page_count": 96,
+  "cycle": "Pressed-things page",
+  "claims_boundary": "No plant identification for consumption allergy or safety advice",
+  "first_test": "Test a non-specimen collecting kit with clearly sourced materials",
+  "files": {
+    "interior_prototype.pdf": "6831946116cb3e2b4a038b2be4a7789e4a875428bf397030af962cc90d17d661",
+    "front_cover_concept.pdf": "4480e58ee1e43ca6e125e717bb6998e02396494cae27846b3132e92ab87e786b",
+    "cover_preview.jpg": "10454e9327ba2f9ff774f437556facc1a22a8d7c32466951713184780835098f",
+    "interior_sample.jpg": "08a0ddd6b420cdcbf5b017c447ccc029322a7d1e72a02257d47a63efb3203c17",
+    "PRODUCT_BRIEF.md": "597a5e81918c239794bec8f9a276fc8172a09201df3837327bf3849ef2bee000",
+    "PRODUCTION_ROUTE.md": "44de9f670ed2f9c69ba33fbadbf29af8397381ea0a483bf4da505953945f80bb"
+  }
+}

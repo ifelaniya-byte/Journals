@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E30",
+  "working_title": "The Little Treat Book",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "everyday gifting",
+  "core_job": "Help users notice and plan small non-occasion celebrations",
+  "route_recommendation": "Paperback candidate plus mini card deck later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    6.0,
+    8.0
+  ],
+  "prototype_page_count": 80,
+  "cycle": "Little-treat note",
+  "claims_boundary": "No retail financial or emotional-outcome claims",
+  "first_test": "Test mini gift-planning card format",
+  "files": {
+    "interior_prototype.pdf": "66eb0aa043d3d08d6a0c141b2eb14e3bbd76d532818bb2a15935bf9811f241bd",
+    "paperback_cover_wrap.pdf": "8f590b4d04166ea4f3899f963845faaf27c299b56c07267790397a7531de552b",
+    "cover_preview.jpg": "9678323449704d8cdc262ce837b7a746dc428a167b900f650c771bfebfe57b57",
+    "interior_sample.jpg": "ae23d2e514abb7ab5d100228acb742253851b7a81c5ee590cae9e764ecb58e42",
+    "PRODUCT_BRIEF.md": "581dcce37d4104bd26366bd59f75b178958b0fb37bbfe88afc647ff0ad717925",
+    "PRODUCTION_ROUTE.md": "3589060339bdad3c83ed8eee16a2ce4319a031152b5f49e142acac3f61f04bcb"
+  }
+}

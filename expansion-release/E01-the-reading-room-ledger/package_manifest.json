@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E01",
+  "working_title": "The Reading Room Ledger",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "analog reading and collecting",
+  "core_job": "Capture ideas and connections from books without becoming a generic reading log",
+  "route_recommendation": "Paperback candidate plus optional direct printable reading-card insert",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    7.0,
+    9.0
+  ],
+  "prototype_page_count": 96,
+  "cycle": "Reading encounter",
+  "claims_boundary": "No educational achievement or therapeutic outcome claims",
+  "first_test": "Test three sample spreads and a reading-club edition concept",
+  "files": {
+    "interior_prototype.pdf": "85dc9c99d820a8af876ac7a49b6c4cbcd71bae4c732e9136f91bcb179907ee8a",
+    "paperback_cover_wrap.pdf": "3584e309b3bc1490d6898350ff681e82a6d4b32d166f22c40d281166d10496e6",
+    "cover_preview.jpg": "51d7e47206dcffa8b4823e80e66f9b02b6bd7952b9e4da2de460d63f484bde59",
+    "interior_sample.jpg": "5e98f2a148d82bc6e05eb3b056cc46c172fc0fa7d3c3129458df17ceb54e1ed5",
+    "PRODUCT_BRIEF.md": "1174a1bdf5416568c210957ebf38e6048e75dfaa5a43089aa04d51d9a3d7c323",
+    "PRODUCTION_ROUTE.md": "2b2673d5b4bdda9b0b23076549fb90ea0a75ada893ad70d1395fec8e4e6f52d7"
+  }
+}

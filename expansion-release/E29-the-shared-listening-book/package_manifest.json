@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E29",
+  "working_title": "The Shared Listening Book",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "music memory and gifting",
+  "core_job": "Document personal listening experiences without reproducing protected lyrics",
+  "route_recommendation": "Paperback candidate plus direct concert-ticket insert pack later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    7.0,
+    9.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "Listening memory",
+  "claims_boundary": "No music-licensing copyright or therapeutic claims",
+  "first_test": "Test music-club and concert-goer samples without lyrics or copyrighted artwork",
+  "files": {
+    "interior_prototype.pdf": "1cb02fff300f5122738f1e4f0d4d09bafb8498828f24396fd4192a4c98743e66",
+    "paperback_cover_wrap.pdf": "52f6f9a66102bea11ee579dce8489278821e0d6213129824260cbd5051c2a45d",
+    "cover_preview.jpg": "1738b0c5de3c21ed93e494c6c8c925dfdbcd9916e7ad3909cfc4bd9c7c080837",
+    "interior_sample.jpg": "fae7890b67d55eae6369f22b89e66cb62a4722e9c00340c4f226463336a2a3c4",
+    "PRODUCT_BRIEF.md": "cee9e84b495867c669b317eb7be3b2cbdb7ac3415fbb3fce22ee479387100e40",
+    "PRODUCTION_ROUTE.md": "a6fb1cc7fc3859a07512373c5b2972c6d71fd4ca72e2910bcc42c7c139ab1349"
+  }
+}

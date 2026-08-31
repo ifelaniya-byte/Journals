@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E13",
+  "working_title": "Mend and Make",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "repair and visible mending",
+  "core_job": "Track repair projects supplies and lessons without providing technical instruction",
+  "route_recommendation": "Paperback candidate plus field-card tool-kit later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    7.0,
+    9.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "Mend or make note",
+  "claims_boundary": "No tool safety structural electrical or textile-preservation advice",
+  "first_test": "Test visible-mending and household-repair audiences separately",
+  "files": {
+    "interior_prototype.pdf": "2a5331887c4f89c3a76371b27786c93e92385f54ea4f0bd7047e816077fd022f",
+    "paperback_cover_wrap.pdf": "93a95004c6e4028defdbe5430e3aea098718c556f69964f6b0e769a8ac15a7bc",
+    "cover_preview.jpg": "afcd79d4517c904166aaf20339b2d6c3b19508cf424ad030bcf04246dbd1901b",
+    "interior_sample.jpg": "ae0dab08225e5d9decc45eb3a93698c3761041bd064d50d242d852d133047be9",
+    "PRODUCT_BRIEF.md": "6a487f89263dbd1cd5a282a233770ec0b30175618f1892e692a28dcf66c60208",
+    "PRODUCTION_ROUTE.md": "0a055641b8b92f7a4e42343eaa7f165e00b3bfe2073a23ac47e82988991248c4"
+  }
+}

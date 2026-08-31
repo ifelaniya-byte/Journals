@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E22",
+  "working_title": "One Project One Season",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "personal projects",
+  "core_job": "Help users maintain an original project arc without hustle framing",
+  "route_recommendation": "Paperback candidate plus direct seasonal cohort kit later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    7.0,
+    9.0
+  ],
+  "prototype_page_count": 96,
+  "cycle": "Studio week",
+  "claims_boundary": "No achievement productivity or therapeutic outcome claims",
+  "first_test": "Test one twelve-week sample with maker communities",
+  "files": {
+    "interior_prototype.pdf": "20e69f302413a648137fa4652832725a54abcd63050f9604a71e82451ea6ea90",
+    "paperback_cover_wrap.pdf": "6f96b11348236dd6a927bbc0c9fb74d92f49f6f483d3a2eb68fa37b8a2ec1320",
+    "cover_preview.jpg": "f3606950eb782c3aa75ca81e6ab4fd904c8e41e2b244f670cddf02045df2185a",
+    "interior_sample.jpg": "12aec8f2e9ed9046154d3aa82b9a3abd52bd81b6e34a2975f0256e0b78edfebd",
+    "PRODUCT_BRIEF.md": "0eef76dc5716747e845e32480d3a19c9f3cbbc5cb931f1f3b875d96858e8fe2e",
+    "PRODUCTION_ROUTE.md": "f8a65503c4be7c12b2b76f1fcb251d13c1bc6b6bb24a7acb4c969350b6a49ca4"
+  }
+}

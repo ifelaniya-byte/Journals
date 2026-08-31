@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E23",
+  "working_title": "The Decision Record",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "decision journaling",
+  "core_job": "Capture decisions so individuals and teams can learn without hindsight rewriting",
+  "route_recommendation": "Paperback candidate plus direct team workshop sheets later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    6.0,
+    8.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "Decision record",
+  "claims_boundary": "No legal financial medical or professional advice",
+  "first_test": "Test solo-maker and manager-free individual use cases",
+  "files": {
+    "interior_prototype.pdf": "b3771a91de46b2f9110d62803a9e6c75181b6e7a22c71e6801b2a2a5b70e0fc4",
+    "paperback_cover_wrap.pdf": "24090677ed50bb70e6e4942ef40991a6a53a7bec26fd0673fcc16d257c87fbb9",
+    "cover_preview.jpg": "98781a1faa13aedec64b7ff870f810029e6167935462c36d6bf0f906e391747b",
+    "interior_sample.jpg": "77f28e15adc6fdeb375d6434fa5a74b93e763d9c23be8ca1b562386802ba514c",
+    "PRODUCT_BRIEF.md": "ad9baa16378431c108fb0dcb9ed116fc1387b0319c6d7fd60f35e34870d737eb",
+    "PRODUCTION_ROUTE.md": "6e41540142caae94206c384e7b7bb6409240b438efa246812b4f079fa0c866bc"
+  }
+}

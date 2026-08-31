@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E21",
+  "working_title": "The Client Work Ledger",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "freelance project organization",
+  "core_job": "Keep client project history in a paper workflow without offering business advice",
+  "route_recommendation": "Direct downloadable template test then paperback candidate",
+  "route_asset": "front_cover_concept.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    10.0
+  ],
+  "prototype_page_count": 96,
+  "cycle": "Client-project record",
+  "claims_boundary": "No tax legal contract pricing or business-results advice",
+  "first_test": "Test a single-project printable sample with freelancers",
+  "files": {
+    "interior_prototype.pdf": "55bf0d4e1b1f7b23f7d6e06861f361d3a3912629fae743d5e7d5e56ce3a5383f",
+    "front_cover_concept.pdf": "c3c7186b424c5873968e767dd957b43af950f66d0b2edbc4cd52a7ba3cabdc8e",
+    "cover_preview.jpg": "107f6f4b130b36129a3720a8cdd137af9e6d3bb33d582d93a2a67ad1a8c40949",
+    "interior_sample.jpg": "f07cebf7871d8b0d0cb2dd53e3900473b19ef3a1f3d9172a02b8c984481f490d",
+    "PRODUCT_BRIEF.md": "4f0a41f452d621d4ab627dccc82dcbcdbacfca795fccda6d2767303804f8e140",
+    "PRODUCTION_ROUTE.md": "7d32b4db46b6b2e023c82462f0e9e4b051623aa4395475da4e44cd2c7e92f395"
+  }
+}

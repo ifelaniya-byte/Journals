@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""Structural QC for the 18-concept Ritual Library catalog.
+"""Structural QC for the 18-concept Ritual Library catalog and 36 held local prototypes.
 
-The catalog has six Wave 1 KDP upload candidates, 9 held book-form options, and two private book-form
-reference assets, and one non-KDP calendar (A03). This validator confirms
-that generated book artifacts agree with CATALOG.csv, that A03 remains
-non-KDP, and that the Wave 1 pricing, multichannel-model, translation-source, and
-non-production expansion-register locks pass. It is structural QC only; it does not
-replace KDP Previewer, physical proofing, translation review, or legal review.
+The canonical catalog has six Wave 1 KDP upload candidates, nine held book-form options,
+two private book-form reference assets, and one non-KDP calendar (A03). This validator
+confirms that canonical book artifacts agree with CATALOG.csv, that A03 remains non-KDP,
+and that pricing, multichannel-model, translation-source, candidate-research, author, and
+local-prototype guards pass. The 36 expansion packages remain held outside the canonical
+portfolio. Structural QC is not KDP Previewer, physical proofing, translation review, legal
+review, or release authorization.
 """
 from pathlib import Path
 import csv
@@ -141,9 +142,10 @@ check(all((R / name).exists() for name in [
     "DECISIONS.md", "verify_pricing.py", "verify_canonical.py", "AUTOMATION_POLICY.md", "COUNSEL_ENGAGEMENT_EMAIL.md", "GITHUB_PUBLIC_EXPOSURE_AUDIT.md",
     "MULTILINGUAL_MULTICHANNEL_MODEL.md", "BILINGUAL_LANGUAGE_REGISTER.csv", "MULTICHANNEL_PRICING_MODEL.csv",
     "SALE_READINESS_COMPLETION_MATRIX.md", "WAVE1_COUNSEL_AND_FINALIZATION_PACKET.md", "TRANSLATION_HANDOFF_PACKAGE.md", "TRANSLATION_SOURCE_MANIFEST.csv",
-    "EXPANSION_36_RESEARCH_AND_STAGE_GATE.md", "EXPANSION_36_CONCEPT_REGISTER.csv", "verify_expansion_36.py", "verify_author_attribution.py",
+    "EXPANSION_36_RESEARCH_AND_STAGE_GATE.md", "EXPANSION_36_CONCEPT_REGISTER.csv", "EXPANSION_36_LOCAL_PROTOTYPES.md", "EXPANSION_36_LOCAL_PRODUCTION_REGISTER.csv",
+    "build_expansion_products.py", "validate_expansion_products.py", "verify_expansion_36.py", "verify_author_attribution.py",
     "build_multichannel_pricing.py", "verify_multichannel_pricing.py", "build_translation_manifest.py", "verify_translation_manifest.py",
-]), "operating, price-control, multilingual, readiness, and exposure-control docs present")
+]), "operating, price-control, multilingual, readiness, and expansion-control docs present")
 check((R / "configure_wave1_qr.py").is_file() and (R / "qr-routing" / "worker.js").is_file(), "QR routing/stamp tooling present")
 if DOMAIN:
     route_file = R / "qr-routing" / "routes.json"
@@ -196,10 +198,17 @@ print("\n--- Expansion-candidate guard ---")
 print(expansion_check.stdout.rstrip())
 if expansion_check.stderr:
     print(expansion_check.stderr.rstrip())
-check(expansion_check.returncode == 0, "36 expansion candidates are unique, low-claim, non-production concepts outside the governed portfolio")
+check(expansion_check.returncode == 0, "36 expansion candidates remain unique, low-claim research records outside the governed portfolio")
 
-print(f"\nChecks passed: {passed}/39")
+prototype_check = subprocess.run([sys.executable, str(R / "validate_expansion_products.py")], cwd=R, text=True, capture_output=True)
+print("\n--- Expansion local-prototype guard ---")
+print(prototype_check.stdout.rstrip())
+if prototype_check.stderr:
+    print(prototype_check.stderr.rstrip())
+check(prototype_check.returncode == 0, "36 expansion packages are complete controlled local prototypes with hold boundaries")
+
+print(f"\nChecks passed: {passed}/40")
 if fails:
     print("FAILURES:", "; ".join(fails))
     raise SystemExit(1)
-print("STRUCTURAL QC PASSED — 18 concepts / 6 Wave 1 / 9 Wave 2 / 3 Vault; not release authorization.")
+print("STRUCTURAL QC PASSED — 18 canonical concepts / 36 held local prototypes; not release authorization.")

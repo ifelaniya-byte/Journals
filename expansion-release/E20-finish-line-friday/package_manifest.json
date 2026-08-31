@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E20",
+  "working_title": "Finish-Line Friday",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "weekly work reset",
+  "core_job": "Create a consistent end-of-week review ritual for knowledge workers",
+  "route_recommendation": "Paperback candidate plus tear-pad later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    6.0,
+    8.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "Friday closeout",
+  "claims_boundary": "No mental-health or workplace-performance outcome claims",
+  "first_test": "Test Friday-review sample with hybrid and freelance users",
+  "files": {
+    "interior_prototype.pdf": "47e8f181164e998f9c3cd6e2bfab14470ed4ccd3670ce3fd904f9f3316c3d84a",
+    "paperback_cover_wrap.pdf": "212cb524e943de0c6f95e88f14608d1ddaccfe6dbe9ffcce687ab73d1f63f634",
+    "cover_preview.jpg": "a1a01a87d5fdfd65dd8b628fff21b050b429f2824efadf215620ed378db62b1c",
+    "interior_sample.jpg": "e736eed393c4c13b05160638f9aef150313c7d14b8a7107607a9c42015690ccc",
+    "PRODUCT_BRIEF.md": "ab1910c6a6f7d236e3da57e234f251a3c08dcc08caa5ab85dcdb04c12bb50db0",
+    "PRODUCTION_ROUTE.md": "a31cb87a2d63ebd43d96e31baa31460490d005bceecaf066e43f3ab85a8c422a"
+  }
+}

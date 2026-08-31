@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E26",
+  "working_title": "The Picnic Year",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "picnics and low-key outings",
+  "core_job": "Plan and remember small outdoor gatherings",
+  "route_recommendation": "Paperback candidate plus waterproof direct card set later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    7.0,
+    9.0
+  ],
+  "prototype_page_count": 80,
+  "cycle": "Outdoor day",
+  "claims_boundary": "No weather wildlife food-safety or public-land advice",
+  "first_test": "Test one park-day card set and local-outing landing page",
+  "files": {
+    "interior_prototype.pdf": "390ae10e5ad2e0709c6471a13f65574b7e212e946b9ab9c97452288624aa596f",
+    "paperback_cover_wrap.pdf": "e7fc7dbbb0a3917b9c210eb57095efc7a31f65936cda1e73005ee6bd664fdc66",
+    "cover_preview.jpg": "07a36fa9d69f955450d84b35fa75a92d50045e9a736f435bd53599a062673b6e",
+    "interior_sample.jpg": "1e8047c36708ed971b32f22ba980460dd4ed14c01eb3b19940b0c50add7756b8",
+    "PRODUCT_BRIEF.md": "fa6261407661d7576089b984e5cf0de14eb066b335099e5e9f15eeb43f1e8449",
+    "PRODUCTION_ROUTE.md": "988a99dc9364aa70dd5b939e74f6bf251629f3df3e7973c446f0e0a666a685c1"
+  }
+}

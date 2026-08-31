@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E15",
+  "working_title": "Weekend Bake Notes",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "baking hobby",
+  "core_job": "Turn baking experiments into a personal reference and giftable record",
+  "route_recommendation": "Paperback candidate plus direct recipe-card refill later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    10.0
+  ],
+  "prototype_page_count": 96,
+  "cycle": "Bake note",
+  "claims_boundary": "No nutrition allergen food-safety or dietary advice",
+  "first_test": "Test one baking-theme sampler with hobbyists",
+  "files": {
+    "interior_prototype.pdf": "db50a83223d5e4dfbb7a9b4c197c43fda018f18fa7e020e834c865126590111a",
+    "paperback_cover_wrap.pdf": "7ed9c8a059028219ddc8a2f977f7d9a51ea5573b0415b80a4b9f4a2c87a91fd1",
+    "cover_preview.jpg": "ea1429747e131d9a3b22b2852903fc44de54d4ab9dc064b250c209a1aad2fc15",
+    "interior_sample.jpg": "9f62fcd750b86c5c5a5a3312065f43cf82af48b0c96b7a439625db5dca22b089",
+    "PRODUCT_BRIEF.md": "51fbd12273b2a6696772c35164ca2c969edaaa3468ac8acb4d850014d372d2d1",
+    "PRODUCTION_ROUTE.md": "7a611ace9b2a544572528f1ec143ec99f13493f68e76797fc5253d6d1710ccdc"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E04",
+  "working_title": "The Little Museum at Home",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "home collecting and decor",
+  "core_job": "Document a personal collection and plan a small display",
+  "route_recommendation": "Paperback candidate plus premium slipcase/label kit later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    8.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "Collection entry",
+  "claims_boundary": "No valuation appraisal or authenticity advice",
+  "first_test": "Test collector-category variants without reusing the same interior",
+  "files": {
+    "interior_prototype.pdf": "28f0394a48d8100b87ba95fa2f826d4e64080dbe6c8fd2da31acf9bed6915959",
+    "paperback_cover_wrap.pdf": "e4314f2643e696f8d194ff4d77d7fbbd3a6d908bdcc1210816a24e215b6df095",
+    "cover_preview.jpg": "7f0e77d9d6b0d9bb8785ea870ecd9569cd4b09c90f8216f9c0f0e532f7e318e6",
+    "interior_sample.jpg": "a3ae959464a24f8a1d8b845ade6e0f042ae41e8000ffb41654d71a6bfc883cd8",
+    "PRODUCT_BRIEF.md": "4b6e0bc21b0b0c43643fd262f1b8b3689ee0649bab532eec11624c435d9d7e4c",
+    "PRODUCTION_ROUTE.md": "c11218a965bba4bc48c6c1c36441043d627cc62bd01bf215172e3836e46f41e0"
+  }
+}

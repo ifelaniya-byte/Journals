@@ -2,10 +2,11 @@
 ## Broader lifestyle, work, home, hobby, and gifting niches; low-claim boundary
 
 **Research date:** 2026-08-31
-**Decision state:** candidate-research only. These 36 concepts are **not** additions to `PORTFOLIO.md`, not production files, not prices, not listings, and not an upload queue.
+**Current decision state:** the source register remains the preserved candidate-research baseline. At the owner’s subsequent direction, all 36 candidates were built as controlled **local prototype packages** in `expansion-release/`; see `EXPANSION_36_LOCAL_PROTOTYPES.md` and `EXPANSION_36_LOCAL_PRODUCTION_REGISTER.csv`.
+**Release state:** the 36 prototypes remain outside `PORTFOLIO.md`, have no approved price/listing/upload/manufacturing status, and are **HOLD — NOT FOR SALE, UPLOAD, OR MANUFACTURE** until each product completes its independent gates.
 **Scope selected:** broader lifestyle, work, home, hobbies, travel, celebrations, and gifting; sensitive health, financial-advice, therapy, diagnosis, treatment, caregiving, and relationship-counseling niches are excluded.
 
-The complete unique-candidate register is `EXPANSION_36_CONCEPT_REGISTER.csv`. Every candidate has a different customer job, title, format path, differentiator, boundary, first validation test, and `CANDIDATE — not in portfolio; no production or sale authorization` state.
+The complete unique-candidate register is `EXPANSION_36_CONCEPT_REGISTER.csv`. Every candidate has a different customer job, title, format path, differentiator, boundary, and first validation test. The distinct local-production register identifies the generated prototype artifacts without changing the preserved research baseline.
 
 ## 1. Research conclusion
 
@@ -22,7 +23,7 @@ The complete unique-candidate register is `EXPANSION_36_CONCEPT_REGISTER.csv`. E
 
 ### Priority pilot shortlist
 
-Do **not** build all 36 at once. The first research queue should be a maximum of six distinct customer jobs:
+**Research recommendation:** validate no more than six distinct customer jobs before treating any prototype as a release candidate. The owner-directed build of all 36 has been implemented as controlled local prototypes only; it does not supersede the evidence, rights, production-route, proof, or named-human release sequencing below. The first validation queue remains a maximum of six distinct customer jobs:
 
 1. **E01 — The Reading Room Ledger:** analog reading/commonplacing and book-club use.
 2. **E07 — One Shelf at a Time:** small-space, one-zone home reset.
@@ -94,4 +95,4 @@ For each approved brief: author original material → design the unique interior
 
 ## 5. Explicit non-results
 
-This research registers 36 unique candidate products. It does **not** create 36 finished products, translate any product, add any SKU to the existing portfolio, set prices, pick a brand, make listings, acquire identifiers, gather customer data, contact suppliers, establish accounts, or perform any public or paid action. The existing 18 products retain their current gates and statuses unchanged.
+This research registers 36 unique candidate products. The owner-directed local build created 36 controlled original prototype packages, but it does **not** create 36 cleared commercial products, translate any product, add any SKU to the existing portfolio, set prices, make listings, acquire identifiers, gather customer data, contact suppliers, establish accounts, order manufacture, or perform any public or paid action. The existing 18 products retain their current gates and statuses unchanged.

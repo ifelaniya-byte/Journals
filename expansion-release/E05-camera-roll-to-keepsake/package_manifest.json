@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E05",
+  "working_title": "Camera Roll to Keepsake",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "photo memory keeping",
+  "core_job": "Select and narrate meaningful photographs before they disappear in a phone archive",
+  "route_recommendation": "Paperback candidate plus direct printable photo-layout pack",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    8.0,
+    10.0
+  ],
+  "prototype_page_count": 96,
+  "cycle": "Photo story",
+  "claims_boundary": "No cloud backup privacy or data-recovery claims",
+  "first_test": "Test a 30-day photo-story email-free printable sample",
+  "files": {
+    "interior_prototype.pdf": "8820a89f193ee40a21ea735052c6d1cfd49a1705a34e4c98ce2592f97fb4b6d5",
+    "paperback_cover_wrap.pdf": "65d5ed31731ea2ad7dcb4c2d6c684ec49be1d1e46c53f9fa4f42cd5351e12e6e",
+    "cover_preview.jpg": "a5b265841a188d6644df1cadc05420c7a8953dbfbb13658f111a8e5adcd889b8",
+    "interior_sample.jpg": "0086dfc19892bf266de73f48663fdc152c3b30ef668ef907af504029760bf03a",
+    "PRODUCT_BRIEF.md": "2b54a575c42cc77e4195acf42c6ff59a77081c2a5be14aa8341d071d65b79f76",
+    "PRODUCTION_ROUTE.md": "e6a2793341b9a39808f9c4dae1107c631843598f80475a256dbfdcd6cac1998e"
+  }
+}

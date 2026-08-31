@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E06",
+  "working_title": "Notes Worth Keeping",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "letter writing and gifting",
+  "core_job": "Make letter writing a recurring practical ritual",
+  "route_recommendation": "Paperback candidate plus stationery-kit object later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    6.0,
+    8.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "Correspondence moment",
+  "claims_boundary": "No relationship counseling or emotional-outcome claims",
+  "first_test": "Test a small card-and-note insert set",
+  "files": {
+    "interior_prototype.pdf": "d1cca57bfae147d5dc9fa98493fa3eb8827daf183fff3bba2d99236f58401896",
+    "paperback_cover_wrap.pdf": "82d3b1c1f2fc39aea6f15f4b2b6c24f8cafb42b8d84d04fca7d4c103bd77d8c0",
+    "cover_preview.jpg": "884905145db08447fe0623b3cd6b1b6e9b036eaeb588558c33d420a52c89d41c",
+    "interior_sample.jpg": "9d7cae2c6d87553e7e32ff496329b191e743f6b187fa921e7ff13a7093ea9648",
+    "PRODUCT_BRIEF.md": "47be2a7c309561435ac5e16fd0eae81adafc934e27949f2719aff23c50459872",
+    "PRODUCTION_ROUTE.md": "a2a9feb9c01c58af568a66f669740edd60e00caf32e33fe9f56ed90cff4e451d"
+  }
+}

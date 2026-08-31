@@ -1,0 +1,27 @@
+{
+  "candidate_id": "E18",
+  "working_title": "The First Project Companion",
+  "status": "LOCAL PROTOTYPE PACKAGE - HOLD - NOT FOR SALE, UPLOAD, OR MANUFACTURE",
+  "author": "Arden Vellor",
+  "author_status": "owner-directed provisional local attribution only",
+  "primary_niche": "beginner craft projects",
+  "core_job": "Keep new hobbyists oriented across a first project without teaching a restricted method",
+  "route_recommendation": "Paperback candidate plus category-specific kit insert later",
+  "route_asset": "paperback_cover_wrap.pdf",
+  "prototype_trim_inches": [
+    7.0,
+    9.0
+  ],
+  "prototype_page_count": 88,
+  "cycle": "First-project session",
+  "claims_boundary": "No professional instruction safety certification or outcome claims",
+  "first_test": "Test needlepoint crochet and pottery cohorts separately; no borrowed patterns",
+  "files": {
+    "interior_prototype.pdf": "21fad04e9831780e299877b4b34764cdb39cacf6087d4cae6f0796d83813fbbb",
+    "paperback_cover_wrap.pdf": "a95eb6599c1c96f19ba052763a09ed08fb77f36cb66f5c8336c3b3f4d361aea7",
+    "cover_preview.jpg": "c820655df7cc8ea8749f5f487e040e7005be867ce20bdb5b6953471fcda5f219",
+    "interior_sample.jpg": "bc16e8dfaa90dade8d16f1ab90d855a9599e43b53bddf19b803a66800c7fe321",
+    "PRODUCT_BRIEF.md": "2919002076dfd2e6ec03682fba5611f8f2278c20ad95d3bae6037094e2ae8ea9",
+    "PRODUCTION_ROUTE.md": "f82ba7627238373ec5b65924dad30c365f60213931ca19aa68f24752f90ad00e"
+  }
+}
