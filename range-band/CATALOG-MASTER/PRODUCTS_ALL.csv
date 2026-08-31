@@ -1,0 +1,289 @@
+number,title,collection,path,status
+1,GLP1 Meal and Satiety,ORIGINAL-36,KDP-Complete-Kit/01_GLP1_Meal_and_Satiety,FROZEN_CANDIDATE
+2,GLP1 Side Effect Diary,ORIGINAL-36,KDP-Complete-Kit/02_GLP1_Side_Effect_Diary,FROZEN_CANDIDATE
+3,GLP1 Plateau Breaker,ORIGINAL-36,KDP-Complete-Kit/03_GLP1_Plateau_Breaker,FROZEN_CANDIDATE
+4,GLP1 Maintenance,ORIGINAL-36,KDP-Complete-Kit/04_GLP1_Maintenance,FROZEN_CANDIDATE
+5,GLP1 Hunger Craving,ORIGINAL-36,KDP-Complete-Kit/05_GLP1_Hunger_Craving,FROZEN_CANDIDATE
+6,GLP1 Fitness,ORIGINAL-36,KDP-Complete-Kit/06_GLP1_Fitness,FROZEN_CANDIDATE
+7,GLP1 Titration Pocket,ORIGINAL-36,KDP-Complete-Kit/07_GLP1_Titration_Pocket,FROZEN_CANDIDATE
+8,GLP1 NSV Gratitude,ORIGINAL-36,KDP-Complete-Kit/08_GLP1_NSV_Gratitude,FROZEN_CANDIDATE
+9,GLP1 Injection Calendar,ORIGINAL-36,KDP-Complete-Kit/09_GLP1_Injection_Calendar,FROZEN_CANDIDATE
+10,Sobriety 90,ORIGINAL-36,KDP-Complete-Kit/10_Sobriety_90,FROZEN_CANDIDATE
+11,IF Window Tracker,ORIGINAL-36,KDP-Complete-Kit/11_IF_Window_Tracker,FROZEN_CANDIDATE
+12,Migraine Weather,ORIGINAL-36,KDP-Complete-Kit/12_Migraine_Weather,FROZEN_CANDIDATE
+13,ADHD Focus Log,ORIGINAL-36,KDP-Complete-Kit/13_ADHD_Focus_Log,FROZEN_CANDIDATE
+14,Perimenopause Chart,ORIGINAL-36,KDP-Complete-Kit/14_Perimenopause_Chart,FROZEN_CANDIDATE
+15,FODMAP Gut Diary,ORIGINAL-36,KDP-Complete-Kit/15_FODMAP_Gut_Diary,FROZEN_CANDIDATE
+16,Digital Detox 30,ORIGINAL-36,KDP-Complete-Kit/16_Digital_Detox_30,FROZEN_CANDIDATE
+17,Postpartum Recovery,ORIGINAL-36,KDP-Complete-Kit/17_Postpartum_Recovery,FROZEN_CANDIDATE
+18,Autoimmune Flare,ORIGINAL-36,KDP-Complete-Kit/18_Autoimmune_Flare,FROZEN_CANDIDATE
+19,GLP1 Protein Grocery,ORIGINAL-36,KDP-Complete-Kit/19_GLP1_Protein_Grocery,FROZEN_CANDIDATE
+20,GLP1 Out and About,ORIGINAL-36,KDP-Complete-Kit/20_GLP1_Out_and_About,FROZEN_CANDIDATE
+21,GLP1 Archive,ORIGINAL-36,KDP-Complete-Kit/21_GLP1_Archive,FROZEN_CANDIDATE
+22,GLP1 Sleep Bowel Water,ORIGINAL-36,KDP-Complete-Kit/22_GLP1_Sleep_Bowel_Water,FROZEN_CANDIDATE
+23,GLP1 Body Image,ORIGINAL-36,KDP-Complete-Kit/23_GLP1_Body_Image,FROZEN_CANDIDATE
+24,GLP1 Weekly Brief,ORIGINAL-36,KDP-Complete-Kit/24_GLP1_Weekly_Brief,FROZEN_CANDIDATE
+25,GLP1 Shot Day Pocket,ORIGINAL-36,KDP-Complete-Kit/25_GLP1_Shot_Day_Pocket,FROZEN_CANDIDATE
+26,GLP1 Protein Kitchen,ORIGINAL-36,KDP-Complete-Kit/26_GLP1_Protein_Kitchen,FROZEN_CANDIDATE
+27,GLP1 Five Minute,ORIGINAL-36,KDP-Complete-Kit/27_GLP1_Five_Minute,FROZEN_CANDIDATE
+28,Anxiety Panic,ORIGINAL-36,KDP-Complete-Kit/28_Anxiety_Panic,FROZEN_CANDIDATE
+29,Sleep Window,ORIGINAL-36,KDP-Complete-Kit/29_Sleep_Window,FROZEN_CANDIDATE
+30,PMDD Cycle,ORIGINAL-36,KDP-Complete-Kit/30_PMDD_Cycle,FROZEN_CANDIDATE
+31,Glucose Meal,ORIGINAL-36,KDP-Complete-Kit/31_Glucose_Meal,FROZEN_CANDIDATE
+32,Chronic Pain,ORIGINAL-36,KDP-Complete-Kit/32_Chronic_Pain,FROZEN_CANDIDATE
+33,Grief Loss,ORIGINAL-36,KDP-Complete-Kit/33_Grief_Loss,FROZEN_CANDIDATE
+34,Habit OS,ORIGINAL-36,KDP-Complete-Kit/34_Habit_OS,FROZEN_CANDIDATE
+35,Burnout Energy,ORIGINAL-36,KDP-Complete-Kit/35_Burnout_Energy,FROZEN_CANDIDATE
+36,Bladder Pelvic,ORIGINAL-36,KDP-Complete-Kit/36_Bladder_Pelvic,FROZEN_CANDIDATE
+37,PCOS Cycle Compass,VOLUME-3,VOLUME-3/KDP-Complete-Kit/37_PCOS_Cycle_Compass,HOLD_CANDIDATE
+38,Endometriosis Pain Radar,VOLUME-3,VOLUME-3/KDP-Complete-Kit/38_Endometriosis_Pain_Radar,HOLD_CANDIDATE
+39,LongCovid Energy Ledger,VOLUME-3,VOLUME-3/KDP-Complete-Kit/39_LongCovid_Energy_Ledger,HOLD_CANDIDATE
+40,SleepApnea NightShift Gauge,VOLUME-3,VOLUME-3/KDP-Complete-Kit/40_SleepApnea_NightShift_Gauge,HOLD_CANDIDATE
+41,T1D Bolt Log,VOLUME-3,VOLUME-3/KDP-Complete-Kit/41_T1D_Bolt_Log,HOLD_CANDIDATE
+42,Neuropathy Nerve Map,VOLUME-3,VOLUME-3/KDP-Complete-Kit/42_Neuropathy_Nerve_Map,HOLD_CANDIDATE
+43,Histamine Bucket Diary,VOLUME-3,VOLUME-3/KDP-Complete-Kit/43_Histamine_Bucket_Diary,HOLD_CANDIDATE
+44,Celiac Contamination Trail,VOLUME-3,VOLUME-3/KDP-Complete-Kit/44_Celiac_Contamination_Trail,HOLD_CANDIDATE
+45,GutBrain Wire,VOLUME-3,VOLUME-3/KDP-Complete-Kit/45_GutBrain_Wire,HOLD_CANDIDATE
+46,Lupus RA Joint Map,VOLUME-3,VOLUME-3/KDP-Complete-Kit/46_Lupus_RA_Joint_Map,HOLD_CANDIDATE
+47,Cardiac BP Wave,VOLUME-3,VOLUME-3/KDP-Complete-Kit/47_Cardiac_BP_Wave,HOLD_CANDIDATE
+48,Stroke Recovery Runway,VOLUME-3,VOLUME-3/KDP-Complete-Kit/48_Stroke_Recovery_Runway,HOLD_CANDIDATE
+49,Oncology Treatment Companion,VOLUME-3,VOLUME-3/KDP-Complete-Kit/49_Oncology_Treatment_Companion,HOLD_CANDIDATE
+50,Caregiver Shift Log,VOLUME-3,VOLUME-3/KDP-Complete-Kit/50_Caregiver_Shift_Log,HOLD_CANDIDATE
+51,Vertigo Position Map,VOLUME-3,VOLUME-3/KDP-Complete-Kit/51_Vertigo_Position_Map,HOLD_CANDIDATE
+52,Tinnitus Sound Ladder,VOLUME-3,VOLUME-3/KDP-Complete-Kit/52_Tinnitus_Sound_Ladder,HOLD_CANDIDATE
+53,POTS Position Ledger,VOLUME-3,VOLUME-3/KDP-Complete-Kit/53_POTS_Position_Ledger,HOLD_CANDIDATE
+54,Hypermobility Joint Guard,VOLUME-3,VOLUME-3/KDP-Complete-Kit/54_Hypermobility_Joint_Guard,HOLD_CANDIDATE
+55,Symptom Detective Kit,VOLUME-3,VOLUME-3/KDP-Complete-Kit/55_Symptom_Detective_Kit,HOLD_CANDIDATE
+56,IBD Flare Timeline,VOLUME-3,VOLUME-3/KDP-Complete-Kit/56_IBD_Flare_Timeline,HOLD_CANDIDATE
+57,Shadow Work Doorways,VOLUME-3,VOLUME-3/KDP-Complete-Kit/57_Shadow_Work_Doorways,HOLD_CANDIDATE
+58,Boundary Script Builder,VOLUME-3,VOLUME-3/KDP-Complete-Kit/58_Boundary_Script_Builder,HOLD_CANDIDATE
+59,Mens Pressure Valve,VOLUME-3,VOLUME-3/KDP-Complete-Kit/59_Mens_Pressure_Valve,HOLD_CANDIDATE
+60,Inner Critic Courtroom,VOLUME-3,VOLUME-3/KDP-Complete-Kit/60_Inner_Critic_Courtroom,HOLD_CANDIDATE
+61,ADHD Money Bandwidth,VOLUME-3,VOLUME-3/KDP-Complete-Kit/61_ADHD_Money_Bandwidth,HOLD_CANDIDATE
+62,One Room Launch,VOLUME-3,VOLUME-3/KDP-Complete-Kit/62_One_Room_Launch,HOLD_CANDIDATE
+63,Connection Compass,VOLUME-3,VOLUME-3/KDP-Complete-Kit/63_Connection_Compass,HOLD_CANDIDATE
+64,Repair Map,VOLUME-3,VOLUME-3/KDP-Complete-Kit/64_Repair_Map,HOLD_CANDIDATE
+65,Yes No Ledger,VOLUME-3,VOLUME-3/KDP-Complete-Kit/65_Yes_No_Ledger,HOLD_CANDIDATE
+66,Reboot Orbit,VOLUME-3,VOLUME-3/KDP-Complete-Kit/66_Reboot_Orbit,HOLD_CANDIDATE
+67,Work Before Feeling,VOLUME-3,VOLUME-3/KDP-Complete-Kit/67_Work_Before_Feeling,HOLD_CANDIDATE
+68,Done Ladder,VOLUME-3,VOLUME-3/KDP-Complete-Kit/68_Done_Ladder,HOLD_CANDIDATE
+69,Decision Diet,VOLUME-3,VOLUME-3/KDP-Complete-Kit/69_Decision_Diet,HOLD_CANDIDATE
+70,Social Battery Gauge,VOLUME-3,VOLUME-3/KDP-Complete-Kit/70_Social_Battery_Gauge,HOLD_CANDIDATE
+71,Time Capsule,VOLUME-3,VOLUME-3/KDP-Complete-Kit/71_Time_Capsule,HOLD_CANDIDATE
+72,Empty Nest Compass,VOLUME-3,VOLUME-3/KDP-Complete-Kit/72_Empty_Nest_Compass,HOLD_CANDIDATE
+73,Adenomyosis Fibroid Ledger,VOLUME-4,VOLUME-4/KDP-Complete-Kit/73_Adenomyosis_Fibroid_Ledger,HOLD_CANDIDATE
+74,Hashimoto Thyroid Energy Map,VOLUME-4,VOLUME-4/KDP-Complete-Kit/74_Hashimoto_Thyroid_Energy_Map,HOLD_CANDIDATE
+75,Insulin Resistance Wave,VOLUME-4,VOLUME-4/KDP-Complete-Kit/75_Insulin_Resistance_Wave,HOLD_CANDIDATE
+76,CKD Clinic Lab Ledger,VOLUME-4,VOLUME-4/KDP-Complete-Kit/76_CKD_Clinic_Lab_Ledger,HOLD_CANDIDATE
+77,Dialysis Session Log,VOLUME-4,VOLUME-4/KDP-Complete-Kit/77_Dialysis_Session_Log,HOLD_CANDIDATE
+78,COPD Breath Scale,VOLUME-4,VOLUME-4/KDP-Complete-Kit/78_COPD_Breath_Scale,HOLD_CANDIDATE
+79,Asthma Wind Trigger Log,VOLUME-4,VOLUME-4/KDP-Complete-Kit/79_Asthma_Wind_Trigger_Log,HOLD_CANDIDATE
+80,Restless Legs Sleep Pressure,VOLUME-4,VOLUME-4/KDP-Complete-Kit/80_Restless_Legs_Sleep_Pressure,HOLD_CANDIDATE
+81,Narcolepsy Sleep Pressure,VOLUME-4,VOLUME-4/KDP-Complete-Kit/81_Narcolepsy_Sleep_Pressure,HOLD_CANDIDATE
+82,Insomnia Restedness Map,VOLUME-4,VOLUME-4/KDP-Complete-Kit/82_Insomnia_Restedness_Map,HOLD_CANDIDATE
+83,AFib Anticoagulation Log,VOLUME-4,VOLUME-4/KDP-Complete-Kit/83_AFib_Anticoagulation_Log,HOLD_CANDIDATE
+84,Cholesterol Journey,VOLUME-4,VOLUME-4/KDP-Complete-Kit/84_Cholesterol_Journey,HOLD_CANDIDATE
+85,PostConcussion Recovery Map,VOLUME-4,VOLUME-4/KDP-Complete-Kit/85_PostConcussion_Recovery_Map,HOLD_CANDIDATE
+86,Fibromyalgia Weather Map,VOLUME-4,VOLUME-4/KDP-Complete-Kit/86_Fibromyalgia_Weather_Map,HOLD_CANDIDATE
+87,Sjogren Dryness Map,VOLUME-4,VOLUME-4/KDP-Complete-Kit/87_Sjogren_Dryness_Map,HOLD_CANDIDATE
+88,Scleroderma Raynaud Log,VOLUME-4,VOLUME-4/KDP-Complete-Kit/88_Scleroderma_Raynaud_Log,HOLD_CANDIDATE
+89,MS Sensory Map,VOLUME-4,VOLUME-4/KDP-Complete-Kit/89_MS_Sensory_Map,HOLD_CANDIDATE
+90,Eczema Psoriasis Flare Map,VOLUME-4,VOLUME-4/KDP-Complete-Kit/90_Eczema_Psoriasis_Flare_Map,HOLD_CANDIDATE
+91,ADHD Task Paralysis Planner,VOLUME-4,VOLUME-4/KDP-Complete-Kit/91_ADHD_Task_Paralysis_Planner,HOLD_CANDIDATE
+92,Autistic Burnout Ledger,VOLUME-4,VOLUME-4/KDP-Complete-Kit/92_Autistic_Burnout_Ledger,HOLD_CANDIDATE
+93,Sensory Overload Emergency Kit,VOLUME-4,VOLUME-4/KDP-Complete-Kit/93_Sensory_Overload_Emergency_Kit,HOLD_CANDIDATE
+94,Rejection Sensitivity Radar,VOLUME-4,VOLUME-4/KDP-Complete-Kit/94_Rejection_Sensitivity_Radar,HOLD_CANDIDATE
+95,Intrusive Thought Compulsion Ledger,VOLUME-4,VOLUME-4/KDP-Complete-Kit/95_Intrusive_Thought_Compulsion_Ledger,HOLD_CANDIDATE
+96,Flashback Grounding Timeline,VOLUME-4,VOLUME-4/KDP-Complete-Kit/96_Flashback_Grounding_Timeline,HOLD_CANDIDATE
+97,Dissociation Grounding Map,VOLUME-4,VOLUME-4/KDP-Complete-Kit/97_Dissociation_Grounding_Map,HOLD_CANDIDATE
+98,Panic Drill Log,VOLUME-4,VOLUME-4/KDP-Complete-Kit/98_Panic_Drill_Log,HOLD_CANDIDATE
+99,Depression Energy Gauge,VOLUME-4,VOLUME-4/KDP-Complete-Kit/99_Depression_Energy_Gauge,HOLD_CANDIDATE
+100,Pet Loss Grief Ledger,VOLUME-4,VOLUME-4/KDP-Complete-Kit/100_Pet_Loss_Grief_Ledger,HOLD_CANDIDATE
+101,Loss After Miscarriage,VOLUME-4,VOLUME-4/KDP-Complete-Kit/101_Loss_After_Miscarriage,HOLD_CANDIDATE
+102,Estrangement Contact Ledger,VOLUME-4,VOLUME-4/KDP-Complete-Kit/102_Estrangement_Contact_Ledger,HOLD_CANDIDATE
+103,Divorce Rebuilding Map,VOLUME-4,VOLUME-4/KDP-Complete-Kit/103_Divorce_Rebuilding_Map,HOLD_CANDIDATE
+104,Sandwich Generation Bandwidth,VOLUME-4,VOLUME-4/KDP-Complete-Kit/104_Sandwich_Generation_Bandwidth,HOLD_CANDIDATE
+105,ADHD Meds Appointments,VOLUME-4,VOLUME-4/KDP-Complete-Kit/105_ADHD_Meds_Appointments,HOLD_CANDIDATE
+106,Neurodivergent Routine Map,VOLUME-4,VOLUME-4/KDP-Complete-Kit/106_Neurodivergent_Routine_Map,HOLD_CANDIDATE
+107,Aging Strong Journey,VOLUME-4,VOLUME-4/KDP-Complete-Kit/107_Aging_Strong_Journey,HOLD_CANDIDATE
+108,Care Partner Long Goodbye,VOLUME-4,VOLUME-4/KDP-Complete-Kit/108_Care_Partner_Long_Goodbye,HOLD_CANDIDATE
+109,Caregiver Handoff Notebook,VOLUME-5,VOLUME-5/KDP-Complete-Kit/109_Caregiver_Handoff_Notebook,HOLD_CANDIDATE
+110,Family Medical Records Index,VOLUME-5,VOLUME-5/KDP-Complete-Kit/110_Family_Medical_Records_Index,HOLD_CANDIDATE
+111,Dementia Visit Memory Book,VOLUME-5,VOLUME-5/KDP-Complete-Kit/111_Dementia_Visit_Memory_Book,HOLD_CANDIDATE
+112,Meal Train Coordination Ledger,VOLUME-5,VOLUME-5/KDP-Complete-Kit/112_Meal_Train_Coordination_Ledger,HOLD_CANDIDATE
+113,Job Search Pipeline Board,VOLUME-5,VOLUME-5/KDP-Complete-Kit/113_Job_Search_Pipeline_Board,HOLD_CANDIDATE
+114,Interview Story Bank,VOLUME-5,VOLUME-5/KDP-Complete-Kit/114_Interview_Story_Bank,HOLD_CANDIDATE
+115,Remote Work Boundary Log,VOLUME-5,VOLUME-5/KDP-Complete-Kit/115_Remote_Work_Boundary_Log,HOLD_CANDIDATE
+116,Meeting Decision Register,VOLUME-5,VOLUME-5/KDP-Complete-Kit/116_Meeting_Decision_Register,HOLD_CANDIDATE
+117,Freelancer Scope Ledger,VOLUME-5,VOLUME-5/KDP-Complete-Kit/117_Freelancer_Scope_Ledger,HOLD_CANDIDATE
+118,Household Repair Evidence Log,VOLUME-5,VOLUME-5/KDP-Complete-Kit/118_Household_Repair_Evidence_Log,HOLD_CANDIDATE
+119,Apartment Move-In Inspector,VOLUME-5,VOLUME-5/KDP-Complete-Kit/119_Apartment_Move-In_Inspector,HOLD_CANDIDATE
+120,Storm Readiness Checklist Journal,VOLUME-5,VOLUME-5/KDP-Complete-Kit/120_Storm_Readiness_Checklist_Journal,HOLD_CANDIDATE
+121,Home Energy Observation Log,VOLUME-5,VOLUME-5/KDP-Complete-Kit/121_Home_Energy_Observation_Log,HOLD_CANDIDATE
+122,Pantry Rotation Planner,VOLUME-5,VOLUME-5/KDP-Complete-Kit/122_Pantry_Rotation_Planner,HOLD_CANDIDATE
+123,Food Allergy Restaurant Log,VOLUME-5,VOLUME-5/KDP-Complete-Kit/123_Food_Allergy_Restaurant_Log,HOLD_CANDIDATE
+124,Migraine Context Journal,VOLUME-5,VOLUME-5/KDP-Complete-Kit/124_Migraine_Context_Journal,HOLD_CANDIDATE
+125,Long COVID Energy Budget,VOLUME-5,VOLUME-5/KDP-Complete-Kit/125_Long_COVID_Energy_Budget,HOLD_CANDIDATE
+126,Sleep Environment Experiment Log,VOLUME-5,VOLUME-5/KDP-Complete-Kit/126_Sleep_Environment_Experiment_Log,HOLD_CANDIDATE
+127,Menopause Appointment Brief,VOLUME-5,VOLUME-5/KDP-Complete-Kit/127_Menopause_Appointment_Brief,HOLD_CANDIDATE
+128,Pelvic Floor Care Log,VOLUME-5,VOLUME-5/KDP-Complete-Kit/128_Pelvic_Floor_Care_Log,HOLD_CANDIDATE
+129,Physical Therapy Home Log,VOLUME-5,VOLUME-5/KDP-Complete-Kit/129_Physical_Therapy_Home_Log,HOLD_CANDIDATE
+130,Medication Reconciliation Notebook,VOLUME-5,VOLUME-5/KDP-Complete-Kit/130_Medication_Reconciliation_Notebook,HOLD_CANDIDATE
+131,Lab Result Copy Ledger,VOLUME-5,VOLUME-5/KDP-Complete-Kit/131_Lab_Result_Copy_Ledger,HOLD_CANDIDATE
+132,Hearing Appointment Tracker,VOLUME-5,VOLUME-5/KDP-Complete-Kit/132_Hearing_Appointment_Tracker,HOLD_CANDIDATE
+133,Vision Change Observation Log,VOLUME-5,VOLUME-5/KDP-Complete-Kit/133_Vision_Change_Observation_Log,HOLD_CANDIDATE
+134,Dental Treatment Questions Book,VOLUME-5,VOLUME-5/KDP-Complete-Kit/134_Dental_Treatment_Questions_Book,HOLD_CANDIDATE
+135,Difficult Conversation Planner,VOLUME-5,VOLUME-5/KDP-Complete-Kit/135_Difficult_Conversation_Planner,HOLD_CANDIDATE
+136,Grief Memory Archive,VOLUME-5,VOLUME-5/KDP-Complete-Kit/136_Grief_Memory_Archive,HOLD_CANDIDATE
+137,Sensory-Friendly Day Planner,VOLUME-5,VOLUME-5/KDP-Complete-Kit/137_Sensory-Friendly_Day_Planner,HOLD_CANDIDATE
+138,ADHD Task Friction Journal,VOLUME-5,VOLUME-5/KDP-Complete-Kit/138_ADHD_Task_Friction_Journal,HOLD_CANDIDATE
+139,Digital Declutter Fieldbook,VOLUME-5,VOLUME-5/KDP-Complete-Kit/139_Digital_Declutter_Fieldbook,HOLD_CANDIDATE
+140,Subscription Cost Audit,VOLUME-5,VOLUME-5/KDP-Complete-Kit/140_Subscription_Cost_Audit,HOLD_CANDIDATE
+141,Volunteer Project Handoff,VOLUME-5,VOLUME-5/KDP-Complete-Kit/141_Volunteer_Project_Handoff,HOLD_CANDIDATE
+142,Personal Safety Check-In Log,VOLUME-5,VOLUME-5/KDP-Complete-Kit/142_Personal_Safety_Check-In_Log,HOLD_CANDIDATE
+143,Travel Accessibility Planner,VOLUME-5,VOLUME-5/KDP-Complete-Kit/143_Travel_Accessibility_Planner,HOLD_CANDIDATE
+144,Creative Practice Momentum Log,VOLUME-5,VOLUME-5/KDP-Complete-Kit/144_Creative_Practice_Momentum_Log,HOLD_CANDIDATE
+145,Care Plan Handoff Grid,VOLUME-6,VOLUME-6/KDP-Complete-Kit/145_Care_Plan_Handoff_Grid,HOLD_CANDIDATE
+146,Caregiver Appointment Brief,VOLUME-6,VOLUME-6/KDP-Complete-Kit/146_Caregiver_Appointment_Brief,HOLD_CANDIDATE
+147,Family Care Cost Ledger,VOLUME-6,VOLUME-6/KDP-Complete-Kit/147_Family_Care_Cost_Ledger,HOLD_CANDIDATE
+148,Hospital Discharge Questions,VOLUME-6,VOLUME-6/KDP-Complete-Kit/148_Hospital_Discharge_Questions,HOLD_CANDIDATE
+149,Specialist Referral Tracker,VOLUME-6,VOLUME-6/KDP-Complete-Kit/149_Specialist_Referral_Tracker,HOLD_CANDIDATE
+150,Health Insurance Call Log,VOLUME-6,VOLUME-6/KDP-Complete-Kit/150_Health_Insurance_Call_Log,HOLD_CANDIDATE
+151,Work Accommodation Request Log,VOLUME-6,VOLUME-6/KDP-Complete-Kit/151_Work_Accommodation_Request_Log,HOLD_CANDIDATE
+152,Return-to-Work Transition Planner,VOLUME-6,VOLUME-6/KDP-Complete-Kit/152_Return-to-Work_Transition_Planner,HOLD_CANDIDATE
+153,Layoff Recovery Pipeline,VOLUME-6,VOLUME-6/KDP-Complete-Kit/153_Layoff_Recovery_Pipeline,HOLD_CANDIDATE
+154,Small Business Cashflow Notebook,VOLUME-6,VOLUME-6/KDP-Complete-Kit/154_Small_Business_Cashflow_Notebook,HOLD_CANDIDATE
+155,Client Onboarding Fieldbook,VOLUME-6,VOLUME-6/KDP-Complete-Kit/155_Client_Onboarding_Fieldbook,HOLD_CANDIDATE
+156,Project Risk Register,VOLUME-6,VOLUME-6/KDP-Complete-Kit/156_Project_Risk_Register,HOLD_CANDIDATE
+157,Tenant Repair Escalation Log,VOLUME-6,VOLUME-6/KDP-Complete-Kit/157_Tenant_Repair_Escalation_Log,HOLD_CANDIDATE
+158,Home Inventory Recovery Book,VOLUME-6,VOLUME-6/KDP-Complete-Kit/158_Home_Inventory_Recovery_Book,HOLD_CANDIDATE
+159,Flood Cleanup Record,VOLUME-6,VOLUME-6/KDP-Complete-Kit/159_Flood_Cleanup_Record,HOLD_CANDIDATE
+160,Power Outage Continuity Log,VOLUME-6,VOLUME-6/KDP-Complete-Kit/160_Power_Outage_Continuity_Log,HOLD_CANDIDATE
+161,Accessible Event Planner,VOLUME-6,VOLUME-6/KDP-Complete-Kit/161_Accessible_Event_Planner,HOLD_CANDIDATE
+162,Careful Travel Transit Log,VOLUME-6,VOLUME-6/KDP-Complete-Kit/162_Careful_Travel_Transit_Log,HOLD_CANDIDATE
+163,Medication List Reconciliation,VOLUME-6,VOLUME-6/KDP-Complete-Kit/163_Medication_List_Reconciliation,HOLD_CANDIDATE
+164,Chronic Care Visit Summary,VOLUME-6,VOLUME-6/KDP-Complete-Kit/164_Chronic_Care_Visit_Summary,HOLD_CANDIDATE
+165,Symptom Context Timeline,VOLUME-6,VOLUME-6/KDP-Complete-Kit/165_Symptom_Context_Timeline,HOLD_CANDIDATE
+166,Sleep Routine Observation Book,VOLUME-6,VOLUME-6/KDP-Complete-Kit/166_Sleep_Routine_Observation_Book,HOLD_CANDIDATE
+167,Food Response Context Log,VOLUME-6,VOLUME-6/KDP-Complete-Kit/167_Food_Response_Context_Log,HOLD_CANDIDATE
+168,Pain Conversation Notebook,VOLUME-6,VOLUME-6/KDP-Complete-Kit/168_Pain_Conversation_Notebook,HOLD_CANDIDATE
+169,Therapy Session Reflection Log,VOLUME-6,VOLUME-6/KDP-Complete-Kit/169_Therapy_Session_Reflection_Log,HOLD_CANDIDATE
+170,Support Network Check-In Book,VOLUME-6,VOLUME-6/KDP-Complete-Kit/170_Support_Network_Check-In_Book,HOLD_CANDIDATE
+171,Grief Date Memory Journal,VOLUME-6,VOLUME-6/KDP-Complete-Kit/171_Grief_Date_Memory_Journal,HOLD_CANDIDATE
+172,Sensory Load Field Notes,VOLUME-6,VOLUME-6/KDP-Complete-Kit/172_Sensory_Load_Field_Notes,HOLD_CANDIDATE
+173,Focus Environment Experiment,VOLUME-6,VOLUME-6/KDP-Complete-Kit/173_Focus_Environment_Experiment,HOLD_CANDIDATE
+174,Task Start Research Log,VOLUME-6,VOLUME-6/KDP-Complete-Kit/174_Task_Start_Research_Log,HOLD_CANDIDATE
+175,Household Decision Register,VOLUME-6,VOLUME-6/KDP-Complete-Kit/175_Household_Decision_Register,HOLD_CANDIDATE
+176,Digital Account Map,VOLUME-6,VOLUME-6/KDP-Complete-Kit/176_Digital_Account_Map,HOLD_CANDIDATE
+177,Document Renewal Tracker,VOLUME-6,VOLUME-6/KDP-Complete-Kit/177_Document_Renewal_Tracker,HOLD_CANDIDATE
+178,Personal Data Request Log,VOLUME-6,VOLUME-6/KDP-Complete-Kit/178_Personal_Data_Request_Log,HOLD_CANDIDATE
+179,Volunteer Shift Handoff,VOLUME-6,VOLUME-6/KDP-Complete-Kit/179_Volunteer_Shift_Handoff,HOLD_CANDIDATE
+180,Community Project Ledger,VOLUME-6,VOLUME-6/KDP-Complete-Kit/180_Community_Project_Ledger,HOLD_CANDIDATE
+181,Neighborhood Mutual Aid Ledger,VOLUME-7,VOLUME-7/KDP-Complete-Kit/181_Neighborhood_Mutual_Aid_Ledger,HOLD_CANDIDATE
+182,School Support Meeting Brief,VOLUME-7,VOLUME-7/KDP-Complete-Kit/182_School_Support_Meeting_Brief,HOLD_CANDIDATE
+183,Special Education Document Index,VOLUME-7,VOLUME-7/KDP-Complete-Kit/183_Special_Education_Document_Index,HOLD_CANDIDATE
+184,Youth Activity Safety Log,VOLUME-7,VOLUME-7/KDP-Complete-Kit/184_Youth_Activity_Safety_Log,HOLD_CANDIDATE
+185,Elder Housing Options Notebook,VOLUME-7,VOLUME-7/KDP-Complete-Kit/185_Elder_Housing_Options_Notebook,HOLD_CANDIDATE
+186,Care Transition Contact Book,VOLUME-7,VOLUME-7/KDP-Complete-Kit/186_Care_Transition_Contact_Book,HOLD_CANDIDATE
+187,Family Emergency Information File,VOLUME-7,VOLUME-7/KDP-Complete-Kit/187_Family_Emergency_Information_File,HOLD_CANDIDATE
+188,Estate Task Coordination Ledger,VOLUME-7,VOLUME-7/KDP-Complete-Kit/188_Estate_Task_Coordination_Ledger,HOLD_CANDIDATE
+189,Probate Document Tracker,VOLUME-7,VOLUME-7/KDP-Complete-Kit/189_Probate_Document_Tracker,HOLD_CANDIDATE
+190,Tax Document Collection Log,VOLUME-7,VOLUME-7/KDP-Complete-Kit/190_Tax_Document_Collection_Log,HOLD_CANDIDATE
+191,Debt Negotiation Call Record,VOLUME-7,VOLUME-7/KDP-Complete-Kit/191_Debt_Negotiation_Call_Record,HOLD_CANDIDATE
+192,Household Bill Calendar,VOLUME-7,VOLUME-7/KDP-Complete-Kit/192_Household_Bill_Calendar,HOLD_CANDIDATE
+193,First Apartment Setup Planner,VOLUME-7,VOLUME-7/KDP-Complete-Kit/193_First_Apartment_Setup_Planner,HOLD_CANDIDATE
+194,Home Accessibility Survey,VOLUME-7,VOLUME-7/KDP-Complete-Kit/194_Home_Accessibility_Survey,HOLD_CANDIDATE
+195,Vehicle Maintenance Evidence Log,VOLUME-7,VOLUME-7/KDP-Complete-Kit/195_Vehicle_Maintenance_Evidence_Log,HOLD_CANDIDATE
+196,Pet Care Handoff Book,VOLUME-7,VOLUME-7/KDP-Complete-Kit/196_Pet_Care_Handoff_Book,HOLD_CANDIDATE
+197,Garden Season Field Journal,VOLUME-7,VOLUME-7/KDP-Complete-Kit/197_Garden_Season_Field_Journal,HOLD_CANDIDATE
+198,Community Garden Coordinator,VOLUME-7,VOLUME-7/KDP-Complete-Kit/198_Community_Garden_Coordinator,HOLD_CANDIDATE
+199,Repair Vendor Comparison Ledger,VOLUME-7,VOLUME-7/KDP-Complete-Kit/199_Repair_Vendor_Comparison_Ledger,HOLD_CANDIDATE
+200,Storm Claim Evidence Notebook,VOLUME-7,VOLUME-7/KDP-Complete-Kit/200_Storm_Claim_Evidence_Notebook,HOLD_CANDIDATE
+201,Emergency Contact Update Log,VOLUME-7,VOLUME-7/KDP-Complete-Kit/201_Emergency_Contact_Update_Log,HOLD_CANDIDATE
+202,Travel Document Checklist,VOLUME-7,VOLUME-7/KDP-Complete-Kit/202_Travel_Document_Checklist,HOLD_CANDIDATE
+203,Accessible Lodging Call Log,VOLUME-7,VOLUME-7/KDP-Complete-Kit/203_Accessible_Lodging_Call_Log,HOLD_CANDIDATE
+204,Conference Networking Follow-Up,VOLUME-7,VOLUME-7/KDP-Complete-Kit/204_Conference_Networking_Follow-Up,HOLD_CANDIDATE
+205,Portfolio Revision Tracker,VOLUME-7,VOLUME-7/KDP-Complete-Kit/205_Portfolio_Revision_Tracker,HOLD_CANDIDATE
+206,Certification Study Evidence Log,VOLUME-7,VOLUME-7/KDP-Complete-Kit/206_Certification_Study_Evidence_Log,HOLD_CANDIDATE
+207,Apprenticeship Application Ledger,VOLUME-7,VOLUME-7/KDP-Complete-Kit/207_Apprenticeship_Application_Ledger,HOLD_CANDIDATE
+208,Shift Worker Sleep Record,VOLUME-7,VOLUME-7/KDP-Complete-Kit/208_Shift_Worker_Sleep_Record,HOLD_CANDIDATE
+209,Care Worker Boundary Notebook,VOLUME-7,VOLUME-7/KDP-Complete-Kit/209_Care_Worker_Boundary_Notebook,HOLD_CANDIDATE
+210,Burnout Workload Evidence Log,VOLUME-7,VOLUME-7/KDP-Complete-Kit/210_Burnout_Workload_Evidence_Log,HOLD_CANDIDATE
+211,Union Meeting Notes Register,VOLUME-7,VOLUME-7/KDP-Complete-Kit/211_Union_Meeting_Notes_Register,HOLD_CANDIDATE
+212,Board Meeting Decision Book,VOLUME-7,VOLUME-7/KDP-Complete-Kit/212_Board_Meeting_Decision_Book,HOLD_CANDIDATE
+213,Nonprofit Grant Calendar,VOLUME-7,VOLUME-7/KDP-Complete-Kit/213_Nonprofit_Grant_Calendar,HOLD_CANDIDATE
+214,Donation Inventory Ledger,VOLUME-7,VOLUME-7/KDP-Complete-Kit/214_Donation_Inventory_Ledger,HOLD_CANDIDATE
+215,Creative Collaboration Handoff,VOLUME-7,VOLUME-7/KDP-Complete-Kit/215_Creative_Collaboration_Handoff,HOLD_CANDIDATE
+216,Performance Rehearsal Log,VOLUME-7,VOLUME-7/KDP-Complete-Kit/216_Performance_Rehearsal_Log,HOLD_CANDIDATE
+217,Community Event Runbook,VOLUME-8,VOLUME-8/KDP-Complete-Kit/217_Community_Event_Runbook,HOLD_CANDIDATE
+218,Neighborhood Contact Directory,VOLUME-8,VOLUME-8/KDP-Complete-Kit/218_Neighborhood_Contact_Directory,HOLD_CANDIDATE
+219,Library Research Trail,VOLUME-8,VOLUME-8/KDP-Complete-Kit/219_Library_Research_Trail,HOLD_CANDIDATE
+220,Local History Interview Book,VOLUME-8,VOLUME-8/KDP-Complete-Kit/220_Local_History_Interview_Book,HOLD_CANDIDATE
+221,Home School Activity Log,VOLUME-8,VOLUME-8/KDP-Complete-Kit/221_Home_School_Activity_Log,HOLD_CANDIDATE
+222,College Application Tracker,VOLUME-8,VOLUME-8/KDP-Complete-Kit/222_College_Application_Tracker,HOLD_CANDIDATE
+223,Scholarship Evidence Ledger,VOLUME-8,VOLUME-8/KDP-Complete-Kit/223_Scholarship_Evidence_Ledger,HOLD_CANDIDATE
+224,Internship Follow-Up Register,VOLUME-8,VOLUME-8/KDP-Complete-Kit/224_Internship_Follow-Up_Register,HOLD_CANDIDATE
+225,Professional Development Log,VOLUME-8,VOLUME-8/KDP-Complete-Kit/225_Professional_Development_Log,HOLD_CANDIDATE
+226,Team Onboarding Notebook,VOLUME-8,VOLUME-8/KDP-Complete-Kit/226_Team_Onboarding_Notebook,HOLD_CANDIDATE
+227,Manager One-on-One Register,VOLUME-8,VOLUME-8/KDP-Complete-Kit/227_Manager_One-on-One_Register,HOLD_CANDIDATE
+228,Workload Negotiation Log,VOLUME-8,VOLUME-8/KDP-Complete-Kit/228_Workload_Negotiation_Log,HOLD_CANDIDATE
+229,Contractor Project Handoff,VOLUME-8,VOLUME-8/KDP-Complete-Kit/229_Contractor_Project_Handoff,HOLD_CANDIDATE
+230,Renovation Budget Evidence Book,VOLUME-8,VOLUME-8/KDP-Complete-Kit/230_Renovation_Budget_Evidence_Book,HOLD_CANDIDATE
+231,Appliance Warranty Tracker,VOLUME-8,VOLUME-8/KDP-Complete-Kit/231_Appliance_Warranty_Tracker,HOLD_CANDIDATE
+232,Vehicle Trip Maintenance Log,VOLUME-8,VOLUME-8/KDP-Complete-Kit/232_Vehicle_Trip_Maintenance_Log,HOLD_CANDIDATE
+233,Pet Medication Question Log,VOLUME-8,VOLUME-8/KDP-Complete-Kit/233_Pet_Medication_Question_Log,HOLD_CANDIDATE
+234,Pet Adoption Transition Book,VOLUME-8,VOLUME-8/KDP-Complete-Kit/234_Pet_Adoption_Transition_Book,HOLD_CANDIDATE
+235,Plant Care Observation Journal,VOLUME-8,VOLUME-8/KDP-Complete-Kit/235_Plant_Care_Observation_Journal,HOLD_CANDIDATE
+236,Seasonal Home Reset Ledger,VOLUME-8,VOLUME-8/KDP-Complete-Kit/236_Seasonal_Home_Reset_Ledger,HOLD_CANDIDATE
+237,Emergency Supply Rotation Log,VOLUME-8,VOLUME-8/KDP-Complete-Kit/237_Emergency_Supply_Rotation_Log,HOLD_CANDIDATE
+238,Document Backup Checklist,VOLUME-8,VOLUME-8/KDP-Complete-Kit/238_Document_Backup_Checklist,HOLD_CANDIDATE
+239,Password Manager Migration Log,VOLUME-8,VOLUME-8/KDP-Complete-Kit/239_Password_Manager_Migration_Log,HOLD_CANDIDATE
+240,Privacy Preference Register,VOLUME-8,VOLUME-8/KDP-Complete-Kit/240_Privacy_Preference_Register,HOLD_CANDIDATE
+241,Subscription Cancellation Record,VOLUME-8,VOLUME-8/KDP-Complete-Kit/241_Subscription_Cancellation_Record,HOLD_CANDIDATE
+242,Household Purchase Decision Book,VOLUME-8,VOLUME-8/KDP-Complete-Kit/242_Household_Purchase_Decision_Book,HOLD_CANDIDATE
+243,Accessible Restaurant Call Log,VOLUME-8,VOLUME-8/KDP-Complete-Kit/243_Accessible_Restaurant_Call_Log,HOLD_CANDIDATE
+244,Medical Interpreter Appointment Log,VOLUME-8,VOLUME-8/KDP-Complete-Kit/244_Medical_Interpreter_Appointment_Log,HOLD_CANDIDATE
+245,Caregiver Respite Planning Book,VOLUME-8,VOLUME-8/KDP-Complete-Kit/245_Caregiver_Respite_Planning_Book,HOLD_CANDIDATE
+246,Support Group Meeting Notes,VOLUME-8,VOLUME-8/KDP-Complete-Kit/246_Support_Group_Meeting_Notes,HOLD_CANDIDATE
+247,Personal Values Decision Journal,VOLUME-8,VOLUME-8/KDP-Complete-Kit/247_Personal_Values_Decision_Journal,HOLD_CANDIDATE
+248,Difficult Email Draft Book,VOLUME-8,VOLUME-8/KDP-Complete-Kit/248_Difficult_Email_Draft_Book,HOLD_CANDIDATE
+249,Boundary Conversation Record,VOLUME-8,VOLUME-8/KDP-Complete-Kit/249_Boundary_Conversation_Record,HOLD_CANDIDATE
+250,Creative Project Archive,VOLUME-8,VOLUME-8/KDP-Complete-Kit/250_Creative_Project_Archive,HOLD_CANDIDATE
+251,Maker Workshop Log,VOLUME-8,VOLUME-8/KDP-Complete-Kit/251_Maker_Workshop_Log,HOLD_CANDIDATE
+252,Reading Project Notebook,VOLUME-8,VOLUME-8/KDP-Complete-Kit/252_Reading_Project_Notebook,HOLD_CANDIDATE
+253,Accessible Workplace Setup Log,VOLUME-9,VOLUME-9/KDP-Complete-Kit/253_Accessible_Workplace_Setup_Log,HOLD_CANDIDATE
+254,Care Team Question Cards,VOLUME-9,VOLUME-9/KDP-Complete-Kit/254_Care_Team_Question_Cards,HOLD_CANDIDATE
+255,Appointment Transportation Log,VOLUME-9,VOLUME-9/KDP-Complete-Kit/255_Appointment_Transportation_Log,HOLD_CANDIDATE
+256,Home Care Supply Ledger,VOLUME-9,VOLUME-9/KDP-Complete-Kit/256_Home_Care_Supply_Ledger,HOLD_CANDIDATE
+257,Family Calendar Handoff,VOLUME-9,VOLUME-9/KDP-Complete-Kit/257_Family_Calendar_Handoff,HOLD_CANDIDATE
+258,Shared Household Task Board,VOLUME-9,VOLUME-9/KDP-Complete-Kit/258_Shared_Household_Task_Board,HOLD_CANDIDATE
+259,New Parent Support Handoff,VOLUME-9,VOLUME-9/KDP-Complete-Kit/259_New_Parent_Support_Handoff,HOLD_CANDIDATE
+260,School Pickup Authorization Log,VOLUME-9,VOLUME-9/KDP-Complete-Kit/260_School_Pickup_Authorization_Log,HOLD_CANDIDATE
+261,Child Activity Equipment Log,VOLUME-9,VOLUME-9/KDP-Complete-Kit/261_Child_Activity_Equipment_Log,HOLD_CANDIDATE
+262,Caregiver Meal Planning Book,VOLUME-9,VOLUME-9/KDP-Complete-Kit/262_Caregiver_Meal_Planning_Book,HOLD_CANDIDATE
+263,Community Resource Call Log,VOLUME-9,VOLUME-9/KDP-Complete-Kit/263_Community_Resource_Call_Log,HOLD_CANDIDATE
+264,Benefits Application Tracker,VOLUME-9,VOLUME-9/KDP-Complete-Kit/264_Benefits_Application_Tracker,HOLD_CANDIDATE
+265,Housing Search Evidence Book,VOLUME-9,VOLUME-9/KDP-Complete-Kit/265_Housing_Search_Evidence_Book,HOLD_CANDIDATE
+266,Lease Renewal Decision Log,VOLUME-9,VOLUME-9/KDP-Complete-Kit/266_Lease_Renewal_Decision_Log,HOLD_CANDIDATE
+267,Moving Day Command Book,VOLUME-9,VOLUME-9/KDP-Complete-Kit/267_Moving_Day_Command_Book,HOLD_CANDIDATE
+268,Household Utility Transfer Log,VOLUME-9,VOLUME-9/KDP-Complete-Kit/268_Household_Utility_Transfer_Log,HOLD_CANDIDATE
+269,Insurance Claim Timeline,VOLUME-9,VOLUME-9/KDP-Complete-Kit/269_Insurance_Claim_Timeline,HOLD_CANDIDATE
+270,Personal Property Photo Index,VOLUME-9,VOLUME-9/KDP-Complete-Kit/270_Personal_Property_Photo_Index,HOLD_CANDIDATE
+271,Storm Repair Contractor Log,VOLUME-9,VOLUME-9/KDP-Complete-Kit/271_Storm_Repair_Contractor_Log,HOLD_CANDIDATE
+272,Seasonal Vehicle Readiness Book,VOLUME-9,VOLUME-9/KDP-Complete-Kit/272_Seasonal_Vehicle_Readiness_Book,HOLD_CANDIDATE
+273,Workplace Incident Fact Log,VOLUME-9,VOLUME-9/KDP-Complete-Kit/273_Workplace_Incident_Fact_Log,HOLD_CANDIDATE
+274,HR Conversation Preparation Book,VOLUME-9,VOLUME-9/KDP-Complete-Kit/274_HR_Conversation_Preparation_Book,HOLD_CANDIDATE
+275,Career Change Research Ledger,VOLUME-9,VOLUME-9/KDP-Complete-Kit/275_Career_Change_Research_Ledger,HOLD_CANDIDATE
+276,Freelance Invoice Follow-Up Log,VOLUME-9,VOLUME-9/KDP-Complete-Kit/276_Freelance_Invoice_Follow-Up_Log,HOLD_CANDIDATE
+277,Small Team Process Notebook,VOLUME-9,VOLUME-9/KDP-Complete-Kit/277_Small_Team_Process_Notebook,HOLD_CANDIDATE
+278,Meeting Facilitation Fieldbook,VOLUME-9,VOLUME-9/KDP-Complete-Kit/278_Meeting_Facilitation_Fieldbook,HOLD_CANDIDATE
+279,Volunteer Training Register,VOLUME-9,VOLUME-9/KDP-Complete-Kit/279_Volunteer_Training_Register,HOLD_CANDIDATE
+280,Fundraising Outreach Tracker,VOLUME-9,VOLUME-9/KDP-Complete-Kit/280_Fundraising_Outreach_Tracker,HOLD_CANDIDATE
+281,Creative Submission Calendar,VOLUME-9,VOLUME-9/KDP-Complete-Kit/281_Creative_Submission_Calendar,HOLD_CANDIDATE
+282,Artist Materials Inventory,VOLUME-9,VOLUME-9/KDP-Complete-Kit/282_Artist_Materials_Inventory,HOLD_CANDIDATE
+283,Performance Venue Research Book,VOLUME-9,VOLUME-9/KDP-Complete-Kit/283_Performance_Venue_Research_Book,HOLD_CANDIDATE
+284,Travel Medication Packing Record,VOLUME-9,VOLUME-9/KDP-Complete-Kit/284_Travel_Medication_Packing_Record,HOLD_CANDIDATE
+285,Accessibility Accommodation Request Log,VOLUME-9,VOLUME-9/KDP-Complete-Kit/285_Accessibility_Accommodation_Request_Log,HOLD_CANDIDATE
+286,Language Access Planning Book,VOLUME-9,VOLUME-9/KDP-Complete-Kit/286_Language_Access_Planning_Book,HOLD_CANDIDATE
+287,Personal Archive Finding Aid,VOLUME-9,VOLUME-9/KDP-Complete-Kit/287_Personal_Archive_Finding_Aid,HOLD_CANDIDATE
+288,Life Admin Weekly Review,VOLUME-9,VOLUME-9/KDP-Complete-Kit/288_Life_Admin_Weekly_Review,HOLD_CANDIDATE

@@ -1,0 +1,14 @@
+{
+  "products": 288,
+  "number_range": [
+    1,
+    288
+  ],
+  "unique_titles": 288,
+  "collections": {
+    "original": 36,
+    "volumes_3_to_9": 252
+  },
+  "status": "HOLD_CANDIDATE",
+  "remote_branch": "arena/01a054fa-journals"
+}
