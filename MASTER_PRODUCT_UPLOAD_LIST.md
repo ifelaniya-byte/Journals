@@ -18,8 +18,9 @@ This is the single upload queue for the easiest one-time listing pass across the
 - `MASTER_PRODUCT_UPLOAD_LIST.csv`
 
 ## Summary
-- Completed catalog: 72
+- Completed catalog: 54
+- Started / staged products: 18
+- Total active product queue: 72
 - Wave 1: 6
 - Wave 2: 9
 - Vault: 3
-- Total: 90
